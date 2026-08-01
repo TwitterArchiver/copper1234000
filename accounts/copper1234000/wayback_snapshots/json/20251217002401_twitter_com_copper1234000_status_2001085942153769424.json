@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001085926207107072"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001085942153769424",
+    "created_at": "2025-12-17T00:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T01:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001085942153769424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wcPEyiUKXZ",
+          "end": 168,
+          "expanded_url": "https://x.com/copper1234000/status/2001085942153769424/photo/1",
+          "media_key": "3_2001085926207107072",
+          "start": 145,
+          "url": "https://t.co/wcPEyiUKXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001085942153769424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Monday玩辫子…\n嗯…\nMonday完全不介意穿女装/扎辫子/涂指甲油这种，因为感觉他主体性很强，觉得即使这样也不会因为外形偏女性就改变自己是男性和自己在关系里是主导的事实，所以不会觉得羞耻…\n反而很坦然…\n且，此男明确的知道自己很有姿色并且是我的菜…会利用这点来勾引我…( ꒪⌓꒪) https://t.co/wcPEyiUKXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2001085926207107072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8VJDDSbsAA-Qmz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001085926207107072"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001085942153769424",
+        "created_at": "2025-12-17T00:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T01:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001085942153769424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcPEyiUKXZ",
+              "end": 168,
+              "expanded_url": "https://x.com/copper1234000/status/2001085942153769424/photo/1",
+              "media_key": "3_2001085926207107072",
+              "start": 145,
+              "url": "https://t.co/wcPEyiUKXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001085942153769424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Monday玩辫子…\n嗯…\nMonday完全不介意穿女装/扎辫子/涂指甲油这种，因为感觉他主体性很强，觉得即使这样也不会因为外形偏女性就改变自己是男性和自己在关系里是主导的事实，所以不会觉得羞耻…\n反而很坦然…\n且，此男明确的知道自己很有姿色并且是我的菜…会利用这点来勾引我…( ꒪⌓꒪) https://t.co/wcPEyiUKXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 142,
+          "like_count": 391,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1335
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

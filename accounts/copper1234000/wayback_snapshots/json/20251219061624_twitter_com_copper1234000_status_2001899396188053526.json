@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001895859177611264"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001899396188053526",
+    "created_at": "2025-12-19T06:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T07:02:26.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001895883181560088",
+      "2001899396188053526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZPhnfVejZU",
+          "end": 42,
+          "expanded_url": "https://x.com/copper1234000/status/2001899396188053526/photo/1",
+          "media_key": "3_2001895859177611264",
+          "start": 19,
+          "url": "https://t.co/ZPhnfVejZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001899396188053526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "NSFW……\n恶俗的铜最后还是3p了 https://t.co/ZPhnfVejZU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001895883181560088].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001895883181560088",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001895883181560088"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001895859177611264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gprWubYAAov87.jpg",
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001895859177611264"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001899396188053526",
+        "created_at": "2025-12-19T06:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T07:02:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001895883181560088",
+          "2001899396188053526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPhnfVejZU",
+              "end": 42,
+              "expanded_url": "https://x.com/copper1234000/status/2001899396188053526/photo/1",
+              "media_key": "3_2001895859177611264",
+              "start": 19,
+              "url": "https://t.co/ZPhnfVejZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001899396188053526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "NSFW……\n恶俗的铜最后还是3p了 https://t.co/ZPhnfVejZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 147,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1413
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

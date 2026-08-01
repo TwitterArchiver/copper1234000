@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-11T15:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T16:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988267369337417840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1904073079443345408",
+          "start": 0,
+          "username": "DeZeng234045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988267369337417840",
+    "in_reply_to_user_id": "1904073079443345408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988266482657370120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeZeng234045 是没破甲吗…🥺或者梯子不太稳定？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T15:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988267369337417840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904073079443345408",
+              "start": 0,
+              "username": "DeZeng234045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988267369337417840",
+        "in_reply_to_user_id": "1904073079443345408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988266482657370120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeZeng234045 是没破甲吗…🥺或者梯子不太稳定？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904073079443345408",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T15:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988266482657370120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988266482657370120",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988088052137460107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我的gpt一点边都不能擦…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 29,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 128
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T07:29:43.000Z",
+        "description": "",
+        "id": "1904073079443345408",
+        "name": "De Zeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904073125559754752/WQGzEIfL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "DeZeng234045",
+        "verified": false
+      }
+    ]
+  }
+}

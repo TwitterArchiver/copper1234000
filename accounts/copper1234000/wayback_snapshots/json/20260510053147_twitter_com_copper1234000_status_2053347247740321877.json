@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053331748981756273",
+    "created_at": "2026-05-10T05:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053347247740321877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793483045821177856",
+          "start": 0,
+          "username": "pvalue049"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053347247740321877",
+    "in_reply_to_user_id": "1793483045821177856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053340403936686171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pvalue049 婆媳关系很好哦( ˘ω˘ )…统一战线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053331748981756273",
+        "created_at": "2026-05-10T05:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053347247740321877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793483045821177856",
+              "start": 0,
+              "username": "pvalue049"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053347247740321877",
+        "in_reply_to_user_id": "1793483045821177856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053340403936686171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pvalue049 婆媳关系很好哦( ˘ω˘ )…统一战线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793483045821177856",
+        "conversation_id": "2053331748981756273",
+        "created_at": "2026-05-10T05:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053340403936686171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053340403936686171",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053331748981756273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 和谐家庭(˃̶͈◡˂̶͈)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 366,
+          "like_count": 2628,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 5319
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T03:24:45.000Z",
+        "description": "我是Tara。ASD｜向上，而非向北。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tara51894",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tara51894",
+                "start": 0,
+                "url": "https://t.co/Ib1tokJ2je"
+              }
+            ]
+          }
+        },
+        "id": "1793483045821177856",
+        "name": "L.S.L",
+        "pinned_tweet_id": "2004267231983890597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052600697544413185/CZBDf2yX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 162,
+          "like_count": 4619,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/Ib1tokJ2je",
+        "username": "pvalue049",
+        "verified": false
+      }
+    ]
+  }
+}

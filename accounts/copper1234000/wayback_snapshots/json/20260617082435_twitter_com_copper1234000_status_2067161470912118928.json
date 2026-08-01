@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067120221991649335",
+    "created_at": "2026-06-17T08:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067161470912118928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912840253624520704",
+          "start": 0,
+          "username": "wobujiaowei7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067161470912118928",
+    "in_reply_to_user_id": "1912840253624520704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067130875545080179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobujiaowei7777 这个也太那个了🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067120221991649335",
+        "created_at": "2026-06-17T08:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067161470912118928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912840253624520704",
+              "start": 0,
+              "username": "wobujiaowei7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067161470912118928",
+        "in_reply_to_user_id": "1912840253624520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067130875545080179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobujiaowei7777 这个也太那个了🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912840253624520704",
+        "conversation_id": "2067120221991649335",
+        "created_at": "2026-06-17T06:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067130875545080179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067130875545080179",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067120221991649335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊这……好内个哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5120,
+          "following_count": 454,
+          "like_count": 3818,
+          "listed_count": 3,
+          "media_count": 458,
+          "tweet_count": 6718
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-17T12:08:45.000Z",
+        "description": "做全世界最幸福的废话大王🐱",
+        "id": "1912840253624520704",
+        "location": "鹈鹕小镇",
+        "name": "春困秋乏夏打盹",
+        "pinned_tweet_id": "2067157693274652928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035424321230057472/WN9xSVXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15357,
+          "following_count": 441,
+          "like_count": 12490,
+          "listed_count": 66,
+          "media_count": 418,
+          "tweet_count": 2803
+        },
+        "username": "wobujiaowei7777",
+        "verified": true
+      }
+    ]
+  }
+}

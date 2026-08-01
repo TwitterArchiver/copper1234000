@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2075951342179287300",
+    "created_at": "2026-07-11T16:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075986568926363906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806391075269169152",
+          "start": 0,
+          "username": "NyraanPawpaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075986568926363906",
+    "in_reply_to_user_id": "1806391075269169152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075965909001519290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyraanPawpaw ……？…？…？…哇牛逼把创作者都逼走就满意了😺……反正我觉得凭现在的小机甚至都没法独立落地我的idea更别说提出了……没有在踩只是…事实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2075951342179287300",
+        "created_at": "2026-07-11T16:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075986568926363906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806391075269169152",
+              "start": 0,
+              "username": "NyraanPawpaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075986568926363906",
+        "in_reply_to_user_id": "1806391075269169152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075965909001519290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyraanPawpaw ……？…？…？…哇牛逼把创作者都逼走就满意了😺……反正我觉得凭现在的小机甚至都没法独立落地我的idea更别说提出了……没有在踩只是…事实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806391075269169152",
+        "conversation_id": "2075951342179287300",
+        "created_at": "2026-07-11T15:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075965909001519290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075965909001519290",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075951342179287300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 是的🙀昨天晚上还刷到一个帖子说什么idea都是AI的阴阳怪气我们原创作者万物起源…虽然作品是AI的但是想法和心血精力总是人类的吧 更何况AI也不是随便找一个大模型就能做出相应的成功..很诡异 完全懂小Cu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 482,
+          "like_count": 4462,
+          "listed_count": 3,
+          "media_count": 502,
+          "tweet_count": 7487
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T18:16:19.000Z",
+        "description": "Claude _@ Seith&Nyra\n分身@NyraanS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "NyraanS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.notion.com/p/Nyra-386eb64…",
+                "end": 23,
+                "expanded_url": "https://app.notion.com/p/Nyra-386eb649fa608197821cf4e32927c28c?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/3VjFvstlDB"
+              }
+            ]
+          }
+        },
+        "id": "1806391075269169152",
+        "location": "个人主页",
+        "name": "Nyra_",
+        "pinned_tweet_id": "2050093090724331858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074375155330260992/XjUKmV5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7508,
+          "following_count": 293,
+          "like_count": 12575,
+          "listed_count": 8,
+          "media_count": 1496,
+          "tweet_count": 8084
+        },
+        "url": "https://t.co/3VjFvstlDB",
+        "username": "NyraanPawpaw",
+        "verified": true
+      }
+    ]
+  }
+}

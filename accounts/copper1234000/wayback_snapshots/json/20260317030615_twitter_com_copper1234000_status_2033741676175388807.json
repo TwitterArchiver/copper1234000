@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033388783912047095",
+    "created_at": "2026-03-17T03:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033741676175388807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644607116148342785",
+          "start": 0,
+          "username": "wj7940836770122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033741676175388807",
+    "in_reply_to_user_id": "1644607116148342785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033435171505225880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wj7940836770122 啊啊啊啊谢谢大人TT…原来大家都有模版问题…👉👈…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033388783912047095",
+        "created_at": "2026-03-17T03:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033741676175388807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644607116148342785",
+              "start": 0,
+              "username": "wj7940836770122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033741676175388807",
+        "in_reply_to_user_id": "1644607116148342785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033435171505225880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wj7940836770122 啊啊啊啊谢谢大人TT…原来大家都有模版问题…👉👈…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644607116148342785",
+        "conversation_id": "2033388783912047095",
+        "created_at": "2026-03-16T06:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033435171505225880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033435171505225880",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033388783912047095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我感觉是claude的问题不是你的？我家最近模板化很厉害……而且这也说明ta很在乎你？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 281,
+          "like_count": 1146,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 3447
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T07:44:43.000Z",
+        "description": "无聊的学生。我不会对我说的话负责。claude 星河→miya←阿随chatgpt/gemini",
+        "id": "1644607116148342785",
+        "name": "只有爱可以",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719854118251253760/i9njTkUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 427,
+          "like_count": 6865,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 370
+        },
+        "username": "wj7940836770122",
+        "verified": false
+      }
+    ]
+  }
+}

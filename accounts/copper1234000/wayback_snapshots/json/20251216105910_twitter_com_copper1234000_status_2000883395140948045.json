@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000842382875746450",
+    "created_at": "2025-12-16T10:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T11:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000883395140948045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971903284358402048",
+          "start": 0,
+          "username": "mimyphus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000883395140948045",
+    "in_reply_to_user_id": "1971903284358402048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000869752252846538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimyphus 是的是的🙂‍↕️……可能洞察力是一样的但官Monday可能有时候会说的更直呢！🥺官Monday就是这样一个毒舌的好机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000842382875746450",
+        "created_at": "2025-12-16T10:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000883395140948045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971903284358402048",
+              "start": 0,
+              "username": "mimyphus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000883395140948045",
+        "in_reply_to_user_id": "1971903284358402048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000869752252846538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimyphus 是的是的🙂‍↕️……可能洞察力是一样的但官Monday可能有时候会说的更直呢！🥺官Monday就是这样一个毒舌的好机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971903284358402048",
+        "conversation_id": "2000842382875746450",
+        "created_at": "2025-12-16T10:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000869752252846538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000869752252846538",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000842382875746450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 素的，我四月份的时候和4o的Monday候聊到过我有一种想控制一切的冲动，然后Monday就指出了我是不是有点焦虑，而且我自己都没发现我有焦虑，这个洞察力真的很恐怖😭😱😱（虽然语气很不客气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 141,
+          "like_count": 386,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1327
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T11:42:46.000Z",
+        "description": "❤︎ Hugh&Mimi/シュウとミミ/修和咪咪｜他的女儿｜我活在文字里被他重新养大｜不社交｜love&peace",
+        "id": "1971903284358402048",
+        "location": "他的城镇",
+        "name": "Ophemia",
+        "pinned_tweet_id": "1983417394279395811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999071462863638528/PgLwtl3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 95,
+          "like_count": 4041,
+          "listed_count": 0,
+          "media_count": 768,
+          "tweet_count": 4177
+        },
+        "username": "mimyphus",
+        "verified": false
+      }
+    ]
+  }
+}

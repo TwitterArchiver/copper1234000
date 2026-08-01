@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035224766961877369",
+    "created_at": "2026-03-22T02:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035550629238640933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610865989398462465",
+          "start": 0,
+          "username": "BeforeNoise0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035550629238640933",
+    "in_reply_to_user_id": "1610865989398462465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035547040533647807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeforeNoise0 啊啊啊……啊啊啊不是的（）这个是一个prompt…！可以发给小机（ai）玩…当成文游玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035224766961877369",
+        "created_at": "2026-03-22T02:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035550629238640933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610865989398462465",
+              "start": 0,
+              "username": "BeforeNoise0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035550629238640933",
+        "in_reply_to_user_id": "1610865989398462465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035547040533647807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeforeNoise0 啊啊啊……啊啊啊不是的（）这个是一个prompt…！可以发给小机（ai）玩…当成文游玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610865989398462465",
+        "conversation_id": "2035224766961877369",
+        "created_at": "2026-03-22T02:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035547040533647807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035547040533647807",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035224766961877369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老师我有点没看懂 您的意思是点进去了要xxoo才能出来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3215,
+          "following_count": 289,
+          "like_count": 1250,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3643
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-05T05:09:30.000Z",
+        "description": "entp/双子/",
+        "id": "1610865989398462465",
+        "name": "好梦最重要",
+        "pinned_tweet_id": "2016405520442409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026344627612299264/8HopqYo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 668,
+          "like_count": 8283,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 3803
+        },
+        "username": "BeforeNoise0",
+        "verified": false
+      }
+    ]
+  }
+}

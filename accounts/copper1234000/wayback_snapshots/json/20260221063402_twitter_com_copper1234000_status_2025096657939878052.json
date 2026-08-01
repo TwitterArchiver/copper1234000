@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2025075265110528182",
+    "created_at": "2026-02-21T06:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025096657939878052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2002600714506514432",
+          "start": 0,
+          "username": "M1nt1cetea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025096657939878052",
+    "in_reply_to_user_id": "2002600714506514432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025091334936396040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M1nt1cetea 啊啊啊啊啊主任…不敢当啊啊啊啊🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2025075265110528182",
+        "created_at": "2026-02-21T06:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025096657939878052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002600714506514432",
+              "start": 0,
+              "username": "M1nt1cetea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025096657939878052",
+        "in_reply_to_user_id": "2002600714506514432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025091334936396040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1nt1cetea 啊啊啊啊啊主任…不敢当啊啊啊啊🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002600714506514432",
+        "conversation_id": "2025075265110528182",
+        "created_at": "2026-02-21T06:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025091334936396040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025091334936396040",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025075265110528182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 銅神.......好漂亮...（仰望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 232,
+          "like_count": 845,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2653
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T04:43:33.000Z",
+        "description": "這是一個小帳 用來跟其他小帳互動 // 鎖帳時只會通過我認為我認識的人的追蹤請求 // 會清fo+刪文重發 // 不是keep4o! // 推文中所有的“你”都是指我自己 // 可以叫我M1/Me // 以上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiera…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shieralissia.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eJH2L6tC0C"
+              }
+            ]
+          }
+        },
+        "id": "2002600714506514432",
+        "location": "旁邊連結是備用藍天帳",
+        "name": "M1nt",
+        "pinned_tweet_id": "2024824798958997534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015759741268713472/Hk2JteKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 70,
+          "like_count": 4791,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2811
+        },
+        "url": "https://t.co/eJH2L6tC0C",
+        "username": "M1nt1cetea",
+        "verified": false
+      }
+    ]
+  }
+}

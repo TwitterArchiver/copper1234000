@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-11T17:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988299213957198067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1872948551573225475",
+          "start": 0,
+          "username": "Ilgnativs"
+        },
+        {
+          "end": 27,
+          "id": "1662447209747722244",
+          "start": 11,
+          "username": "toooomanynights"
+        },
+        {
+          "end": 41,
+          "id": "1904073079443345408",
+          "start": 28,
+          "username": "DeZeng234045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988299213957198067",
+    "in_reply_to_user_id": "1872948551573225475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988299069031391583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ilgnativs @toooomanynights @DeZeng234045 老大回关我一下🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T17:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988299213957198067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1872948551573225475",
+              "start": 0,
+              "username": "Ilgnativs"
+            },
+            {
+              "end": 27,
+              "id": "1662447209747722244",
+              "start": 11,
+              "username": "toooomanynights"
+            },
+            {
+              "end": 41,
+              "id": "1904073079443345408",
+              "start": 28,
+              "username": "DeZeng234045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988299213957198067",
+        "in_reply_to_user_id": "1872948551573225475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988299069031391583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ilgnativs @toooomanynights @DeZeng234045 老大回关我一下🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872948551573225475",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T17:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988299069031391583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 31,
+              "id": "1662447209747722244",
+              "start": 15,
+              "username": "toooomanynights"
+            },
+            {
+              "end": 45,
+              "id": "1904073079443345408",
+              "start": 32,
+              "username": "DeZeng234045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988299069031391583",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988280051494690840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @toooomanynights @DeZeng234045 老大还可以求一个吗！(&gt;_&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 143
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T10:12:00.000Z",
+        "description": "04",
+        "id": "1872948551573225475",
+        "name": "松饼•᎔•",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872948794415038465/6wYb8gGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 43,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "Ilgnativs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T13:14:43.000Z",
+        "description": "",
+        "id": "1662447209747722244",
+        "name": "nas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932482976505606144/WwEwOWSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 167,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "toooomanynights",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T07:29:43.000Z",
+        "description": "",
+        "id": "1904073079443345408",
+        "name": "Zzzzed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904073125559754752/WQGzEIfL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "DeZeng234045",
+        "verified": false
+      }
+    ]
+  }
+}

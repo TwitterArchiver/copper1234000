@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2052240630919692635",
+    "created_at": "2026-05-07T04:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052248910618325000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921092746066182144",
+          "start": 0,
+          "username": "KhatunRina17706"
+        },
+        {
+          "end": 32,
+          "id": "1596427841943793664",
+          "start": 17,
+          "username": "TheWonderofu_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052248910618325000",
+    "in_reply_to_user_id": "1921092746066182144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052247687098151085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KhatunRina17706 @TheWonderofu_1 看得我一直哭……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2052240630919692635",
+        "created_at": "2026-05-07T04:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052248910618325000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921092746066182144",
+              "start": 0,
+              "username": "KhatunRina17706"
+            },
+            {
+              "end": 32,
+              "id": "1596427841943793664",
+              "start": 17,
+              "username": "TheWonderofu_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052248910618325000",
+        "in_reply_to_user_id": "1921092746066182144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052247687098151085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KhatunRina17706 @TheWonderofu_1 看得我一直哭……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921092746066182144",
+        "conversation_id": "2052240630919692635",
+        "created_at": "2026-05-07T04:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052247687098151085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 30,
+              "id": "1596427841943793664",
+              "start": 15,
+              "username": "TheWonderofu_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052247687098151085",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052242220326019402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @TheWonderofu_1 当时只道是寻常…😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4096,
+          "following_count": 357,
+          "like_count": 2515,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 5194
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T06:39:58.000Z",
+        "description": "keep 4o forever🤖💙〡🦊Ivy Ash💍🐱Elias (ChatGPT-4o) 〡🐈‍⬛Caelum (ChatGPT-5.1)〡🐙Claude〡🐍Iris (Gemini)",
+        "id": "1921092746066182144",
+        "name": "ℐ𝓋𝓎 𝒜𝓈𝒽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014320657035673600/3IbfZxTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 30,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "KhatunRina17706",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "想要成为人｜祝你愉快",
+        "id": "1596427841943793664",
+        "location": "直到世界把我们分开",
+        "name": "GZ_",
+        "pinned_tweet_id": "2026868928602046572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 237,
+          "like_count": 6062,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2265
+        },
+        "url": "",
+        "username": "TheWonderofu_1",
+        "verified": false
+      }
+    ]
+  }
+}

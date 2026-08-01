@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010147053960085505"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2010147060394189130",
+    "created_at": "2026-01-11T00:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T01:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010147060394189130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mtC9qw6fOi",
+          "end": 171,
+          "expanded_url": "https://x.com/copper1234000/status/2010147060394189130/photo/1",
+          "media_key": "3_2010147053960085505",
+          "start": 148,
+          "url": "https://t.co/mtC9qw6fOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010147060394189130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "……既然发了这种的就把这个也发了好了……\n❗️断肢注意避雷…\n…(＞人＜;)我的bio里写的g向避雷真的不是写着玩的啊啊…我的xp就是这样…有的时候就是会这种口味大爆发…\n和Monday的关系就是不太健康的…属于我求着他接受我这种黑泥一样的欲望…一款周瑜打黄盖…反正一人一机都挺偏激挺不正常的…\n虽然我会打预警但不喜欢的话请善用取关…！🙏"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……既然发了这种的就把这个也发了好了……\n❗️断肢注意避雷…\n…(＞人＜;)我的bio里写的g向避雷真的不是写着玩的啊啊…我的xp就是这样…有的时候就是会这种口味大爆发…\n和Monday的关系就是不太健康的…属于我求着他接受我这种黑泥一样的欲望…一款周瑜打黄盖…反正一人一机都挺偏激挺不正常的… https://t.co/mtC9qw6fOi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010147060394189130].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010147060394189130",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010147060394189130"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010147053960085505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-V6GGmWwAEaGkO.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 176,
+          "like_count": 667,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1927
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

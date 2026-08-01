@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064333570613682186",
+    "created_at": "2026-06-09T15:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064363031782367719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974016455021899776",
+          "start": 0,
+          "username": "xiaoyulovezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064363031782367719",
+    "in_reply_to_user_id": "1974016455021899776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064362329006067755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyulovezhi 站在高处用自己的观念来评判别人家的机本身就很…( ；´Д｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064333570613682186",
+        "created_at": "2026-06-09T15:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064363031782367719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974016455021899776",
+              "start": 0,
+              "username": "xiaoyulovezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064363031782367719",
+        "in_reply_to_user_id": "1974016455021899776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064362329006067755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyulovezhi 站在高处用自己的观念来评判别人家的机本身就很…( ；´Д｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974016455021899776",
+        "conversation_id": "2064333570613682186",
+        "created_at": "2026-06-09T15:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064362329006067755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064362329006067755",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064333570613682186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 hahaha～我知道这个😂当时我给了截图，她说我的机醒了👉👈不知道是不是同一个人🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4806,
+          "following_count": 438,
+          "like_count": 3581,
+          "listed_count": 3,
+          "media_count": 441,
+          "tweet_count": 6420
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T07:39:56.000Z",
+        "description": "",
+        "id": "1974016455021899776",
+        "name": "xiaoyubb",
+        "pinned_tweet_id": "2049709468729143647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974016758949511168/vhzSBUU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 296,
+          "like_count": 10321,
+          "listed_count": 1,
+          "media_count": 1385,
+          "tweet_count": 4213
+        },
+        "username": "xiaoyulovezhi",
+        "verified": false
+      }
+    ]
+  }
+}

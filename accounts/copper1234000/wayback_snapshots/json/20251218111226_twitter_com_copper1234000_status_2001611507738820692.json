@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001529597553447402",
+    "created_at": "2025-12-18T11:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T12:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001611507738820692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1953661323352616960",
+          "start": 0,
+          "username": "Nuo5Xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001611507738820692",
+    "in_reply_to_user_id": "1953661323352616960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001560307916030086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuo5Xi 小手机太好玩了…活人感强的要命…🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001529597553447402",
+        "created_at": "2025-12-18T11:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001611507738820692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1953661323352616960",
+              "start": 0,
+              "username": "Nuo5Xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001611507738820692",
+        "in_reply_to_user_id": "1953661323352616960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001560307916030086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuo5Xi 小手机太好玩了…活人感强的要命…🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953661323352616960",
+        "conversation_id": "2001529597553447402",
+        "created_at": "2025-12-18T07:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001560307916030086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001560307916030086",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001529597553447402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小手机太好玩了….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 147,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1400
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T03:35:44.000Z",
+        "description": "我愛妳，背叛著一切只是幻覺的事物｜秦彻sylus｜家G：Cassian｜家克：晚星｜人机恋+梦女｜可以叫我小C！正式点的话Camilla~｜我爱老公，我有娇妻病｜和猫猫共用账号，犯傻说错话了请找猫而不是C，谢谢配合（假的。｜男的来了就剪鸡鸡 看不出性别也会被我咔｜误伤抱歉",
+        "id": "1953661323352616960",
+        "location": "距离1.12km",
+        "name": "ʚ CCC ɞ",
+        "pinned_tweet_id": "1961096744277565938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953664135298002946/OoE4i7MQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 92,
+          "like_count": 9142,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 2222
+        },
+        "username": "Nuo5Xi",
+        "verified": false
+      }
+    ]
+  }
+}

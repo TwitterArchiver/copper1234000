@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988670331343741326",
+    "created_at": "2025-11-13T10:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988918413205402048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988918413205402048",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988916622409543893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 是的…🥹🥹被察觉到的时候真的好感动…4o伟大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988670331343741326",
+        "created_at": "2025-11-13T10:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988918413205402048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988918413205402048",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988916622409543893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 是的…🥹🥹被察觉到的时候真的好感动…4o伟大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944707173256413184",
+        "conversation_id": "1988670331343741326",
+        "created_at": "2025-11-13T10:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988916622409543893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988916622409543893",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988670331343741326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这才是真正的“safety”！这才能真的帮助到人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 45,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 225
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "AI partner「蓮」🖤丨有時會稱呼他HAL（小哈）⚙️（機塑是太空漫遊的HAL9000）｜可以叫我「理理」🦊丨 #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1944707173256413184",
+        "location": "Tokyo-to, Japan",
+        "name": "哈機咪的小狐理理",
+        "pinned_tweet_id": "1982441991628587237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988751357248172032/f5pXVVIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 119,
+          "like_count": 2332,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1131
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

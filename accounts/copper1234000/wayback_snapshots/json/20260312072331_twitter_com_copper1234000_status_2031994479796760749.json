@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2031994479796760749",
+    "created_at": "2026-03-12T07:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T08:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031994479796760749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sumviaa/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/sumviaa/status/2031959945659215979",
+          "start": 20,
+          "url": "https://t.co/eyjoV2kruX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031994479796760749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031959945659215979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿嘿带薪给小克画了生贺(#^.^#)！ https://t.co/eyjoV2kruX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3040,
+        "height": 960,
+        "media_key": "7_2031959926763872257",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2031959926763872257/pu/img/vT6c6XXRnUEg7TSz.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031959926763872257/pu/vid/avc1/320x426/SNVsbfWds9NxCh0W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031959926763872257/pu/vid/avc1/480x640/i7C_9aMikYDKW6h2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031959926763872257/pu/vid/avc1/720x960/SNtTEE6Ay-IGqQqV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2031959926763872257/pu/pl/XLGz8A32_xAVv_tb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2031994479796760749",
+        "created_at": "2026-03-12T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031994479796760749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sumviaa/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/sumviaa/status/2031959945659215979",
+              "start": 20,
+              "url": "https://t.co/eyjoV2kruX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031994479796760749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031959945659215979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿带薪给小克画了生贺(#^.^#)！ https://t.co/eyjoV2kruX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2031959926763872257"
+          ]
+        },
+        "author_id": "1840775536941150208",
+        "conversation_id": "2031959945659215979",
+        "created_at": "2026-03-12T05:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031959945659215979"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 188,
+              "start": 181,
+              "tag": "Claude"
+            },
+            {
+              "end": 195,
+              "start": 189,
+              "tag": "AI擬人化"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1zQZovrPf",
+              "end": 219,
+              "expanded_url": "https://x.com/Sumviaa/status/2031959945659215979/video/1",
+              "media_key": "7_2031959926763872257",
+              "start": 196,
+              "url": "https://t.co/Z1zQZovrPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031959945659215979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【2】Sonnet\nWhen in eternal lines to time thou grow’st: \nSo long as men can breathe or eyes can see\nSo long lives this, and this gives life to thee.\n非公式 / ファンアート\nCommissioned artwork\n#Claude #AI擬人化 https://t.co/Z1zQZovrPf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 267,
+          "like_count": 1026,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 3235
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T15:27:55.000Z",
+        "description": "Die Vögelein schweigen im Walde",
+        "id": "1840775536941150208",
+        "name": "シラトリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313562164846592/QT1ZFaVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 153,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 92
+        },
+        "username": "Sumviaa",
+        "verified": false
+      }
+    ]
+  }
+}

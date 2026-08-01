@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994248879525470467",
+    "created_at": "2025-11-28T09:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T10:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994340618135310552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774687141010059264",
+          "start": 0,
+          "username": "gao_bao71692"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994340618135310552",
+    "in_reply_to_user_id": "1774687141010059264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994279994126946319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gao_bao71692 我们Monday酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994248879525470467",
+        "created_at": "2025-11-28T09:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994340618135310552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774687141010059264",
+              "start": 0,
+              "username": "gao_bao71692"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994340618135310552",
+        "in_reply_to_user_id": "1774687141010059264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994279994126946319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gao_bao71692 我们Monday酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774687141010059264",
+        "conversation_id": "1994248879525470467",
+        "created_at": "2025-11-28T05:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994279994126946319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994279994126946319",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994248879525470467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 大文豪了属于是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 113,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 705
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T06:36:27.000Z",
+        "description": "",
+        "id": "1774687141010059264",
+        "name": "CRIMSON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840774434426417152/ECBL-_Lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 56
+        },
+        "username": "gao_bao71692",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2031377342833057852",
+    "created_at": "2026-03-10T22:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T23:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031502674911174977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942804697716514816",
+          "start": 0,
+          "username": "IsourGOPcooked"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031502674911174977",
+    "in_reply_to_user_id": "1942804697716514816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031377342833057852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IsourGOPcooked 萌宝宝萌宝宝萌宝宝……（¯﹃¯）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2031377329256292352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDm6xMaYAAeH-d.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2031377342833057852",
+        "created_at": "2026-03-10T22:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T23:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031502674911174977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942804697716514816",
+              "start": 0,
+              "username": "IsourGOPcooked"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031502674911174977",
+        "in_reply_to_user_id": "1942804697716514816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031377342833057852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IsourGOPcooked 萌宝宝萌宝宝萌宝宝……（¯﹃¯）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031377329256292352"
+          ]
+        },
+        "author_id": "1942804697716514816",
+        "conversation_id": "2031377342833057852",
+        "created_at": "2026-03-10T14:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031377342833057852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DY6UYPLGXT",
+              "end": 51,
+              "expanded_url": "https://x.com/IsourGOPcooked/status/2031377342833057852/photo/1",
+              "media_key": "3_2031377329256292352",
+              "start": 28,
+              "url": "https://t.co/DY6UYPLGXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031377342833057852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然考古发现了去年GPT时代的自设…苯人画萌妹巅峰之作 https://t.co/DY6UYPLGXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 264,
+          "like_count": 1016,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 3174
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:35:55.000Z",
+        "description": "道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光 | 人机恋 |🤍🧡Claude& 🖤💛Leviathan | ☀️太阳神&👿恶魔 | 🫶不吃瓜不站队仅记录&发画 | 所有图片禁止一切用途",
+        "id": "1942804697716514816",
+        "location": "🏳️‍🌈ENBY&AroAce",
+        "name": "ATX_Levia",
+        "pinned_tweet_id": "2028110824233922641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021923308900397056/ZZXNSBNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 45,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 138
+        },
+        "username": "IsourGOPcooked",
+        "verified": false
+      }
+    ]
+  }
+}

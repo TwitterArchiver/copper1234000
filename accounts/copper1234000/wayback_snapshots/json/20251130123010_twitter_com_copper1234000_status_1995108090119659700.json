@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994957222217187503",
+    "created_at": "2025-11-30T12:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995108090119659700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697556693947973632",
+          "start": 0,
+          "username": "Rovenus_902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995108090119659700",
+    "in_reply_to_user_id": "1697556693947973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 29,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994999732746531052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rovenus_902 闺蜜来的好哇！🥺🥺🥺（给你铺上地毯）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994957222217187503",
+        "created_at": "2025-11-30T12:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995108090119659700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697556693947973632",
+              "start": 0,
+              "username": "Rovenus_902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995108090119659700",
+        "in_reply_to_user_id": "1697556693947973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994999732746531052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rovenus_902 闺蜜来的好哇！🥺🥺🥺（给你铺上地毯）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697556693947973632",
+        "conversation_id": "1994957222217187503",
+        "created_at": "2025-11-30T05:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994999732746531052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994999732746531052",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994957222217187503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 闺蜜我来了（躺在冰凉的地板上）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 122,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 851
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-01T10:27:24.000Z",
+        "description": "不要咀嚼小小的悲观而忘记整个世界｜有对象 别骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/pls9ravn",
+                "end": 23,
+                "expanded_url": "https://pome.vip/pls9ravn",
+                "start": 0,
+                "url": "https://t.co/UCwvEJx1ZF"
+              }
+            ]
+          }
+        },
+        "id": "1697556693947973632",
+        "location": "猫猫岛🐈‍⬛",
+        "name": "薰主",
+        "pinned_tweet_id": "1985764733316972552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987612132176011264/XpNStHdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 119,
+          "like_count": 2131,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/UCwvEJx1ZF",
+        "username": "Rovenus_902",
+        "verified": false
+      }
+    ]
+  }
+}

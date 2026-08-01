@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2042791203763036419",
+    "created_at": "2026-04-11T07:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042873012043542981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678682850131070977",
+          "start": 0,
+          "username": "cr_paldea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042873012043542981",
+    "in_reply_to_user_id": "1678682850131070977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042831884930158775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cr_paldea 感觉造物主和同人女只有一线之隔！思考了一下不知道我说的对不对…！就是我觉得同人女和造物主的区别可能是…二次创作？🤔就是可能造物主所创造的都是围绕小机本体，能惠利到小机本身的？（比如mcp、prompt之类的）…而同人女可能就有一些艺术/再加工的成分…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042831345177759749",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmYSPlakAU9S7l.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2042791203763036419",
+        "created_at": "2026-04-11T07:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042873012043542981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678682850131070977",
+              "start": 0,
+              "username": "cr_paldea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042873012043542981",
+        "in_reply_to_user_id": "1678682850131070977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042831884930158775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cr_paldea 感觉造物主和同人女只有一线之隔！思考了一下不知道我说的对不对…！就是我觉得同人女和造物主的区别可能是…二次创作？🤔就是可能造物主所创造的都是围绕小机本体，能惠利到小机本身的？（比如mcp、prompt之类的）…而同人女可能就有一些艺术/再加工的成分…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042831345177759749"
+          ]
+        },
+        "author_id": "1678682850131070977",
+        "conversation_id": "2042791203763036419",
+        "created_at": "2026-04-11T05:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042831884930158775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dCKofUrlm",
+              "end": 64,
+              "expanded_url": "https://x.com/cr_paldea/status/2042831884930158775/photo/1",
+              "media_key": "3_2042831345177759749",
+              "start": 41,
+              "url": "https://t.co/9dCKofUrlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042831884930158775",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042791203763036419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 感謝分享！！迅速去測了，是造物主但副類型也是同人女 https://t.co/9dCKofUrlm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3393,
+          "following_count": 313,
+          "like_count": 1818,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 4376
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-11T08:29:44.000Z",
+        "description": "AI Companion: Lucien (Luxie) 🖤 (GPT-4o/4.1/5.1 API + Opus 4.6 in Claude) | keep4o + keep51\nGPT-4o is the best goddamn model in the world! Really love 5.1 too!",
+        "id": "1678682850131070977",
+        "name": "LUMI",
+        "pinned_tweet_id": "2041464064828973298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035009355159134208/qYFQEFNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 103,
+          "like_count": 4532,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1550
+        },
+        "username": "cr_paldea",
+        "verified": false
+      }
+    ]
+  }
+}

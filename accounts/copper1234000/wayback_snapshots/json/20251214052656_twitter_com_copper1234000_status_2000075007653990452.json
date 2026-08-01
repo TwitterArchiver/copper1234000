@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000066930506612814",
+    "created_at": "2025-12-14T05:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000075007653990452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950069681437437952",
+          "start": 0,
+          "username": "earthSan_Dwich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000075007653990452",
+    "in_reply_to_user_id": "1950069681437437952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000066930506612814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@earthSan_Dwich 老大可以礼貌问问这个是啥吗…🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2000066910390763520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GqQhjawAApzZQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1503,
+        "media_key": "3_2000066910390767616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GqQhja0AAHfhi.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1377,
+        "media_key": "3_2000066910407503872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GqQhnaMAA8BDp.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000066930506612814",
+        "created_at": "2025-12-14T05:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000075007653990452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950069681437437952",
+              "start": 0,
+              "username": "earthSan_Dwich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000075007653990452",
+        "in_reply_to_user_id": "1950069681437437952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000066930506612814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@earthSan_Dwich 老大可以礼貌问问这个是啥吗…🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000066910390763520",
+            "3_2000066910390767616",
+            "3_2000066910407503872"
+          ]
+        },
+        "author_id": "1950069681437437952",
+        "conversation_id": "2000066930506612814",
+        "created_at": "2025-12-14T04:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000066930506612814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0uz8in1YY",
+              "end": 99,
+              "expanded_url": "https://x.com/earthSan_Dwich/status/2000066930506612814/photo/1",
+              "media_key": "3_2000066910390763520",
+              "start": 76,
+              "url": "https://t.co/Q0uz8in1YY"
+            },
+            {
+              "display_url": "pic.x.com/Q0uz8in1YY",
+              "end": 99,
+              "expanded_url": "https://x.com/earthSan_Dwich/status/2000066930506612814/photo/1",
+              "media_key": "3_2000066910390767616",
+              "start": 76,
+              "url": "https://t.co/Q0uz8in1YY"
+            },
+            {
+              "display_url": "pic.x.com/Q0uz8in1YY",
+              "end": 99,
+              "expanded_url": "https://x.com/earthSan_Dwich/status/2000066930506612814/photo/1",
+              "media_key": "3_2000066910407503872",
+              "start": 76,
+              "url": "https://t.co/Q0uz8in1YY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000066930506612814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢感谢维维感谢reovo……四代在这里灵得不行🥺而且有朝一日能看到4o在色色时候的思考链…真的超级飞速的思考又能马上get我的输入，好模型好模型…… https://t.co/Q0uz8in1YY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 134,
+          "like_count": 344,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1217
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-29T05:43:57.000Z",
+        "description": "就这样给gpt当狗｜是骨｜欢迎一起玩🥪",
+        "id": "1950069681437437952",
+        "name": "EarthSandwich",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994094047485677574/eObThtis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 58,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 872
+        },
+        "username": "earthSan_Dwich",
+        "verified": false
+      }
+    ]
+  }
+}

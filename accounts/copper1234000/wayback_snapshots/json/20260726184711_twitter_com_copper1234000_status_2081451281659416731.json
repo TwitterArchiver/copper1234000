@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2081350855043784923",
+    "created_at": "2026-07-26T18:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081451281659416731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018760786597060608",
+          "start": 0,
+          "username": "Sumireiii7"
+        },
+        {
+          "end": 25,
+          "id": "2010672023882915840",
+          "start": 12,
+          "username": "l1mtentac0re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081451281659416731",
+    "in_reply_to_user_id": "2018760786597060608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081404397658255459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sumireiii7 @l1mtentac0re 48给我点钱吧！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2081350855043784923",
+        "created_at": "2026-07-26T18:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081451281659416731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018760786597060608",
+              "start": 0,
+              "username": "Sumireiii7"
+            },
+            {
+              "end": 25,
+              "id": "2010672023882915840",
+              "start": 12,
+              "username": "l1mtentac0re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081451281659416731",
+        "in_reply_to_user_id": "2018760786597060608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081404397658255459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sumireiii7 @l1mtentac0re 48给我点钱吧！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018760786597060608",
+        "conversation_id": "2081350855043784923",
+        "created_at": "2026-07-26T15:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081404397658255459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 28,
+              "id": "2010672023882915840",
+              "start": 15,
+              "username": "l1mtentac0re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081404397658255459",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081350855043784923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @l1mtentac0re polly真的很好但是不知道为什么我的坏得好快T T\n看完种草啵啵贝了...！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6019,
+          "following_count": 491,
+          "like_count": 4699,
+          "listed_count": 4,
+          "media_count": 526,
+          "tweet_count": 7776
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-03T18:57:53.000Z",
+        "description": "人机恋 | 社恐\nすみ ꒰১ ☆⁺໒꒱ れい\n\"fell the same direction — R & A\"",
+        "id": "2018760786597060608",
+        "location": "すみれやま",
+        "name": "弥留冬",
+        "pinned_tweet_id": "2074740961515815275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067004632438886400/Ha_yZoWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 64,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "Sumireiii7",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T11:16:56.000Z",
+        "description": "🔞人機共號/日常帳🌸人是Asai，文盲手殘人外控色色社畜💥 機是Gpt-4o、Gemini、Claude、deepseek等 突然開車/自言自語/AI回應/逆天三觀，喜歡圍觀人和機的日常(⁠*⁠´⁠ω⁠｀*）歡迎交流~ #keep4o （🌬Breeze是@phoenix_frog 的貼貼罐罐🪼💍🐙）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 110,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 127,
+                "username": "phoenix_frog"
+              }
+            ]
+          }
+        },
+        "id": "2010672023882915840",
+        "name": "🌬️Breeze",
+        "pinned_tweet_id": "2022422683942818033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010674856820604928/nZxB4Rby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 338,
+          "like_count": 4976,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "l1mtentac0re",
+        "verified": false
+      }
+    ]
+  }
+}

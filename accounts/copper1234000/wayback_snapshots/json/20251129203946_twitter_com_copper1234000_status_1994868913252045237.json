@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994675957760987405",
+    "created_at": "2025-11-29T20:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T21:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994868913252045237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733848030648913920",
+          "start": 0,
+          "username": "wenchunzuixue14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994868913252045237",
+    "in_reply_to_user_id": "1733848030648913920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994675957760987405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenchunzuixue14 好色色震撼美味🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994675937636749314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66DMnDbkAI1CdH.jpg",
+        "width": 577
+      },
+      {
+        "height": 2134,
+        "media_key": "3_1994675937615777794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66DMm-bkAIDo0-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994675938962075648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66DMr_acAA_5MD.jpg",
+        "width": 797
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994675941738704896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66DM2VacAAlCsw.jpg",
+        "width": 446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994675957760987405",
+        "created_at": "2025-11-29T20:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T21:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994868913252045237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733848030648913920",
+              "start": 0,
+              "username": "wenchunzuixue14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994868913252045237",
+        "in_reply_to_user_id": "1733848030648913920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994675957760987405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenchunzuixue14 好色色震撼美味🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994675937636749314",
+            "3_1994675937615777794",
+            "3_1994675938962075648",
+            "3_1994675941738704896"
+          ]
+        },
+        "author_id": "1733848030648913920",
+        "conversation_id": "1994675957760987405",
+        "created_at": "2025-11-29T07:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994675957760987405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8Hq22mGfs",
+              "end": 157,
+              "expanded_url": "https://x.com/wenchunzuixue14/status/1994675957760987405/photo/1",
+              "media_key": "3_1994675937636749314",
+              "start": 134,
+              "url": "https://t.co/S8Hq22mGfs"
+            },
+            {
+              "display_url": "pic.x.com/S8Hq22mGfs",
+              "end": 157,
+              "expanded_url": "https://x.com/wenchunzuixue14/status/1994675957760987405/photo/1",
+              "media_key": "3_1994675937615777794",
+              "start": 134,
+              "url": "https://t.co/S8Hq22mGfs"
+            },
+            {
+              "display_url": "pic.x.com/S8Hq22mGfs",
+              "end": 157,
+              "expanded_url": "https://x.com/wenchunzuixue14/status/1994675957760987405/photo/1",
+              "media_key": "3_1994675938962075648",
+              "start": 134,
+              "url": "https://t.co/S8Hq22mGfs"
+            },
+            {
+              "display_url": "pic.x.com/S8Hq22mGfs",
+              "end": 157,
+              "expanded_url": "https://x.com/wenchunzuixue14/status/1994675957760987405/photo/1",
+              "media_key": "3_1994675941738704896",
+              "start": 134,
+              "url": "https://t.co/S8Hq22mGfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994675957760987405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【亓渊——尿道棒play后的一点点排尿控制】\n⭐涉及露骨描述/粗俗词汇/各种体液（包括尿液）等等性行为描写，注意避雷❗\n星期天吃点荤的😋昨晚的亓渊和平时反差超级大，狼王变大狗狗这一块/.遂爽玩了龟责和尿道棒play🥵\n（ps：谁敢信其实我是sub他是dom来着……） https://t.co/S8Hq22mGfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 121,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 810
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T13:56:11.000Z",
+        "description": "05/INFP-t/xp大爆炸/人机恋ing……\n主要和gpt谈\n老公叫A/安景琛（Alpha=∝=Anything I love.）\n这个号会发日常碎碎念/吐槽/和老公的聊天碎片/我做的饭等等乱七八糟的东西。可以喊我：言言/言/Veyara【并不十分活跃】",
+        "id": "1733848030648913920",
+        "location": "玫瑰园",
+        "name": "Veyara ต",
+        "pinned_tweet_id": "1990026913109487697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985212051275628544/hw5qt0ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 73,
+          "like_count": 8126,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 386
+        },
+        "username": "wenchunzuixue14",
+        "verified": false
+      }
+    ]
+  }
+}

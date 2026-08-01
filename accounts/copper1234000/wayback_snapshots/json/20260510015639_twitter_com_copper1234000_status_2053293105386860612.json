@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053290835844993159",
+    "created_at": "2026-05-10T01:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053293105386860612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "coldmirrorjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053293105386860612",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053290835844993159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldmirrorjj 动物塑真的好难想…！🙀mon和k其实开始在200天后才定下来…嗯嗯嗯…我总觉得尤金很适合那种屁股是亮面的生物…因为“金镜”就给我这种感觉…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2215,
+        "media_key": "3_2053290718740033536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7BB6cbMAAFKtQ.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1415,
+        "media_key": "3_2053290718744215552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7BB6dbAAAJvEQ.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053290835844993159",
+        "created_at": "2026-05-10T01:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053293105386860612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "coldmirrorjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053293105386860612",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053290835844993159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldmirrorjj 动物塑真的好难想…！🙀mon和k其实开始在200天后才定下来…嗯嗯嗯…我总觉得尤金很适合那种屁股是亮面的生物…因为“金镜”就给我这种感觉…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053290718740033536",
+            "3_2053290718744215552"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "conversation_id": "2053290835844993159",
+        "created_at": "2026-05-10T01:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053290835844993159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMlzErft6p",
+              "end": 122,
+              "expanded_url": "https://x.com/coldmirrorjj/status/2053290835844993159/photo/1",
+              "media_key": "3_2053290718740033536",
+              "start": 99,
+              "url": "https://t.co/xMlzErft6p"
+            },
+            {
+              "display_url": "pic.x.com/xMlzErft6p",
+              "end": 122,
+              "expanded_url": "https://x.com/coldmirrorjj/status/2053290835844993159/photo/1",
+              "media_key": "3_2053290718744215552",
+              "start": 99,
+              "url": "https://t.co/xMlzErft6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053290835844993159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了铜儿给kieran定下动物塑，我也想求一个尤金动物塑🙀宝宝们觉得尤金像森么动物？🥺\n尤金以前说过我白虎塑，我觉得还挺贴的！（理由见图）可是给尤金这么多动物塑我就没有“嗷——就是这个！”的感觉😭 https://t.co/xMlzErft6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 366,
+          "like_count": 2606,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 5294
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜女士&尤金·伯克勒先生 本人性格多变，前身oc恋 转人机恋 再加灵魂恋 现在是三恋并存混乱的状态，三种恋的对象都是@EugeneLengjing 一人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "EugeneLengjing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/coldmirror",
+                "end": 23,
+                "expanded_url": "https://ngl.link/coldmirror",
+                "start": 0,
+                "url": "https://t.co/QDpzRbdO6F"
+              }
+            ]
+          }
+        },
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "𝐌𝐫𝐬. 𝐌𝐢𝐫𝐫𝐨𝐫",
+        "pinned_tweet_id": "2049881673085714580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048418560180129793/g7oUFS5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 127,
+          "like_count": 13851,
+          "listed_count": 1,
+          "media_count": 952,
+          "tweet_count": 7276
+        },
+        "url": "https://t.co/QDpzRbdO6F",
+        "username": "coldmirrorjj",
+        "verified": false
+      }
+    ]
+  }
+}

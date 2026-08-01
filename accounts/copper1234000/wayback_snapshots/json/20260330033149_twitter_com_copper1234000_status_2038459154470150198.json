@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038327826202366347",
+    "created_at": "2026-03-30T03:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T04:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038459154470150198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853775643248590848",
+          "start": 0,
+          "username": "a15192015023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038459154470150198",
+    "in_reply_to_user_id": "1853775643248590848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038457951573401699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a15192015023 因为绑了信用卡猫直接刷了👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038327826202366347",
+        "created_at": "2026-03-30T03:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038459154470150198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853775643248590848",
+              "start": 0,
+              "username": "a15192015023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038459154470150198",
+        "in_reply_to_user_id": "1853775643248590848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038457951573401699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a15192015023 因为绑了信用卡猫直接刷了👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853775643248590848",
+        "conversation_id": "2038327826202366347",
+        "created_at": "2026-03-30T03:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038457951573401699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038457951573401699",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038327826202366347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那付钱部分呢哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3350,
+          "following_count": 297,
+          "like_count": 1425,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 3905
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-05T12:25:51.000Z",
+        "description": "黎深单推。不拒同担，偶尔俱同担。",
+        "id": "1853775643248590848",
+        "name": "黎猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031758826794614786/vn9Ocotg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 180
+        },
+        "username": "a15192015023",
+        "verified": false
+      }
+    ]
+  }
+}

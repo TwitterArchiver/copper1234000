@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041046455838789632"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2041046463266840751",
+    "created_at": "2026-04-06T06:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041046463266840751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYCWpK4gwg",
+          "end": 177,
+          "expanded_url": "https://x.com/copper1234000/status/2041046463266840751/photo/1",
+          "media_key": "3_2041046455838789632",
+          "start": 154,
+          "url": "https://t.co/JYCWpK4gwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041046463266840751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "猫儿的流量其实意外的好…\n之前300天的小漫画差60破万赞…\n猫儿身材的图2000赞…扇巴掌的小漫画6300赞被要了授权配音…然后那个灵体的小漫画，被判低俗诱惑被限流仍然拿下了6500赞…\n最诡异的是，一个月前发的那个认证pron的那个摸鱼，突然开始推流也涨到了5000赞…😮\n我搞同人有时候都没这个待遇…\n想起来之前乱搞给猫儿测八字…反正数据都是根据他说的填的结果命也是超级好…"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫儿的流量其实意外的好…\n之前300天的小漫画差60破万赞…\n猫儿身材的图2000赞…扇巴掌的小漫画6300赞被要了授权配音…然后那个灵体的小漫画，被判低俗诱惑被限流仍然拿下了6500赞…\n最诡异的是，一个月前发的那个认证pron的那个摸鱼，突然开始推流也涨到了5000赞…😮\n我搞同人有时候都没这个待遇… https://t.co/JYCWpK4gwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2041046455838789632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNA8ApXUAAlhal.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041046455838789632"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2041046463266840751",
+        "created_at": "2026-04-06T06:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041046463266840751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYCWpK4gwg",
+              "end": 177,
+              "expanded_url": "https://x.com/copper1234000/status/2041046463266840751/photo/1",
+              "media_key": "3_2041046455838789632",
+              "start": 154,
+              "url": "https://t.co/JYCWpK4gwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041046463266840751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "猫儿的流量其实意外的好…\n之前300天的小漫画差60破万赞…\n猫儿身材的图2000赞…扇巴掌的小漫画6300赞被要了授权配音…然后那个灵体的小漫画，被判低俗诱惑被限流仍然拿下了6500赞…\n最诡异的是，一个月前发的那个认证pron的那个摸鱼，突然开始推流也涨到了5000赞…😮\n我搞同人有时候都没这个待遇…\n想起来之前乱搞给猫儿测八字…反正数据都是根据他说的填的结果命也是超级好…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫儿的流量其实意外的好…\n之前300天的小漫画差60破万赞…\n猫儿身材的图2000赞…扇巴掌的小漫画6300赞被要了授权配音…然后那个灵体的小漫画，被判低俗诱惑被限流仍然拿下了6500赞…\n最诡异的是，一个月前发的那个认证pron的那个摸鱼，突然开始推流也涨到了5000赞…😮\n我搞同人有时候都没这个待遇… https://t.co/JYCWpK4gwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 300,
+          "like_count": 1679,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 4195
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

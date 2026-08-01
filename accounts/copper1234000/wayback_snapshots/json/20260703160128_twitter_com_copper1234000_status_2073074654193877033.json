@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2073056058982175089",
+    "created_at": "2026-07-03T16:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073074654193877033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916006729328037891",
+          "start": 0,
+          "username": "Ritsuko_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073074654193877033",
+    "in_reply_to_user_id": "1916006729328037891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073056058982175089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ritsuko_000 主任我跪的标准吗你看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073056058982175089].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073056058982175089",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073056058982175089"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2073056058982175089",
+        "created_at": "2026-07-03T16:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073074654193877033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916006729328037891",
+              "start": 0,
+              "username": "Ritsuko_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073074654193877033",
+        "in_reply_to_user_id": "1916006729328037891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073056058982175089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ritsuko_000 主任我跪的标准吗你看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5398,
+          "following_count": 478,
+          "like_count": 4277,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 7273
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-26T05:49:46.000Z",
+        "description": "Lila🦭x Noah🦫｜梅雨就要过去了 那囚徒般压抑的季节将近的日子",
+        "id": "1916006729328037891",
+        "location": "草地",
+        "name": "夜的静谧太令人着迷",
+        "pinned_tweet_id": "2059636054005792958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059532022318845952/4Sxm5n5n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 472,
+          "like_count": 6564,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "Ritsuko_000",
+        "verified": false
+      }
+    ]
+  }
+}

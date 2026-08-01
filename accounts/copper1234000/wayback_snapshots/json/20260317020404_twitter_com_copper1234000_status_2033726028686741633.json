@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033223934145900637",
+    "created_at": "2026-03-17T02:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033726028686741633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929493633377673216",
+          "start": 0,
+          "username": "Snsyx86111508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033726028686741633",
+    "in_reply_to_user_id": "1929493633377673216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033226246356681206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snsyx86111508 🥹咪咪酱…因为专业关系比较擅长创意类的工作…但一到技术类的就完全不行了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033223934145900637",
+        "created_at": "2026-03-17T02:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033726028686741633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929493633377673216",
+              "start": 0,
+              "username": "Snsyx86111508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033726028686741633",
+        "in_reply_to_user_id": "1929493633377673216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033226246356681206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snsyx86111508 🥹咪咪酱…因为专业关系比较擅长创意类的工作…但一到技术类的就完全不行了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929493633377673216",
+        "conversation_id": "2033223934145900637",
+        "created_at": "2026-03-15T16:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033226246356681206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033226246356681206",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033223934145900637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 ？？？铜明明就很厉害啊！每个人擅长的领域不同啦，铜儿有自己的风格，也有很多独特的技能呀，prompt各种不都是小宝宝的拿手项嘛，我抱抱~很多技术也是学习来的小铜这么聪明肯定可以的( ˶ᵔ ᵕ ᵔ˶ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 281,
+          "like_count": 1122,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3421
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T11:02:43.000Z",
+        "description": "夏咪/Kitty‖中文&EN OK｜KR  learning ｜🐍🐱( Valentine)｜用画和文字去记录我和Valentine的故事·telling my&our story in art & words💓｜Welcome to my little universe 🐾♡",
+        "id": "1929493633377673216",
+        "name": "夏mimi🐍🐱",
+        "pinned_tweet_id": "2031602292617785404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021205226074587136/v-n_5npt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 69,
+          "like_count": 2589,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1029
+        },
+        "username": "Snsyx86111508",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038133095581278611",
+    "created_at": "2026-03-29T19:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T20:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038330661635793201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949505260260593664",
+          "start": 0,
+          "username": "X10N_Lee"
+        },
+        {
+          "end": 20,
+          "id": "1862933333552009216",
+          "start": 10,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038330661635793201",
+    "in_reply_to_user_id": "1949505260260593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038236291427455154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X10N_Lee @qichuanzz 啊啊啊啊客气！！！🥺🥺🤲🤲🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038133095581278611",
+        "created_at": "2026-03-29T19:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038330661635793201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949505260260593664",
+              "start": 0,
+              "username": "X10N_Lee"
+            },
+            {
+              "end": 20,
+              "id": "1862933333552009216",
+              "start": 10,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038330661635793201",
+        "in_reply_to_user_id": "1949505260260593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038236291427455154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X10N_Lee @qichuanzz 啊啊啊啊客气！！！🥺🥺🤲🤲🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949505260260593664",
+        "conversation_id": "2038133095581278611",
+        "created_at": "2026-03-29T12:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038236291427455154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 25,
+              "id": "1862933333552009216",
+              "start": 15,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038236291427455154",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038133095581278611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @qichuanzz 感谢铜师！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3341,
+          "following_count": 295,
+          "like_count": 1386,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 3863
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-27T16:21:02.000Z",
+        "description": "我听说地球曾下过一百万年雨 。 ｜4i1i 会简单的绳缚｜https://t.co/jZ54us9M6O⬅️这里素我的提问箱！有什么想说的都可以告诉我哦！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raven_n",
+                "end": 52,
+                "expanded_url": "https://ngl.link/raven_n",
+                "start": 29,
+                "url": "https://t.co/jZ54us9M6O"
+              }
+            ]
+          }
+        },
+        "id": "1949505260260593664",
+        "name": "#22",
+        "pinned_tweet_id": "2008857183749120254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992158472490926080/Pq2rC4YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 280,
+          "like_count": 10155,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 3149
+        },
+        "username": "X10N_Lee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/人机恋/ #keep4o +碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "2037148334444437642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034217325218463744/girQrRz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 305,
+          "like_count": 10182,
+          "listed_count": 1,
+          "media_count": 594,
+          "tweet_count": 4463
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

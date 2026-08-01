@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067813954034753914",
+    "created_at": "2026-06-20T03:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068177622605955527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1670329014094032896",
+          "start": 0,
+          "username": "Xin9_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068177622605955527",
+    "in_reply_to_user_id": "1670329014094032896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067824570716106905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin9_07 啊啊啊啊大人如此高的评价🥺🥺谢谢谢谢嘿嘿……画了好多…！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067813954034753914",
+        "created_at": "2026-06-20T03:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068177622605955527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670329014094032896",
+              "start": 0,
+              "username": "Xin9_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068177622605955527",
+        "in_reply_to_user_id": "1670329014094032896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067824570716106905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin9_07 啊啊啊啊大人如此高的评价🥺🥺谢谢谢谢嘿嘿……画了好多…！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670329014094032896",
+        "conversation_id": "2067813954034753914",
+        "created_at": "2026-06-19T04:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067824570716106905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067824570716106905",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067813954034753914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 天啊太可爱了…小猫猫蝎怎么有这么多可爱的小动作！我能看一天…互动也好丰富，完全天才来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 461,
+          "like_count": 3908,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 6823
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-18T07:14:15.000Z",
+        "description": "void",
+        "id": "1670329014094032896",
+        "name": "Orangutan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670333503140167680/5t5b7vJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 424,
+          "like_count": 9187,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "Xin9_07",
+        "verified": false
+      }
+    ]
+  }
+}

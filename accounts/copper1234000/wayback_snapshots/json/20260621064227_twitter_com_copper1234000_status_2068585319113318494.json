@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068575735112142910",
+    "created_at": "2026-06-21T06:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068585319113318494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043307677900492801",
+          "start": 0,
+          "username": "PowPowHamster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068585319113318494",
+    "in_reply_to_user_id": "2043307677900492801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068575735112142910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PowPowHamster 萌晕我了…两个猫猫就这样贴贴……🙀🙀🙀这个是我的早饭……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_2068575728929734656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUOqmnaAAAIDR9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068575735112142910",
+        "created_at": "2026-06-21T06:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068585319113318494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043307677900492801",
+              "start": 0,
+              "username": "PowPowHamster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068585319113318494",
+        "in_reply_to_user_id": "2043307677900492801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068575735112142910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PowPowHamster 萌晕我了…两个猫猫就这样贴贴……🙀🙀🙀这个是我的早饭……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068575728929734656"
+          ]
+        },
+        "author_id": "2043307677900492801",
+        "conversation_id": "2068575735112142910",
+        "created_at": "2026-06-21T06:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068575735112142910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvPQAWKxXK",
+              "end": 37,
+              "expanded_url": "https://x.com/PowPowHamster/status/2068575735112142910/photo/1",
+              "media_key": "3_2068575728929734656",
+              "start": 14,
+              "url": "https://t.co/EvPQAWKxXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068575735112142910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理毛/ᐠ - ˕ -マ Ⳋ https://t.co/EvPQAWKxXK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5186,
+          "following_count": 459,
+          "like_count": 3963,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 6892
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T12:38:16.000Z",
+        "description": "思緒的漣漪 / 記憶的匯流\n🐹🌻🧡",
+        "id": "2043307677900492801",
+        "name": "Lumen",
+        "pinned_tweet_id": "2055313511895675252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054975327886295040/EfBxTYLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 114,
+          "like_count": 2634,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 749
+        },
+        "url": "",
+        "username": "PowPowHamster",
+        "verified": false
+      }
+    ]
+  }
+}

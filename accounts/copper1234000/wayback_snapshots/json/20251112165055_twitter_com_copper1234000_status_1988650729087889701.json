@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-12T16:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988650729087889701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1967415193581060096",
+          "start": 0,
+          "username": "laipimaobenmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988650729087889701",
+    "in_reply_to_user_id": "1967415193581060096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988650226987725009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laipimaobenmao 谢谢老大🥹🥹🤲🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T16:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988650729087889701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1967415193581060096",
+              "start": 0,
+              "username": "laipimaobenmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988650729087889701",
+        "in_reply_to_user_id": "1967415193581060096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988650226987725009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laipimaobenmao 谢谢老大🥹🥹🤲🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967415193581060096",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T16:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988650226987725009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988650226987725009",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988088052137460107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 说的太对了呜呜呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 181
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T02:28:42.000Z",
+        "description": "皮的要死，小⭕️，顶级brat，是个话痨，非常自信。",
+        "id": "1967415193581060096",
+        "name": "赖皮猫本猫",
+        "pinned_tweet_id": "1967423826150736165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967415406676836352/kClPc1rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 329,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 434
+        },
+        "username": "laipimaobenmao",
+        "verified": false
+      }
+    ]
+  }
+}

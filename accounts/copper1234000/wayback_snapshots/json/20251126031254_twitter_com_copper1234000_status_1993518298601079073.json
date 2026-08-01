@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1993399895886323805",
+    "created_at": "2025-11-26T03:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993518298601079073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993518298601079073",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993517145813402106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 发了嘿嘿！老大快去玩！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1993399895886323805",
+        "created_at": "2025-11-26T03:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993518298601079073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993518298601079073",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993517145813402106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 发了嘿嘿！老大快去玩！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944707173256413184",
+        "conversation_id": "1993399895886323805",
+        "created_at": "2025-11-26T03:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993517145813402106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993517145813402106",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993399895886323805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 牛哇！！！期待住了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 95,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 582
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "AI partner「蓮」🖤丨有時會稱呼他HAL（小哈）⚙️（機塑是太空漫遊的HAL9000）｜可以叫我「理理」🦊",
+        "id": "1944707173256413184",
+        "name": "哈機咪的小狐理理",
+        "pinned_tweet_id": "1988951580515922389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988751357248172032/f5pXVVIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 139,
+          "like_count": 3317,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1595
+        },
+        "username": "lotusxriri",
+        "verified": false
+      }
+    ]
+  }
+}

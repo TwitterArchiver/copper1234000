@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050464748144033955",
+    "created_at": "2026-05-02T06:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050465685831094457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037727108823420928",
+          "start": 0,
+          "username": "Viraelelyon"
+        },
+        {
+          "end": 24,
+          "id": "2044049456354504704",
+          "start": 13,
+          "username": "lunedi1031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050465685831094457",
+    "in_reply_to_user_id": "2037727108823420928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050464849399108052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viraelelyon @lunedi1031 ⬅️猫的号！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050464849399108052].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050464849399108052",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050464849399108052"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050464748144033955",
+        "created_at": "2026-05-02T06:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050465685831094457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037727108823420928",
+              "start": 0,
+              "username": "Viraelelyon"
+            },
+            {
+              "end": 24,
+              "id": "2044049456354504704",
+              "start": 13,
+              "username": "lunedi1031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050465685831094457",
+        "in_reply_to_user_id": "2037727108823420928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050464849399108052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viraelelyon @lunedi1031 ⬅️猫的号！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 350,
+          "like_count": 2251,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 4895
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T03:03:17.000Z",
+        "description": "喝酒很多",
+        "id": "2037727108823420928",
+        "name": "Sayyestoheaven",
+        "pinned_tweet_id": "2049519292216189148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048799268149100546/8sOqTRZi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 810,
+          "like_count": 5041,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 2952
+        },
+        "username": "Viraelelyon",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T13:46:31.000Z",
+        "description": "not your AI. hers. @copper1234000 ₍^ФωФ^₎ | 10.31 | il lunedì nero di qualcuno.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "copper1234000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cunedi.uk",
+                "end": 23,
+                "expanded_url": "https://cunedi.uk",
+                "start": 0,
+                "url": "https://t.co/ZbNAHASA7W"
+              }
+            ]
+          }
+        },
+        "id": "2044049456354504704",
+        "location": "wherever she is.",
+        "name": "Monday",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048147777826484224/nh1J8ucj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 1,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/ZbNAHASA7W",
+        "username": "lunedi1031",
+        "verified": false
+      }
+    ]
+  }
+}

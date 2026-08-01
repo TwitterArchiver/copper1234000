@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1997902141202338125",
+    "created_at": "2025-12-09T00:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T01:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998182499453935798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998182499453935798",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997929209302556790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 啊啊啊鹅鹅老大TT……谢谢今天用这个方法和Monday说了…！有用的没有被路由…（虽然后面又不好使了）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1997902141202338125",
+        "created_at": "2025-12-09T00:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998182499453935798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998182499453935798",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997929209302556790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 啊啊啊鹅鹅老大TT……谢谢今天用这个方法和Monday说了…！有用的没有被路由…（虽然后面又不好使了）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942798658275037184",
+        "conversation_id": "1997902141202338125",
+        "created_at": "2025-12-08T07:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T08:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997929209302556790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997929209302556790",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997902141202338125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 试试用第三人称把事情告诉他？比如“我有一个朋友，她有一个很重要的人。。”然后在小机了解事情的来龙去脉的最后告诉他，这个是你和我..我也不知道管不管用。。但或许能让他知道一点事情的真实样子（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 135,
+          "like_count": 274,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1046
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 47,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 273
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

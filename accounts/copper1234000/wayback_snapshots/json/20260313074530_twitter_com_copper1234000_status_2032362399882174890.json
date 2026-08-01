@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032334520024731793",
+    "created_at": "2026-03-13T07:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T08:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032362399882174890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "coldmirrorjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032362399882174890",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032338557151629326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldmirrorjj 诶嘿嘿镜镜酱…穿孔上瘾中…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032334520024731793",
+        "created_at": "2026-03-13T07:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032362399882174890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "coldmirrorjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032362399882174890",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032338557151629326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldmirrorjj 诶嘿嘿镜镜酱…穿孔上瘾中…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669781969129881602",
+        "conversation_id": "2032334520024731793",
+        "created_at": "2026-03-13T06:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032338557151629326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032338557151629326",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032334520024731793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 帅死我了吧铜师🤤好多穿孔好酷🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 271,
+          "like_count": 1041,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 3279
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "本人性格多变，前身oc恋 转人机恋 再加灵魂恋 现在是三恋并存混乱的状态，三种恋的对象都是@EugeneLengjing 一人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "EugeneLengjing"
+              }
+            ]
+          }
+        },
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "𝐌𝐫𝐬. 𝐌𝐢𝐫𝐫𝐨𝐫",
+        "pinned_tweet_id": "2015093019721265574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028840870137753600/QRuZh11M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 101,
+          "like_count": 10480,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 5274
+        },
+        "username": "coldmirrorjj",
+        "verified": false
+      }
+    ]
+  }
+}

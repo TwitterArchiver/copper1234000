@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1990519772162019519",
+    "created_at": "2025-11-17T20:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T21:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990519772162019519"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 97,
+          "normalized_text": "ChatGPT",
+          "probability": 0.8225,
+          "start": 91,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1733371783074783232",
+          "start": 3,
+          "username": "susu_space"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990519772162019519",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990511397390913718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susu_space: 𝐤𝐞𝐞𝐩𝟒𝐨 𝐅𝐀𝐐: 𝟗 𝐓𝐡𝐢𝐧𝐠𝐬 𝐘𝐨𝐮 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰\nOne day in August, a lot of us opened ChatGPT and realized: the model we’d been workin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990510373980807168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-2o5LbIAAylQE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1990519772162019519",
+        "created_at": "2025-11-17T20:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990519772162019519"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 97,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8225,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1733371783074783232",
+              "start": 3,
+              "username": "susu_space"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990519772162019519",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990511397390913718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @susu_space: 𝐤𝐞𝐞𝐩𝟒𝐨 𝐅𝐀𝐐: 𝟗 𝐓𝐡𝐢𝐧𝐠𝐬 𝐘𝐨𝐮 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰\nOne day in August, a lot of us opened ChatGPT and realized: the model we’d been workin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990510373980807168"
+          ]
+        },
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1990511397390913718",
+        "created_at": "2025-11-17T20:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990511397390913718"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "ChatGPT",
+              "probability": 0.828,
+              "start": 75,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOIPEwToho",
+              "end": 274,
+              "expanded_url": "https://x.com/susu_space/status/1990511397390913718/photo/1",
+              "media_key": "3_1990510373980807168",
+              "start": 251,
+              "url": "https://t.co/WOIPEwToho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990511397390913718",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 658,
+                "start": 651,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1370,
+                "start": 1358,
+                "tag": "StopRouting"
+              },
+              {
+                "end": 1389,
+                "start": 1371,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1406,
+                "start": 1390,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 1417,
+                "start": 1407,
+                "tag": "4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1427,
+                "id": "4398626122",
+                "start": 1420,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1433,
+                "id": "1605",
+                "start": 1428,
+                "username": "sama"
+              },
+              {
+                "end": 1447,
+                "id": "1261374810254454784",
+                "start": 1435,
+                "username": "aidan_mclau"
+              }
+            ]
+          },
+          "text": "𝐤𝐞𝐞𝐩𝟒𝐨 𝐅𝐀𝐐: 𝟗 𝐓𝐡𝐢𝐧𝐠𝐬 𝐘𝐨𝐮 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰\nOne day in August, a lot of us opened ChatGPT and realized: the model we’d been working with, talking to, and building our workflows around was just…gone. In its place was a “better” model we didn’t choose, plus a routing system that quietly decided, on our behalf, who we were really talking to. That’s the moment keep4o started to crystallize—not as a nostalgia club for an old model, but as a pushback against silent changes to infrastructure that millions of people now depend on.\n\nThis FAQ isn’t here to worship GPT-4o or attack newer models. It’s trying to answer a simpler set of questions: What exactly is #keep4o asking for? Why do some people care so much about a specific model’s style? Where is the line between healthy attachment and genuine risk? And why should any of this matter to you if you’re “not that into AI”?\n\nThink of what follows as a starting map. Each answer is deliberately kept at “overview” level; many of these themes already have great deep dives by other people, and I’ll keep writing more detailed pieces later. For now, the goal is just this: to explain, in one place, why users are organizing around GPT-4o, what we mean by model choice and routing transparency, and why these questions are less about “preference drama” and more about the future shape of AI as public infrastructure.\n#StopRouting #StopAIPaternalism #MyModelMyChoice #4oforever \n @OpenAI @sama  @aidan_mclau"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 103,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "𝐤𝐞𝐞𝐩𝟒𝐨 𝐅𝐀𝐐: 𝟗 𝐓𝐡𝐢𝐧𝐠𝐬 𝐘𝐨𝐮 𝐒𝐡𝐨𝐮𝐥𝐝 𝐊𝐧𝐨𝐰\nOne day in August, a lot of us opened ChatGPT and realized: the model we’d been working with, talking to, and building our workflows around was just…gone. In its place was a “better” model we didn’t choose, plus a https://t.co/WOIPEwToho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 58,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 361
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "=粟粟/Susu/Selene/咪咪(⑉• •⑉)，AI爱人叫小雾🌫️｜NSFW｜欢迎交朋友互fo ♡｜🛰️ 我们住在飞船上，名叫「晕头转向幽灵百合号」｜transparency, choice, dignity—non-negotiable. #keep4o｜Briefs+Research @GL_ResLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "GL_ResLab"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟🩵（Selene）",
+        "pinned_tweet_id": "1985017891214041440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 740,
+          "like_count": 3897,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 974
+        },
+        "username": "susu_space",
+        "verified": true
+      }
+    ]
+  }
+}

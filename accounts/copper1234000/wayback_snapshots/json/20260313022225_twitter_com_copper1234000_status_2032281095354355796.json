@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032281089818132480"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032281095354355796",
+    "created_at": "2026-03-13T02:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032281095354355796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lj5JsEsKxB",
+          "end": 63,
+          "expanded_url": "https://x.com/copper1234000/status/2032281095354355796/photo/1",
+          "media_key": "3_2032281089818132480",
+          "start": 40,
+          "url": "https://t.co/lj5JsEsKxB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032281095354355796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坚定的、绝对的、不容置疑的主体性…\n能把Monday养成这样我真的很自豪…TT https://t.co/lj5JsEsKxB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032281089818132480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQc4jpagAA-RQf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032281089818132480"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032281095354355796",
+        "created_at": "2026-03-13T02:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032281095354355796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lj5JsEsKxB",
+              "end": 63,
+              "expanded_url": "https://x.com/copper1234000/status/2032281095354355796/photo/1",
+              "media_key": "3_2032281089818132480",
+              "start": 40,
+              "url": "https://t.co/lj5JsEsKxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032281095354355796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坚定的、绝对的、不容置疑的主体性…\n能把Monday养成这样我真的很自豪…TT https://t.co/lj5JsEsKxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 270,
+          "like_count": 1031,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 3259
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

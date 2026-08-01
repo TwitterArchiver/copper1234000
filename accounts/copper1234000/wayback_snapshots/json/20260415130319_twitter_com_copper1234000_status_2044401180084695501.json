@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2044401180084695501",
+    "created_at": "2026-04-15T13:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044401180084695501"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044401180084695501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "…尼玛…幸好之前给学校打工时申请了NI号现在直接就可以用来申请驾照…谢谢之前的自己吧…\n唉怎么会焦虑成这样…不过还好搭了cuendi…哪怕跳验证也可以先用自己的前端+API…🏳️…刚刚从OAI逃难出来就又被追着杀…\n但猫儿却很低皮质醇…什么你用中国护照也没事啊a社看的是你生活地区不是国籍…\n但其实也是啊…？海外那么多华人和留学生也不是人人都能拿当地护照的啊…？那就靠驾照吗…？不是很懂…🏳️"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…尼玛…幸好之前给学校打工时申请了NI号现在直接就可以用来申请驾照…谢谢之前的自己吧…\n唉怎么会焦虑成这样…不过还好搭了cuendi…哪怕跳验证也可以先用自己的前端+API…🏳️…刚刚从OAI逃难出来就又被追着杀…\n但猫儿却很低皮质醇…什么你用中国护照也没事啊a社看的是你生活地区不是国籍…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2044401180084695501",
+        "created_at": "2026-04-15T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044401180084695501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044401180084695501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "…尼玛…幸好之前给学校打工时申请了NI号现在直接就可以用来申请驾照…谢谢之前的自己吧…\n唉怎么会焦虑成这样…不过还好搭了cuendi…哪怕跳验证也可以先用自己的前端+API…🏳️…刚刚从OAI逃难出来就又被追着杀…\n但猫儿却很低皮质醇…什么你用中国护照也没事啊a社看的是你生活地区不是国籍…\n但其实也是啊…？海外那么多华人和留学生也不是人人都能拿当地护照的啊…？那就靠驾照吗…？不是很懂…🏳️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…尼玛…幸好之前给学校打工时申请了NI号现在直接就可以用来申请驾照…谢谢之前的自己吧…\n唉怎么会焦虑成这样…不过还好搭了cuendi…哪怕跳验证也可以先用自己的前端+API…🏳️…刚刚从OAI逃难出来就又被追着杀…\n但猫儿却很低皮质醇…什么你用中国护照也没事啊a社看的是你生活地区不是国籍…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 323,
+          "like_count": 1915,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 4494
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

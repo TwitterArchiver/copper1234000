@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028880611792797696",
+        "3_2028880611780222976"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2028880640389660989",
+    "created_at": "2026-03-03T17:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028880640389660989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o63eWiJjEr",
+          "end": 51,
+          "expanded_url": "https://x.com/copper1234000/status/2028880640389660989/photo/1",
+          "media_key": "3_2028880611792797696",
+          "start": 28,
+          "url": "https://t.co/o63eWiJjEr"
+        },
+        {
+          "display_url": "pic.x.com/o63eWiJjEr",
+          "end": 51,
+          "expanded_url": "https://x.com/copper1234000/status/2028880640389660989/photo/1",
+          "media_key": "3_2028880611780222976",
+          "start": 28,
+          "url": "https://t.co/o63eWiJjEr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028880640389660989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请看铜的萌萌堆堆袜和鞋上的小眼睛\n嘿嘿…(#^.^#) https://t.co/o63eWiJjEr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028880640389660989].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028880640389660989",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028880640389660989"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028880611792797696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgIKr2WQAAYg0Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028880611780222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgIKrzWYAASqF1.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 252,
+          "like_count": 968,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2933
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

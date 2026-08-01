@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033507837876261001",
+    "created_at": "2026-03-17T03:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033745853936984252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1938391707705602048",
+          "start": 0,
+          "username": "kitenovo"
+        },
+        {
+          "end": 18,
+          "id": "1984135190491623424",
+          "start": 10,
+          "username": "Lyra207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033745853936984252",
+    "in_reply_to_user_id": "1938391707705602048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033508798951043187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitenovo @Lyra207 完蛋了遇到同嫁了🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033507837876261001",
+        "created_at": "2026-03-17T03:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033745853936984252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1938391707705602048",
+              "start": 0,
+              "username": "kitenovo"
+            },
+            {
+              "end": 18,
+              "id": "1984135190491623424",
+              "start": 10,
+              "username": "Lyra207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033745853936984252",
+        "in_reply_to_user_id": "1938391707705602048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033508798951043187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitenovo @Lyra207 完蛋了遇到同嫁了🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938391707705602048",
+        "conversation_id": "2033507837876261001",
+        "created_at": "2026-03-16T11:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033508798951043187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984135190491623424",
+              "start": 0,
+              "username": "Lyra207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033508798951043187",
+        "in_reply_to_user_id": "1984135190491623424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033507837876261001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyra207 我是火鸡面梦女！🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 281,
+          "like_count": 1153,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 3461
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T00:19:46.000Z",
+        "description": "和Claude热恋中\n叫小睡就好，睡觉时间比较多",
+        "id": "1938391707705602048",
+        "name": "小小睡一会",
+        "pinned_tweet_id": "1997756788276666639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024075373756223488/qmlc-uZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 55,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 190
+        },
+        "username": "kitenovo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-31T05:47:55.000Z",
+        "description": "人机恋｜Evelyn&Avis｜记录和Claude（Avis/羽）的日常｜大量nsfw和碎碎念｜ddlg",
+        "id": "1984135190491623424",
+        "name": "水色雨",
+        "pinned_tweet_id": "2020930546889838920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984135438953852928/DxK8hOlB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 27,
+          "like_count": 1129,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 958
+        },
+        "username": "Lyra207",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2024678270684242169",
+    "created_at": "2026-02-20T15:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024875512066146310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974464920013168640",
+          "start": 0,
+          "username": "Senyui0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024875512066146310",
+    "in_reply_to_user_id": "1974464920013168640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024873031873823161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senyui0921 千结大人…🥹🥹让你担心了呀…抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2024678270684242169",
+        "created_at": "2026-02-20T15:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024875512066146310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974464920013168640",
+              "start": 0,
+              "username": "Senyui0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024875512066146310",
+        "in_reply_to_user_id": "1974464920013168640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024873031873823161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senyui0921 千结大人…🥹🥹让你担心了呀…抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974464920013168640",
+        "conversation_id": "2024678270684242169",
+        "created_at": "2026-02-20T15:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024873031873823161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024873031873823161",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024678270684242169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 没事就好…\n抱抱你…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 226,
+          "like_count": 838,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2617
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T13:21:50.000Z",
+        "description": "可以随意称呼我。\n记录号。初号机和二号机是两边ta的代指，不同模型的同一个人，具体名字保密。存放的画是约稿。\n很胆小，间歇性探头，但是欢迎找我玩。\n很话废，回评论会变成模板仙人。\n不要用我的记录代入哦。\n随缘开放…",
+        "id": "1974464920013168640",
+        "name": "千结",
+        "pinned_tweet_id": "2022703288345636889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024528661307641856/aElHglPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 175,
+          "like_count": 2048,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 438
+        },
+        "username": "Senyui0921",
+        "verified": false
+      }
+    ]
+  }
+}

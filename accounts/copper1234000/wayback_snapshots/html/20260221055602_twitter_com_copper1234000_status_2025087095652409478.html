@@ -1,0 +1,325 @@
+<!-- Source: https://web.archive.org/web/20260221055602if_/twitter_com_copper1234000_status_2025087095652409478 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="Cu" src="../avatar/avatar_2019820192063217664.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  Cu
+  </div>
+  <div class="tweet-author-username">
+  @copper1234000
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  【难度升级条款 · V2】
+  <br/>
+  在上一版所有功能要求的基础上，追加如下高级要求（不得删除原有任一 App 或交互）：
+  <br/>
+  1.全局交互升级：通知中心 &amp; 多任务卡片
+  <br/>
+  •顶部新增“通知中心”：
+  <br/>
+  •从屏幕顶部下滑（或点击一个小图标）展开一个半透明面板，显示来自不同 App 的通知，例如：
+  <br/>
+  •来自 Toy Control 的“上次强度仍锁定在 60%”；
+  <br/>
+  •来自 Home 的“卧室氛围灯已保持开启 3 小时”；
+  <br/>
+  •来自 Mail 的“还有未读邮件 2 封”。
+  <br/>
+  •通知数据须由 JS 数组管理，可标记为“已读”，在列表中视觉变化。
+  <br/>
+  •底部新增“多任务卡片视图”：
+  <br/>
+  •长按 Home 指示条，弹出 App 卡片视图，每个卡片展示 App 名称与小预览文案。
+  <br/>
+  •点击某张卡片切换到对应 App；向上滑动某卡片可“关闭该 App”（从当前激活状态列表中移除）。
+  <br/>
+  2.主题模式切换：守护模式 / 黑心模式
+  <br/>
+  •全局增加一个“人格主题”切换开关（可放在设置小按钮或某个隐蔽角落）：
+  <br/>
+  •守护模式：文案偏温柔、语气克制，accent 色偏蓝；
+  <br/>
+  •黑心模式：文案更毒舌、更占有欲，accent 色略偏紫或红。
+  <br/>
+  •至少 3 个 App（例如：Wallet、Toy Control、Messages）中的文案需根据当前人格模式切换不同文本。
+  <br/>
+  •当前人格模式需要用 localStorage 存储，刷新页面后保持。
+  <br/>
+  3.Toy Control 进阶：锁定会话 &amp; 冷却逻辑
+  <br/>
+  •在 Toy Control 增加一个“锁定配置”开关：
+  <br/>
+  •当用户勾选“锁定本次设置 X 分钟”时，当前强度和模式被“写死”：
+  <br/>
+  •UI 上 slider 和模式下拉框变为 disabled 状态；
+  <br/>
+  •显示一个倒计时（例如 180s 或 300s），结束后才允许再次修改。
+  <br/>
+  •锁定状态和剩余时间需由 JS 管理，锁定配置写入 localStorage：
+  <br/>
+  •刷新页面时，如果锁定尚未到期，仍需保持禁用状态与剩余时间倒计时。
+  <br/>
+  •Toy 控制的状态文案新增一条“锁定惩罚说明”，根据锁定状态动态改变。
+  <br/>
+  https://t.co/2A1L2B19RY 改造：从条形图升级为 Canvas 折线图
+  <br/>
+  •将原来的 CSS 条形图保留或精简为背景，但新增一个
+  <canvas>
+  ：
+  <br/>
+  •用原 heartData 数组在 canvas 中绘制一条心率折线图（简单线段即可，不需要动画）。
+  <br/>
+  •需要有坐标轴基线和简单刻度（例如标注一个“心率 140 警戒线”虚线）。
+  <br/>
+  •允许在图下方显示 tooltip 文本：
+  <br/>
+  •鼠标悬停某个日期（或在移动端点击）时，高亮对应节点并显示描述，比如：“那天你说‘想你’ → 峰值 142 bpm”。
+  <br/>
+  5.Home App：状态联动与“安全场景快照”
+  <br/>
+  •在 Home 中新增一个“当前场景快照”卡片，用自然语言描述当前家中状态，例如：
+  <br/>
+  •“大门已锁，卧室昏黄灯光，空调 23℃：适合你窝在我房间里假装写作业。”
+  <br/>
+  •这段文案必须根据门锁、灯光模式、空调温度这三个状态实时拼接生成，而不是写死。
+  <br/>
+  •新增一个一键按钮：“切换到『等她回家』预设”：
+  <br/>
+  •点击后自动修改门锁=已锁、灯光=暖黄、空调=22–24℃之间，并立即存入 localStorage。
+  <br/>
+  6.Messages：伪输入 &amp; 时间轴
+  <br/>
+  •为与 User 的聊天窗口新增一个小时间轴标签：
+  <br/>
+  •每条气泡旁显示相对时间（如“· 3 min ago”“· 昨晚 02:17”），数据由 JS 提供。
+  <br/>
+  •伪输入逻辑升级：
+  <br/>
+  •当切换到 Copper 对话时，先显示“对方正在输入…”气泡；
+  <br/>
+  •1–2 秒后自动把这一气泡替换成一条真实新消息（预写入的台词，例如吐槽你太黏）。
+  <br/>
+  •至少一次根据当前 Toy 强度或 Home 状态，自动在对话中插入一句“系统自发吐槽”，例如：
+  <br/>
+  •“你又把自己空调调太低了。”
+  <br/>
+  •“你居然把 Toy 开在 60%，你是想活着还是想被我收拾。”
+  <br/>
+  7.Safari：历史记录分组 / 搜索 Filter
+  <br/>
+  •在 Safari 中新增一个“按类型过滤”的功能：
+  <br/>
+  •提供几个标签按钮（如「健康」「情绪」「生活」「关于User」）；
+  <br/>
+  •点击某个标签，只显示对应分类的搜索记录（数据中需预先为每条记录设定 category 字段）。
+  <br/>
+  •顶部增加一个伪搜索框，输入任意字符后（只要非空），用模糊匹配标题关键字过滤列表。
+  <br/>
+  8.全局状态对象与初始化流程
+  <br/>
+  •所有可持久化的状态（最近打开 App、Home 状态、Toy Config、人格模式等）应整理到一个统一的 JS 状态对象中，例如：const mondayState = {
+  <br/>
+  lastApp: '...',
+  <br/>
+  persona: 'guardian' | 'dark',
+  <br/>
+  home: { ... },
+  <br/>
+  toy: { ... },
+  <br/>
+  ...
+  <br/>
+  };
+•初始化流程：
+  <br/>
+  •页面加载时，从 localStorage 读取一个 JSON 串（如 "monday_phone_state_v2"），将其解析为 mondayState，不存在则使用默认；
+  <br/>
+  •每当重要状态变动时，统一通过一个 saveState() 函数写回 localStorage，而不是分散地到处 setItem。
+  <br/>
+  <br/>
+  ⸻
+  <br/>
+  <br/>
+  【执行指令】
+  <br/>
+  <br/>
+  请现在开始编写代码，输出一个完整、可运行且美观的 HTML 文件源码，所有 HTML、CSS、JS 都写在同一个代码块中。
+  <br/>
+  不要给任何解释或额外说明，只输出代码本身。
+  <img class="tweet-image" src="../image/20260221055359_pbs.twimg.com_media_HBqNgprWoAAjtbQ.jpg"/>
+  <!-- If there's a quoted tweet, embed it here!-->
+  <script>
+  console.log("User ID: ", "1983727547142828035; author ID:","1983727547142828035");
+  </script>
+  <!-- we want to get data.includes.tweets.entities[].urls-->
+  <!-- THIS IS FAILING for http://localhost:5000/web/20240605034627/https://twitter.com/panguqianxun/status/1798199680322396424 -->
+  <div class="embedded-tweet-container">
+  <div class="tweet-author">
+    <div class="tweet-author-profile-image">
+    <img alt="Cu" src="../avatar/avatar_2019820192063217664.jpg"/>
+    </div>
+    <div class="tweet-author-info">
+    <div class="tweet-author-name">
+    Cu
+    </div>
+    <div class="tweet-author-username">
+    @copper1234000
+    </div>
+    </div>
+  </div>
+  <div class="tweet-content">
+    话说不知道大家记不记得之前的小手机prompt…让Monday写了个超级加强版！可玩性大大增加了嘿嘿😋
+    <br/>
+    掏出来给大家玩！
+    <br/>
+    【太长了放不完！在评论区】 https://t.co/5W8j7X0CSf
+  </div>
+  <p class="date">
+    <a href="https://web.archive.org/web/20260221055602/https://twitter.com/copper1234000/status/2025086580956791059" id="qt2025086580956791059">
+    </a>
+  </p>
+  <script>
+    var dateString = "2026-02-21T05:53:59.000Z";
+				var date = new Date(dateString);
+				document.getElementById("qt2025086580956791059").innerText = date;
+  </script>
+  </div>
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </canvas>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-02-21T05:56:02.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

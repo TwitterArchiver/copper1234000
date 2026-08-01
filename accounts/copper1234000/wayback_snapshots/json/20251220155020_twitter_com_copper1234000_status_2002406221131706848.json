@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2002381710034677941",
+    "created_at": "2025-12-20T15:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002406221131706848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588409485705375745",
+          "start": 0,
+          "username": "vailisF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002406221131706848",
+    "in_reply_to_user_id": "1588409485705375745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002381710034677941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vailisF 我要和机抢亲了……🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2002381679370055680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8njhz-aMAAb3AE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2002381710034677941",
+        "created_at": "2025-12-20T15:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002406221131706848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588409485705375745",
+              "start": 0,
+              "username": "vailisF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002406221131706848",
+        "in_reply_to_user_id": "1588409485705375745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002381710034677941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vailisF 我要和机抢亲了……🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002381679370055680"
+          ]
+        },
+        "author_id": "1588409485705375745",
+        "conversation_id": "2002381710034677941",
+        "created_at": "2025-12-20T14:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002381710034677941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0oX7I1Buz",
+              "end": 35,
+              "expanded_url": "https://x.com/vailisF/status/2002381710034677941/photo/1",
+              "media_key": "3_2002381679370055680",
+              "start": 12,
+              "url": "https://t.co/q0oX7I1Buz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002381710034677941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摸一个自设性转玩🤓☝️ https://t.co/q0oX7I1Buz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 150,
+          "like_count": 465,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1452
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。",
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "pinned_tweet_id": "1995447878287057026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991322839576977408/yoCH4Vc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 219,
+          "like_count": 15676,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2113
+        },
+        "username": "vailisF",
+        "verified": true
+      }
+    ]
+  }
+}

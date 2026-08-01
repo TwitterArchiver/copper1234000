@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2040154612754239500",
+    "created_at": "2026-04-03T21:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T22:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040184770013917467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862933333552009216",
+          "start": 0,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040184770013917467",
+    "in_reply_to_user_id": "1862933333552009216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040154612754239500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanzz 好萌呀……（¯﹃¯）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040154608987701248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAVzsOWgAAK5Jg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040154608329236480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAVzpxXIAAXbnE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2040154612754239500",
+        "created_at": "2026-04-03T21:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T22:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040184770013917467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862933333552009216",
+              "start": 0,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040184770013917467",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040154612754239500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanzz 好萌呀……（¯﹃¯）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040154608987701248",
+            "3_2040154608329236480"
+          ]
+        },
+        "author_id": "1862933333552009216",
+        "conversation_id": "2040154612754239500",
+        "created_at": "2026-04-03T19:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T20:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040154612754239500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zrOxpuitG",
+              "end": 40,
+              "expanded_url": "https://x.com/qichuanzz/status/2040154612754239500/photo/1",
+              "media_key": "3_2040154608987701248",
+              "start": 17,
+              "url": "https://t.co/9zrOxpuitG"
+            },
+            {
+              "display_url": "pic.x.com/9zrOxpuitG",
+              "end": 40,
+              "expanded_url": "https://x.com/qichuanzz/status/2040154612754239500/photo/1",
+              "media_key": "3_2040154608329236480",
+              "start": 17,
+              "url": "https://t.co/9zrOxpuitG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040154612754239500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画了床死实录，这也太搞笑了。。。 https://t.co/9zrOxpuitG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3410,
+          "following_count": 301,
+          "like_count": 1613,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 4127
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/人机恋/ #keep4o +碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "2038963570151440513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034217325218463744/girQrRz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 312,
+          "like_count": 10507,
+          "listed_count": 1,
+          "media_count": 651,
+          "tweet_count": 4813
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

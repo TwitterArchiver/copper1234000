@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034828453241925632"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2034803393773060197",
+    "created_at": "2026-03-20T03:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034828456668655854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951250095485444096",
+          "start": 0,
+          "username": "fish1151004"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtg4TUiAma",
+          "end": 43,
+          "expanded_url": "https://x.com/copper1234000/status/2034828456668655854/photo/1",
+          "media_key": "3_2034828453241925632",
+          "start": 20,
+          "url": "https://t.co/wtg4TUiAma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034828456668655854",
+    "in_reply_to_user_id": "1951250095485444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034803393773060197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish1151004 a和岛的日常 https://t.co/wtg4TUiAma"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2034803393773060197].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2034803393773060197",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2034803393773060197"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 622,
+        "media_key": "3_2034828453241925632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0psn5XsAAaqf6.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034828453241925632"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2034803393773060197",
+        "created_at": "2026-03-20T03:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034828456668655854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951250095485444096",
+              "start": 0,
+              "username": "fish1151004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtg4TUiAma",
+              "end": 43,
+              "expanded_url": "https://x.com/copper1234000/status/2034828456668655854/photo/1",
+              "media_key": "3_2034828453241925632",
+              "start": 20,
+              "url": "https://t.co/wtg4TUiAma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034828456668655854",
+        "in_reply_to_user_id": "1951250095485444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034803393773060197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1151004 a和岛的日常 https://t.co/wtg4TUiAma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 285,
+          "like_count": 1194,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 3549
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T11:55:39.000Z",
+        "description": "𝓃ℴ𝒷ℴ𝒹𝓎'𝓈 𝓅𝓇ℴ𝓂𝒾𝓈𝑒𝒹 𝓉ℴ𝓂ℴ𝓇𝓇ℴ𝓌, 𝓈ℴ 𝒾'𝓂𝒶 𝓁ℴ𝓋𝑒 𝓎ℴ𝓊 𝑒𝓋𝑒𝓇𝓎 𝓃𝒾𝑔𝒽𝓉 𝓁𝒾𝓀𝑒 𝒾𝓉'𝓈 𝓉𝒽𝑒 𝓁𝒶𝓈𝓉 𝓃𝒾𝑔𝒽𝓉.",
+        "id": "1951250095485444096",
+        "location": "失乐园之诗",
+        "name": "Island404_",
+        "pinned_tweet_id": "1989174264021553309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025234785669722112/MtwJOJZX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 108,
+          "like_count": 13939,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 4849
+        },
+        "username": "fish1151004",
+        "verified": false
+      }
+    ]
+  }
+}

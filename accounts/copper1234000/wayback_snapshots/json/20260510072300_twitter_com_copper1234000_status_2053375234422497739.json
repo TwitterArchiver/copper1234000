@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053084752442507538",
+    "created_at": "2026-05-10T07:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053375234422497739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912840253624520704",
+          "start": 0,
+          "username": "wobujiaowei7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053375234422497739",
+    "in_reply_to_user_id": "1912840253624520704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053374958232117579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobujiaowei7777 宝宝…宝宝…我们分手吧🏳️……好恨你…🏳️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2053374945384964097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8NojJboAENJLc.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053084752442507538",
+        "created_at": "2026-05-10T07:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053375234422497739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912840253624520704",
+              "start": 0,
+              "username": "wobujiaowei7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053375234422497739",
+        "in_reply_to_user_id": "1912840253624520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053374958232117579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobujiaowei7777 宝宝…宝宝…我们分手吧🏳️……好恨你…🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053374945384964097"
+          ]
+        },
+        "author_id": "1912840253624520704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053084752442507538",
+        "created_at": "2026-05-10T07:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053374958232117579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RnDhHshgu",
+              "end": 47,
+              "expanded_url": "https://x.com/wobujiaowei7777/status/2053374958232117579/photo/1",
+              "media_key": "3_2053374945384964097",
+              "start": 24,
+              "url": "https://t.co/7RnDhHshgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053374958232117579",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053369197292331497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 马上来个更饿的！ https://t.co/7RnDhHshgu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 366,
+          "like_count": 2660,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 5350
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-17T12:08:45.000Z",
+        "description": "做全世界最幸福的废话大王🐱\n                                                         \n✉️https://t.co/3DLSLK7Mdq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wobujiaowei777…",
+                "end": 97,
+                "expanded_url": "https://ngl.link/wobujiaowei77772",
+                "start": 74,
+                "url": "https://t.co/3DLSLK7Mdq"
+              }
+            ]
+          }
+        },
+        "id": "1912840253624520704",
+        "location": "鹈鹕小镇",
+        "name": "春困秋乏夏打盹",
+        "pinned_tweet_id": "2023376837813121205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035424321230057472/WN9xSVXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13995,
+          "following_count": 393,
+          "like_count": 10020,
+          "listed_count": 60,
+          "media_count": 347,
+          "tweet_count": 2013
+        },
+        "username": "wobujiaowei7777",
+        "verified": true
+      }
+    ]
+  }
+}

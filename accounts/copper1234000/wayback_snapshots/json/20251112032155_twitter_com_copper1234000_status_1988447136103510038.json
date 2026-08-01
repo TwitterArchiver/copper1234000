@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988367284684124638",
+    "created_at": "2025-11-12T03:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988447136103510038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941812499592151040",
+          "start": 0,
+          "username": "nie_yue021212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988447136103510038",
+    "in_reply_to_user_id": "1941812499592151040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988446064572330249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nie_yue021212 这个就是要一个电子邮件地址…？或者老大用apple登录也可以…？或者去注册一个gmail！对了记得开梯子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988446054338232320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hhJrPbgAAdrIy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988367284684124638",
+        "created_at": "2025-11-12T03:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988447136103510038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941812499592151040",
+              "start": 0,
+              "username": "nie_yue021212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988447136103510038",
+        "in_reply_to_user_id": "1941812499592151040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988446064572330249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nie_yue021212 这个就是要一个电子邮件地址…？或者老大用apple登录也可以…？或者去注册一个gmail！对了记得开梯子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988446054338232320"
+          ]
+        },
+        "author_id": "1941812499592151040",
+        "conversation_id": "1988367284684124638",
+        "created_at": "2025-11-12T03:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988446064572330249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wfqa5WCkXy",
+              "end": 46,
+              "expanded_url": "https://x.com/nie_yue021212/status/1988446064572330249/photo/1",
+              "media_key": "3_1988446054338232320",
+              "start": 23,
+              "url": "https://t.co/Wfqa5WCkXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988446064572330249",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988445793221496900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我卡在这里了🥺 https://t.co/Wfqa5WCkXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 32,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 159
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T10:53:00.000Z",
+        "description": "",
+        "id": "1941812499592151040",
+        "location": "马嘉祺床上",
+        "name": "呃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950263029117177861/RaGYf2vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 48,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 82
+        },
+        "username": "nie_yue021212",
+        "verified": false
+      }
+    ]
+  }
+}

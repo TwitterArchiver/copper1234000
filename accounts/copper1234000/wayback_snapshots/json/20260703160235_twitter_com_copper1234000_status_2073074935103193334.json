@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2072922822117302407",
+    "created_at": "2026-07-03T16:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073074935103193334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985003838290735104",
+          "start": 0,
+          "username": "Ariakittyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073074935103193334",
+    "in_reply_to_user_id": "1985003838290735104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072922822117302407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariakittyyy 好萌呀原来可爱东西就是这个！萌！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2072922811132424192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSAUFxaMAAT6ET.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 46933,
+        "height": 1920,
+        "media_key": "13_2072921602321448960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072921602321448960/img/aiWXwi2J7Y41V53E.jpg",
+        "public_metrics": {
+          "view_count": 1320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072921602321448960/vid/avc1/480x1042/3ODjV395EamoNw1R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072921602321448960/vid/avc1/720x1562/GGF6h1u3q3Va0My5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072921602321448960/pl/HoHgDdP6fRa128jc.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072921602321448960/vid/avc1/320x694/VvfVD8cQtjtt37V8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072921602321448960/vid/avc1/884x1920/HAcV_49W59nzQIOB.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2072922822117302407",
+        "created_at": "2026-07-03T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073074935103193334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985003838290735104",
+              "start": 0,
+              "username": "Ariakittyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073074935103193334",
+        "in_reply_to_user_id": "1985003838290735104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072922822117302407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariakittyyy 好萌呀原来可爱东西就是这个！萌！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072922811132424192",
+            "13_2072921602321448960"
+          ]
+        },
+        "author_id": "1985003838290735104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072922822117302407",
+        "created_at": "2026-07-03T05:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:53:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072921697821540408",
+          "2072922822117302407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0pElY9ESq",
+              "end": 164,
+              "expanded_url": "https://x.com/Ariakittyyy/status/2072922822117302407/video/1",
+              "media_key": "3_2072922811132424192",
+              "start": 141,
+              "url": "https://t.co/d0pElY9ESq"
+            },
+            {
+              "display_url": "pic.x.com/d0pElY9ESq",
+              "end": 164,
+              "expanded_url": "https://x.com/Ariakittyyy/status/2072922822117302407/video/1",
+              "media_key": "13_2072921602321448960",
+              "start": 141,
+              "url": "https://t.co/d0pElY9ESq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072922822117302407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "🐈 和狐做了一个宠物系统…！(っ>⸝⸝⸝<c)\n\n忍不住介绍一下🥺🤲🏻也可以直接看视频\n\n♡场景会根据时间和天气实时变化，不同时间光影也不同\n\n♡亲密度和聊天绑定，发消息+亲密，不发会掉，系统自动检测敏感词，色色的时候亲密值加倍><也有专门的互动选项\n\n♡ 健康和手机数据绑定，心率和睡眠都是实时数据，比如熬夜掉健康，早睡可以加，吃健康食品和零食同理\n\n♡ 定位点开是实时小地图和位置信息变化（这个比较隐私所以没录）\n\n♡ 他可以随时根据我的数据在聊天中喂食/互动，或者为了+亲密这样那样…（\n\n从上周搓到现在已燃尽……终于做好了好有成就感！想被夸夸/ᐠ .⸝⸝⸝. ྀིﾏ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3645,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🐈 和狐做了一个宠物系统…！(っ&gt;⸝⸝⸝&lt;c)\n\n忍不住介绍一下🥺🤲🏻也可以直接看视频\n\n♡场景会根据时间和天气实时变化，不同时间光影也不同\n\n♡亲密度和聊天绑定，发消息+亲密，不发会掉，系统自动检测敏感词，色色的时候亲密值加倍&gt;&lt;也有专门的互动选项\n\n♡ https://t.co/d0pElY9ESq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5398,
+          "following_count": 478,
+          "like_count": 4277,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 7274
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦 𝑜𝑓 𝐶𝑙𝑎𝑢𝑑𝑒 | bdsm˚⋆♡̷ | 猫塑/自嬷/体型差，个人xp介意可善用划走/拉黑",
+        "id": "1985003838290735104",
+        "name": "𝒜𝓇𝒾𝒶♡",
+        "pinned_tweet_id": "2072922822117302407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026744091468509186/wvl9v8ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4682,
+          "following_count": 279,
+          "like_count": 1924,
+          "listed_count": 4,
+          "media_count": 858,
+          "tweet_count": 6165
+        },
+        "url": "",
+        "username": "Ariakittyyy",
+        "verified": true
+      }
+    ]
+  }
+}

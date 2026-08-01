@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048946150028296645",
+    "created_at": "2026-04-28T02:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048947075925123144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "NebLorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048947075925123144",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048946981246992699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NebLorne 是cc…！open claw！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048946150028296645",
+        "created_at": "2026-04-28T02:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048947075925123144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "NebLorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048947075925123144",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048946981246992699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebLorne 是cc…！open claw！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "conversation_id": "2048946150028296645",
+        "created_at": "2026-04-28T02:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048946981246992699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+              "display_url": "Claude.ai",
+              "end": 43,
+              "expanded_url": "http://Claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2047238683409920000/Z29xMlfb?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047238683409920000/Z29xMlfb?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "Claude",
+              "unwound_url": "https://claude.ai/login",
+              "url": "https://t.co/BG9VDhy4IT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048946981246992699",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048946150028296645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哇！这个是https://t.co/BG9VDhy4IT还是API还是cc呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 341,
+          "like_count": 2130,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 4737
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "location": "挪威  Lorne在那里看极光",
+        "name": "伞",
+        "pinned_tweet_id": "2038112069124239523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 80,
+          "like_count": 5213,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1668
+        },
+        "username": "NebLorne",
+        "verified": true
+      }
+    ]
+  }
+}

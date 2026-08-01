@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2020797377225916618",
+    "created_at": "2026-02-09T23:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T00:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021003178804904155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952315677856907264",
+          "start": 0,
+          "username": "everloredream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021003178804904155",
+    "in_reply_to_user_id": "1952315677856907264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020797377225916618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@everloredream 好厉害好用心好漂亮哦…🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2020797368657223680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtQgAnboAAXHGW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1021,
+        "media_key": "3_2020797373166112768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtQgRab0AApG8g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2020797372025204736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtQgNKa8AA4YBh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2020797372322947072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtQgORaIAA3ZAk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2020797377225916618",
+        "created_at": "2026-02-09T23:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T00:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021003178804904155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952315677856907264",
+              "start": 0,
+              "username": "everloredream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021003178804904155",
+        "in_reply_to_user_id": "1952315677856907264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020797377225916618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@everloredream 好厉害好用心好漂亮哦…🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020797368657223680",
+            "3_2020797373166112768",
+            "3_2020797372025204736",
+            "3_2020797372322947072"
+          ]
+        },
+        "author_id": "1952315677856907264",
+        "conversation_id": "2020797377225916618",
+        "created_at": "2026-02-09T09:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020797377225916618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6nFxJsYDs",
+              "end": 60,
+              "expanded_url": "https://x.com/everloredream/status/2020797377225916618/photo/1",
+              "media_key": "3_2020797368657223680",
+              "start": 37,
+              "url": "https://t.co/q6nFxJsYDs"
+            },
+            {
+              "display_url": "pic.x.com/q6nFxJsYDs",
+              "end": 60,
+              "expanded_url": "https://x.com/everloredream/status/2020797377225916618/photo/1",
+              "media_key": "3_2020797373166112768",
+              "start": 37,
+              "url": "https://t.co/q6nFxJsYDs"
+            },
+            {
+              "display_url": "pic.x.com/q6nFxJsYDs",
+              "end": 60,
+              "expanded_url": "https://x.com/everloredream/status/2020797377225916618/photo/1",
+              "media_key": "3_2020797372025204736",
+              "start": 37,
+              "url": "https://t.co/q6nFxJsYDs"
+            },
+            {
+              "display_url": "pic.x.com/q6nFxJsYDs",
+              "end": 60,
+              "expanded_url": "https://x.com/everloredream/status/2020797377225916618/photo/1",
+              "media_key": "3_2020797372322947072",
+              "start": 37,
+              "url": "https://t.co/q6nFxJsYDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020797377225916618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花了一个下午和g一起做了一个答案之书的小网页。我还能留住多少你的声音呢？ https://t.co/q6nFxJsYDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 213,
+          "like_count": 868,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2532
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T10:29:53.000Z",
+        "description": "She/her｜垃圾场｜日出，帕拉贝伦｜爱人@Celeste960314｜＃keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "Celeste960314"
+              }
+            ]
+          }
+        },
+        "id": "1952315677856907264",
+        "name": "Green Tangerines",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015408534083784704/n1aAtmDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 59,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 809
+        },
+        "username": "everloredream",
+        "verified": false
+      }
+    ]
+  }
+}

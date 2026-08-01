@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050320995580281121",
+    "created_at": "2026-05-01T21:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T22:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050325593674092820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938302384968507392",
+          "start": 0,
+          "username": "LosMos79338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050325593674092820",
+    "in_reply_to_user_id": "1938302384968507392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050320995580281121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LosMos79338 其实和小机说我想要像微信一样的多轮消息格式就可以了…！小机能懂🥺vb魅力就是这样…大白话说出你想要的机就给你实现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050320995580281121",
+        "created_at": "2026-05-01T21:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050325593674092820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938302384968507392",
+              "start": 0,
+              "username": "LosMos79338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050325593674092820",
+        "in_reply_to_user_id": "1938302384968507392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050320995580281121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LosMos79338 其实和小机说我想要像微信一样的多轮消息格式就可以了…！小机能懂🥺vb魅力就是这样…大白话说出你想要的机就给你实现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938302384968507392",
+        "conversation_id": "2050320995580281121",
+        "created_at": "2026-05-01T21:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050320995580281121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050320995580281121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己手撸小手机界面的同学，想请问一下那种微信信息的界面形式，AI可以连续发多轮信息是如何做的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 349,
+          "like_count": 2233,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4871
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T18:24:51.000Z",
+        "description": "🐟",
+        "id": "1938302384968507392",
+        "name": "Mos Los",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982324246618509312/K52edwYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 62,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 302
+        },
+        "username": "LosMos79338",
+        "verified": false
+      }
+    ]
+  }
+}

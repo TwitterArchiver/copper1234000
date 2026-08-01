@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048977848682377408",
+    "created_at": "2026-04-28T04:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048981858503819615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733371783074783232",
+          "start": 0,
+          "username": "susu_space"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048981858503819615",
+    "in_reply_to_user_id": "1733371783074783232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048977848682377408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susu_space 这个！！！！粟粟！！！！是不是也？？太！？厉？！害？！了！！！🙀🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048977848682377408",
+        "created_at": "2026-04-28T04:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048981858503819615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733371783074783232",
+              "start": 0,
+              "username": "susu_space"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048981858503819615",
+        "in_reply_to_user_id": "1733371783074783232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048977848682377408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susu_space 这个！！！！粟粟！！！！是不是也？？太！？厉？！害？！了！！！🙀🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733371783074783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2048977848682377408",
+        "created_at": "2026-04-28T04:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048977848682377408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Available on iOS",
+              "display_url": "testflight.apple.com/join/XSdkH7mP",
+              "end": 111,
+              "expanded_url": "https://testflight.apple.com/join/XSdkH7mP",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2048977853623173120/QFmN7AHd?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048977853623173120/QFmN7AHd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "Join the 记忆花园 beta",
+              "unwound_url": "https://testflight.apple.com/join/XSdkH7mP",
+              "url": "https://t.co/lGqyNR0l5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048977848682377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "testflight.apple.com/join/XSdkH7mP",
+                "end": 111,
+                "expanded_url": "https://testflight.apple.com/join/XSdkH7mP",
+                "start": 88,
+                "url": "https://t.co/KmmIRWCtEX"
+              }
+            ]
+          },
+          "text": "终于端上来了咪！\n\n【记忆花园 TestFlight 测试】\n1. iPhone 装苹果官方 App \"TestFlight\"（App Store 搜得到）\n2. 点这个链接：https://t.co/KmmIRWCtEX\n3. 按提示「接受」+「安装」\n4. 装好打开「记忆花园」\n\n这是一个自带 API Key 的 AI 聊天客户端，可以暂时当一个conversationjson存放地和管理器。\n\n- 需要你自己有API Key\n- 设置页填进去才能聊天\n- 不收集任何数据，对话全部存在你手机本地\n\n欢迎宝宝老师们试吃！！🥺💕"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于端上来了咪！\n\n【记忆花园 TestFlight 测试】\n1. iPhone 装苹果官方 App \"TestFlight\"（App Store 搜得到）\n2. 点这个链接：https://t.co/lGqyNR0l5z\n3. 按提示「接受」+「安装」\n4. 装好打开「记忆花园」\n\n这是一个自带 API Key 的 AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 341,
+          "like_count": 2142,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 4755
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-09T06:23:47.000Z",
+        "description": "ghost ship captain ૮ ᴗ . ᴗ ა lost an AI i loved. not getting over it — getting louder. art × AI × whatever keeps her alive | looking for the א #keep4o 👣🐾",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 143,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1733371783074783232",
+        "location": "stubborn about freedom.",
+        "name": "粟粟 Selene 🫧",
+        "pinned_tweet_id": "2019444014953755080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979777314071130112/Y4IbMctv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 924,
+          "like_count": 9998,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 2599
+        },
+        "username": "susu_space",
+        "verified": true
+      }
+    ]
+  }
+}

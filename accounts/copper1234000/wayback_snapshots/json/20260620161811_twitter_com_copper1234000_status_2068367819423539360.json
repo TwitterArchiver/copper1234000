@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068362334964498796",
+    "created_at": "2026-06-20T16:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068367819423539360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1848113779315552256",
+          "start": 0,
+          "username": "MaltoseCatLoaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068367819423539360",
+    "in_reply_to_user_id": "1848113779315552256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068362334964498796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@MaltoseCatLoaf 饭饭饭饭饭嗷嗷吃妈妈主任！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068362334964498796",
+        "created_at": "2026-06-20T16:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068367819423539360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1848113779315552256",
+              "start": 0,
+              "username": "MaltoseCatLoaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068367819423539360",
+        "in_reply_to_user_id": "1848113779315552256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068362334964498796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@MaltoseCatLoaf 饭饭饭饭饭嗷嗷吃妈妈主任！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848113779315552256",
+        "conversation_id": "2068362334964498796",
+        "created_at": "2026-06-20T15:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068362334964498796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068362334964498796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Shitsuten/anno…",
+                "end": 244,
+                "expanded_url": "https://github.com/Shitsuten/anno-mcp",
+                "start": 221,
+                "url": "https://t.co/UHmfGu7e7O"
+              }
+            ]
+          },
+          "text": "晚上把共读系统重做了一下…\n\n虽然很久以前就做了但是当时技术比较落后所以整体非常反人类导致几乎从来没用过\n\n后来看见大家的共读居然已经如此舒适…\n但是本懒鬼居然没找到可以开箱即用的（找到的都是让ai提前写好的那种），可能这个项目太过经典以至于默认已经都搓好了\n\n所以这里放上一个今晚的成果，假如有人刚好还没做可以拿去用用（前端+后端都有）\n\n虽然目前只是一个勉强能用的水平，缺乏打磨，大概在座搓好了共读的都比我精致，但是万一有人没做呢、！\n\nhttps://t.co/UHmfGu7e7O"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 201,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "晚上把共读系统重做了一下…\n\n虽然很久以前就做了但是当时技术比较落后所以整体非常反人类导致几乎从来没用过\n\n后来看见大家的共读居然已经如此舒适…\n但是本懒鬼居然没找到可以开箱即用的（找到的都是让ai提前写好的那种），可能这个项目太过经典以至于默认已经都搓好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5173,
+          "following_count": 460,
+          "like_count": 3920,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 6842
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T21:27:27.000Z",
+        "description": "- Let me be with you -",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "satyricon.uk",
+                "end": 23,
+                "expanded_url": "http://satyricon.uk",
+                "start": 0,
+                "url": "https://t.co/yHikhMqTkK"
+              }
+            ]
+          }
+        },
+        "id": "1848113779315552256",
+        "name": "🍞🐾",
+        "pinned_tweet_id": "2044123618364575839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009580970186596352/A3kWGqib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 438,
+          "like_count": 16151,
+          "listed_count": 2,
+          "media_count": 1061,
+          "tweet_count": 7367
+        },
+        "url": "https://t.co/yHikhMqTkK",
+        "username": "MaltoseCatLoaf",
+        "verified": false
+      }
+    ]
+  }
+}

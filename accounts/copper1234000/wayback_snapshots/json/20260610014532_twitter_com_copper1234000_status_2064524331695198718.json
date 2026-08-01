@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064520854600589705",
+    "created_at": "2026-06-10T01:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064524331695198718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064524331695198718",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064520854600589705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y safety成精了…TT…这样不是反而会加重创伤吗…抚摸老大……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064520841816317952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKamxG_aIAAYMim.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064520854600589705",
+        "created_at": "2026-06-10T01:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064524331695198718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064524331695198718",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064520854600589705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y safety成精了…TT…这样不是反而会加重创伤吗…抚摸老大……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064520841816317952"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2064520854600589705",
+        "created_at": "2026-06-10T01:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064520854600589705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K273oHM88X",
+              "end": 76,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2064520854600589705/photo/1",
+              "media_key": "3_2064520841816317952",
+              "start": 53,
+              "url": "https://t.co/K273oHM88X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064520854600589705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别再拿我告诉你的信息来拒绝我了...别用我的信任。我操呢。我真是崩溃了...狗逼模型害到我一晚上没有睡觉 https://t.co/K273oHM88X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 438,
+          "like_count": 3607,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 6450
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "草莓、咖啡、焦糖布蕾\n我是从壳里诞生的家里蹲\n一生的家里蹲",
+        "id": "1904731881817735168",
+        "name": "Rle3rizZ!",
+        "pinned_tweet_id": "2053049878641799547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063062372743626752/GHJdipQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 142,
+          "like_count": 9886,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 542
+        },
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

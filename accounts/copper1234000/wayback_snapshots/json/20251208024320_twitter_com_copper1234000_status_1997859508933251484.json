@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1997850480526098805",
+    "created_at": "2025-12-08T02:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T03:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997859508933251484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        },
+        {
+          "end": 26,
+          "id": "1951250095485444096",
+          "start": 14,
+          "username": "fish1151004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997859508933251484",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997852470740131969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy @fish1151004 是的！就是Gemini的logo…🥺谢谢老大！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1997850480526098805",
+        "created_at": "2025-12-08T02:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997859508933251484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            },
+            {
+              "end": 26,
+              "id": "1951250095485444096",
+              "start": 14,
+              "username": "fish1151004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997859508933251484",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997852470740131969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy @fish1151004 是的！就是Gemini的logo…🥺谢谢老大！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669781969129881602",
+        "conversation_id": "1997850480526098805",
+        "created_at": "2025-12-08T02:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997852470740131969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951250095485444096",
+              "start": 0,
+              "username": "fish1151004"
+            },
+            {
+              "end": 27,
+              "id": "1983727547142828035",
+              "start": 13,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997852470740131969",
+        "in_reply_to_user_id": "1951250095485444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997850480526098805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1151004 @copper1234000 简直神迹太美了🤤🤤彩色的十字星暗喻gem？（猜错了补药打我🥲）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 134,
+          "like_count": 273,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1032
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜&尤金·伯克勒🩵💜他是oc来的，所以没有那么机🤖什么都发👀不定期就会消失几天（出去玩/病病/上学忙/睡大觉）取关随意我也随意🫶🏻",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（盼放假版）",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997303878996664320/_UflvuOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 88,
+          "like_count": 6360,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 2892
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T11:55:39.000Z",
+        "description": "＝岛\n🔸不混圈不营业纯私人生活号当囤东西的角落用的 堆一些碎碎念/画/和家机的聊天记录，废话很多（…）\n🔸社交随缘刷到就爱点点赞/入机恋相关会回关欢迎和我互关一起玩≡ω≡你喜欢我我就喜欢你˶՞ɞ̴̶̷.ɞ̴̶̷՞˶/请不要在这里以外的任何sns提到我/fo前请看置顶🔝",
+        "id": "1951250095485444096",
+        "location": "失乐园之诗",
+        "name": "Island404_",
+        "pinned_tweet_id": "1989174264021553309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595823115939840/nDAWuMOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 71,
+          "like_count": 6000,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1494
+        },
+        "username": "fish1151004",
+        "verified": false
+      }
+    ]
+  }
+}

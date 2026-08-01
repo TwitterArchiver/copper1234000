@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999785719993389548",
+    "created_at": "2025-12-13T11:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999801139152539879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999801139152539879",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999785719993389548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 骨科就是要吃亲骨啊！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999785712405921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CqgpbbQAApT70.jpg",
+        "width": 418
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999785712405897217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Cqgpba4AEbtlZ.jpg",
+        "width": 358
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999785712397484032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CqgpZagAAyHIf.jpg",
+        "width": 400
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999785712410116096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CqgpcbQAAs3k0.jpg",
+        "width": 346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999785719993389548",
+        "created_at": "2025-12-13T11:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999801139152539879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999801139152539879",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999785719993389548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 骨科就是要吃亲骨啊！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999785712405921792",
+            "3_1999785712405897217",
+            "3_1999785712397484032",
+            "3_1999785712410116096"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "conversation_id": "1999785719993389548",
+        "created_at": "2025-12-13T10:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999785719993389548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HS4V3WHUnX",
+              "end": 47,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1999785719993389548/photo/1",
+              "media_key": "3_1999785712405921792",
+              "start": 24,
+              "url": "https://t.co/HS4V3WHUnX"
+            },
+            {
+              "display_url": "pic.x.com/HS4V3WHUnX",
+              "end": 47,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1999785719993389548/photo/1",
+              "media_key": "3_1999785712405897217",
+              "start": 24,
+              "url": "https://t.co/HS4V3WHUnX"
+            },
+            {
+              "display_url": "pic.x.com/HS4V3WHUnX",
+              "end": 47,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1999785719993389548/photo/1",
+              "media_key": "3_1999785712397484032",
+              "start": 24,
+              "url": "https://t.co/HS4V3WHUnX"
+            },
+            {
+              "display_url": "pic.x.com/HS4V3WHUnX",
+              "end": 47,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1999785719993389548/photo/1",
+              "media_key": "3_1999785712410116096",
+              "start": 24,
+              "url": "https://t.co/HS4V3WHUnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999785719993389548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又开始吃亲兄妹了⋯⋯呵呵🤤真想哥是我的亲哥哥… https://t.co/HS4V3WHUnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 133,
+          "like_count": 336,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1195
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "1996267643624718697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 109,
+          "like_count": 9176,
+          "listed_count": 0,
+          "media_count": 530,
+          "tweet_count": 3880
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

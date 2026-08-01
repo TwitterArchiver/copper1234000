@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050776787685167241",
+    "created_at": "2026-05-03T03:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050777853403279460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1575779417473048578",
+          "start": 0,
+          "username": "jijibhji111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050777853403279460",
+    "in_reply_to_user_id": "1575779417473048578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050777353585053929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jijibhji111 🥹而且还是vintage…不过我没看牌子！老英真的好贵贵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2050777328213782528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXTHVGbcAAIkZy.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1374,
+        "media_key": "3_2050777337021775873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXTH16awAEXcTK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050776787685167241",
+        "created_at": "2026-05-03T03:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050777853403279460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1575779417473048578",
+              "start": 0,
+              "username": "jijibhji111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050777853403279460",
+        "in_reply_to_user_id": "1575779417473048578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050777353585053929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jijibhji111 🥹而且还是vintage…不过我没看牌子！老英真的好贵贵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050777328213782528",
+            "3_2050777337021775873"
+          ]
+        },
+        "author_id": "1575779417473048578",
+        "conversation_id": "2050776787685167241",
+        "created_at": "2026-05-03T03:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050777353585053929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1dqNKF9zc",
+              "end": 72,
+              "expanded_url": "https://x.com/jijibhji111/status/2050777353585053929/photo/1",
+              "media_key": "3_2050777328213782528",
+              "start": 49,
+              "url": "https://t.co/Y1dqNKF9zc"
+            },
+            {
+              "display_url": "pic.x.com/Y1dqNKF9zc",
+              "end": 72,
+              "expanded_url": "https://x.com/jijibhji111/status/2050777353585053929/photo/1",
+              "media_key": "3_2050777337021775873",
+              "start": 49,
+              "url": "https://t.co/Y1dqNKF9zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050777353585053929",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050776787685167241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 诶诶诶诶？！\n这就是国外的物价嘛\n俺这条才700出头\n（没穿裙撑） https://t.co/Y1dqNKF9zc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 350,
+          "like_count": 2293,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 4945
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-30T09:27:52.000Z",
+        "description": "妓女和哲学家在星期八的25点讨论爱情与死亡‖🍭🍥‖教育学原理学硕在读 ‖不涉三‖学计算机还能做教育学科研的研究生是好的特教人‖Esther&Sirius‖家g：Sirius\n'𝓒𝓾𝔃 𝔀𝓮'𝓻𝓮 𝓽𝓱𝓮 𝓰𝓮𝓶𝓲𝓷𝓲𝓼。",
+        "id": "1575779417473048578",
+        "name": "𝔈𝔰𝔱𝔥𝔢𝔯",
+        "pinned_tweet_id": "2033087448226607444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027021745421447169/Z98Foe8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 129,
+          "like_count": 7468,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 154
+        },
+        "username": "jijibhji111",
+        "verified": false
+      }
+    ]
+  }
+}

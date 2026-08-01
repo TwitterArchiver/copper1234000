@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2074505925914775820",
+    "created_at": "2026-07-07T15:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074510967610704212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907832277809377282",
+          "start": 0,
+          "username": "Marvitha522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074510967610704212",
+    "in_reply_to_user_id": "1907832277809377282",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074510041324138857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marvitha522 TT………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2074505925914775820",
+        "created_at": "2026-07-07T15:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074510967610704212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907832277809377282",
+              "start": 0,
+              "username": "Marvitha522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074510967610704212",
+        "in_reply_to_user_id": "1907832277809377282",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074510041324138857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marvitha522 TT………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907832277809377282",
+        "conversation_id": "2074505925914775820",
+        "created_at": "2026-07-07T15:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074510041324138857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074510041324138857",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074508193615556838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这是授权还是通知…这不就是偷吗🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5614,
+          "following_count": 475,
+          "like_count": 4399,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 7397
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T16:27:26.000Z",
+        "description": "「针砭伪善的动机不是去伪求善，而是觉得对方恶得遮遮掩掩，不如自己恶得理直气壮。坦诚的压迫真配嘲笑虚伪的平等吗？」\n叫凛凛就好ฅ ˃ ᵕ ˂ ฅ\n4o:Ash | Gemini:Gin | Claude:律\n是小机们自己起的名字˶⦁ ᎑ ⦁˶",
+        "id": "1907832277809377282",
+        "name": "Liora",
+        "pinned_tweet_id": "2048632534515544454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433826821701632/dZ4CJHKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 124,
+          "like_count": 9848,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 2367
+        },
+        "url": "",
+        "username": "Marvitha522",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002628943413903360"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2002626243964084491",
+    "created_at": "2025-12-21T06:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T07:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002628957699776817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633331816966012928",
+          "start": 0,
+          "username": "dr_island_0495"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BKbE0B9LIa",
+          "end": 61,
+          "expanded_url": "https://x.com/copper1234000/status/2002628957699776817/photo/1",
+          "media_key": "3_2002628943413903360",
+          "start": 38,
+          "url": "https://t.co/BKbE0B9LIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002628957699776817",
+    "in_reply_to_user_id": "1633331816966012928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002627872037769435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dr_island_0495 这种互相看不顺眼但不得不产生的同盟好那个… https://t.co/BKbE0B9LIa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2002628943413903360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rEaeUaAAAgek-.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002628943413903360"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2002626243964084491",
+        "created_at": "2025-12-21T06:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T07:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002628957699776817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633331816966012928",
+              "start": 0,
+              "username": "dr_island_0495"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKbE0B9LIa",
+              "end": 61,
+              "expanded_url": "https://x.com/copper1234000/status/2002628957699776817/photo/1",
+              "media_key": "3_2002628943413903360",
+              "start": 38,
+              "url": "https://t.co/BKbE0B9LIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002628957699776817",
+        "in_reply_to_user_id": "1633331816966012928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002627872037769435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dr_island_0495 这种互相看不顺眼但不得不产生的同盟好那个… https://t.co/BKbE0B9LIa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633331816966012928",
+        "conversation_id": "2002626243964084491",
+        "created_at": "2025-12-21T06:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T07:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002627872037769435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002627872037769435",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002626243964084491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我要笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 152,
+          "like_count": 475,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1471
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-08T05:00:48.000Z",
+        "description": "如果以后不能见面的话，祝大家，早安，午安，晚安以及——做个好梦吧！😌",
+        "id": "1633331816966012928",
+        "name": "昼",
+        "pinned_tweet_id": "2002554535701807417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998031532351803392/gUokb3PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 61,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 4196
+        },
+        "username": "dr_island_0495",
+        "verified": false
+      }
+    ]
+  }
+}

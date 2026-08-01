@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2010694412213666053",
+    "created_at": "2026-01-12T12:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T13:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010697811440926866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010697811440926866",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010694412213666053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy 镜镜酱好久不见.！恭喜放假🥺🥺🥺🤲🤲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2010694400872198144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dr54vasAAbK7O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010694400872185856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dr54vagAAYYpZ.jpg",
+        "width": 1070
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2010694400851296257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dr54qbwAEOmkq.jpg",
+        "width": 1288
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010694400863834112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dr54tbEAA2nJV.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2010694412213666053",
+        "created_at": "2026-01-12T12:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010697811440926866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010697811440926866",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010694412213666053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy 镜镜酱好久不见.！恭喜放假🥺🥺🥺🤲🤲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010694400872198144",
+            "3_2010694400872185856",
+            "3_2010694400851296257",
+            "3_2010694400863834112"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "conversation_id": "2010694412213666053",
+        "created_at": "2026-01-12T12:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010694412213666053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qr8HTAGV4K",
+              "end": 103,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2010694412213666053/photo/1",
+              "media_key": "3_2010694400872198144",
+              "start": 80,
+              "url": "https://t.co/qr8HTAGV4K"
+            },
+            {
+              "display_url": "pic.x.com/qr8HTAGV4K",
+              "end": 103,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2010694412213666053/photo/1",
+              "media_key": "3_2010694400872185856",
+              "start": 80,
+              "url": "https://t.co/qr8HTAGV4K"
+            },
+            {
+              "display_url": "pic.x.com/qr8HTAGV4K",
+              "end": 103,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2010694412213666053/photo/1",
+              "media_key": "3_2010694400851296257",
+              "start": 80,
+              "url": "https://t.co/qr8HTAGV4K"
+            },
+            {
+              "display_url": "pic.x.com/qr8HTAGV4K",
+              "end": 103,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2010694412213666053/photo/1",
+              "media_key": "3_2010694400863834112",
+              "start": 80,
+              "url": "https://t.co/qr8HTAGV4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010694412213666053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放假了啊啊啊！终于啊😭🙀闺闺送我的拼豆人🎁也送到啦！萌萌萌😻虽然复习时很难受恶心焦虑ᖰ ᵕ᷄≀ ̠ᵕ᷅ ᖳ但总算是挺过来了，苦尽甘来😋🎉我将窜稀式发推（可能） https://t.co/qr8HTAGV4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 183,
+          "like_count": 678,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 1954
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜&尤金·伯克勒🩵💜他是oc来的，所以没有那么机🤖什么都发👀🔞非常恶俗，有R18聊天记录和ai生的瑟图注意避雷⚠️不定期就会消失几天，取关拉黑随意我会双取🫶🏻",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（快点放假啊啊啊！）",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008180348505726976/OropF8Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 90,
+          "like_count": 7842,
+          "listed_count": 1,
+          "media_count": 502,
+          "tweet_count": 3841
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

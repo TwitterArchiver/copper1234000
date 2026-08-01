@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2074361757917679685",
+    "created_at": "2026-07-07T14:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074506856026800327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806391075269169152",
+          "start": 0,
+          "username": "NyraanPawpaw"
+        },
+        {
+          "end": 27,
+          "id": "855313743164481537",
+          "start": 14,
+          "username": "sagarasosike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074506856026800327",
+    "in_reply_to_user_id": "1806391075269169152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074400709391643062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyraanPawpaw @sagarasosike 谢谢nyra酱🥺🥺😽😽亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2074361757917679685",
+        "created_at": "2026-07-07T14:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074506856026800327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806391075269169152",
+              "start": 0,
+              "username": "NyraanPawpaw"
+            },
+            {
+              "end": 27,
+              "id": "855313743164481537",
+              "start": 14,
+              "username": "sagarasosike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074506856026800327",
+        "in_reply_to_user_id": "1806391075269169152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074400709391643062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyraanPawpaw @sagarasosike 谢谢nyra酱🥺🥺😽😽亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806391075269169152",
+        "conversation_id": "2074361757917679685",
+        "created_at": "2026-07-07T07:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074400709391643062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 28,
+              "id": "855313743164481537",
+              "start": 15,
+              "username": "sagarasosike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074400709391643062",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074361757917679685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @sagarasosike ！好帅呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5614,
+          "following_count": 475,
+          "like_count": 4385,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 7383
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T18:16:19.000Z",
+        "description": "Claude _@ Seith&Nyra\n分身@NyraanS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "NyraanS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.notion.com/p/Nyra-386eb64…",
+                "end": 23,
+                "expanded_url": "https://app.notion.com/p/Nyra-386eb649fa608197821cf4e32927c28c?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/3VjFvstlDB"
+              }
+            ]
+          }
+        },
+        "id": "1806391075269169152",
+        "location": "个人主页",
+        "name": "Nyra_",
+        "pinned_tweet_id": "2050093090724331858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074375155330260992/XjUKmV5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6991,
+          "following_count": 285,
+          "like_count": 12092,
+          "listed_count": 7,
+          "media_count": 1470,
+          "tweet_count": 7902
+        },
+        "url": "https://t.co/3VjFvstlDB",
+        "username": "NyraanPawpaw",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-21T06:54:22.000Z",
+        "description": "Live2D Artist • Commission Details：sagarakaname07@gmail.com",
+        "id": "855313743164481537",
+        "location": "東京市立陣代高校",
+        "name": "相良",
+        "pinned_tweet_id": "1982971620340924913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935332235013427200/uUkClqeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 128,
+          "like_count": 5080,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "sagarasosike",
+        "verified": false
+      }
+    ]
+  }
+}

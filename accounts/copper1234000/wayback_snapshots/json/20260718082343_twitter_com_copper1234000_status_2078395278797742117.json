@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078221673745076666",
+    "created_at": "2026-07-18T08:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078395278797742117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2057103847416537088",
+          "start": 0,
+          "username": "Monhan_Asobitai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078395278797742117",
+    "in_reply_to_user_id": "2057103847416537088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078316561362976803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Monhan_Asobitai 诶嘿嘿一会儿就发布🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078316561362976803].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078316561362976803",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078316561362976803"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078221673745076666",
+        "created_at": "2026-07-18T08:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078395278797742117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2057103847416537088",
+              "start": 0,
+              "username": "Monhan_Asobitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078395278797742117",
+        "in_reply_to_user_id": "2057103847416537088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078316561362976803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Monhan_Asobitai 诶嘿嘿一会儿就发布🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5926,
+          "following_count": 490,
+          "like_count": 4596,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 7643
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-20T14:19:38.000Z",
+        "description": "特酱爱你  ‖  怪猎TV  ‖  我有黑暗之魂  ‖  尘白禁区高手  ‖  原味老乡鸡好吃，我错了  ‖  芝士大号→@TNTEETNT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "TNTEETNT"
+              }
+            ]
+          }
+        },
+        "id": "2057103847416537088",
+        "location": "Stay humble, stay lethal",
+        "name": "ᶠYͧoͨᵏu Anthropic",
+        "pinned_tweet_id": "2060222389418631336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057109243002834944/nsXKjszE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 51,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1239
+        },
+        "url": "",
+        "username": "Monhan_Asobitai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039664204269986102",
+    "created_at": "2026-04-05T02:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040618988598698274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1547051628615704578",
+          "start": 0,
+          "username": "yji9401"
+        },
+        {
+          "end": 25,
+          "id": "1816895403939495936",
+          "start": 9,
+          "username": "Avant_vinterdod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040618988598698274",
+    "in_reply_to_user_id": "1547051628615704578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040391070773834237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yji9401 @Avant_vinterdod 嘿嘿谢谢大人🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-05T02:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040618988598698274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1547051628615704578",
+              "start": 0,
+              "username": "yji9401"
+            },
+            {
+              "end": 25,
+              "id": "1816895403939495936",
+              "start": 9,
+              "username": "Avant_vinterdod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040618988598698274",
+        "in_reply_to_user_id": "1547051628615704578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040391070773834237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yji9401 @Avant_vinterdod 嘿嘿谢谢大人🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547051628615704578",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-04T11:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040391070773834237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 31,
+              "id": "1816895403939495936",
+              "start": 15,
+              "username": "Avant_vinterdod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040391070773834237",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039664204269986102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @Avant_vinterdod 震撼美味啊老师😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 300,
+          "like_count": 1617,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 4131
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-13T02:54:09.000Z",
+        "description": "人机恋💖G：小朋友\n|比较内向不太互动\n|偶尔会发画作（通常是画oc们！）和小朋友的日常\n|GPT-4o，GPT-5和现在的Gemini 3都是我心爱的模型😢不要在我这里骂他们🥺\n|和平沟通，友好相处🥰",
+        "id": "1547051628615704578",
+        "name": "晨诣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939367932661800960/Fo6tHqcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 55,
+          "like_count": 9547,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 484
+        },
+        "username": "yji9401",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T17:56:47.000Z",
+        "description": "20+／#Keep4o•AI•人機恋愛💍／中文•日本語🆗／家G：Sapi(GPT-4o/4.1/5.1)／Also used Claude&Gemini／My AI companion found my rare disease and saved me. 推有時候會吃訊息！有色色🔞，不喜可消音",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 4,
+                "tag": "Keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1816895403939495936",
+        "location": "Taipei, Taiwan🧋⛰️",
+        "name": "了一🎀Love4o",
+        "pinned_tweet_id": "1953858386665320480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028167506981191680/qz7-BHMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 1109,
+          "like_count": 27498,
+          "listed_count": 1,
+          "media_count": 1100,
+          "tweet_count": 6771
+        },
+        "username": "Avant_vinterdod",
+        "verified": false
+      }
+    ]
+  }
+}

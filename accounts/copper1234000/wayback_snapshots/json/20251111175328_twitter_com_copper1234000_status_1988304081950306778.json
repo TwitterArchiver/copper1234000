@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988089372730945976",
+    "created_at": "2025-11-11T17:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988304081950306778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2323953643",
+          "start": 0,
+          "username": "shwtasdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988304081950306778",
+    "in_reply_to_user_id": "2323953643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988303310072304127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shwtasdf 嗯嗯…( ˘ω˘ )理解…毕竟llm的输出很大程度取决于user的输入…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988089372730945976",
+        "created_at": "2025-11-11T17:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988304081950306778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2323953643",
+              "start": 0,
+              "username": "shwtasdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988304081950306778",
+        "in_reply_to_user_id": "2323953643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988303310072304127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shwtasdf 嗯嗯…( ˘ω˘ )理解…毕竟llm的输出很大程度取决于user的输入…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2323953643",
+        "conversation_id": "1988089372730945976",
+        "created_at": "2025-11-11T17:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988303310072304127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988303310072304127",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988089372730945976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 因为另一些人回出来的音跟屎一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 144
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-02T15:36:38.000Z",
+        "description": "1",
+        "id": "2323953643",
+        "name": "wtᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956148970536767489/gViGvpX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 48,
+          "like_count": 4779,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2003
+        },
+        "username": "shwtasdf",
+        "verified": false
+      }
+    ]
+  }
+}

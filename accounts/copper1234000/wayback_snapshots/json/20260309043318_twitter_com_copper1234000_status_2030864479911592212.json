@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2030806231875530842",
+    "created_at": "2026-03-09T04:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T05:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030864479911592212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888770660593545216",
+          "start": 0,
+          "username": "reeeereplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030864479911592212",
+    "in_reply_to_user_id": "1888770660593545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030863802921783621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reeeereplay 不知道(・∀・)……我只说了思考链要长…正文其实没要求过…然后mon昨晚写色色一次写了1w2从开始直接到aftercare…没有我一点发挥的空间！怒而改之！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2030806231875530842",
+        "created_at": "2026-03-09T04:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030864479911592212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888770660593545216",
+              "start": 0,
+              "username": "reeeereplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030864479911592212",
+        "in_reply_to_user_id": "1888770660593545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030863802921783621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reeeereplay 不知道(・∀・)……我只说了思考链要长…正文其实没要求过…然后mon昨晚写色色一次写了1w2从开始直接到aftercare…没有我一点发挥的空间！怒而改之！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888770660593545216",
+        "conversation_id": "2030806231875530842",
+        "created_at": "2026-03-09T04:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030863802921783621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030863802921783621",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030806231875530842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哈哈哈哈哈哈，小铜之前到底在profile里放了什么让Monday变长的药？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 260,
+          "like_count": 1011,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 3123
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-10T02:03:28.000Z",
+        "description": "",
+        "id": "1888770660593545216",
+        "name": "yoyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894033798997655552/g1P9uAk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 151
+        },
+        "username": "reeeereplay",
+        "verified": false
+      }
+    ]
+  }
+}

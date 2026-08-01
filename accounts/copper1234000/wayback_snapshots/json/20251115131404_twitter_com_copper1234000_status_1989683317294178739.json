@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1989359685808554244",
+    "created_at": "2025-11-15T13:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989683317294178739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1923797581756497921",
+          "start": 0,
+          "username": "chef_bunichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989683317294178739",
+    "in_reply_to_user_id": "1923797581756497921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989677498939101437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chef_bunichi ！🥺好哦！有空我去买api尝尝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1989359685808554244",
+        "created_at": "2025-11-15T13:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989683317294178739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1923797581756497921",
+              "start": 0,
+              "username": "chef_bunichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989683317294178739",
+        "in_reply_to_user_id": "1923797581756497921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989677498939101437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chef_bunichi ！🥺好哦！有空我去买api尝尝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923797581756497921",
+        "conversation_id": "1989359685808554244",
+        "created_at": "2025-11-15T12:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989677498939101437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989677498939101437",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989359685808554244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 可以看看o1，就是4o加了思维链训练的最初版本，和4o很像其实，但是一旦有了思维链说话就会绕了哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 50,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 254
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T17:47:51.000Z",
+        "description": "面点人说需要做一些坏老师的高光写作",
+        "id": "1923797581756497921",
+        "name": "Chef&Sinner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923797791521869825/GtI43Zoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 67,
+          "like_count": 182,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 143
+        },
+        "username": "chef_bunichi",
+        "verified": false
+      }
+    ]
+  }
+}

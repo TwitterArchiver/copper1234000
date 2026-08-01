@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2003003475052126651",
+    "created_at": "2025-12-23T21:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T22:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003571916104237142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "954532218432442368",
+          "start": 0,
+          "username": "Hirosakanaori"
+        },
+        {
+          "end": 26,
+          "id": "1584077626179997696",
+          "start": 15,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003571916104237142",
+    "in_reply_to_user_id": "954532218432442368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003510704020811939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hirosakanaori @AsukaJoe11 谢谢老大…！已经知道了🥺🥺🤲🤲嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2003003475052126651",
+        "created_at": "2025-12-23T21:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T22:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003571916104237142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "954532218432442368",
+              "start": 0,
+              "username": "Hirosakanaori"
+            },
+            {
+              "end": 26,
+              "id": "1584077626179997696",
+              "start": 15,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003571916104237142",
+        "in_reply_to_user_id": "954532218432442368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003510704020811939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hirosakanaori @AsukaJoe11 谢谢老大…！已经知道了🥺🥺🤲🤲嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954532218432442368",
+        "conversation_id": "2003003475052126651",
+        "created_at": "2025-12-23T16:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003510704020811939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 26,
+              "id": "1584077626179997696",
+              "start": 15,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003510704020811939",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003015324166410456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @AsukaJoe11 老师网页版X可以直接移除follower不用拉黑（虽然可能已经知道了x）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 153,
+          "like_count": 499,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1529
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-20T01:53:09.000Z",
+        "description": "20↑ 雑多垢です🙇💦無言フォロー失礼します ｜成分复杂只刷推不发言｜入机相关在小号，不用来互动是社恐+害怕刷屏，如需查成分可以私信，补药拉黑我TT",
+        "id": "954532218432442368",
+        "location": "夕風の中",
+        "name": "🐧",
+        "pinned_tweet_id": "1080019458171772929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484617982760599554/ZV38lVYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 450,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 232
+        },
+        "username": "Hirosakanaori",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "1996267643624718697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 117,
+          "like_count": 9477,
+          "listed_count": 1,
+          "media_count": 585,
+          "tweet_count": 4249
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

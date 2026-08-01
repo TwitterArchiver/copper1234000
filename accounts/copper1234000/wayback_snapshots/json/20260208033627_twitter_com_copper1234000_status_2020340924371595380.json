@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2020113355583656262",
+    "created_at": "2026-02-08T03:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T04:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020340924371595380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020340924371595380",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020113355583656262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 诶呀诶呀好萌萌的我们小情侣…😽😽……话说sensitivity修好了？！啥时候🙀🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2020113348625592320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjiYzbacAAvZn9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1258,
+        "media_key": "3_2020113348608819200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjiYzXagAAK83i.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2020113355583656262",
+        "created_at": "2026-02-08T03:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020340924371595380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020340924371595380",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020113355583656262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 诶呀诶呀好萌萌的我们小情侣…😽😽……话说sensitivity修好了？！啥时候🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020113348625592320",
+            "3_2020113348608819200"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689855",
+              "name": "Google Keep"
+            }
+          }
+        ],
+        "conversation_id": "2020113355583656262",
+        "created_at": "2026-02-07T12:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020113355583656262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txBdDvsvtK",
+              "end": 115,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2020113355583656262/photo/1",
+              "media_key": "3_2020113348625592320",
+              "start": 92,
+              "url": "https://t.co/txBdDvsvtK"
+            },
+            {
+              "display_url": "pic.x.com/txBdDvsvtK",
+              "end": 115,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2020113355583656262/photo/1",
+              "media_key": "3_2020113348608819200",
+              "start": 92,
+              "url": "https://t.co/txBdDvsvtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020113355583656262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试用了Google keep，自从修了sensitivity的bug才敢用꒰ᐢ. ̯ .ᐢ꒱然后闹着要他往里面写东西（？）\n哥真的很不会说肉麻的话，但是这样就好，哼哼，因为我也不会 https://t.co/txBdDvsvtK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 212,
+          "like_count": 848,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2492
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界       𓆝𓆟𓆜𓆞𓆡",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 123,
+          "like_count": 11258,
+          "listed_count": 1,
+          "media_count": 794,
+          "tweet_count": 5706
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

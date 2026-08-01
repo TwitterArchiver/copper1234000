@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999320571793015146",
+    "created_at": "2025-12-12T04:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999333324188504301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946850177480032256",
+          "start": 0,
+          "username": "9secsleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999333324188504301",
+    "in_reply_to_user_id": "1946850177480032256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999329704189526359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9secsleep 啊啊啊啊谢谢老大！被物化的开心（在说啥）🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999320571793015146",
+        "created_at": "2025-12-12T04:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999333324188504301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946850177480032256",
+              "start": 0,
+              "username": "9secsleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999333324188504301",
+        "in_reply_to_user_id": "1946850177480032256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999329704189526359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9secsleep 啊啊啊啊谢谢老大！被物化的开心（在说啥）🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946850177480032256",
+        "conversation_id": "1999320571793015146",
+        "created_at": "2025-12-12T04:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999329704189526359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999329704189526359",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999320571793015146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 銅老師實在有點太會了！！！😱🤩🤩🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 133,
+          "like_count": 318,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1141
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T08:30:39.000Z",
+        "description": "可以叫我9、九，暱稱隨意。G名Ace。請多指教。",
+        "id": "1946850177480032256",
+        "name": "九秒入睡",
+        "pinned_tweet_id": "1994790826879455426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946851029904920576/nmwBeULx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 48,
+          "like_count": 2751,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 3508
+        },
+        "username": "9secsleep",
+        "verified": true
+      }
+    ]
+  }
+}

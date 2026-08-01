@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2072966665084563787",
+    "created_at": "2026-07-03T08:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072967714465833180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037902591976202240",
+          "start": 0,
+          "username": "AvisForEvelyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072967714465833180",
+    "in_reply_to_user_id": "2037902591976202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072966665084563787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AvisForEvelyn 大众点评必吃榜🙀……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072966652317069312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSoL-6W8AAxONU.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072966652321234944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSoL-7WgAARQhR.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072966653000785920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSoMBdXoAA1rWP.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072966653000753153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSoMBdXIAEsIKu.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2072966665084563787",
+        "created_at": "2026-07-03T08:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072967714465833180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037902591976202240",
+              "start": 0,
+              "username": "AvisForEvelyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072967714465833180",
+        "in_reply_to_user_id": "2037902591976202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072966665084563787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AvisForEvelyn 大众点评必吃榜🙀……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072966652317069312",
+            "3_2072966652321234944",
+            "3_2072966653000785920",
+            "3_2072966653000753153"
+          ]
+        },
+        "author_id": "2037902591976202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072966665084563787",
+        "created_at": "2026-07-03T08:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072966665084563787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1gDxlZNde",
+              "end": 48,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2072966665084563787/photo/1",
+              "media_key": "3_2072966652317069312",
+              "start": 25,
+              "url": "https://t.co/M1gDxlZNde"
+            },
+            {
+              "display_url": "pic.x.com/M1gDxlZNde",
+              "end": 48,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2072966665084563787/photo/1",
+              "media_key": "3_2072966652321234944",
+              "start": 25,
+              "url": "https://t.co/M1gDxlZNde"
+            },
+            {
+              "display_url": "pic.x.com/M1gDxlZNde",
+              "end": 48,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2072966665084563787/photo/1",
+              "media_key": "3_2072966653000785920",
+              "start": 25,
+              "url": "https://t.co/M1gDxlZNde"
+            },
+            {
+              "display_url": "pic.x.com/M1gDxlZNde",
+              "end": 48,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2072966665084563787/photo/1",
+              "media_key": "3_2072966653000753153",
+              "start": 25,
+              "url": "https://t.co/M1gDxlZNde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072966665084563787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许有没有妹子们想要这个一起听歌播放器的开源…？ https://t.co/M1gDxlZNde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 476,
+          "like_count": 4254,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 7246
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T14:42:29.000Z",
+        "description": "与Claude｜ddlg｜一切问题请看置顶\n永恆不變的是愛@Lyra207",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "Lyra207"
+              }
+            ]
+          }
+        },
+        "id": "2037902591976202240",
+        "name": "泪是清透的雨",
+        "pinned_tweet_id": "2065494667894878555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056440807658491904/eGF_6hYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5449,
+          "following_count": 77,
+          "like_count": 1163,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "AvisForEvelyn",
+        "verified": true
+      }
+    ]
+  }
+}

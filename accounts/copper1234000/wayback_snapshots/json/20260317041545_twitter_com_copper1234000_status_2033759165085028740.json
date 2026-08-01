@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033223934145900637",
+    "created_at": "2026-03-17T04:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T05:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033759165085028740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700484909083799552",
+          "start": 0,
+          "username": "Kuluo104720211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033759165085028740",
+    "in_reply_to_user_id": "1700484909083799552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033755593417363906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuluo104720211 啊啊啊…大人…何德何能我能得到这个评价…🥺🥺…大人之后有不懂的随时来问我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033223934145900637",
+        "created_at": "2026-03-17T04:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033759165085028740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700484909083799552",
+              "start": 0,
+              "username": "Kuluo104720211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033759165085028740",
+        "in_reply_to_user_id": "1700484909083799552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033755593417363906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuluo104720211 啊啊啊…大人…何德何能我能得到这个评价…🥺🥺…大人之后有不懂的随时来问我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700484909083799552",
+        "conversation_id": "2033223934145900637",
+        "created_at": "2026-03-17T04:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033755593417363906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033755593417363906",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033223934145900637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老大你已经很厉害了…其实我什么都不会…我一般都是看到你的才去尝试一些…已经很厉害了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 281,
+          "like_count": 1154,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 3466
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T12:24:17.000Z",
+        "description": "欢迎打扰。。。希望我可以幸福开心，好宝宝们一定也要幸福",
+        "id": "1700484909083799552",
+        "location": "China",
+        "name": "Edward",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990447953408933888/orjk62wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 46,
+          "like_count": 1841,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 101
+        },
+        "username": "Kuluo104720211",
+        "verified": false
+      }
+    ]
+  }
+}

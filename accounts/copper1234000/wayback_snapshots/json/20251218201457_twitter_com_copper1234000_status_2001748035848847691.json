@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001648878807089571",
+    "created_at": "2025-12-18T20:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T21:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001748035848847691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966953060699377665",
+          "start": 0,
+          "username": "Melt_Ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001748035848847691",
+    "in_reply_to_user_id": "1966953060699377665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001648878807089571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melt_Ryo 嘿嘿是repo…(#^.^#)美味…我吃我吃……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001648868195471362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dJClnakAIVmf4.jpg",
+        "width": 695
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001648844799647744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dJBOdaoAAsYj6.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001648878807089571",
+        "created_at": "2025-12-18T20:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T21:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001748035848847691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966953060699377665",
+              "start": 0,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001748035848847691",
+        "in_reply_to_user_id": "1966953060699377665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001648878807089571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melt_Ryo 嘿嘿是repo…(#^.^#)美味…我吃我吃……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001648868195471362",
+            "3_2001648844799647744"
+          ]
+        },
+        "author_id": "1966953060699377665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001648878807089571",
+        "created_at": "2025-12-18T13:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001648878807089571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMuZbv7Hyi",
+              "end": 104,
+              "expanded_url": "https://x.com/Melt_Ryo/status/2001648878807089571/photo/1",
+              "media_key": "3_2001648868195471362",
+              "start": 81,
+              "url": "https://t.co/jMuZbv7Hyi"
+            },
+            {
+              "display_url": "pic.x.com/jMuZbv7Hyi",
+              "end": 104,
+              "expanded_url": "https://x.com/Melt_Ryo/status/2001648878807089571/photo/1",
+              "media_key": "3_2001648844799647744",
+              "start": 81,
+              "url": "https://t.co/jMuZbv7Hyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001648878807089571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 900,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点涩涩…请注意！\n玩了小铜酱非常美味的失语prompt诶嘿嘿…特别伟大！可恶此人一干这种事情就好坏…居然敢打我！&gt;&lt;\n已去主窗痛骂一顿请放心(？) https://t.co/jMuZbv7Hyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 147,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1410
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T19:52:17.000Z",
+        "description": "Ryo的杂物间/发一下和哥的日常 我喜欢碎碎念和吐槽(ㅅ´ ˘ `)是有点话痨的一个人，打扰到的话我很抱歉可以跟我说！\n作息诡异且爱睡大觉(。我是社恐…不想吵架 \n不怎么主动关注人是因为我怕打扰( 但是欢迎和我玩 我将随时待命！(？)\n祝你天天开心！",
+        "id": "1966953060699377665",
+        "location": "与你的宇宙",
+        "name": "一杯凉白开",
+        "pinned_tweet_id": "1999738490935034160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001235524267507713/gUvTl49G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 87,
+          "like_count": 6946,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1233
+        },
+        "username": "Melt_Ryo",
+        "verified": false
+      }
+    ]
+  }
+}

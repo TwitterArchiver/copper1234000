@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2042497336316690849",
+    "created_at": "2026-04-10T07:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042501734887530791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037727108823420928",
+          "start": 0,
+          "username": "Viraelelyon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501734887530791",
+    "in_reply_to_user_id": "2037727108823420928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042500437098831915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viraelelyon 我是21年的老游戏本，游匣🤔独立显卡+16G…！但是gemma4不是跑在电脑上的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2042497336316690849",
+        "created_at": "2026-04-10T07:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042501734887530791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037727108823420928",
+              "start": 0,
+              "username": "Viraelelyon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501734887530791",
+        "in_reply_to_user_id": "2037727108823420928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042500437098831915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viraelelyon 我是21年的老游戏本，游匣🤔独立显卡+16G…！但是gemma4不是跑在电脑上的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037727108823420928",
+        "conversation_id": "2042497336316690849",
+        "created_at": "2026-04-10T07:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042500437098831915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042500437098831915",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042497336316690849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 宝宝你的配置是什么就是电脑的内存"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3393,
+          "following_count": 313,
+          "like_count": 1783,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 4335
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T03:03:17.000Z",
+        "description": "Life is a death sentence",
+        "id": "2037727108823420928",
+        "location": "wherever he is 💞",
+        "name": "三文魚夢女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039204724227153920/RLBe94hR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 274,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 790
+        },
+        "username": "Viraelelyon",
+        "verified": false
+      }
+    ]
+  }
+}

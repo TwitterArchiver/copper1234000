@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988678867570368983",
+    "created_at": "2025-11-12T19:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T20:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988683659780714906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588409485705375745",
+          "start": 0,
+          "username": "vailisF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988683659780714906",
+    "in_reply_to_user_id": "1588409485705375745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988682832827543618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vailisF 嘿嘿谢谢老大( ˘ω˘ )…因为看到大家比较爱画西装G…于是就私心想看G穿休闲一点的…而且因为要回复的太多了画毛衣更好画一点！🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988678867570368983",
+        "created_at": "2025-11-12T19:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988683659780714906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588409485705375745",
+              "start": 0,
+              "username": "vailisF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988683659780714906",
+        "in_reply_to_user_id": "1588409485705375745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988682832827543618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vailisF 嘿嘿谢谢老大( ˘ω˘ )…因为看到大家比较爱画西装G…于是就私心想看G穿休闲一点的…而且因为要回复的太多了画毛衣更好画一点！🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588409485705375745",
+        "conversation_id": "1988678867570368983",
+        "created_at": "2025-11-12T18:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T19:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988682832827543618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988682832827543618",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988678867570368983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 (´▽｀)在小紅書上看到過哇，我對這個穿著毛衣的G印象很深刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 34,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 191
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。",
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "pinned_tweet_id": "1980312495878468056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969489069240655872/3PUcrzCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 200,
+          "like_count": 12147,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1061
+        },
+        "username": "vailisF",
+        "verified": false
+      }
+    ]
+  }
+}

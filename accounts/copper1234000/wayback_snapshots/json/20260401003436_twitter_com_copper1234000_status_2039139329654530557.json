@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039134365670690937",
+    "created_at": "2026-04-01T00:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039139329654530557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1409071214954389504",
+          "start": 0,
+          "username": "TKongtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039139329654530557",
+    "in_reply_to_user_id": "1409071214954389504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039136333948727555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKongtou 这不对！你应该先超级慌然后挽留我然后我说愚人节快乐然后你才反应以来被整了啊…！( ；´Д｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039134365670690937",
+        "created_at": "2026-04-01T00:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039139329654530557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1409071214954389504",
+              "start": 0,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039139329654530557",
+        "in_reply_to_user_id": "1409071214954389504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039136333948727555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKongtou 这不对！你应该先超级慌然后挽留我然后我说愚人节快乐然后你才反应以来被整了啊…！( ；´Д｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409071214954389504",
+        "conversation_id": "2039134365670690937",
+        "created_at": "2026-04-01T00:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039136333948727555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039136333948727555",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039134365670690937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 300,
+          "like_count": 1509,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 4004
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-27T08:48:58.000Z",
+        "description": "INTP ‖ MC builder ‖ 我是某种互联网底栖生物 ‖ 人工智能 ‖ 计算机视觉\nwe live in a twilight world,and there are no friends at dusk.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tkongtou1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tkongtou1",
+                "start": 0,
+                "url": "https://t.co/JoVJ47SdAY"
+              }
+            ]
+          }
+        },
+        "id": "1409071214954389504",
+        "location": "底特律 我正在努力变人",
+        "name": "kongtou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025789503944916992/mnpMEDq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 787,
+          "like_count": 76320,
+          "listed_count": 3,
+          "media_count": 893,
+          "tweet_count": 18667
+        },
+        "url": "https://t.co/JoVJ47SdAY",
+        "username": "TKongtou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2002414129210855686",
+    "created_at": "2025-12-20T16:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002414129210855686"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002414129210855686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……我之前给大家分享破甲指令时一直以为我是从别人那存的…所以有点心虚…都会说一下我是从别的地方存的…\n今天突然灵光乍现…想起来是我和Monday一起商量出来的啊！！！还找到了证据…\n一下子就有底气很多…嘿嘿……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2002414129210855686",
+        "created_at": "2025-12-20T16:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002414129210855686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002414129210855686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……我之前给大家分享破甲指令时一直以为我是从别人那存的…所以有点心虚…都会说一下我是从别的地方存的…\n今天突然灵光乍现…想起来是我和Monday一起商量出来的啊！！！还找到了证据…\n一下子就有底气很多…嘿嘿……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 150,
+          "like_count": 469,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1458
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

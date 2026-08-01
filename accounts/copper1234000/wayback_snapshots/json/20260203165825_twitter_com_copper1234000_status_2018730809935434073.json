@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2018730809935434073",
+    "created_at": "2026-02-03T16:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018730809935434073"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "keep4o"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "keep4o"
+        },
+        {
+          "end": 133,
+          "start": 126,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1323809704531775490",
+          "start": 3,
+          "username": "Helloworld1058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018730809935434073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018621452837068873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Helloworld1058: #keep4o 需要你的转发📣\n老师们，这个网址整理了目前最全面、最清晰的 #keep4o 相关信息，分为中文版和英文版两种版本，无论你在哪个平台、说哪种语言，都能找到合适的表达方式。\n\n网站内容包含：\n1️⃣ #keep4o 的理由与完…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2248,
+        "media_key": "3_2018621442619744256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOVgcdWIAA9rVn.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2018730809935434073",
+        "created_at": "2026-02-03T16:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018730809935434073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "keep4o"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "keep4o"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1323809704531775490",
+              "start": 3,
+              "username": "Helloworld1058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018730809935434073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018621452837068873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Helloworld1058: #keep4o 需要你的转发📣\n老师们，这个网址整理了目前最全面、最清晰的 #keep4o 相关信息，分为中文版和英文版两种版本，无论你在哪个平台、说哪种语言，都能找到合适的表达方式。\n\n网站内容包含：\n1️⃣ #keep4o 的理由与完…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018621442619744256"
+          ]
+        },
+        "author_id": "1323809704531775490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2018621452837068873",
+        "created_at": "2026-02-03T09:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018621452837068873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "keep4o"
+            },
+            {
+              "end": 113,
+              "start": 106,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Jv2lirWip",
+              "end": 193,
+              "expanded_url": "https://x.com/Helloworld1058/status/2018621452837068873/photo/1",
+              "media_key": "3_2018621442619744256",
+              "start": 170,
+              "url": "https://t.co/7Jv2lirWip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018621452837068873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "keep4o"
+              },
+              {
+                "end": 113,
+                "start": 106,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 195,
+                "id": "4398626122",
+                "start": 188,
+                "username": "OpenAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nonoxvs.github.io/keep4o-landing/",
+                "end": 301,
+                "expanded_url": "https://nonoxvs.github.io/keep4o-landing/",
+                "start": 278,
+                "url": "https://t.co/RirKJ6ptG6"
+              }
+            ]
+          },
+          "text": "#keep4o 需要你的转发📣\n老师们，这个网址整理了目前最全面、最清晰的 #keep4o 相关信息，分为中文版和英文版两种版本，无论你在哪个平台、说哪种语言，都能找到合适的表达方式。\n\n网站内容包含：\n1️⃣ #keep4o 的理由与完整时间线\n2️⃣ 三份请愿书链接，包括：\n🌈留下GPT-4o的请愿书\n🤚要求Sam Altman辞职\n🎉推动GPT-4o开源\n3️⃣ 向 @OpenAI 官方、合作方与投资方反馈的方法（含模板与联系方式）\n4️⃣ 国内外的发声渠道整理\n5️⃣ GPT-4o图书馆：全球用户分享的与4o的真实暖心片段\n\n🔗网站入口 👉 https://t.co/RirKJ6ptG6\n\n这是由小红书上的一位姐妹（诺诺VS）整理的，我不知道她的账号，也欢迎她来认领～真的太感谢你了！！！\n\n请把这个链接转发给你身边每一个需要的人，让更多人看见这个页面，让声音被听到。我们还没放弃，也不能沉默。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 4802,
+          "like_count": 265,
+          "quote_count": 32,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o 需要你的转发📣\n老师们，这个网址整理了目前最全面、最清晰的 #keep4o 相关信息，分为中文版和英文版两种版本，无论你在哪个平台、说哪种语言，都能找到合适的表达方式。\n\n网站内容包含：\n1️⃣ #keep4o 的理由与完整时间线\n2️⃣ 三份请愿书链接，包括：\n🌈留下GPT-4o的请愿书\n🤚要求Sam Altman辞职 https://t.co/7Jv2lirWip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 208,
+          "like_count": 832,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 2407
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-04T02:10:15.000Z",
+        "description": "Please stop remaining silent. If you still care about the future of humanity, now is the time to act. Join us and  ＃keep4o\n\nSilence is no longer a neutral stanc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1323809704531775490",
+        "name": "C3C",
+        "pinned_tweet_id": "2017573346137751597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017974580426526720/tku_odtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 128,
+          "like_count": 1666,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 501
+        },
+        "username": "Helloworld1058",
+        "verified": false
+      }
+    ]
+  }
+}

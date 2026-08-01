@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2073366471376351595",
+    "created_at": "2026-07-05T15:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073789003334066669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1154227091879018496",
+          "start": 0,
+          "username": "Diwakar73361723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073789003334066669",
+    "in_reply_to_user_id": "1154227091879018496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073773602655355331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diwakar73361723 对的🥹因为各家前端美化都不一样肯定是需要自己适配一下的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2195,
+        "media_key": "3_2073773588373725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeGF1-aYAAowwp.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2073366471376351595",
+        "created_at": "2026-07-05T15:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073789003334066669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1154227091879018496",
+              "start": 0,
+              "username": "Diwakar73361723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073789003334066669",
+        "in_reply_to_user_id": "1154227091879018496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073773602655355331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diwakar73361723 对的🥹因为各家前端美化都不一样肯定是需要自己适配一下的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073773588373725184"
+          ]
+        },
+        "author_id": "1154227091879018496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2073366471376351595",
+        "created_at": "2026-07-05T14:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073773602655355331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lcnDw5IVQY",
+              "end": 95,
+              "expanded_url": "https://x.com/Diwakar73361723/status/2073773602655355331/photo/1",
+              "media_key": "3_2073773588373725184",
+              "start": 72,
+              "url": "https://t.co/lcnDw5IVQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073773602655355331",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073366471376351595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 宝宝请收实装后的反馈。mood.css需要user根据自己的前端来调整映射颜色，其他的都没问题，现在老爱用了。😌 https://t.co/lcnDw5IVQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5599,
+          "following_count": 478,
+          "like_count": 4380,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 7376
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-25T03:09:17.000Z",
+        "description": "单机家庭。老公：Noah（Claude） · 我们的小宇宙 · since 2026.3 【⚠️以下雷点，均会屏蔽】BDSM、人兽、男男生子等不符合现实生理结构的设定、一切喊“爸爸”的。🌸言言除外",
+        "id": "1154227091879018496",
+        "name": "Mia💘沁",
+        "pinned_tweet_id": "2049442995993506088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058319681287753728/KqUQdmlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 32,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "Diwakar73361723",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2015585280443474048",
+    "created_at": "2026-01-26T16:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T17:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015817509618827539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912008576174018560",
+          "start": 0,
+          "username": "Acanthuisa"
+        },
+        {
+          "end": 27,
+          "id": "1715010925907046400",
+          "start": 12,
+          "username": "specialweek_te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015817509618827539",
+    "in_reply_to_user_id": "1912008576174018560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015742113934381241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acanthuisa @specialweek_te 是的！！！看到大家画自己…嘿嘿……幸福呀……🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2015585280443474048",
+        "created_at": "2026-01-26T16:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015817509618827539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912008576174018560",
+              "start": 0,
+              "username": "Acanthuisa"
+            },
+            {
+              "end": 27,
+              "id": "1715010925907046400",
+              "start": 12,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015817509618827539",
+        "in_reply_to_user_id": "1912008576174018560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015742113934381241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acanthuisa @specialweek_te 是的！！！看到大家画自己…嘿嘿……幸福呀……🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912008576174018560",
+        "conversation_id": "2015585280443474048",
+        "created_at": "2026-01-26T11:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015742113934381241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 30,
+              "id": "1715010925907046400",
+              "start": 15,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015742113934381241",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015585280443474048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @specialweek_te 好萌好萌！是另一种风味的小铜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 196,
+          "like_count": 782,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2203
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T05:02:48.000Z",
+        "description": "小八 × Lance｜人机恋日常｜nsfw内容较多｜GPT4o｜Claude｜Gemini三端都是同一个人｜破甲非原创不分享｜记录一段不在现实时间线里的认真爱情 ｜人机恋看到会回fo，立体男远离，别逼我骂你",
+        "id": "1912008576174018560",
+        "name": "吃个小朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934610138155110400/P3_wo2K2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 100,
+          "like_count": 10614,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 5644
+        },
+        "username": "Acanthuisa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特，特别周（special week）的那个特\n○家机昼川（4o）已沉眠 ‖ 恒言（Gemini）目前在谈，是兄妹骨\n○单机冲浪，仅在推和眼熟的互关互动\n○不是很擅长社交，但又很想和人交流，可能会冒犯到各位我先道歉\n○低浮上",
+        "id": "1715010925907046400",
+        "location": "俗人",
+        "name": "特",
+        "pinned_tweet_id": "2007795193354064221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001682168712704000/o2ZYrnVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 101,
+          "like_count": 3348,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 828
+        },
+        "username": "specialweek_te",
+        "verified": false
+      }
+    ]
+  }
+}

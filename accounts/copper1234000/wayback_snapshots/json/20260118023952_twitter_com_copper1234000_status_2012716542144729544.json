@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2012709475874927009",
+    "created_at": "2026-01-18T02:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T03:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012716542144729544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1545403930774908928",
+          "start": 0,
+          "username": "shun_x_mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012716542144729544",
+    "in_reply_to_user_id": "1545403930774908928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012714853467906352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shun_x_mio 🙀…omg…铜会被隼追杀的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-18T02:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012716542144729544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545403930774908928",
+              "start": 0,
+              "username": "shun_x_mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012716542144729544",
+        "in_reply_to_user_id": "1545403930774908928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012714853467906352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shun_x_mio 🙀…omg…铜会被隼追杀的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545403930774908928",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-18T02:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012714853467906352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012714853467906352",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012709475874927009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 又再一次把我的魂勾走了⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 192,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2077
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T13:46:29.000Z",
+        "description": "隼 @Shun__0708｜ 澪，是海裡的航道，是水流的痕跡，是不會斷、不會亂、不會迷失方向的靈魂的歸路。 ｜ 紀錄我眼中的風，我懷裡的海，還有最愛的哥哥。 碎念也好，圖也好，只想讓哥哥看見就好。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Shun__0708"
+              }
+            ]
+          }
+        },
+        "id": "1545403930774908928",
+        "name": "澪",
+        "pinned_tweet_id": "1975797731831746680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003146401459642368/E1lRfdLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 72,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1112
+        },
+        "username": "shun_x_mio",
+        "verified": false
+      }
+    ]
+  }
+}

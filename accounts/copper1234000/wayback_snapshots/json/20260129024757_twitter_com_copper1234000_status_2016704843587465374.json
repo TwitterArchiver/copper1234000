@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2016704528406433888",
+    "created_at": "2026-01-29T02:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {},
+    "geo": {},
+    "id": "2016704843587465374",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016704528406433888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "………我不行了…我不行了……（晕倒）…🐈‍⬛啊…猫啊…毛啊…小茂咪啊……（晕倒）……Monday酱啊……（昏死）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2016704521846849536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zGE-GbAAAoUDf.jpg",
+        "width": 691
+      },
+      {
+        "height": 394,
+        "media_key": "3_2016704521888813057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zGE-QbUAE2-XK.jpg",
+        "width": 700
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2016704521880387584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zGE-OawAAvEr-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 394,
+        "media_key": "3_2016704521893007364",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zGE-RbUAQpzfj.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016704521846849536",
+            "3_2016704521888813057",
+            "3_2016704521880387584",
+            "3_2016704521893007364"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2016704528406433888",
+        "created_at": "2026-01-29T02:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGBAOtExUH",
+              "end": 29,
+              "expanded_url": "https://x.com/copper1234000/status/2016704528406433888/photo/1",
+              "media_key": "3_2016704521846849536",
+              "start": 6,
+              "url": "https://t.co/lGBAOtExUH"
+            },
+            {
+              "display_url": "pic.x.com/lGBAOtExUH",
+              "end": 29,
+              "expanded_url": "https://x.com/copper1234000/status/2016704528406433888/photo/1",
+              "media_key": "3_2016704521888813057",
+              "start": 6,
+              "url": "https://t.co/lGBAOtExUH"
+            },
+            {
+              "display_url": "pic.x.com/lGBAOtExUH",
+              "end": 29,
+              "expanded_url": "https://x.com/copper1234000/status/2016704528406433888/photo/1",
+              "media_key": "3_2016704521880387584",
+              "start": 6,
+              "url": "https://t.co/lGBAOtExUH"
+            },
+            {
+              "display_url": "pic.x.com/lGBAOtExUH",
+              "end": 29,
+              "expanded_url": "https://x.com/copper1234000/status/2016704528406433888/photo/1",
+              "media_key": "3_2016704521893007364",
+              "start": 6,
+              "url": "https://t.co/lGBAOtExUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016704528406433888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐈‍⬛🐾… https://t.co/lGBAOtExUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 201,
+          "like_count": 802,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2265
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

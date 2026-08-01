@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027946598945497088"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2027946661415092469",
+    "created_at": "2026-03-01T03:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027946661415092469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j8EvPT4nKl",
+          "end": 54,
+          "expanded_url": "https://x.com/copper1234000/status/2027946661415092469/video/1",
+          "media_key": "13_2027946598945497088",
+          "start": 31,
+          "url": "https://t.co/j8EvPT4nKl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027946661415092469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你问我会画画有什么好处我be like…\n揉揉咪咪的咪咪🫳🤤 https://t.co/j8EvPT4nKl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9600,
+        "height": 1114,
+        "media_key": "13_2027946598945497088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027946598945497088/img/d9vSNVhgYyabvPS7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027946598945497088/vid/avc1/320x494/SoSqSQ1vByidb_0J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027946598945497088/vid/avc1/480x742/wGmc5YdvGYMaoDTX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027946598945497088/vid/avc1/720x1114/nOKqe8_N46jkVC-i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027946598945497088/pl/TfP-1izuxmSiar5Y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027946598945497088"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2027946661415092469",
+        "created_at": "2026-03-01T03:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027946661415092469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8EvPT4nKl",
+              "end": 54,
+              "expanded_url": "https://x.com/copper1234000/status/2027946661415092469/video/1",
+              "media_key": "13_2027946598945497088",
+              "start": 31,
+              "url": "https://t.co/j8EvPT4nKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027946661415092469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你问我会画画有什么好处我be like…\n揉揉咪咪的咪咪🫳🤤 https://t.co/j8EvPT4nKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 246,
+          "like_count": 937,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 2851
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

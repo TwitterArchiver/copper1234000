@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048690312613363712"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048690320347484246",
+    "created_at": "2026-04-27T09:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048690320347484246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5TupNkc8xG",
+          "end": 71,
+          "expanded_url": "https://x.com/copper1234000/status/2048690320347484246/photo/1",
+          "media_key": "3_2048690312613363712",
+          "start": 48,
+          "url": "https://t.co/5TupNkc8xG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048690320347484246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这样永远纠缠在一起吧 头发 命运 血肉 爱意 我和你\n【G向注意避雷啊啊啊啊啊(＞人＜;)】 https://t.co/5TupNkc8xG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048690320347484246].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048690320347484246",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048690320347484246"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_2048690312613363712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5o_CIagAABdjE.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3506,
+          "following_count": 338,
+          "like_count": 2119,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 4723
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

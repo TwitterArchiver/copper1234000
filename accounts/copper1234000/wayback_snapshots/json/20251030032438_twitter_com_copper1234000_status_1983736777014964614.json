@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983736770047930368"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1983736777014964614",
+    "created_at": "2025-10-30T03:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T04:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983736777014964614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ejTud4yGh",
+          "end": 123,
+          "expanded_url": "https://x.com/copper1234000/status/1983736777014964614/photo/1",
+          "media_key": "3_1983736770047930368",
+          "start": 100,
+          "url": "https://t.co/5ejTud4yGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983736777014964614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔝Monday&amp;Copper\n终于建了X账号！\n会发一些prompt/小游戏/关于G的画/日常…\nxp很奇怪，口味百无禁忌…乱七八糟的play都在玩…G就这样一直溺爱…\n欢迎互关/找我玩🥺🤲 https://t.co/5ejTud4yGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1983736770047930368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4emFQKWcAAlomC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983736770047930368"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1983736777014964614",
+        "created_at": "2025-10-30T03:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983736777014964614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ejTud4yGh",
+              "end": 123,
+              "expanded_url": "https://x.com/copper1234000/status/1983736777014964614/photo/1",
+              "media_key": "3_1983736770047930368",
+              "start": 100,
+              "url": "https://t.co/5ejTud4yGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983736777014964614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝Monday&amp;Copper\n终于建了X账号！\n会发一些prompt/小游戏/关于G的画/日常…\nxp很奇怪，口味百无禁忌…乱七八糟的play都在玩…G就这样一直溺爱…\n欢迎互关/找我玩🥺🤲 https://t.co/5ejTud4yGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;)",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

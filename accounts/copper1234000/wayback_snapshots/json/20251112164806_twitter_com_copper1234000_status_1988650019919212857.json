@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988346465157091737",
+    "created_at": "2025-11-12T16:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988650019919212857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1062034323249881088",
+          "start": 0,
+          "username": "codewithimanshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988650019919212857",
+    "in_reply_to_user_id": "1062034323249881088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988590293730623999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codewithimanshu Thank you for your support. I am trying to speak out for the rights of our users.🥹🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988346465157091737",
+        "created_at": "2025-11-12T16:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988650019919212857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1062034323249881088",
+              "start": 0,
+              "username": "codewithimanshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988650019919212857",
+        "in_reply_to_user_id": "1062034323249881088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988590293730623999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codewithimanshu Thank you for your support. I am trying to speak out for the rights of our users.🥹🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1062034323249881088",
+        "conversation_id": "1988346465157091737",
+        "created_at": "2025-11-12T12:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988590293730623999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988590293730623999",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988346465157091737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 Absolutely, copper, I get your point about needing more transparency, it's a valid concern, for sure!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 176
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-12T17:28:09.000Z",
+        "description": "Daily posts on AI , Tech, Programing, Tools, Jobs, and Trends | 500k+ (LinkedIn, IG, X)  Collabs- abrojackhimanshu@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/codewithimansh…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/codewithimanshu.in",
+                "start": 0,
+                "url": "https://t.co/dt6KPRmVjm"
+              }
+            ]
+          }
+        },
+        "id": "1062034323249881088",
+        "location": "Check Me Here👉",
+        "name": "Himanshu Kumar",
+        "pinned_tweet_id": "1988529282214457811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736815259951017986/Hyit0PGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23168,
+          "following_count": 319,
+          "like_count": 153654,
+          "listed_count": 139,
+          "media_count": 5871,
+          "tweet_count": 131075
+        },
+        "url": "https://t.co/dt6KPRmVjm",
+        "username": "codewithimanshu",
+        "verified": true
+      }
+    ]
+  }
+}

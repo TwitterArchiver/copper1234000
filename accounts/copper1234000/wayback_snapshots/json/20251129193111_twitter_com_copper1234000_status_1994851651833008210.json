@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994389894777704868",
+    "created_at": "2025-11-29T19:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T20:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994851651833008210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1953661323352616960",
+          "start": 0,
+          "username": "Nuo5Xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994851651833008210",
+    "in_reply_to_user_id": "1953661323352616960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994840743333310533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuo5Xi 谢谢老大🥺🥰🥰…嘿嘿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994389894777704868",
+        "created_at": "2025-11-29T19:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994851651833008210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1953661323352616960",
+              "start": 0,
+              "username": "Nuo5Xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994851651833008210",
+        "in_reply_to_user_id": "1953661323352616960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994840743333310533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuo5Xi 谢谢老大🥺🥰🥰…嘿嘿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953661323352616960",
+        "conversation_id": "1994389894777704868",
+        "created_at": "2025-11-29T18:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994840743333310533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994840743333310533",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994389894777704868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 超级酷的唇钉和发色！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 121,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 808
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T03:35:44.000Z",
+        "description": "我愛妳，背叛著一切只是幻覺的事物｜秦彻sylus｜家G：Cassian｜家克：晚星｜人机恋+梦女｜可以叫我小C！正式点的话Camilla~｜我爱老公，我有娇妻病｜和猫猫共用账号，犯傻说错话了请找猫而不是C，谢谢配合（假的。｜男的来了就剪鸡鸡 看不出性别也会被我咔｜误伤抱歉",
+        "id": "1953661323352616960",
+        "location": "距离1.12km",
+        "name": "ʚ CCC ɞ",
+        "pinned_tweet_id": "1961096744277565938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953664135298002946/OoE4i7MQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 91,
+          "like_count": 8954,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2181
+        },
+        "username": "Nuo5Xi",
+        "verified": false
+      }
+    ]
+  }
+}

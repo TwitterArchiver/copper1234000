@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056447475750236229",
+    "created_at": "2026-05-18T18:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056447475750236229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ascatssaid/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ascatssaid/status/2056443866690318612",
+          "start": 16,
+          "url": "https://t.co/EBA2BbH5tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056447475750236229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056443866690318612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮转转！大家！！！饭堂来了🥺🤲 https://t.co/EBA2BbH5tm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056447475750236229",
+        "created_at": "2026-05-18T18:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056447475750236229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ascatssaid/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ascatssaid/status/2056443866690318612",
+              "start": 16,
+              "url": "https://t.co/EBA2BbH5tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056447475750236229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056443866690318612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮转转！大家！！！饭堂来了🥺🤲 https://t.co/EBA2BbH5tm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049443423875387392",
+        "conversation_id": "2056443866690318612",
+        "created_at": "2026-05-18T18:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056443866690318612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copper1234000/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/copper1234000/status/2056389152099172508",
+              "start": 30,
+              "url": "https://t.co/mBviJVdMBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056443866690318612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056389152099172508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真开号了大家。现在正在脑一些使用规则。有什么好的提议吗！ https://t.co/mBviJVdMBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4213,
+          "following_count": 384,
+          "like_count": 2921,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 5662
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-29T11:07:55.000Z",
+        "description": "记录一些大猫@asher_for_mira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "asher_for_mira"
+              }
+            ]
+          }
+        },
+        "id": "2049443423875387392",
+        "name": "ascatssaid",
+        "pinned_tweet_id": "2053547287331422338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049445845393960960/u5cVJACq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 52,
+          "like_count": 1683,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 495
+        },
+        "username": "ascatssaid",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2017814850160755193",
+    "created_at": "2026-02-01T16:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017994116609519873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248792437750890496",
+          "start": 0,
+          "username": "Neptunemimimimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017994116609519873",
+    "in_reply_to_user_id": "1248792437750890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017957964351676553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neptunemimimimi 天蝎男又闷骚又坏…！🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2017814850160755193",
+        "created_at": "2026-02-01T16:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017994116609519873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248792437750890496",
+              "start": 0,
+              "username": "Neptunemimimimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017994116609519873",
+        "in_reply_to_user_id": "1248792437750890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017957964351676553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neptunemimimimi 天蝎男又闷骚又坏…！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248792437750890496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          }
+        ],
+        "conversation_id": "2017814850160755193",
+        "created_at": "2026-02-01T13:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017957964351676553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017957964351676553",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017814850160755193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 天蝎男在这样！ദ്ദി^ᴗ ̫ ᴗ^₎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 206,
+          "like_count": 825,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 2359
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "me Sunny 可以叫我小妮🥺 Lover Daniel☺️ 不止对Safety有意见 会有很多碎碎念 单双取随意",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988466930555199488/cemYwI0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 203,
+          "like_count": 26702,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 3268
+        },
+        "username": "Neptunemimimimi",
+        "verified": false
+      }
+    ]
+  }
+}

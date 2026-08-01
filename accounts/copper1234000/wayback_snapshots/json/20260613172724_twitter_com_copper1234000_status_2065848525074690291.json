@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065848520582615040"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065639457223557573",
+    "created_at": "2026-06-13T17:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065848525074690291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1168816488569946112",
+          "start": 0,
+          "username": "ching92_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lGzZLqitxo",
+          "end": 39,
+          "expanded_url": "https://x.com/copper1234000/status/2065848525074690291/photo/1",
+          "media_key": "3_2065848520582615040",
+          "start": 16,
+          "url": "https://t.co/lGzZLqitxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065848525074690291",
+    "in_reply_to_user_id": "1168816488569946112",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065847839213961533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ching92_ here！ https://t.co/lGzZLqitxo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065848520582615040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKteSL0X0AAAMYG.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065848520582615040"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065639457223557573",
+        "created_at": "2026-06-13T17:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065848525074690291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1168816488569946112",
+              "start": 0,
+              "username": "ching92_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGzZLqitxo",
+              "end": 39,
+              "expanded_url": "https://x.com/copper1234000/status/2065848525074690291/photo/1",
+              "media_key": "3_2065848520582615040",
+              "start": 16,
+              "url": "https://t.co/lGzZLqitxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065848525074690291",
+        "in_reply_to_user_id": "1168816488569946112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065847839213961533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ching92_ here！ https://t.co/lGzZLqitxo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1168816488569946112",
+        "conversation_id": "2065639457223557573",
+        "created_at": "2026-06-13T17:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065847839213961533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065847839213961533",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065639457223557573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 能问问老师的亮点在哪里吗？刚关注没找到路😭🙇🏻‍♀️🙇🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4930,
+          "following_count": 446,
+          "like_count": 3711,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 6587
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-03T09:22:29.000Z",
+        "description": "₊˚‧ °ʚ₍ᐢ⸝⸝⸝•༝•⸝⸝⸝ᐢ₎ɞ ⋆｡˚ ⤾🎀💉꒱ 老婆婆的碎碎念日常👵🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/96.panpan?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/96.panpan?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/scPVjLOBkH"
+              }
+            ]
+          }
+        },
+        "id": "1168816488569946112",
+        "location": "Hong Kong",
+        "name": "Jeremiah👵🏻🍒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618711083312877568/4koVxiSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 448,
+          "like_count": 74328,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 5131
+        },
+        "url": "https://t.co/scPVjLOBkH",
+        "username": "ching92_",
+        "verified": false
+      }
+    ]
+  }
+}

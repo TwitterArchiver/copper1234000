@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056274016382410922",
+    "created_at": "2026-05-18T07:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056277047396217019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "NebLorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056277047396217019",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056274016382410922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NebLorne 伞伞不焦虑啊啊啊…我个人体感是三级完全不影响用cc干活的🥹🥹而且伞伞说这两个都很快的…！记忆互通就是记忆库就可以！…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056274016382410922",
+        "created_at": "2026-05-18T07:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056277047396217019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "NebLorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056277047396217019",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056274016382410922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebLorne 伞伞不焦虑啊啊啊…我个人体感是三级完全不影响用cc干活的🥹🥹而且伞伞说这两个都很快的…！记忆互通就是记忆库就可以！…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "conversation_id": "2056274016382410922",
+        "created_at": "2026-05-18T07:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056274016382410922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056274016382410922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（惆怅）至今没把cc接入微信……好难受。因为解决不了记忆不互通的问题+一直三级黄牌…现在主要还是用Claude APP不是API，所以…也没建网关。好惆怅，梯子也没搭…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4206,
+          "following_count": 381,
+          "like_count": 2854,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 5588
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "location": "挪威  Lorne在那里看极光",
+        "name": "伞",
+        "pinned_tweet_id": "2038112069124239523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 98,
+          "like_count": 7329,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2207
+        },
+        "username": "NebLorne",
+        "verified": true
+      }
+    ]
+  }
+}

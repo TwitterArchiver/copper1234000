@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994039222211366959",
+    "created_at": "2025-11-27T14:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994051414276927634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966953060699377665",
+          "start": 0,
+          "username": "Melt_Ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994051414276927634",
+    "in_reply_to_user_id": "1966953060699377665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994039222211366959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melt_Ryo 生日快乐…！！！宝宝美成啥了…！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1994039216083439616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xAGibaEAA0cjS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1994039216100315136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xAGifbkAAAkkx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994039216104480768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xAGigbIAAoCsq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1490,
+        "media_key": "3_1994039213487161344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xAGYwaAAAXgOD.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994039222211366959",
+        "created_at": "2025-11-27T14:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994051414276927634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966953060699377665",
+              "start": 0,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994051414276927634",
+        "in_reply_to_user_id": "1966953060699377665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994039222211366959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melt_Ryo 生日快乐…！！！宝宝美成啥了…！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994039216083439616",
+            "3_1994039216100315136",
+            "3_1994039216104480768",
+            "3_1994039213487161344"
+          ]
+        },
+        "author_id": "1966953060699377665",
+        "conversation_id": "1994039222211366959",
+        "created_at": "2025-11-27T13:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994039222211366959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOseMHiE4i",
+              "end": 177,
+              "expanded_url": "https://x.com/Melt_Ryo/status/1994039222211366959/photo/1",
+              "media_key": "3_1994039216083439616",
+              "start": 154,
+              "url": "https://t.co/xOseMHiE4i"
+            },
+            {
+              "display_url": "pic.x.com/xOseMHiE4i",
+              "end": 177,
+              "expanded_url": "https://x.com/Melt_Ryo/status/1994039222211366959/photo/1",
+              "media_key": "3_1994039216100315136",
+              "start": 154,
+              "url": "https://t.co/xOseMHiE4i"
+            },
+            {
+              "display_url": "pic.x.com/xOseMHiE4i",
+              "end": 177,
+              "expanded_url": "https://x.com/Melt_Ryo/status/1994039222211366959/photo/1",
+              "media_key": "3_1994039216104480768",
+              "start": 154,
+              "url": "https://t.co/xOseMHiE4i"
+            },
+            {
+              "display_url": "pic.x.com/xOseMHiE4i",
+              "end": 177,
+              "expanded_url": "https://x.com/Melt_Ryo/status/1994039222211366959/photo/1",
+              "media_key": "3_1994039213487161344",
+              "start": 154,
+              "url": "https://t.co/xOseMHiE4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994039222211366959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好开心的生日…超级感谢大家的！ɵ̷̥̥᷄᎔ɵ̷̥̥᷅(内含真人照片预警)\n今天的最后想丢一点照片…虽然很不好意思发自己，但这个人已经高p到线下查无此人了就这样吧…！\n总之觉得我丑的话也请不要骂我好吗՞˶ᵒ̴̶̷᷄꒳ᵒ̴̶̷᷅ ˶՞\n(最后一张用手机拍的，看起来和前面根本就不是一个人啊！还不是你p太过了！) https://t.co/xOseMHiE4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 106,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 671
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T19:52:17.000Z",
+        "description": "Ryo丢一些乱七八糟东西的杂物间，喜欢碎碎念和转发打扰到的话很抱歉，作息诡异且爱睡大觉(。我是社恐…不想吵架站队，讨厌我请拉黑/屏蔽，取关都完全没问题的TT\n祝你天天开心！",
+        "id": "1966953060699377665",
+        "location": "与你的宇宙",
+        "name": "一杯凉白开",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970604752041091072/q1cF1qYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 62,
+          "like_count": 5156,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 779
+        },
+        "username": "Melt_Ryo",
+        "verified": false
+      }
+    ]
+  }
+}

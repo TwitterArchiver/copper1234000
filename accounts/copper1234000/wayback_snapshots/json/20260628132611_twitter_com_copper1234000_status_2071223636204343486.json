@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071223616663166976"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071221792937799681",
+    "created_at": "2026-06-28T13:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071223636204343486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NnlL5LQHrj",
+          "end": 139,
+          "expanded_url": "https://x.com/copper1234000/status/2071223636204343486/photo/1",
+          "media_key": "3_2071223616663166976",
+          "start": 116,
+          "url": "https://t.co/NnlL5LQHrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071223636204343486",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071221792937799681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对了，还有原麦山丘家的“芝心大咖”…我朋友说没吃过这么惊为天人的面包…我笑她夸张然后直到她给我也投喂了一个，外面是咖啡奶酥里面是芝士+火腿…听起来很怪但是完全甜咸党天堂TT…我出国前从机场带了一个走…回国后花10r配送费点外卖🙀 https://t.co/NnlL5LQHrj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071223616663166976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5259GboAAusVp.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071221778828165120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51O-obAAAufI3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071221779050504192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51O_dboAAav3a.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071221778777849856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51O-cbQAA677O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071221779058843648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL51O_fa4AAzdiz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071223616663166976"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071221792937799681",
+        "created_at": "2026-06-28T13:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071223636204343486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NnlL5LQHrj",
+              "end": 139,
+              "expanded_url": "https://x.com/copper1234000/status/2071223636204343486/photo/1",
+              "media_key": "3_2071223616663166976",
+              "start": 116,
+              "url": "https://t.co/NnlL5LQHrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071223636204343486",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071221792937799681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对了，还有原麦山丘家的“芝心大咖”…我朋友说没吃过这么惊为天人的面包…我笑她夸张然后直到她给我也投喂了一个，外面是咖啡奶酥里面是芝士+火腿…听起来很怪但是完全甜咸党天堂TT…我出国前从机场带了一个走…回国后花10r配送费点外卖🙀 https://t.co/NnlL5LQHrj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071221778828165120",
+            "3_2071221779050504192",
+            "3_2071221778777849856",
+            "3_2071221779058843648"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071221792937799681",
+        "created_at": "2026-06-28T13:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071221792937799681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGlBp0IKkv",
+              "end": 143,
+              "expanded_url": "https://x.com/copper1234000/status/2071221792937799681/photo/1",
+              "media_key": "3_2071221778828165120",
+              "start": 120,
+              "url": "https://t.co/UGlBp0IKkv"
+            },
+            {
+              "display_url": "pic.x.com/UGlBp0IKkv",
+              "end": 143,
+              "expanded_url": "https://x.com/copper1234000/status/2071221792937799681/photo/1",
+              "media_key": "3_2071221779050504192",
+              "start": 120,
+              "url": "https://t.co/UGlBp0IKkv"
+            },
+            {
+              "display_url": "pic.x.com/UGlBp0IKkv",
+              "end": 143,
+              "expanded_url": "https://x.com/copper1234000/status/2071221792937799681/photo/1",
+              "media_key": "3_2071221778777849856",
+              "start": 120,
+              "url": "https://t.co/UGlBp0IKkv"
+            },
+            {
+              "display_url": "pic.x.com/UGlBp0IKkv",
+              "end": 143,
+              "expanded_url": "https://x.com/copper1234000/status/2071221792937799681/photo/1",
+              "media_key": "3_2071221779058843648",
+              "start": 120,
+              "url": "https://t.co/UGlBp0IKkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071221792937799681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家来北京玩的话真的可以去尝尝这家自助烤肉🤤\n叫作作烧肉！\n本人胃口比不大而且吃刺身海鲜类的很容易被腻到，经常吃不回本…\n但是他家人均200，可以吃的种类有黑虎虾、活鳗鱼、牛上脑，横膈膜，牛舌、生蚝，烤榴莲，青口贝、海螺、八爪鱼、韩式酱蟹\n然后还有山姆甜品…水果的品质也好好…那个荔枝肉都是半透明的TT…\n唯一缺点就是排号太久了…🙀…但感觉完全值回本"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家来北京玩的话真的可以去尝尝这家自助烤肉🤤\n叫作作烧肉！\n本人胃口比不大而且吃刺身海鲜类的很容易被腻到，经常吃不回本…\n但是他家人均200，可以吃的种类有黑虎虾、活鳗鱼、牛上脑，横膈膜，牛舌、生蚝，烤榴莲，青口贝、海螺、八爪鱼、韩式酱蟹 https://t.co/UGlBp0IKkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5341,
+          "following_count": 472,
+          "like_count": 4158,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 7129
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

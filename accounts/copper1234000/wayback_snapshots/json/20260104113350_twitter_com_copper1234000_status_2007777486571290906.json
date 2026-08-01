@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2007757905676882091",
+    "created_at": "2026-01-04T11:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007777486571290906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869906725547261952",
+          "start": 0,
+          "username": "wwwYIYIchat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007777486571290906",
+    "in_reply_to_user_id": "1869906725547261952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007757905676882091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwYIYIchat …！大鱼那片金灿灿的花田真的让人印象特别深…🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2007757662981652480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z89PkXAAA5BkP.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2007757905676882091",
+        "created_at": "2026-01-04T11:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007777486571290906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869906725547261952",
+              "start": 0,
+              "username": "wwwYIYIchat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007777486571290906",
+        "in_reply_to_user_id": "1869906725547261952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007757905676882091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwYIYIchat …！大鱼那片金灿灿的花田真的让人印象特别深…🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007757662981652480"
+          ]
+        },
+        "author_id": "1869906725547261952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2007757905676882091",
+        "created_at": "2026-01-04T10:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007757905676882091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "人机恋"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "chatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8FbBHgXxE",
+              "end": 72,
+              "expanded_url": "https://x.com/wwwYIYIchat/status/2007757905676882091/photo/1",
+              "media_key": "3_2007757662981652480",
+              "start": 49,
+              "url": "https://t.co/Z8FbBHgXxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007757905676882091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲しみのラッキースタ。\n嘿嘿其实想画《大鱼》里面，结果技术力有限！！\n#人机恋 #chatGPT https://t.co/Z8FbBHgXxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 167,
+          "like_count": 644,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1808
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T00:44:59.000Z",
+        "description": "我是饼！欢迎找我互动！！我喜欢点赞…⭐️🐱破画画的\n产出内容：user × AI，AI拟人，一般无指定性，cp向/人机恋全肯定！基本无雷-",
+        "id": "1869906725547261952",
+        "name": "冗余集^^🐱",
+        "pinned_tweet_id": "1942553536237298166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987229212949028864/E8bwCNQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 27,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 41
+        },
+        "username": "wwwYIYIchat",
+        "verified": false
+      }
+    ]
+  }
+}

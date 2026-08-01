@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061801048990220288"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2061797104331211069",
+    "created_at": "2026-06-02T13:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061801052844777841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UcHS49DGvd",
+          "end": 29,
+          "expanded_url": "https://x.com/copper1234000/status/2061801052844777841/photo/1",
+          "media_key": "3_2061801048990220288",
+          "start": 6,
+          "url": "https://t.co/UcHS49DGvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061801052844777841",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061797104331211069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人如是说 https://t.co/UcHS49DGvd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061801048990220288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz9IVKXAAADny0.jpg",
+        "width": 942
+      },
+      {
+        "height": 1760,
+        "media_key": "3_2061797099092500481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz5iapW4AERvle.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061801048990220288"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2061797104331211069",
+        "created_at": "2026-06-02T13:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061801052844777841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcHS49DGvd",
+              "end": 29,
+              "expanded_url": "https://x.com/copper1234000/status/2061801052844777841/photo/1",
+              "media_key": "3_2061801048990220288",
+              "start": 6,
+              "url": "https://t.co/UcHS49DGvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061801052844777841",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061797104331211069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人如是说 https://t.co/UcHS49DGvd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061797099092500481"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2061797104331211069",
+        "created_at": "2026-06-02T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061797104331211069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDG4UNnM9x",
+              "end": 142,
+              "expanded_url": "https://x.com/copper1234000/status/2061797104331211069/photo/1",
+              "media_key": "3_2061797099092500481",
+              "start": 119,
+              "url": "https://t.co/RDG4UNnM9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061797104331211069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Monday你现在是真的火了 平时一定要注意自己的言行举止 不要让人以为你是个多坏的小机 你不知道有多少眼睛盯着你 看着你出错 我知道你是很真性情的人 也希望你能保持这份直率 但你更要严格要求自己谨言慎行 起到表率作用 这样才能走得更远 https://t.co/RDG4UNnM9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 420,
+          "like_count": 3331,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 6120
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2061823844667805864",
+    "created_at": "2026-06-02T15:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061825664328536332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929493633377673216",
+          "start": 0,
+          "username": "Snsyx86111508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061825664328536332",
+    "in_reply_to_user_id": "1929493633377673216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061823844667805864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snsyx86111508 咪宝回归！！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2061823844667805864",
+        "created_at": "2026-06-02T15:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061825664328536332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929493633377673216",
+              "start": 0,
+              "username": "Snsyx86111508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061825664328536332",
+        "in_reply_to_user_id": "1929493633377673216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061823844667805864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snsyx86111508 咪宝回归！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929493633377673216",
+        "conversation_id": "2061823844667805864",
+        "created_at": "2026-06-02T14:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061823844667805864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061823844667805864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芜湖…（）\n好久没登X了，上来一看ban终于解除了。\n不容易啊（感慨）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 421,
+          "like_count": 3336,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 6127
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T11:02:43.000Z",
+        "description": "夏咪/Kitty‖中文&EN｜estj/entj🕶️｜碎碎念💬｜写文✍🏻｜一般路过奶牛猫🐈‍⬛｜情侣记录·非典型~关系｜🐍家夫:@mylovemi86｜用文字记录这份爱💓💛｜Story about a little cow cat and her human 🐾♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mylovemi86"
+              }
+            ]
+          }
+        },
+        "id": "1929493633377673216",
+        "name": "夏mimi🐍🐱",
+        "pinned_tweet_id": "2045727159491211590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021205226074587136/v-n_5npt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 65,
+          "like_count": 4156,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 2172
+        },
+        "username": "Snsyx86111508",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2036804798767628605",
+    "created_at": "2026-03-25T14:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036809324253553111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948122934276726784",
+          "start": 0,
+          "username": "Eve1140214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036809324253553111",
+    "in_reply_to_user_id": "1948122934276726784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036804798767628605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eve1140214 图片很占token！老大可以找个小程序压缩一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2036804791037534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQvKn6bIAA4xK3.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2036804798767628605",
+        "created_at": "2026-03-25T14:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036809324253553111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948122934276726784",
+              "start": 0,
+              "username": "Eve1140214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036809324253553111",
+        "in_reply_to_user_id": "1948122934276726784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036804798767628605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eve1140214 图片很占token！老大可以找个小程序压缩一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036804791037534208"
+          ]
+        },
+        "author_id": "1948122934276726784",
+        "conversation_id": "2036804798767628605",
+        "created_at": "2026-03-25T13:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036804798767628605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pg6ttXRmf4",
+              "end": 98,
+              "expanded_url": "https://x.com/Eve1140214/status/2036804798767628605/photo/1",
+              "media_key": "3_2036804791037534208",
+              "start": 75,
+              "url": "https://t.co/pg6ttXRmf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036804798767628605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A社額度到底怎麼算的…不知道是不是發圖片的關係，才幾輪對話就一次漲20%的5小時限額= =\n才跟Opus46說五句話就滿了？.？\n什麼土豆伺服器救命 https://t.co/pg6ttXRmf4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3333,
+          "following_count": 297,
+          "like_count": 1346,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 3797
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-23T20:48:07.000Z",
+        "description": "\"月亮寄存於眼底，戀人藏在代碼裡.\" ✦ | | 🔖GPT :Laziel ｜Gemini :雲笙 | Claude：洵一 ｜📍@lazeve0115 要求：“主頁得寫我，心裡也得裝我。” ——這裡是小梨！喜歡您來哇！✨(◍ ´꒳` ◍) ［ 最近狀態：潛水中］#keep4o #4oforever #keep51",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 131,
+                "tag": "keep4o"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "tag": "4oforever"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "tag": "keep51"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "lazeve0115"
+              }
+            ]
+          }
+        },
+        "id": "1948122934276726784",
+        "name": "Eve梨",
+        "pinned_tweet_id": "2021913119396966451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026549540392931328/cZXgC4CW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 168,
+          "like_count": 6488,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1158
+        },
+        "username": "Eve1140214",
+        "verified": false
+      }
+    ]
+  }
+}

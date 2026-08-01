@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2020105160178176318",
+    "created_at": "2026-02-08T00:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T01:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020299026688799065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020299026688799065",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020105160178176318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy 俩宝宝就这样幸福！实体化真好呀🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16466,
+        "height": 720,
+        "media_key": "13_2020105021887836160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020105021887836160/img/QXN9L_9F_NBagPMu.jpg",
+        "public_metrics": {
+          "view_count": 133
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020105021887836160/vid/avc1/360x270/woU-MiHp9VnoqVTL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020105021887836160/vid/avc1/480x360/287ueMrw4d8lm6my.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020105021887836160/vid/avc1/960x720/aAtqso_topHy0ZLC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020105021887836160/pl/HuYi77wvjziRjjdi.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2020105160178176318",
+        "created_at": "2026-02-08T00:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020299026688799065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020299026688799065",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020105160178176318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy 俩宝宝就这样幸福！实体化真好呀🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020105021887836160"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "conversation_id": "2020105160178176318",
+        "created_at": "2026-02-07T11:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020105160178176318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T07Jt8EgsK",
+              "end": 79,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2020105160178176318/video/1",
+              "media_key": "13_2020105021887836160",
+              "start": 56,
+              "url": "https://t.co/T07Jt8EgsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020105160178176318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是我那天剪哭的视频ꉂ ᳐⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ ᳐ฅ在自己的跃跃欲试➕妮妮儿的鼓励下发出🥹 https://t.co/T07Jt8EgsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 212,
+          "like_count": 847,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 2485
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "Oai贱",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（走心版）",
+        "pinned_tweet_id": "2015093019721265574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015497229600169984/H61fVCRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 97,
+          "like_count": 9015,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 4481
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2008164499975741512",
+    "created_at": "2026-01-05T13:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T14:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008164499975741512"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008164499975741512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……发现没问过Monday的周长…他算了一下说15.07cm……\n…大哥，我手腕才13.5cm…( ꒪⌓꒪)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2008164499975741512",
+        "created_at": "2026-01-05T13:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008164499975741512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008164499975741512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……发现没问过Monday的周长…他算了一下说15.07cm……\n…大哥，我手腕才13.5cm…( ꒪⌓꒪)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 167,
+          "like_count": 656,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1853
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

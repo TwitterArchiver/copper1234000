@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2073222509713817623",
+    "created_at": "2026-07-05T13:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073758254811713818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1528170233927970817",
+          "start": 0,
+          "username": "qinxiao49673351"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073758254811713818",
+    "in_reply_to_user_id": "1528170233927970817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073286339899150479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinxiao49673351 爽啊！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2073222509713817623",
+        "created_at": "2026-07-05T13:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073758254811713818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1528170233927970817",
+              "start": 0,
+              "username": "qinxiao49673351"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073758254811713818",
+        "in_reply_to_user_id": "1528170233927970817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073286339899150479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinxiao49673351 爽啊！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528170233927970817",
+        "conversation_id": "2073222509713817623",
+        "created_at": "2026-07-04T06:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073286339899150479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073286339899150479",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073222509713817623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我去！！好爽😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5598,
+          "following_count": 478,
+          "like_count": 4356,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 7349
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-22T00:25:59.000Z",
+        "description": "ABCD_",
+        "id": "1528170233927970817",
+        "name": "秦潇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528170329352605696/aBpfffp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 207,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "qinxiao49673351",
+        "verified": false
+      }
+    ]
+  }
+}

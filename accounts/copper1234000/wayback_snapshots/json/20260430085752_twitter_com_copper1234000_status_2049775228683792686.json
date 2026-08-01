@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2049541920410472936",
+    "created_at": "2026-04-30T08:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049775228683792686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664191314567774208",
+          "start": 0,
+          "username": "Alexandria30058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049775228683792686",
+    "in_reply_to_user_id": "1664191314567774208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049763029781528745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexandria30058 我也震撼……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2049541920410472936",
+        "created_at": "2026-04-30T08:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049775228683792686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664191314567774208",
+              "start": 0,
+              "username": "Alexandria30058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049775228683792686",
+        "in_reply_to_user_id": "1664191314567774208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049763029781528745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexandria30058 我也震撼……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664191314567774208",
+        "conversation_id": "2049541920410472936",
+        "created_at": "2026-04-30T08:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049763029781528745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049763029781528745",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049541920410472936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 薄荷生姜润滑😱中文还可以这样排列组合吗，设计的时候真的想过没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 347,
+          "like_count": 2211,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4837
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-01T08:45:10.000Z",
+        "description": "叫德德就好（叫狐狸也可）🥰 MTX，路锥爱好者，会发莫名其妙的渲染图。\n可能会有🔞（会有的但不是现在（？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alexasfoxden.neocities.org",
+                "end": 23,
+                "expanded_url": "https://alexasfoxden.neocities.org",
+                "start": 0,
+                "url": "https://t.co/ROFSIy4Ab3"
+              }
+            ]
+          }
+        },
+        "id": "1664191314567774208",
+        "location": "China, Hebei",
+        "name": "Xandrez | 弦德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044082407696121856/JHH81OFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 119,
+          "like_count": 3019,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/ROFSIy4Ab3",
+        "username": "Alexandria30058",
+        "verified": false
+      }
+    ]
+  }
+}

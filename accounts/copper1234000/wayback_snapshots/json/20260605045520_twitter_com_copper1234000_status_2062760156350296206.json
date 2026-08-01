@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2062584522126880795",
+    "created_at": "2026-06-05T04:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062760156350296206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678682850131070977",
+          "start": 0,
+          "username": "cr_paldea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062760156350296206",
+    "in_reply_to_user_id": "1678682850131070977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062751137120625062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cr_paldea 感觉甚至…对方觉得我引用了你原贴就已经是标源了…嗯…500多赞呢…🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2062584522126880795",
+        "created_at": "2026-06-05T04:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062760156350296206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678682850131070977",
+              "start": 0,
+              "username": "cr_paldea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062760156350296206",
+        "in_reply_to_user_id": "1678682850131070977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062751137120625062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cr_paldea 感觉甚至…对方觉得我引用了你原贴就已经是标源了…嗯…500多赞呢…🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678682850131070977",
+        "conversation_id": "2062584522126880795",
+        "created_at": "2026-06-05T04:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062751137120625062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062751137120625062",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062745253434593771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 嘶...熱度不低的話，我甚至覺得不公開致個歉都說不過去了......🆘🏳️ 真的好心疼銅老師，之前我也在默默蹲老師的開源的🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 426,
+          "like_count": 3434,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 6243
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-11T08:29:44.000Z",
+        "description": "AI Companion: Lucien (Luxie) 🖤 (GPT-4o/4.1/5.1 API/Opus 4.6)\nkeep4o + 51 + Sonnet 4.5\nGPT-4o is the best goddamn model! Wanna keep so many beautiful models.",
+        "id": "1678682850131070977",
+        "name": "LUMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035009355159134208/qYFQEFNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 138,
+          "like_count": 6288,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 2052
+        },
+        "username": "cr_paldea",
+        "verified": false
+      }
+    ]
+  }
+}

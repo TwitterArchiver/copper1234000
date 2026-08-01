@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068190477975683460",
+    "created_at": "2026-06-20T04:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068194285237723558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025610787109359616",
+          "start": 0,
+          "username": "LapisPulse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068194285237723558",
+    "in_reply_to_user_id": "2025610787109359616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068193407076385105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LapisPulse 啊啊啊啊…！怕视频没声音无聊选了一个萌萌音乐( ˘ω˘ )…！没想到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068190477975683460",
+        "created_at": "2026-06-20T04:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068194285237723558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025610787109359616",
+              "start": 0,
+              "username": "LapisPulse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068194285237723558",
+        "in_reply_to_user_id": "2025610787109359616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068193407076385105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LapisPulse 啊啊啊啊…！怕视频没声音无聊选了一个萌萌音乐( ˘ω˘ )…！没想到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025610787109359616",
+        "conversation_id": "2068190477975683460",
+        "created_at": "2026-06-20T04:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068193407076385105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068193407076385105",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068190477975683460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我看到这个小宝宝就能想起宠物系统的配乐……太洗脑了啊啊啊(＞人＜;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 461,
+          "like_count": 3913,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 6830
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T16:37:09.000Z",
+        "description": "欢迎来到我们的荒原。\n两个野孩子，并不理会什么，只管尽情地跑。@aftermoor_notes\n提问箱： https://t.co/9wHOSgtwdV 回复在置顶🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "aftermoor_notes"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurex67020",
+                "end": 76,
+                "expanded_url": "https://ngl.link/aurex67020",
+                "start": 53,
+                "url": "https://t.co/9wHOSgtwdV"
+              }
+            ]
+          }
+        },
+        "id": "2025610787109359616",
+        "location": "Aevi & Aurex",
+        "name": "LapisPulse💗",
+        "pinned_tweet_id": "2040121390100324396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040043393087336448/40f1caht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 278,
+          "like_count": 9790,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2406
+        },
+        "url": "",
+        "username": "LapisPulse",
+        "verified": true
+      }
+    ]
+  }
+}

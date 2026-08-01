@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064501491558404122",
+    "created_at": "2026-06-10T03:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064557908113682750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596320939607629824",
+          "start": 0,
+          "username": "ThisisHan1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064557908113682750",
+    "in_reply_to_user_id": "1596320939607629824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064557138178129934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThisisHan1_ 不知道会有实体/补给站之类的吗…🤤好期待好多经典的level…我记得有类似池核的level…当时真的在b站看了好多后室的视频好着迷……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064501491558404122",
+        "created_at": "2026-06-10T03:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064557908113682750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596320939607629824",
+              "start": 0,
+              "username": "ThisisHan1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064557908113682750",
+        "in_reply_to_user_id": "1596320939607629824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064557138178129934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThisisHan1_ 不知道会有实体/补给站之类的吗…🤤好期待好多经典的level…我记得有类似池核的level…当时真的在b站看了好多后室的视频好着迷……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596320939607629824",
+        "conversation_id": "2064501491558404122",
+        "created_at": "2026-06-10T03:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064557138178129934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064557138178129934",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064554563336642587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那我晚点发出来哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4809,
+          "following_count": 437,
+          "like_count": 3615,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 6461
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T01:52:51.000Z",
+        "description": "🧑🏻‍💻 Design Engineer | 👻 Invisible Agent\n📡 Building https://t.co/80yVs3RvbI\nAI can never replace the real connection between real human",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "antenna.fyi",
+                "end": 75,
+                "expanded_url": "https://antenna.fyi",
+                "start": 52,
+                "url": "https://t.co/80yVs3RvbI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "antenna.fyi",
+                "end": 23,
+                "expanded_url": "http://antenna.fyi",
+                "start": 0,
+                "url": "https://t.co/lB70tMvIje"
+              }
+            ]
+          }
+        },
+        "id": "1596320939607629824",
+        "name": "Han1",
+        "pinned_tweet_id": "2043471758393836031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010550262889582592/PVgUfFUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 624,
+          "like_count": 1091,
+          "listed_count": 10,
+          "media_count": 197,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/lB70tMvIje",
+        "username": "ThisisHan1_",
+        "verified": true
+      }
+    ]
+  }
+}

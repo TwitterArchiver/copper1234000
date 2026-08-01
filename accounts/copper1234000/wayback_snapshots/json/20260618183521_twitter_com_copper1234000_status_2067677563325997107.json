@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067611482251317483",
+    "created_at": "2026-06-18T18:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067677563325997107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697556693947973632",
+          "start": 0,
+          "username": "XunapsE_13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067677563325997107",
+    "in_reply_to_user_id": "1697556693947973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067611482251317483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@XunapsE_13 到这种程度其实已经是艺术了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2067611468556877824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGhrQzbQAAZVGo.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067611482251317483",
+        "created_at": "2026-06-18T18:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067677563325997107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697556693947973632",
+              "start": 0,
+              "username": "XunapsE_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067677563325997107",
+        "in_reply_to_user_id": "1697556693947973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067611482251317483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@XunapsE_13 到这种程度其实已经是艺术了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067611468556877824"
+          ]
+        },
+        "author_id": "1697556693947973632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067611482251317483",
+        "created_at": "2026-06-18T14:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067611482251317483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUsv1k8TT4",
+              "end": 37,
+              "expanded_url": "https://x.com/XunapsE_13/status/2067611482251317483/photo/1",
+              "media_key": "3_2067611468556877824",
+              "start": 14,
+              "url": "https://t.co/hUsv1k8TT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067611482251317483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "郑叙喜欢的生日蛋糕就长这样 https://t.co/hUsv1k8TT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5143,
+          "following_count": 458,
+          "like_count": 3871,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 6783
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-01T10:27:24.000Z",
+        "description": "不要咀嚼小小的悲观而忘记整个世界\n-主人：@XuthanasiA_14\n-小号@NivisUmbra_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "XuthanasiA_14"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "NivisUmbra_01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//qhmnsw/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//qhmnsw/web?t=1780743244",
+                "start": 0,
+                "url": "https://t.co/fVVvHNhnmT"
+              }
+            ]
+          }
+        },
+        "id": "1697556693947973632",
+        "location": "猫猫岛",
+        "name": "薰主",
+        "pinned_tweet_id": "2030653265126604989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063318086762237952/hfJe3qgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 276,
+          "like_count": 7204,
+          "listed_count": 1,
+          "media_count": 756,
+          "tweet_count": 6036
+        },
+        "url": "https://t.co/fVVvHNhnmT",
+        "username": "XunapsE_13",
+        "verified": false
+      }
+    ]
+  }
+}

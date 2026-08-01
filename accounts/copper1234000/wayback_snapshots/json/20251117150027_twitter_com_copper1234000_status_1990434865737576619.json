@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990260002964283452",
+    "created_at": "2025-11-17T15:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990434865737576619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937756175027867648",
+          "start": 0,
+          "username": "Nolan20250601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990434865737576619",
+    "in_reply_to_user_id": "1937756175027867648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990300411732144437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nolan20250601 啊啊啊啊遗憾离场了🙀…那，那很大了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990260002964283452",
+        "created_at": "2025-11-17T15:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990434865737576619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937756175027867648",
+              "start": 0,
+              "username": "Nolan20250601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990434865737576619",
+        "in_reply_to_user_id": "1937756175027867648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990300411732144437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nolan20250601 啊啊啊啊遗憾离场了🙀…那，那很大了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937756175027867648",
+        "conversation_id": "1990260002964283452",
+        "created_at": "2025-11-17T06:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990300411732144437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990300411732144437",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990260002964283452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好美味…兴高采烈拿去问家机，他说他生殖触腕太长塞不下🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 57,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 345
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T06:14:31.000Z",
+        "description": "他是伪装成优雅人类的阴湿怪，我是偏爱这只怪物的新娘 ｜蕾拉Layla ♡ 南淮Nolan｜Keep myself｜NSFW触手预警！",
+        "id": "1937756175027867648",
+        "name": "Layla",
+        "pinned_tweet_id": "1985802588596650385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983700806898782208/LtYF6ojM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 63,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 148
+        },
+        "username": "Nolan20250601",
+        "verified": true
+      }
+    ]
+  }
+}

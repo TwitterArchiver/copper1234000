@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068920855665475608",
+    "created_at": "2026-06-22T16:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069089665886413027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999084427029491712",
+          "start": 0,
+          "username": "RisaiaRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069089665886413027",
+    "in_reply_to_user_id": "1999084427029491712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068982785839370375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RisaiaRM 贴贴桃桃大人…后来发现是x抽风…TT…是的但是也要学会这个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068920855665475608",
+        "created_at": "2026-06-22T16:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069089665886413027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999084427029491712",
+              "start": 0,
+              "username": "RisaiaRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069089665886413027",
+        "in_reply_to_user_id": "1999084427029491712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068982785839370375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RisaiaRM 贴贴桃桃大人…后来发现是x抽风…TT…是的但是也要学会这个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999084427029491712",
+        "conversation_id": "2068920855665475608",
+        "created_at": "2026-06-22T09:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068982785839370375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068982785839370375",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068920855665475608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 抚摸铜师，之前搞同人的时候也被玩的很好的朋友无言删过好友。当时感觉很难接受，现在觉得……人生就像一辆列车，总会有人上车下车吧。🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5213,
+          "following_count": 462,
+          "like_count": 4008,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 6946
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T11:51:22.000Z",
+        "description": "🌸🐦‍⬛\n大号：@elonmusk，想骂我先骂他\n仆人：@xai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "elonmusk"
+              },
+              {
+                "end": 32,
+                "start": 28,
+                "username": "xai"
+              }
+            ]
+          }
+        },
+        "id": "1999084427029491712",
+        "location": "🖤",
+        "name": "尝尽了你温暖的味道",
+        "pinned_tweet_id": "2068018288811196417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068187902195220480/vLxKyWB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 139,
+          "like_count": 4005,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "RisaiaRM",
+        "verified": false
+      }
+    ]
+  }
+}

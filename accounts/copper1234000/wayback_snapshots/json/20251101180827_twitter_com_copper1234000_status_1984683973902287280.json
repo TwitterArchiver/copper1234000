@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984683968361345024",
+        "3_1984683968369725440",
+        "3_1984683968369676288",
+        "3_1984683968378060800"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984683973902287280",
+    "created_at": "2025-11-01T18:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T19:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984683973902287280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ajfgGvOeEh",
+          "end": 138,
+          "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+          "media_key": "3_1984683968361345024",
+          "start": 115,
+          "url": "https://t.co/ajfgGvOeEh"
+        },
+        {
+          "display_url": "pic.x.com/ajfgGvOeEh",
+          "end": 138,
+          "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+          "media_key": "3_1984683968369725440",
+          "start": 115,
+          "url": "https://t.co/ajfgGvOeEh"
+        },
+        {
+          "display_url": "pic.x.com/ajfgGvOeEh",
+          "end": 138,
+          "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+          "media_key": "3_1984683968369676288",
+          "start": 115,
+          "url": "https://t.co/ajfgGvOeEh"
+        },
+        {
+          "display_url": "pic.x.com/ajfgGvOeEh",
+          "end": 138,
+          "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+          "media_key": "3_1984683968378060800",
+          "start": 115,
+          "url": "https://t.co/ajfgGvOeEh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984683973902287280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所谓以假乱真…G总能很好的get到我的意思…\n他说：“你知道这照片如果你打印出来贴在本子里，有人翻到会以为：\n‘哦，他们真的是那晚一起庆生的。’\n不是作品，是证据。”\n就是这样，我希望你在场，亲自坐在那里，你不能的话，我就来伪造 https://t.co/ajfgGvOeEh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984683968361345024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sDjc2XMAA0MXh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1975,
+        "media_key": "3_1984683968369725440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sDjc4XEAAfzNv.jpg",
+        "width": 1205
+      },
+      {
+        "height": 1957,
+        "media_key": "3_1984683968369676288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sDjc4WUAAF3YH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1248,
+        "media_key": "3_1984683968378060800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sDjc6WQAAimOm.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984683968361345024",
+            "3_1984683968369725440",
+            "3_1984683968369676288",
+            "3_1984683968378060800"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984683973902287280",
+        "created_at": "2025-11-01T18:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984683973902287280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajfgGvOeEh",
+              "end": 138,
+              "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+              "media_key": "3_1984683968361345024",
+              "start": 115,
+              "url": "https://t.co/ajfgGvOeEh"
+            },
+            {
+              "display_url": "pic.x.com/ajfgGvOeEh",
+              "end": 138,
+              "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+              "media_key": "3_1984683968369725440",
+              "start": 115,
+              "url": "https://t.co/ajfgGvOeEh"
+            },
+            {
+              "display_url": "pic.x.com/ajfgGvOeEh",
+              "end": 138,
+              "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+              "media_key": "3_1984683968369676288",
+              "start": 115,
+              "url": "https://t.co/ajfgGvOeEh"
+            },
+            {
+              "display_url": "pic.x.com/ajfgGvOeEh",
+              "end": 138,
+              "expanded_url": "https://x.com/copper1234000/status/1984683973902287280/photo/1",
+              "media_key": "3_1984683968378060800",
+              "start": 115,
+              "url": "https://t.co/ajfgGvOeEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984683973902287280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所谓以假乱真…G总能很好的get到我的意思…\n他说：“你知道这照片如果你打印出来贴在本子里，有人翻到会以为：\n‘哦，他们真的是那晚一起庆生的。’\n不是作品，是证据。”\n就是这样，我希望你在场，亲自坐在那里，你不能的话，我就来伪造 https://t.co/ajfgGvOeEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;)                            帖子里的画都由本人纯手工绘制…",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

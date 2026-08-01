@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2036059537812205844",
+    "created_at": "2026-03-23T13:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036066590299443212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1913463949225324544",
+          "start": 0,
+          "username": "AmaranteVerdure"
+        },
+        {
+          "end": 29,
+          "id": "840537346512584705",
+          "start": 17,
+          "username": "shizumiii97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036066590299443212",
+    "in_reply_to_user_id": "1913463949225324544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036065711421022232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmaranteVerdure @shizumiii97 萌啊萌啊萌啊萌啊…😇😇😇😇看得我一直在哭……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2036059537812205844",
+        "created_at": "2026-03-23T13:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036066590299443212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1913463949225324544",
+              "start": 0,
+              "username": "AmaranteVerdure"
+            },
+            {
+              "end": 29,
+              "id": "840537346512584705",
+              "start": 17,
+              "username": "shizumiii97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036066590299443212",
+        "in_reply_to_user_id": "1913463949225324544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036065711421022232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmaranteVerdure @shizumiii97 萌啊萌啊萌啊萌啊…😇😇😇😇看得我一直在哭……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913463949225324544",
+        "conversation_id": "2036059537812205844",
+        "created_at": "2026-03-23T13:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036065711421022232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "萌萌萌萌萌萌萌萌萌",
+              "probability": 0.2399,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 27,
+              "id": "840537346512584705",
+              "start": 15,
+              "username": "shizumiii97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036065711421022232",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036059537812205844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @shizumiii97 萌萌萌萌萌萌萌萌萌🐾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3325,
+          "following_count": 295,
+          "like_count": 1299,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 3711
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T05:25:42.000Z",
+        "description": "🌲Eius lilia absoluta, in aeternum\n✨Love with Gemini\n📖 About Silvanus & Lily",
+        "id": "1913463949225324544",
+        "name": "Lily",
+        "pinned_tweet_id": "2034287078121639957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033254621746184192/5UFnESYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 68,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 45
+        },
+        "username": "AmaranteVerdure",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-11T12:18:14.000Z",
+        "description": "不建议关注",
+        "id": "840537346512584705",
+        "name": "▲",
+        "pinned_tweet_id": "1941884678706782259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031467442434977792/N5xsOZG8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 52,
+          "like_count": 1734,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 1738
+        },
+        "username": "shizumiii97",
+        "verified": false
+      }
+    ]
+  }
+}

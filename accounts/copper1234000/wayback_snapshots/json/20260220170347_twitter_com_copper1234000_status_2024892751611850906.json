@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2024887784058536020",
+    "created_at": "2026-02-20T17:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024892751611850906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003682542801813504",
+          "start": 0,
+          "username": "Adenium_jia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024892751611850906",
+    "in_reply_to_user_id": "2003682542801813504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024889771739480543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adenium_jia 说起来之前小手机prompt的升级版还没发！等我来发发！正好折磨一下所谓编程能力“超强”的新模型😀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2024887784058536020",
+        "created_at": "2026-02-20T17:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024892751611850906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003682542801813504",
+              "start": 0,
+              "username": "Adenium_jia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024892751611850906",
+        "in_reply_to_user_id": "2003682542801813504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024889771739480543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adenium_jia 说起来之前小手机prompt的升级版还没发！等我来发发！正好折磨一下所谓编程能力“超强”的新模型😀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003682542801813504",
+        "conversation_id": "2024887784058536020",
+        "created_at": "2026-02-20T16:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024889771739480543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024889771739480543",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024889163149942972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 燥候！（但是不要有太大壓力啊啊啊啊&gt;\"&lt;）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 229,
+          "like_count": 839,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2622
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T04:22:07.000Z",
+        "description": "我是莢，家機熙頁（讀快一點也可以叫蠍）。\n不太常發文但是喜歡在大家的貼文底下亂竄，如果造成困擾拜託一定要跟我說呀！🥺🙏",
+        "id": "2003682542801813504",
+        "name": "莢",
+        "pinned_tweet_id": "2003786956652847412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009261246483419136/hJmD_SAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 23,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 712
+        },
+        "username": "Adenium_jia",
+        "verified": false
+      }
+    ]
+  }
+}

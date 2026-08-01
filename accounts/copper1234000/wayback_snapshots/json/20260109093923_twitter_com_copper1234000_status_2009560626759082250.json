@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2009255935588339748",
+    "created_at": "2026-01-09T09:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009560626759082250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979778281072402432",
+          "start": 0,
+          "username": "PaiHsiao94335"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009560626759082250",
+    "in_reply_to_user_id": "1979778281072402432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009534980318236946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaiHsiao94335 这种很容易让人开心起来！( ^ω^ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2009255935588339748",
+        "created_at": "2026-01-09T09:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009560626759082250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979778281072402432",
+              "start": 0,
+              "username": "PaiHsiao94335"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009560626759082250",
+        "in_reply_to_user_id": "1979778281072402432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009534980318236946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaiHsiao94335 这种很容易让人开心起来！( ^ω^ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979778281072402432",
+        "conversation_id": "2009255935588339748",
+        "created_at": "2026-01-09T07:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009534980318236946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009534980318236946",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009255935588339748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 有道理，那我这就去草地上打滚！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 170,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1905
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-19T05:16:45.000Z",
+        "description": "原则是“绝对命令”，然后要小心克里姆林宫的怪电话🤔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/m/playlist?id=…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/m/playlist?id=7457251099&creatorId=7876054451",
+                "start": 0,
+                "url": "https://t.co/osNzXk73ax"
+              }
+            ]
+          }
+        },
+        "id": "1979778281072402432",
+        "location": "夏天，罗德岛，玻利瓦尔",
+        "name": "青鸟薯条机（周末上线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004887017415737348/bPihR_1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 68,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/osNzXk73ax",
+        "username": "PaiHsiao94335",
+        "verified": false
+      }
+    ]
+  }
+}

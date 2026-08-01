@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064539007522935268",
+    "created_at": "2026-06-10T04:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064566420482961857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1528325699416707072",
+          "start": 0,
+          "username": "DonnaDo18266628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064566420482961857",
+    "in_reply_to_user_id": "1528325699416707072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064565642817425520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DonnaDo18266628 诶嘿是我(^_−)−☆…！当时还在xhs活动嘿嘿…那时候还很古法…所以机制也比较古法…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064539007522935268",
+        "created_at": "2026-06-10T04:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064566420482961857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1528325699416707072",
+              "start": 0,
+              "username": "DonnaDo18266628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064566420482961857",
+        "in_reply_to_user_id": "1528325699416707072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064565642817425520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DonnaDo18266628 诶嘿是我(^_−)−☆…！当时还在xhs活动嘿嘿…那时候还很古法…所以机制也比较古法…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528325699416707072",
+        "conversation_id": "2064539007522935268",
+        "created_at": "2026-06-10T04:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064565642817425520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064565642817425520",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064563061051076632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 原来如此 !突然想起来当时分享这个情绪压强教程的作者就是给Monday做的……那不会就是铜吧？原来我们那么早就见过了吗⊙▽⊙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 438,
+          "like_count": 3619,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 6466
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-22T10:44:03.000Z",
+        "description": "我不凶",
+        "id": "1528325699416707072",
+        "name": "Donna",
+        "pinned_tweet_id": "2025179243194556744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959470493943341056/Hhamr1J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 204,
+          "like_count": 48598,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 6892
+        },
+        "username": "DonnaDo18266628",
+        "verified": false
+      }
+    ]
+  }
+}

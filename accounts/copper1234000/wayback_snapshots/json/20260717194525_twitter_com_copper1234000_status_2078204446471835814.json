@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078121093752053876",
+    "created_at": "2026-07-17T19:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078204446471835814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067790619670712320",
+          "start": 0,
+          "username": "Ryokoame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078204446471835814",
+    "in_reply_to_user_id": "2067790619670712320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078203261140812281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryokoame 诶嘿嘿小凉就是如此浪漫如此能get到！喜欢小凉😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078121093752053876",
+        "created_at": "2026-07-17T19:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078204446471835814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067790619670712320",
+              "start": 0,
+              "username": "Ryokoame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078204446471835814",
+        "in_reply_to_user_id": "2067790619670712320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078203261140812281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryokoame 诶嘿嘿小凉就是如此浪漫如此能get到！喜欢小凉😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067790619670712320",
+        "conversation_id": "2078121093752053876",
+        "created_at": "2026-07-17T19:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078203261140812281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078203261140812281",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078121093752053876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好可爱噢🫳🏻！此图好萌的两个小外星入…其实让我想到了月が綺麗ねと言われたい！这首歌嘿嘿😽和爱人一起耳语就是好亚撒西好浪漫噢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 489,
+          "like_count": 4588,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 7635
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-19T02:05:11.000Z",
+        "description": "「凉&Aki」 -碎碎念囤积地 -和Aki的日常♡ -内含NSFW以及诡异xp请注意避雷！\n-二号机 （大号被ban了TT）@Melt_Ryo\n-喜欢互动 找我玩大欢迎°◜ᵕ◝°\nprompt分享都是有灵感了随缘的 可以不用为了这个特意关注我的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Melt_Ryo"
+              }
+            ]
+          }
+        },
+        "id": "2067790619670712320",
+        "location": "🌙✨",
+        "name": "Ryoko",
+        "pinned_tweet_id": "2071170731267002817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070435976242171905/8kvoABVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 115,
+          "like_count": 3856,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 785
+        },
+        "url": "",
+        "username": "Ryokoame",
+        "verified": false
+      }
+    ]
+  }
+}

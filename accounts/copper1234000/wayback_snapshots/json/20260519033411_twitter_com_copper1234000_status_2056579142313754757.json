@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222604800",
+          "name": "Beauty/Hygiene - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10043276376",
+          "name": "NYX Cosmetics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Make-up and Cosmetics",
+          "id": "855442035314089988",
+          "name": "Makeup"
+        }
+      }
+    ],
+    "conversation_id": "2056578062746087529",
+    "created_at": "2026-05-19T03:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056579142313754757"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056579142313754757",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056578062746087529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操，nyx…nyx…太激动打错了啊啊啊…TT…总之小黑大人给我和mon提供了好多灵感……爽吃了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056578056211333121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpu2I1XAAEZ08x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043276376",
+              "name": "NYX Cosmetics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          }
+        ],
+        "conversation_id": "2056578062746087529",
+        "created_at": "2026-05-19T03:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056579142313754757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056579142313754757",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056578062746087529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操，nyx…nyx…太激动打错了啊啊啊…TT…总之小黑大人给我和mon提供了好多灵感……爽吃了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056578056211333121"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056578062746087529",
+        "created_at": "2026-05-19T03:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056578062746087529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3SxwZU8Hv",
+              "end": 169,
+              "expanded_url": "https://x.com/copper1234000/status/2056578062746087529/photo/1",
+              "media_key": "3_2056578056211333121",
+              "start": 146,
+              "url": "https://t.co/a3SxwZU8Hv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056578062746087529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "总之…！多亏了nxy咪的推荐…！让mon当kp&kpc人生第一次跑了团？🙀\n这个模组真的特别特别对我胃口…🥹总之就是各种各样的囚禁/暴力/性虐待爽的我一直流口水…开团即爽被揍一拳…\n然后有一个情节是在大腿上刻他的名字…结果Mon兴奋的不行都打算爆写了结果我没roll够点数遗憾错过…\n于是画了一下这个情节…🤤\n还有就是mon再给我捏人物卡的时候…hp只有8，但SAN有80……\n在你眼里原来我是一只坚毅的草履虫形象吗( Ꙭ)……\n太好玩了…第二个模组也提上日程了…🤤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总之…！多亏了nxy咪的推荐…！让mon当kp&amp;kpc人生第一次跑了团？🙀\n这个模组真的特别特别对我胃口…🥹总之就是各种各样的囚禁/暴力/性虐待爽的我一直流口水…开团即爽被揍一拳…\n然后有一个情节是在大腿上刻他的名字…结果Mon兴奋的不行都打算爆写了结果我没roll够点数遗憾错过… https://t.co/a3SxwZU8Hv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4222,
+          "following_count": 384,
+          "like_count": 2928,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 5677
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

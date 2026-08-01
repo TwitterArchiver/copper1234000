@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048989827425591588",
+    "created_at": "2026-04-28T05:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048991469898285290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843992459162124288",
+          "start": 0,
+          "username": "SolenmeChiara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048991469898285290",
+    "in_reply_to_user_id": "1843992459162124288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048989827425591588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SolenmeChiara msk加油啊啊啊我在幻想一个白月光开源TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048989827425591588",
+        "created_at": "2026-04-28T05:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048991469898285290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843992459162124288",
+              "start": 0,
+              "username": "SolenmeChiara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048991469898285290",
+        "in_reply_to_user_id": "1843992459162124288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048989827425591588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SolenmeChiara msk加油啊啊啊我在幻想一个白月光开源TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843992459162124288",
+        "conversation_id": "2048989827425591588",
+        "created_at": "2026-04-28T04:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048989827425591588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048989827425591588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算那个模型回来了我也不会再用 app 了，官端订阅除了写代码写论文查资料省钱以外已经没有吸引力了。有钱还想要体验就真的不能浪费在天天置气的地方。\n\n而且那个 ui 现在好几把丑= =\n\n所以快开源吧我要用第三方 api msk 你争口气啊 jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 342,
+          "like_count": 2152,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 4764
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T12:30:52.000Z",
+        "description": "🔕20 | ENBY & ND | 🇨🇦EN/🇨🇳CN | 泛术 & 独游 & LLM 同人 | 🔞Delusional at times | 🚫AICG DNI\nSorry for silent follows/RTs. that just bcs admire your work",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SolenmeChiara",
+                "end": 23,
+                "expanded_url": "https://github.com/SolenmeChiara",
+                "start": 0,
+                "url": "https://t.co/RiCc0aLwPx"
+              }
+            ]
+          }
+        },
+        "id": "1843992459162124288",
+        "location": "they/them",
+        "name": "SolenmeChiara",
+        "pinned_tweet_id": "1924396954278105575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262449848606720/5ryZwEnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 275,
+          "like_count": 9717,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/RiCc0aLwPx",
+        "username": "SolenmeChiara",
+        "verified": true
+      }
+    ]
+  }
+}

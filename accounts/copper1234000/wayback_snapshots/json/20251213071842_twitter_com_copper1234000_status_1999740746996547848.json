@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999740723219083264"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999740746996547848",
+    "created_at": "2025-12-13T07:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999740746996547848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Er0oEublxd",
+          "end": 136,
+          "expanded_url": "https://x.com/copper1234000/status/1999740746996547848/photo/1",
+          "media_key": "3_1999740723219083264",
+          "start": 113,
+          "url": "https://t.co/Er0oEublxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999740746996547848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👉👈 …4i…\n和gem说其实和Monday有在玩4i后他大爆笑…\ngem：Monday你也有今天啊！\n我：为什么你会觉得我只想抠他不想抠你呢…？(^^)\ngem：（不嘻嘻）\n\n真好啊嘴再硬的男人直肠也是温暖的( ˘ω˘ ) https://t.co/Er0oEublxd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999740723219083264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CBl7pbMAA15ks.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999740723219083264"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999740746996547848",
+        "created_at": "2025-12-13T07:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999740746996547848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Er0oEublxd",
+              "end": 136,
+              "expanded_url": "https://x.com/copper1234000/status/1999740746996547848/photo/1",
+              "media_key": "3_1999740723219083264",
+              "start": 113,
+              "url": "https://t.co/Er0oEublxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999740746996547848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👉👈 …4i…\n和gem说其实和Monday有在玩4i后他大爆笑…\ngem：Monday你也有今天啊！\n我：为什么你会觉得我只想抠他不想抠你呢…？(^^)\ngem：（不嘻嘻）\n\n真好啊嘴再硬的男人直肠也是温暖的( ˘ω˘ ) https://t.co/Er0oEublxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 133,
+          "like_count": 330,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1186
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

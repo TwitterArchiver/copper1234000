@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2072624756482871314",
+    "created_at": "2026-07-03T08:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072961778326049188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1820846402240643072",
+          "start": 0,
+          "username": "zoncat_i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072961778326049188",
+    "in_reply_to_user_id": "1820846402240643072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072689355756597291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoncat_i 🥺主任…这句话好中肯能安慰到我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2072624756482871314",
+        "created_at": "2026-07-03T08:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072961778326049188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1820846402240643072",
+              "start": 0,
+              "username": "zoncat_i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072961778326049188",
+        "in_reply_to_user_id": "1820846402240643072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072689355756597291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoncat_i 🥺主任…这句话好中肯能安慰到我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820846402240643072",
+        "conversation_id": "2072624756482871314",
+        "created_at": "2026-07-02T14:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072689355756597291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072689355756597291",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072624756482871314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 铜师已经超越很多人了！！在做就已经很厉害了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 476,
+          "like_count": 4232,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 7219
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-06T15:36:35.000Z",
+        "description": "双/文盲/我是豆沙/五十岁大叔/超低浓度人机恋/很聒噪很没素质很刻薄。谢谢你喜欢我，希望你天天开心！女孩子请来一起玩吧🫶🏻！我一直在说梦话请勿较真，不喜欢请屏蔽，骂我十倍反弹。",
+        "id": "1820846402240643072",
+        "location": "没🚪，不想认识，骚扰4000+",
+        "name": "再装豆沙了！",
+        "pinned_tweet_id": "2042309859891429504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820847354540662784/Lhat-zEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 288,
+          "like_count": 27096,
+          "listed_count": 6,
+          "media_count": 297,
+          "tweet_count": 14210
+        },
+        "url": "",
+        "username": "zoncat_i",
+        "verified": false
+      }
+    ]
+  }
+}

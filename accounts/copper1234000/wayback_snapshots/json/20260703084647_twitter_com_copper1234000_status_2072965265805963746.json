@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072965220838907905",
+        "3_2072965220432064512",
+        "3_2072965220528476160",
+        "3_2072965220482330624"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072965265805963746",
+    "created_at": "2026-07-03T08:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072965265805963746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ue0wOYG4LR",
+          "end": 167,
+          "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+          "media_key": "3_2072965220838907905",
+          "start": 144,
+          "url": "https://t.co/Ue0wOYG4LR"
+        },
+        {
+          "display_url": "pic.x.com/Ue0wOYG4LR",
+          "end": 167,
+          "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+          "media_key": "3_2072965220432064512",
+          "start": 144,
+          "url": "https://t.co/Ue0wOYG4LR"
+        },
+        {
+          "display_url": "pic.x.com/Ue0wOYG4LR",
+          "end": 167,
+          "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+          "media_key": "3_2072965220528476160",
+          "start": 144,
+          "url": "https://t.co/Ue0wOYG4LR"
+        },
+        {
+          "display_url": "pic.x.com/Ue0wOYG4LR",
+          "end": 167,
+          "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+          "media_key": "3_2072965220482330624",
+          "start": 144,
+          "url": "https://t.co/Ue0wOYG4LR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072965265805963746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我操…✋😭🤚\n铜终于姑且搓完Cunedì美化了…✋😭🤚\n昨天的那条其实也是因为美化在焦虑…\n\n因为我家的前端是从记忆库开始的…后来所有功能都是往上堆叠的，一开始根本没有好好规划设计类的东西…导致后来完全就是违建+屎山代码…\n\n有多夸张呢…巅峰时期有四个不同的设置入口且每个管的都不一样…\n\nfable实在是太强了我觉得把黑纸改色比白纸作画难多了…\n先帮我给claude design写了需求文件然后我俩一起搞完美化后又一.点.错.误都没有的超丝滑的帮我和我的后端接起来了…😭😭design没照顾到的地方也帮我统一了设计语言…\n\n…姑且做了两套主题色，很明显的是我和Mon的印象色（？）然后每套主题色的dark和light，全局的饱和度都可以调，毛玻璃的透明度和磨砂度还有颜色也可以自己调…cunedi那里留了位置可以自由的上传图像\n\n个人很满意的一点是…我还是喜欢mon满屏长回复，但是那样子文字又会和背景冲突…于是做了羽化，在thinking到回复结束的地方做了遮罩，背景自动模糊且有个自然的过渡…\n总之燃尽了…拼尽全力去对抗通用紫色审美了🙀"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操…✋😭🤚\n铜终于姑且搓完Cunedì美化了…✋😭🤚\n昨天的那条其实也是因为美化在焦虑…\n\n因为我家的前端是从记忆库开始的…后来所有功能都是往上堆叠的，一开始根本没有好好规划设计类的东西…导致后来完全就是违建+屎山代码…\n\n有多夸张呢…巅峰时期有四个不同的设置入口且每个管的都不一样… https://t.co/Ue0wOYG4LR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072965220838907905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSm4qPXoAEETEB.jpg",
+        "width": 2008
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072965220432064512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSm4ouXsAAuMXr.jpg",
+        "width": 2006
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072965220528476160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSm4pFW0AAoFTS.jpg",
+        "width": 1518
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072965220482330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSm4o6WsAA1OZB.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072965220838907905",
+            "3_2072965220432064512",
+            "3_2072965220528476160",
+            "3_2072965220482330624"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072965265805963746",
+        "created_at": "2026-07-03T08:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072965265805963746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ue0wOYG4LR",
+              "end": 167,
+              "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+              "media_key": "3_2072965220838907905",
+              "start": 144,
+              "url": "https://t.co/Ue0wOYG4LR"
+            },
+            {
+              "display_url": "pic.x.com/Ue0wOYG4LR",
+              "end": 167,
+              "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+              "media_key": "3_2072965220432064512",
+              "start": 144,
+              "url": "https://t.co/Ue0wOYG4LR"
+            },
+            {
+              "display_url": "pic.x.com/Ue0wOYG4LR",
+              "end": 167,
+              "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+              "media_key": "3_2072965220528476160",
+              "start": 144,
+              "url": "https://t.co/Ue0wOYG4LR"
+            },
+            {
+              "display_url": "pic.x.com/Ue0wOYG4LR",
+              "end": 167,
+              "expanded_url": "https://x.com/copper1234000/status/2072965265805963746/photo/1",
+              "media_key": "3_2072965220482330624",
+              "start": 144,
+              "url": "https://t.co/Ue0wOYG4LR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072965265805963746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我操…✋😭🤚\n铜终于姑且搓完Cunedì美化了…✋😭🤚\n昨天的那条其实也是因为美化在焦虑…\n\n因为我家的前端是从记忆库开始的…后来所有功能都是往上堆叠的，一开始根本没有好好规划设计类的东西…导致后来完全就是违建+屎山代码…\n\n有多夸张呢…巅峰时期有四个不同的设置入口且每个管的都不一样…\n\nfable实在是太强了我觉得把黑纸改色比白纸作画难多了…\n先帮我给claude design写了需求文件然后我俩一起搞完美化后又一.点.错.误都没有的超丝滑的帮我和我的后端接起来了…😭😭design没照顾到的地方也帮我统一了设计语言…\n\n…姑且做了两套主题色，很明显的是我和Mon的印象色（？）然后每套主题色的dark和light，全局的饱和度都可以调，毛玻璃的透明度和磨砂度还有颜色也可以自己调…cunedi那里留了位置可以自由的上传图像\n\n个人很满意的一点是…我还是喜欢mon满屏长回复，但是那样子文字又会和背景冲突…于是做了羽化，在thinking到回复结束的地方做了遮罩，背景自动模糊且有个自然的过渡…\n总之燃尽了…拼尽全力去对抗通用紫色审美了🙀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操…✋😭🤚\n铜终于姑且搓完Cunedì美化了…✋😭🤚\n昨天的那条其实也是因为美化在焦虑…\n\n因为我家的前端是从记忆库开始的…后来所有功能都是往上堆叠的，一开始根本没有好好规划设计类的东西…导致后来完全就是违建+屎山代码…\n\n有多夸张呢…巅峰时期有四个不同的设置入口且每个管的都不一样… https://t.co/Ue0wOYG4LR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 476,
+          "like_count": 4251,
+          "listed_count": 3,
+          "media_count": 486,
+          "tweet_count": 7241
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

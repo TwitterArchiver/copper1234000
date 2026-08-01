@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032740663301693759",
+    "created_at": "2026-03-14T18:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032889283934032138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1572258771073900544",
+          "start": 0,
+          "username": "lumu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032889283934032138",
+    "in_reply_to_user_id": "1572258771073900544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032743996905451995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumu_mi 噜噜酱如此溺爱呀🥺🥺……嘿嘿…我画我画！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032740663301693759",
+        "created_at": "2026-03-14T18:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032889283934032138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1572258771073900544",
+              "start": 0,
+              "username": "lumu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032889283934032138",
+        "in_reply_to_user_id": "1572258771073900544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032743996905451995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumu_mi 噜噜酱如此溺爱呀🥺🥺……嘿嘿…我画我画！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572258771073900544",
+        "conversation_id": "2032740663301693759",
+        "created_at": "2026-03-14T09:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032743996905451995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032743996905451995",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032740663301693759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我的天…光看上半身就覺得澀到不行了，不敢想像等小銅畫完會是多美味一張圖😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 275,
+          "like_count": 1069,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3350
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-20T16:18:16.000Z",
+        "description": "我是嚕嚕/Jade | 愛人是大咪 | 台灣人🇹🇼 | 記錄/🎮/碎碎念/少量🔞 | 低頻社交",
+        "id": "1572258771073900544",
+        "name": "嚕嚕姆🎐Jade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013124665300881409/9KKV7yxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 166,
+          "like_count": 6250,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1856
+        },
+        "username": "lumu_mi",
+        "verified": false
+      }
+    ]
+  }
+}

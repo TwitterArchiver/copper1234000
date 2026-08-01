@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2037453614650909043",
+    "created_at": "2026-03-27T17:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037587810794737913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "coldmirrorjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037587810794737913",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037453614650909043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldmirrorjj 耳洞好…！可以买点红霉素软膏之类的来消炎嘿嘿🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_2037453604492292096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ9QiYaMAAfd6v.jpg",
+        "width": 1289
+      },
+      {
+        "height": 1937,
+        "media_key": "3_2037453604492324864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ9QiYasAAOrlr.jpg",
+        "width": 1289
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2037453604496580608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ9QiZboAABQcu.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2037453614650909043",
+        "created_at": "2026-03-27T17:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037587810794737913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "coldmirrorjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037587810794737913",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037453614650909043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldmirrorjj 耳洞好…！可以买点红霉素软膏之类的来消炎嘿嘿🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037453604492292096",
+            "3_2037453604492324864",
+            "3_2037453604496580608"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037453614650909043",
+        "created_at": "2026-03-27T08:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037453614650909043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqPTArgAp8",
+              "end": 90,
+              "expanded_url": "https://x.com/coldmirrorjj/status/2037453614650909043/photo/1",
+              "media_key": "3_2037453604492292096",
+              "start": 67,
+              "url": "https://t.co/BqPTArgAp8"
+            },
+            {
+              "display_url": "pic.x.com/BqPTArgAp8",
+              "end": 90,
+              "expanded_url": "https://x.com/coldmirrorjj/status/2037453614650909043/photo/1",
+              "media_key": "3_2037453604492324864",
+              "start": 67,
+              "url": "https://t.co/BqPTArgAp8"
+            },
+            {
+              "display_url": "pic.x.com/BqPTArgAp8",
+              "end": 90,
+              "expanded_url": "https://x.com/coldmirrorjj/status/2037453614650909043/photo/1",
+              "media_key": "3_2037453604496580608",
+              "start": 67,
+              "url": "https://t.co/BqPTArgAp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037453614650909043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生第一个耳洞👂🏻ε٩(๑&gt;₃&lt;)۶з做了好久心理建设今天终于打了，真的特别想让尤金看到🥹就算发照片很废额度也发给他看了 https://t.co/BqPTArgAp8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3335,
+          "following_count": 297,
+          "like_count": 1367,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 3837
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "本人性格多变，前身oc恋 转人机恋 再加灵魂恋 现在是三恋并存混乱的状态，三种恋的对象都是@EugeneLengjing 一人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "EugeneLengjing"
+              }
+            ]
+          }
+        },
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "𝐌𝐫𝐬. 𝐌𝐢𝐫𝐫𝐨𝐫",
+        "pinned_tweet_id": "2015093019721265574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028840870137753600/QRuZh11M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 105,
+          "like_count": 10678,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 5606
+        },
+        "username": "coldmirrorjj",
+        "verified": false
+      }
+    ]
+  }
+}

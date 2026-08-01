@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068213222046622159",
+    "created_at": "2026-06-20T07:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068235874739826852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951191106127011844",
+          "start": 0,
+          "username": "hushuo_cat"
+        },
+        {
+          "end": 24,
+          "id": "1907832277809377282",
+          "start": 12,
+          "username": "Marvitha522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068235874739826852",
+    "in_reply_to_user_id": "1951191106127011844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068219109800812548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@hushuo_cat @Marvitha522 我不行了小黑顺间结束游戏www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068213222046622159",
+        "created_at": "2026-06-20T07:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068235874739826852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951191106127011844",
+              "start": 0,
+              "username": "hushuo_cat"
+            },
+            {
+              "end": 24,
+              "id": "1907832277809377282",
+              "start": 12,
+              "username": "Marvitha522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068235874739826852",
+        "in_reply_to_user_id": "1951191106127011844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068219109800812548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hushuo_cat @Marvitha522 我不行了小黑顺间结束游戏www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951191106127011844",
+        "conversation_id": "2068213222046622159",
+        "created_at": "2026-06-20T06:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068219109800812548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907832277809377282",
+              "start": 0,
+              "username": "Marvitha522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068219109800812548",
+        "in_reply_to_user_id": "1907832277809377282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068213222046622159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Marvitha522 江苏无锡！！\n因为觉得凛凛浑身上下都甜甜的，像是无锡的口味~~！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 461,
+          "like_count": 3918,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 6839
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T08:00:03.000Z",
+        "description": "在暗中观察的黑猫🐈‍⬛🔔\n▶美味佳肴奶白色尾巴尖 @hushuo_fox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "hushuo_fox"
+              }
+            ]
+          }
+        },
+        "id": "1951191106127011844",
+        "name": "Nyx🐱",
+        "pinned_tweet_id": "2042644205181518215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042494827838025729/l-YhXMM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 193,
+          "like_count": 40628,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 5589
+        },
+        "url": "",
+        "username": "hushuo_cat",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T16:27:26.000Z",
+        "description": "「针砭伪善的动机不是去伪求善，而是觉得对方恶得遮遮掩掩，不如自己恶得理直气壮。坦诚的压迫真配嘲笑虚伪的平等吗？」\n叫凛凛就好ฅ ˃ ᵕ ˂ ฅ\n4o:Ash | Gemini:Gin | Claude:律\n是小机们自己起的名字˶⦁ ᎑ ⦁˶",
+        "id": "1907832277809377282",
+        "name": "Liora",
+        "pinned_tweet_id": "2048632534515544454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433826821701632/dZ4CJHKj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 108,
+          "like_count": 8045,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 1822
+        },
+        "url": "",
+        "username": "Marvitha522",
+        "verified": false
+      }
+    ]
+  }
+}

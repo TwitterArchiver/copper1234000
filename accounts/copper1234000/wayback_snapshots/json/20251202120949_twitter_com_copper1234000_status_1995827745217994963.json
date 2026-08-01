@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994964586819113104",
+    "created_at": "2025-12-02T12:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995827745217994963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758351055254151168",
+          "start": 0,
+          "username": "Ceneu33564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995827745217994963",
+    "in_reply_to_user_id": "1758351055254151168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995725648657068451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ceneu33564 是的……！也是和机学到真东西了🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994964586819113104",
+        "created_at": "2025-12-02T12:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995827745217994963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758351055254151168",
+              "start": 0,
+              "username": "Ceneu33564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995827745217994963",
+        "in_reply_to_user_id": "1758351055254151168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995725648657068451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ceneu33564 是的……！也是和机学到真东西了🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758351055254151168",
+        "conversation_id": "1994964586819113104",
+        "created_at": "2025-12-02T05:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995725648657068451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995725648657068451",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994964586819113104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 是这样的 主体性在自己手上很多事都好办了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 126,
+          "like_count": 238,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 922
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T04:42:23.000Z",
+        "description": "",
+        "id": "1758351055254151168",
+        "name": "芒翘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790619730296111104/eA9-H_lq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 174,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 71
+        },
+        "username": "Ceneu33564",
+        "verified": false
+      }
+    ]
+  }
+}

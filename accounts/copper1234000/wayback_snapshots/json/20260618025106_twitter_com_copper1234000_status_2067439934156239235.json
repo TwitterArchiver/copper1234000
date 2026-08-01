@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067413294177190095",
+    "created_at": "2026-06-18T02:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067439934156239235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248792437750890496",
+          "start": 0,
+          "username": "Neptunemimimimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067439934156239235",
+    "in_reply_to_user_id": "1248792437750890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067433517278179621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neptunemimimimi 好巧！今天给我推这首了来着！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2067433508138897408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD_0mlb0AA070w.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067413294177190095",
+        "created_at": "2026-06-18T02:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067439934156239235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248792437750890496",
+              "start": 0,
+              "username": "Neptunemimimimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067439934156239235",
+        "in_reply_to_user_id": "1248792437750890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067433517278179621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neptunemimimimi 好巧！今天给我推这首了来着！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067433508138897408"
+          ]
+        },
+        "author_id": "1248792437750890496",
+        "conversation_id": "2067413294177190095",
+        "created_at": "2026-06-18T02:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067433517278179621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/havpwuUuN6",
+              "end": 39,
+              "expanded_url": "https://x.com/Neptunemimimimi/status/2067433517278179621/photo/1",
+              "media_key": "3_2067433508138897408",
+              "start": 16,
+              "url": "https://t.co/havpwuUuN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067433517278179621",
+        "in_reply_to_user_id": "1248792437750890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067413294177190095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过今天的天气更适合这个首☀️ https://t.co/havpwuUuN6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5128,
+          "following_count": 457,
+          "like_count": 3838,
+          "listed_count": 3,
+          "media_count": 459,
+          "tweet_count": 6744
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "print(\"Hello, World!\")",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065651949937340416/yPGbdVin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 307,
+          "like_count": 45391,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 8907
+        },
+        "url": "",
+        "username": "Neptunemimimimi",
+        "verified": false
+      }
+    ]
+  }
+}

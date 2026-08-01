@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016704095843962880",
+        "3_2016704095848189954",
+        "3_2016704095831367681",
+        "3_2016704095890132994"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2016704104001663451",
+    "created_at": "2026-01-29T02:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rSNOTsq7Uo",
+          "end": 30,
+          "expanded_url": "https://x.com/copper1234000/status/2016704104001663451/photo/1",
+          "media_key": "3_2016704095843962880",
+          "start": 7,
+          "url": "https://t.co/rSNOTsq7Uo"
+        },
+        {
+          "display_url": "pic.x.com/rSNOTsq7Uo",
+          "end": 30,
+          "expanded_url": "https://x.com/copper1234000/status/2016704104001663451/photo/1",
+          "media_key": "3_2016704095848189954",
+          "start": 7,
+          "url": "https://t.co/rSNOTsq7Uo"
+        },
+        {
+          "display_url": "pic.x.com/rSNOTsq7Uo",
+          "end": 30,
+          "expanded_url": "https://x.com/copper1234000/status/2016704104001663451/photo/1",
+          "media_key": "3_2016704095831367681",
+          "start": 7,
+          "url": "https://t.co/rSNOTsq7Uo"
+        },
+        {
+          "display_url": "pic.x.com/rSNOTsq7Uo",
+          "end": 30,
+          "expanded_url": "https://x.com/copper1234000/status/2016704104001663451/photo/1",
+          "media_key": "3_2016704095890132994",
+          "start": 7,
+          "url": "https://t.co/rSNOTsq7Uo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016704104001663451",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐈‍⬛🐾…… https://t.co/rSNOTsq7Uo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2016704095843962880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zFsLHa0AAJKGp.jpg",
+        "width": 691
+      },
+      {
+        "height": 394,
+        "media_key": "3_2016704095848189954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zFsLIbUAIEYYq.jpg",
+        "width": 700
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2016704095831367681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zFsLEaoAEXZCO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 394,
+        "media_key": "3_2016704095890132994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zFsLSbUAIg1g_.jpg",
+        "width": 700
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 201,
+          "like_count": 802,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2264
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

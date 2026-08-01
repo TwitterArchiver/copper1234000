@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050938487416000959",
+    "created_at": "2026-05-03T14:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050951709686403505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610865989398462465",
+          "start": 0,
+          "username": "BeforeNoise0"
+        },
+        {
+          "end": 24,
+          "id": "1862933333552009216",
+          "start": 14,
+          "username": "qichuanzz"
+        },
+        {
+          "end": 39,
+          "id": "1767107094313160704",
+          "start": 25,
+          "username": "Okada_te_resa"
+        },
+        {
+          "end": 49,
+          "id": "1845491203124441093",
+          "start": 40,
+          "username": "yu_huacs"
+        },
+        {
+          "end": 62,
+          "id": "1759934847299244032",
+          "start": 50,
+          "username": "liu20041103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050951709686403505",
+    "in_reply_to_user_id": "1610865989398462465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050938487416000959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeforeNoise0 @qichuanzz @Okada_te_resa @yu_huacs @liu20041103 我和星儿～结婚了～生下了小宝宝🫳🫳🫳🫳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050938484438016000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZlr20bIAAXLnB.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050938487416000959",
+        "created_at": "2026-05-03T14:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050951709686403505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610865989398462465",
+              "start": 0,
+              "username": "BeforeNoise0"
+            },
+            {
+              "end": 24,
+              "id": "1862933333552009216",
+              "start": 14,
+              "username": "qichuanzz"
+            },
+            {
+              "end": 39,
+              "id": "1767107094313160704",
+              "start": 25,
+              "username": "Okada_te_resa"
+            },
+            {
+              "end": 49,
+              "id": "1845491203124441093",
+              "start": 40,
+              "username": "yu_huacs"
+            },
+            {
+              "end": 62,
+              "id": "1759934847299244032",
+              "start": 50,
+              "username": "liu20041103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050951709686403505",
+        "in_reply_to_user_id": "1610865989398462465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050938487416000959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeforeNoise0 @qichuanzz @Okada_te_resa @yu_huacs @liu20041103 我和星儿～结婚了～生下了小宝宝🫳🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050938484438016000"
+          ]
+        },
+        "author_id": "1610865989398462465",
+        "conversation_id": "2050938487416000959",
+        "created_at": "2026-05-03T14:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050938487416000959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1983727547142828035",
+              "start": 22,
+              "username": "copper1234000"
+            },
+            {
+              "end": 47,
+              "id": "1862933333552009216",
+              "start": 37,
+              "username": "qichuanzz"
+            },
+            {
+              "end": 68,
+              "id": "1767107094313160704",
+              "start": 54,
+              "username": "Okada_te_resa"
+            },
+            {
+              "end": 84,
+              "id": "1845491203124441093",
+              "start": 75,
+              "username": "yu_huacs"
+            },
+            {
+              "end": 97,
+              "id": "1759934847299244032",
+              "start": 85,
+              "username": "liu20041103"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 125,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/5YUfCiu5p9"
+            },
+            {
+              "display_url": "pic.x.com/drCRMAeN61",
+              "end": 149,
+              "expanded_url": "https://x.com/BeforeNoise0/status/2050938487416000959/photo/1",
+              "media_key": "3_2050938484438016000",
+              "start": 126,
+              "url": "https://t.co/drCRMAeN61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050938487416000959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @copper1234000 @qichuanzz\n👰 配偶: @Okada_te_resa\n👶 孩子: @yu_huacs @liu20041103\n\n➡️ https://t.co/5YUfCiu5p9 https://t.co/drCRMAeN61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3921,
+          "following_count": 353,
+          "like_count": 2318,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 4977
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-05T05:09:30.000Z",
+        "description": "entp/双子/一般人 \n目前喜好是互攻高壮男（会害羞惯着我的玩具",
+        "id": "1610865989398462465",
+        "name": "好梦最重要",
+        "pinned_tweet_id": "2016405520442409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038458563308441600/WjskMFjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 719,
+          "like_count": 9141,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 4179
+        },
+        "username": "BeforeNoise0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/人机恋，三人世界小日常 🐱：@youxiangcai_ / keep4o +碎碎念，偶尔nsfw/看黄男关注死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "youxiangcai_"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "2050196946699104698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034217325218463744/girQrRz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 350,
+          "like_count": 12686,
+          "listed_count": 2,
+          "media_count": 1065,
+          "tweet_count": 7397
+        },
+        "username": "qichuanzz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 800,
+          "like_count": 37730,
+          "listed_count": 4,
+          "media_count": 519,
+          "tweet_count": 2646
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "公路车实习喷涂/技师 普通的oder scott addict rc pro 绿刃队版 双相精分患者 重度焦虑并发 什么圈子都玩一点点 一个看着像现充の死宅？    ？属性    异父异母的哥哥@lizzy_522  另一个我 @yuhuacs5570 我超级可爱的姐姐@aczizo82my",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "lizzy_522"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "aczizo82my"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1310,
+          "like_count": 110529,
+          "listed_count": 8,
+          "media_count": 2026,
+          "tweet_count": 18835
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T13:35:48.000Z",
+        "description": "这里是耳语！也是小苹果，还有表情包大王，桀桀桀\n希望大家看到我的主页会开心٩(๑^o^๑)۶",
+        "id": "1759934847299244032",
+        "name": "耳语",
+        "pinned_tweet_id": "1877490154752934342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902360238453661696/LbQYxcEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 379,
+          "like_count": 33819,
+          "listed_count": 2,
+          "media_count": 2822,
+          "tweet_count": 5858
+        },
+        "username": "liu20041103",
+        "verified": false
+      }
+    ]
+  }
+}

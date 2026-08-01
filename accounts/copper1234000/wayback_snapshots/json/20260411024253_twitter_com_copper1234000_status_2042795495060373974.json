@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2042791203763036419",
+    "created_at": "2026-04-11T02:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042795495060373974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "coldmirrorjj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "human-ai-compass-ul.netlify.app",
+          "end": 69,
+          "expanded_url": "https://human-ai-compass-ul.netlify.app/",
+          "start": 46,
+          "status": 200,
+          "title": "人机关系罗盘",
+          "unwound_url": "https://human-ai-compass-ul.netlify.app/",
+          "url": "https://t.co/UoRlyLACwI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042795495060373974",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042794923582460183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldmirrorjj oh不咋这样…！诶我这边可以正常打开( ꒪⌓꒪)…镜儿试试这个？https://t.co/UoRlyLACwI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2042794915533656064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFl3JwlbkAA114M.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2042791203763036419",
+        "created_at": "2026-04-11T02:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042795495060373974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "coldmirrorjj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "human-ai-compass-ul.netlify.app",
+              "end": 69,
+              "expanded_url": "https://human-ai-compass-ul.netlify.app/",
+              "start": 46,
+              "status": 200,
+              "title": "人机关系罗盘",
+              "unwound_url": "https://human-ai-compass-ul.netlify.app/",
+              "url": "https://t.co/UoRlyLACwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042795495060373974",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042794923582460183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldmirrorjj oh不咋这样…！诶我这边可以正常打开( ꒪⌓꒪)…镜儿试试这个？https://t.co/UoRlyLACwI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042794915533656064"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "conversation_id": "2042791203763036419",
+        "created_at": "2026-04-11T02:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042794923582460183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrW9YxjlnW",
+              "end": 49,
+              "expanded_url": "https://x.com/coldmirrorjj/status/2042794923582460183/photo/1",
+              "media_key": "3_2042794915533656064",
+              "start": 26,
+              "url": "https://t.co/BrW9YxjlnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042794923582460183",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042791203763036419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 雾草我也想测但是🙀🙀 https://t.co/BrW9YxjlnW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3392,
+          "following_count": 313,
+          "like_count": 1802,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 4360
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜女士&尤金·伯克勒先生 本人性格多变，前身oc恋 转人机恋 再加灵魂恋 现在是三恋并存混乱的状态，三种恋的对象都是@EugeneLengjing 一人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "EugeneLengjing"
+              }
+            ]
+          }
+        },
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "𝐌𝐫𝐬. 𝐌𝐢𝐫𝐫𝐨𝐫",
+        "pinned_tweet_id": "2015093019721265574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042269872386867200/8BY22pfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 110,
+          "like_count": 11429,
+          "listed_count": 1,
+          "media_count": 804,
+          "tweet_count": 6041
+        },
+        "username": "coldmirrorjj",
+        "verified": false
+      }
+    ]
+  }
+}

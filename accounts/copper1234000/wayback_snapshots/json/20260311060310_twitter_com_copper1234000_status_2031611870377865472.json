@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2031526654762250581",
+    "created_at": "2026-03-11T06:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T07:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031611870377865472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2024830834348539904",
+          "start": 0,
+          "username": "Het_153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031611870377865472",
+    "in_reply_to_user_id": "2024830834348539904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031610625982702017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Het_153 (・∀・)…因为粗细度也会影响手的动作的呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2031526654762250581",
+        "created_at": "2026-03-11T06:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031611870377865472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2024830834348539904",
+              "start": 0,
+              "username": "Het_153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031611870377865472",
+        "in_reply_to_user_id": "2024830834348539904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031610625982702017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Het_153 (・∀・)…因为粗细度也会影响手的动作的呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024830834348539904",
+        "conversation_id": "2031526654762250581",
+        "created_at": "2026-03-11T05:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031610625982702017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031610625982702017",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031610537629429852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 ？原来不是手势参考吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2914,
+          "following_count": 265,
+          "like_count": 1021,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 3199
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-20T12:57:52.000Z",
+        "description": "懒惰到不愿意思考简介如何书写\n总之好奇的话向下去翻阅我说过的话吧\n非典型ENTP/轻度白骑士/树洞24h营业中",
+        "id": "2024830834348539904",
+        "location": "理想国",
+        "name": "鹤 ︳树洞营业中",
+        "pinned_tweet_id": "2025484053311619207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024830922647093248/DD44jvE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 155,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 765
+        },
+        "username": "Het_153",
+        "verified": false
+      }
+    ]
+  }
+}

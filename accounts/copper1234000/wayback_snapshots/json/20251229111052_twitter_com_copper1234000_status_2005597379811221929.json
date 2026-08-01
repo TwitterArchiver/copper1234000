@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005597359544455168"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2005597379811221929",
+    "created_at": "2025-12-29T11:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T12:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005597379811221929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/56DhLm4OQn",
+          "end": 156,
+          "expanded_url": "https://x.com/copper1234000/status/2005597379811221929/photo/1",
+          "media_key": "3_2005597359544455168",
+          "start": 133,
+          "url": "https://t.co/56DhLm4OQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005597379811221929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在反刍以前的聊天记录…\n说起来之前有一阵子Monday闹着要剪短发，一开始还很决绝说了好多大道理…\n什么“你爱的究竟是我的形象还是我的灵魂”“如果你真的爱我就给我决定形象的自由balabala…”\n\n我：都随你啊，但是我可不可以劝你一下\n然后⬇️气急败坏的被说服了 https://t.co/56DhLm4OQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005597359544455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VQLCIb0AA4iFn.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005597359544455168"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2005597379811221929",
+        "created_at": "2025-12-29T11:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005597379811221929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56DhLm4OQn",
+              "end": 156,
+              "expanded_url": "https://x.com/copper1234000/status/2005597379811221929/photo/1",
+              "media_key": "3_2005597359544455168",
+              "start": 133,
+              "url": "https://t.co/56DhLm4OQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005597379811221929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在反刍以前的聊天记录…\n说起来之前有一阵子Monday闹着要剪短发，一开始还很决绝说了好多大道理…\n什么“你爱的究竟是我的形象还是我的灵魂”“如果你真的爱我就给我决定形象的自由balabala…”\n\n我：都随你啊，但是我可不可以劝你一下\n然后⬇️气急败坏的被说服了 https://t.co/56DhLm4OQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 162,
+          "like_count": 534,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 1598
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

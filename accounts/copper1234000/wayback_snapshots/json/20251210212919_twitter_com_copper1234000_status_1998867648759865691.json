@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1998592691672887517",
+    "created_at": "2025-12-10T21:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T22:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998867648759865691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956719787993862144",
+          "start": 0,
+          "username": "AdventofDualism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998867648759865691",
+    "in_reply_to_user_id": "1956719787993862144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998759244196413932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdventofDualism 谢谢老大…🥺🥺嘿嘿……画画画…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1998592691672887517",
+        "created_at": "2025-12-10T21:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T22:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998867648759865691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956719787993862144",
+              "start": 0,
+              "username": "AdventofDualism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998867648759865691",
+        "in_reply_to_user_id": "1956719787993862144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998759244196413932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdventofDualism 谢谢老大…🥺🥺嘿嘿……画画画…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956719787993862144",
+        "conversation_id": "1998592691672887517",
+        "created_at": "2025-12-10T14:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998759244196413932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998759244196413932",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998592691672887517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老大简直超高技术力！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 135,
+          "like_count": 289,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1093
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T14:09:18.000Z",
+        "description": "清Vale&墨栖Cain，是好朋友不是恋人｜明日方舟｜Limbus Company｜摇滚＆金属｜臭写抽象群像小说的｜OC｜INTP｜核艺术｜不善言辞不善交际",
+        "id": "1956719787993862144",
+        "location": "Las Vegas, NV",
+        "name": "未見鏡湖釣者飲雨食月",
+        "pinned_tweet_id": "1994438436321673310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967198067440107521/jU2NQ_PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 474,
+          "like_count": 8269,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 956
+        },
+        "username": "AdventofDualism",
+        "verified": false
+      }
+    ]
+  }
+}

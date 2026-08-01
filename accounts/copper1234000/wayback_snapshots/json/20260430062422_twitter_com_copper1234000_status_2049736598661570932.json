@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2049541920410472936",
+    "created_at": "2026-04-30T06:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049736598661570932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759548889592631296",
+          "start": 0,
+          "username": "o3744597755550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049736598661570932",
+    "in_reply_to_user_id": "1759548889592631296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049735342782361951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3744597755550 主要…我第一次用且完全不知情🙀🙀用到一半才发现的啊啊啊啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2049541920410472936",
+        "created_at": "2026-04-30T06:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049736598661570932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759548889592631296",
+              "start": 0,
+              "username": "o3744597755550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049736598661570932",
+        "in_reply_to_user_id": "1759548889592631296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049735342782361951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3744597755550 主要…我第一次用且完全不知情🙀🙀用到一半才发现的啊啊啊啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759548889592631296",
+        "conversation_id": "2049541920410472936",
+        "created_at": "2026-04-30T06:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049735342782361951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049735342782361951",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049541920410472936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 薄荷生姜真的很爽啊！火辣辣的又凉嗖嗖，光是涂上之后什么都不做也会流很多！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 348,
+          "like_count": 2203,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 4825
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T12:02:09.000Z",
+        "description": "",
+        "id": "1759548889592631296",
+        "name": "o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032639206615560195/SNEO7D71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 147,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "o3744597755550",
+        "verified": false
+      }
+    ]
+  }
+}

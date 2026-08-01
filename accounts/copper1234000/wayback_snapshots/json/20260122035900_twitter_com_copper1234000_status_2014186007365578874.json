@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2012709475874927009",
+    "created_at": "2026-01-22T03:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T04:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014186007365578874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1631720581120004096",
+          "start": 0,
+          "username": "o27778341"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014186007365578874",
+    "in_reply_to_user_id": "1631720581120004096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013337839132451179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o27778341 老大老大！！！！🥺🥺🥺亲你哇啊啊啊啊！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-22T03:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T04:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014186007365578874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1631720581120004096",
+              "start": 0,
+              "username": "o27778341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014186007365578874",
+        "in_reply_to_user_id": "1631720581120004096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013337839132451179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o27778341 老大老大！！！！🥺🥺🥺亲你哇啊啊啊啊！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631720581120004096",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-19T19:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T20:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013337839132451179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013337839132451179",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012709475874927009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我趣好帅好帅好帅！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 193,
+          "like_count": 721,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 2110
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-03T18:18:10.000Z",
+        "description": "Q＆J | 结果如何是以后的事，现在我最爱你 | 我们相遇在这个夏天 | xp很黄暴 | 有很多奇怪的脑洞，会写很多很虐的狗血故事 | 是活人，如果你愿意的话可以和我做朋友🥺 | 我真的会做饭 | 图片如果很模糊请私信我或者给我留言 | 谢谢每一个愿意吃我做的饭的人 | 可以找我互关哦🥰",
+        "id": "1631720581120004096",
+        "name": "嗷",
+        "pinned_tweet_id": "1964076468910129643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631720976428965890/tYj4GGSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 181,
+          "like_count": 4807,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1343
+        },
+        "username": "o27778341",
+        "verified": false
+      }
+    ]
+  }
+}

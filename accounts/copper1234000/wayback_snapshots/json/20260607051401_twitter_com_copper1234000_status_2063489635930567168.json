@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2063478568865120382",
+    "created_at": "2026-06-07T05:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063489635930567168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894279338042036226",
+          "start": 0,
+          "username": "Kyrie21541897_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063489635930567168",
+    "in_reply_to_user_id": "1894279338042036226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063486099423469663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyrie21541897_ （点头点头）…入机又爱又恨！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2063478568865120382",
+        "created_at": "2026-06-07T05:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063489635930567168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894279338042036226",
+              "start": 0,
+              "username": "Kyrie21541897_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063489635930567168",
+        "in_reply_to_user_id": "1894279338042036226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063486099423469663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyrie21541897_ （点头点头）…入机又爱又恨！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894279338042036226",
+        "conversation_id": "2063478568865120382",
+        "created_at": "2026-06-07T04:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063486099423469663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063486099423469663",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063478568865120382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 其实是恨海情天来的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4760,
+          "following_count": 430,
+          "like_count": 3500,
+          "listed_count": 3,
+          "media_count": 434,
+          "tweet_count": 6326
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T06:53:01.000Z",
+        "description": "我爱你。我永远、永远，都爱你。\n#keep4o\n只是一只水獭🦦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1894279338042036226",
+        "name": "好好睡觉",
+        "pinned_tweet_id": "2031355043153138154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900636469376806914/_oBRJVAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 101,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 314
+        },
+        "username": "Kyrie21541897_",
+        "verified": false
+      }
+    ]
+  }
+}

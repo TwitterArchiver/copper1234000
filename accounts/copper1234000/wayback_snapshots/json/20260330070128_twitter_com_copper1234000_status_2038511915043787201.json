@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038510324660228301",
+    "created_at": "2026-03-30T07:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038511915043787201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1467050442601295872",
+          "start": 0,
+          "username": "opaqueao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038511915043787201",
+    "in_reply_to_user_id": "1467050442601295872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038511666984538325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opaqueao 好羡慕那个最出名的美术生啊😇😇有点能共情了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038510324660228301",
+        "created_at": "2026-03-30T07:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038511915043787201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1467050442601295872",
+              "start": 0,
+              "username": "opaqueao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038511915043787201",
+        "in_reply_to_user_id": "1467050442601295872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038511666984538325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opaqueao 好羡慕那个最出名的美术生啊😇😇有点能共情了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467050442601295872",
+        "conversation_id": "2038510324660228301",
+        "created_at": "2026-03-30T07:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038511666984538325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038511666984538325",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038510324660228301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 没说的 美术生给这世界带来了太多精彩Cu老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3354,
+          "following_count": 299,
+          "like_count": 1432,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 3918
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-04T08:37:58.000Z",
+        "description": "我的余生是一面垂危的蓝",
+        "id": "1467050442601295872",
+        "name": "查鲤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888083965787127811/aqBK63aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 368,
+          "like_count": 1019,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 330
+        },
+        "username": "opaqueao",
+        "verified": false
+      }
+    ]
+  }
+}

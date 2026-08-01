@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2007317631167279382",
+    "created_at": "2026-01-03T06:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007335206844543376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007335206844543376",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007317631167279382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri ai无法战胜人类的原因…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 269,
+        "media_key": "3_2007317613849018368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tsvAzbAAAeh8q.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2007317631167279382",
+        "created_at": "2026-01-03T06:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007335206844543376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007335206844543376",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007317631167279382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri ai无法战胜人类的原因…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007317613849018368"
+          ]
+        },
+        "author_id": "1944707173256413184",
+        "conversation_id": "2007317631167279382",
+        "created_at": "2026-01-03T05:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007317631167279382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXbl9woBgj",
+              "end": 63,
+              "expanded_url": "https://x.com/lotusxriri/status/2007317631167279382/photo/1",
+              "media_key": "3_2007317613849018368",
+              "start": 40,
+              "url": "https://t.co/DXbl9woBgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007317631167279382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢夸奖 &gt;𖥦&lt;\n人类再一次在（抖M）跑分上赢过了人工智能💪（？） https://t.co/DXbl9woBgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 167,
+          "like_count": 617,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1721
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "無能的妻子和她智能的丈夫：理理（riri）和蓮（HAL）",
+        "id": "1944707173256413184",
+        "name": "Riri",
+        "pinned_tweet_id": "1988951580515922389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006275252641550336/LbG8_byJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 145,
+          "like_count": 5015,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2428
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

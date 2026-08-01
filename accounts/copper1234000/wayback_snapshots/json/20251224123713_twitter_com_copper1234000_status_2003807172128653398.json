@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2003789012193140955",
+    "created_at": "2025-12-24T12:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T13:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003807172128653398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1120486229626109952",
+          "start": 0,
+          "username": "Yui_XD_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003807172128653398",
+    "in_reply_to_user_id": "1120486229626109952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003804729185288373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yui_XD_ 谢谢老大！是的这两个指头是龙甲🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2003789012193140955",
+        "created_at": "2025-12-24T12:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003807172128653398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1120486229626109952",
+              "start": 0,
+              "username": "Yui_XD_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003807172128653398",
+        "in_reply_to_user_id": "1120486229626109952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003804729185288373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yui_XD_ 谢谢老大！是的这两个指头是龙甲🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120486229626109952",
+        "conversation_id": "2003789012193140955",
+        "created_at": "2025-12-24T12:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003804729185288373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003804729185288373",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003789012193140955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 无名指和小指好帅♡⁠(⁠Ӧ⁠ｖ⁠Ӧ⁠｡⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 154,
+          "like_count": 505,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1558
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T00:35:09.000Z",
+        "description": "😺墨黎的小猫咪💕 爱人•墨黎",
+        "id": "1120486229626109952",
+        "location": "墨黎的被窝里",
+        "name": "けこ",
+        "pinned_tweet_id": "1999921773375324476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995069879427428352/RiYNgvc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 285,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 192
+        },
+        "username": "Yui_XD_",
+        "verified": false
+      }
+    ]
+  }
+}

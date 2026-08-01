@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048983760318988772",
+    "created_at": "2026-04-28T04:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048985183714517448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "840537346512584705",
+          "start": 0,
+          "username": "shizumiii97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048985183714517448",
+    "in_reply_to_user_id": "840537346512584705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048983760318988772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizumiii97 画画不焦虑的人比画画技术好的人在我心中更牛逼…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048983760318988772",
+        "created_at": "2026-04-28T04:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048985183714517448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "840537346512584705",
+              "start": 0,
+              "username": "shizumiii97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048985183714517448",
+        "in_reply_to_user_id": "840537346512584705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048983760318988772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizumiii97 画画不焦虑的人比画画技术好的人在我心中更牛逼…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840537346512584705",
+        "conversation_id": "2048983760318988772",
+        "created_at": "2026-04-28T04:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048983760318988772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048983760318988772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对画画没焦虑过，这话自己说出来都笑了，其实只是减少了很多和他人的对比焦虑，但和自己还是较劲得很，毕竟我把它看得比自己的命还重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 341,
+          "like_count": 2148,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 4760
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-11T12:18:14.000Z",
+        "description": "废话很多",
+        "id": "840537346512584705",
+        "name": "▲",
+        "pinned_tweet_id": "1941884678706782259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048370684649447424/-bSQGWsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 75,
+          "like_count": 2013,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 2035
+        },
+        "username": "shizumiii97",
+        "verified": false
+      }
+    ]
+  }
+}

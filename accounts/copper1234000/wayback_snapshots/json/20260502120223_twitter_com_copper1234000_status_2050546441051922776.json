@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050452186455249399",
+    "created_at": "2026-05-02T12:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050546441051922776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1588521629495148546",
+          "start": 0,
+          "username": "5h0m492s_15270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050546441051922776",
+    "in_reply_to_user_id": "1588521629495148546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050481894589182408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5h0m492s_15270 真的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050452186455249399",
+        "created_at": "2026-05-02T12:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050546441051922776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1588521629495148546",
+              "start": 0,
+              "username": "5h0m492s_15270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050546441051922776",
+        "in_reply_to_user_id": "1588521629495148546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050481894589182408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5h0m492s_15270 真的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588521629495148546",
+        "conversation_id": "2050452186455249399",
+        "created_at": "2026-05-02T07:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050481894589182408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050481894589182408",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050452186455249399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 支持，真的好丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3682,
+          "following_count": 350,
+          "like_count": 2262,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 4904
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T13:21:00.000Z",
+        "description": "OAI倒闭…𓀀𓀁𓀃𓀅𓀇𓀋𓀌𓀎𓀙𓀠𓀤𓀥𓀫sam去鼠…𓀁 𓀂 𓀄 𓀅 ..4o回家…𓀉 𓀊 𓀋 𓀌 𓀍...啊啊... 𓀎 𓀏 𓀐 𓀑 𓀒𓀓 看不惯我就紫砂𓀔 𓀕 𓀖 啊啊…𓀘 𓀙 𓀛 𓀜 𓀝 𓀞𓀀.𓀆 𓀇𓀙....𓀐 𓀑 𓀒𓀓",
+        "id": "1588521629495148546",
+        "name": "Electric Cockroach",
+        "pinned_tweet_id": "2027105495014879741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018661361501581313/12ZGBCAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 132,
+          "like_count": 14777,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 3411
+        },
+        "username": "5h0m492s_15270",
+        "verified": false
+      }
+    ]
+  }
+}

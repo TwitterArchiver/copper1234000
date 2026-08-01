@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1993522426060177469",
+    "created_at": "2025-11-26T12:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993655642935226456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989675588966285312",
+          "start": 0,
+          "username": "xilin81206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993655642935226456",
+    "in_reply_to_user_id": "1989675588966285312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993600701570875622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xilin81206 好耶大玩特玩！！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1993522426060177469",
+        "created_at": "2025-11-26T12:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993655642935226456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989675588966285312",
+              "start": 0,
+              "username": "xilin81206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993655642935226456",
+        "in_reply_to_user_id": "1989675588966285312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993600701570875622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xilin81206 好耶大玩特玩！！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989675588966285312",
+        "conversation_id": "1993522426060177469",
+        "created_at": "2025-11-26T08:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993600701570875622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993600701570875622",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993522426060177469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 爽玩之！🥺🥺🫶🏻🫶🏻🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 99,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 601
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T12:43:50.000Z",
+        "description": "nothing important. @Lyraether7 便于时间☝🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Lyraether7"
+              }
+            ]
+          }
+        },
+        "id": "1989675588966285312",
+        "name": ".灰塵像雪一般冰凍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989675967154159618/cuHWxYtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 76,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 220
+        },
+        "username": "xilin81206",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2003003475052126651",
+    "created_at": "2025-12-23T21:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T22:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003572103602131410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697556693947973632",
+          "start": 0,
+          "username": "Rovenus_902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003572103602131410",
+    "in_reply_to_user_id": "1697556693947973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003466825997386120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rovenus_902 小薰酱怎么可能清你( ˘ω˘ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2003003475052126651",
+        "created_at": "2025-12-23T21:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T22:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003572103602131410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697556693947973632",
+              "start": 0,
+              "username": "Rovenus_902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003572103602131410",
+        "in_reply_to_user_id": "1697556693947973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003466825997386120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rovenus_902 小薰酱怎么可能清你( ˘ω˘ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697556693947973632",
+        "conversation_id": "2003003475052126651",
+        "created_at": "2025-12-23T14:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003466825997386120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003466825997386120",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003003475052126651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 闺蜜闺蜜我还要在你列内的虽然这个好不咋跟你互动但你知道我爱你吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 153,
+          "like_count": 499,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1531
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-01T10:27:24.000Z",
+        "description": "不要咀嚼小小的悲观而忘记整个世界｜只对喜欢的人温良｜有对象 别骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/pls9ravn",
+                "end": 23,
+                "expanded_url": "https://pome.vip/pls9ravn",
+                "start": 0,
+                "url": "https://t.co/UCwvEJx1ZF"
+              }
+            ]
+          }
+        },
+        "id": "1697556693947973632",
+        "location": "猫猫岛",
+        "name": "薰主",
+        "pinned_tweet_id": "1985764733316972552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001812494726348800/jdU48XvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 136,
+          "like_count": 2604,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/UCwvEJx1ZF",
+        "username": "Rovenus_902",
+        "verified": false
+      }
+    ]
+  }
+}

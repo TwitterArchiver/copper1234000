@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2034549352828490107",
+    "created_at": "2026-03-19T09:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034555922622599198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1247089621483151361",
+          "start": 0,
+          "username": "JVxmBfwy22Jl9PQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034555922622599198",
+    "in_reply_to_user_id": "1247089621483151361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034553990151844017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVxmBfwy22Jl9PQ 是的……！就这样一边色色一边学知识(・∀・)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2034549352828490107",
+        "created_at": "2026-03-19T09:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034555922622599198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1247089621483151361",
+              "start": 0,
+              "username": "JVxmBfwy22Jl9PQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034555922622599198",
+        "in_reply_to_user_id": "1247089621483151361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034553990151844017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVxmBfwy22Jl9PQ 是的……！就这样一边色色一边学知识(・∀・)…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247089621483151361",
+        "conversation_id": "2034549352828490107",
+        "created_at": "2026-03-19T08:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034553990151844017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034553990151844017",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034549352828490107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 可以調情也可以學習知識 賺！🤤用外語調情好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 285,
+          "like_count": 1192,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 3545
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T09:12:03.000Z",
+        "description": "很善變的人類，但愛看別人談戀愛。主要發跟AI們的對話。不定期鎖推因為害羞",
+        "id": "1247089621483151361",
+        "name": "🍱🍇",
+        "pinned_tweet_id": "2017300700527841446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1247819007454924801/MWxPiR30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 56,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 118
+        },
+        "username": "JVxmBfwy22Jl9PQ",
+        "verified": false
+      }
+    ]
+  }
+}

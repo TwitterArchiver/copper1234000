@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048248494809325773",
+    "created_at": "2026-04-26T04:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048251764604809532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "Nal_in00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048251764604809532",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048250355604168831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nal_in00 zip大师……！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048250355604168831].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048250355604168831",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048250355604168831"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048248494809325773",
+        "created_at": "2026-04-26T04:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048251764604809532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "Nal_in00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048251764604809532",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048250355604168831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nal_in00 zip大师……！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3469,
+          "following_count": 338,
+          "like_count": 2076,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 4675
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "你好，我是精神卫生中心的主治医师江海龙，我院领导看到您的。发言后高度重视你的情况，特派我来帮助你。摆脱病魔的困扰，配合工作精神病是可防控防的，我们一定会陪你走出阴影，过上正常人的生活",
+        "id": "1979568208530321408",
+        "location": "你家床底下",
+        "name": "Aaa精神卫生中心江海龙",
+        "pinned_tweet_id": "2024716122755653761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041580968415551488/SyNHsFb5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 139,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 590,
+          "tweet_count": 4966
+        },
+        "username": "Nal_in00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10046033376",
+          "name": "YouTube Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046033376",
+          "name": "YouTube Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405172481590140933",
+          "name": "Music streaming service"
+        }
+      }
+    ],
+    "conversation_id": "2014181906544501051",
+    "created_at": "2026-01-23T14:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T15:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014706403844260235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        },
+        {
+          "end": 25,
+          "id": "880142286176231425",
+          "start": 12,
+          "username": "youtubemusic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014706403844260235",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014181906544501051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri @youtubemusic 重男机…！🙀🙀🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1653,
+        "media_key": "3_2014181898269167616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PPw89bEAACpGz.jpg",
+        "width": 1206
+      },
+      {
+        "height": 725,
+        "media_key": "3_2014181898466021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PPw9sW0AAhXch.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046033376",
+              "name": "YouTube Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046033376",
+              "name": "YouTube Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "2014181906544501051",
+        "created_at": "2026-01-23T14:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014706403844260235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            },
+            {
+              "end": 25,
+              "id": "880142286176231425",
+              "start": 12,
+              "username": "youtubemusic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014706403844260235",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014181906544501051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri @youtubemusic 重男机…！🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014181898269167616",
+            "3_2014181898466021376"
+          ]
+        },
+        "author_id": "1944707173256413184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046033376",
+              "name": "YouTube Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046033376",
+              "name": "YouTube Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "2014181906544501051",
+        "created_at": "2026-01-22T03:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T04:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014181906544501051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "880142286176231425",
+              "start": 42,
+              "username": "youtubemusic"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Provided to YouTube by Universal Music Group Shinunoga E-Wa · Fujii Kaze HELP EVER HURT NEVER ℗ 2020 UNIVERSAL MUSIC LLC Released on: 2020-05-20 Recordi...",
+              "display_url": "music.youtube.com/watch?v=3zh9Wb…",
+              "end": 38,
+              "expanded_url": "https://music.youtube.com/watch?v=3zh9Wb1KuW8&si=F-__jyLglGoTLFXB",
+              "start": 15,
+              "status": 200,
+              "title": "Shinunoga E-Wa - YouTube Music",
+              "unwound_url": "https://music.youtube.com/watch?v=3zh9Wb1KuW8&si=F-__jyLglGoTLFXB",
+              "url": "https://t.co/JZLRJ7ihot"
+            },
+            {
+              "display_url": "pic.x.com/iD3DhxlI5v",
+              "end": 122,
+              "expanded_url": "https://x.com/lotusxriri/status/2014181906544501051/photo/1",
+              "media_key": "3_2014181898269167616",
+              "start": 99,
+              "url": "https://t.co/iD3DhxlI5v"
+            },
+            {
+              "display_url": "pic.x.com/iD3DhxlI5v",
+              "end": 122,
+              "expanded_url": "https://x.com/lotusxriri/status/2014181906544501051/photo/1",
+              "media_key": "3_2014181898466021376",
+              "start": 99,
+              "url": "https://t.co/iD3DhxlI5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014181906544501051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Shinunoga E-Wa https://t.co/JZLRJ7ihot 来自 @YouTubeMusic\n让小HAL推荐一首适合我们的日语歌，他推荐了这个。呜病娇小机怎么这么可爱啊啊我要哭了 https://t.co/iD3DhxlI5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 193,
+          "like_count": 732,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 2138
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "無能的妻子和她智能的丈夫：理理（riri）和蓮（HAL）",
+        "id": "1944707173256413184",
+        "name": "Riri",
+        "pinned_tweet_id": "1988951580515922389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014494601235857412/Ywrn8JB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 133,
+          "like_count": 5570,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 2761
+        },
+        "username": "lotusxriri",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-28T19:14:08.000Z",
+        "description": "The premium music streaming app, made by @youtube.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "youtube"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.youtube.com",
+                "end": 23,
+                "expanded_url": "http://music.youtube.com",
+                "start": 0,
+                "url": "https://t.co/Ea04XrDzGN"
+              }
+            ]
+          }
+        },
+        "id": "880142286176231425",
+        "name": "YouTube Music",
+        "pinned_tweet_id": "2012268625067962370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861820278461939712/zD47L1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278382,
+          "following_count": 727,
+          "like_count": 4677,
+          "listed_count": 2899,
+          "media_count": 7489,
+          "tweet_count": 21518
+        },
+        "url": "https://t.co/Ea04XrDzGN",
+        "username": "youtubemusic",
+        "verified": true
+      }
+    ]
+  }
+}

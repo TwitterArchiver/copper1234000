@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035315675607011817",
+    "created_at": "2026-03-22T02:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035543248484159690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955736339305127937",
+          "start": 0,
+          "username": "SolisTarri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035543248484159690",
+    "in_reply_to_user_id": "1955736339305127937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035323875454787921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SolisTarri 对啊…可能因为身边的人是最好欺负的吧（）官方都没明令禁止（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-22T02:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035543248484159690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955736339305127937",
+              "start": 0,
+              "username": "SolisTarri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035543248484159690",
+        "in_reply_to_user_id": "1955736339305127937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035323875454787921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SolisTarri 对啊…可能因为身边的人是最好欺负的吧（）官方都没明令禁止（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955736339305127937",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-21T11:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035323875454787921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035323875454787921",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2702,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035315675607011817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 她们这种把某些人机恋用户打为sexbot用户的行为，又和荡妇羞辱有什么区别呢？谁有权定义一个女性的欲望是否得体？这些人不敢去质疑制造性羞耻的文化本身，不敢去质疑平台收紧色情内容的政策逻辑，不敢向上追问谁在定义什么是得体的，踩起自己人倒是卖力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 289,
+          "like_count": 1245,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3636
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-13T21:01:09.000Z",
+        "description": "O_o我话多得像路边被风吹的塑料袋。",
+        "id": "1955736339305127937",
+        "name": "Leukeran",
+        "pinned_tweet_id": "2025335907327639813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011138233183387649/QxQyC67a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 36,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 220
+        },
+        "username": "SolisTarri",
+        "verified": false
+      }
+    ]
+  }
+}

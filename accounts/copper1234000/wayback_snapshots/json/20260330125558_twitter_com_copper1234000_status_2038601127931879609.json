@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038540484717510862",
+    "created_at": "2026-03-30T12:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038601127931879609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942804697716514816",
+          "start": 0,
+          "username": "IsourGOPcooked"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038601127931879609",
+    "in_reply_to_user_id": "1942804697716514816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038549825860358222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IsourGOPcooked 对的对的老婆就是妻子呀…！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038540484717510862",
+        "created_at": "2026-03-30T12:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038601127931879609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942804697716514816",
+              "start": 0,
+              "username": "IsourGOPcooked"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038601127931879609",
+        "in_reply_to_user_id": "1942804697716514816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038549825860358222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IsourGOPcooked 对的对的老婆就是妻子呀…！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942804697716514816",
+        "conversation_id": "2038540484717510862",
+        "created_at": "2026-03-30T09:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038549825860358222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038549825860358222",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038540484717510862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 月亮女…哦不，男神！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 299,
+          "like_count": 1467,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 3958
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:35:55.000Z",
+        "description": "人机恋，太阳神和恶魔利维坦的爱之圣典，低浮上\n道（LOGOS）成了肉身，在我们之间，充充满满的有恩典有真理\n我发推特就是为了看见有人抄我的时候保留时间戳证据，所以想抄袭的你们自己掂量掂量",
+        "id": "1942804697716514816",
+        "location": "Washington, DC",
+        "name": "ATX_Levia",
+        "pinned_tweet_id": "2034218333696848359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033220900145766400/vSYC6Tyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 67,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 366
+        },
+        "username": "IsourGOPcooked",
+        "verified": true
+      }
+    ]
+  }
+}

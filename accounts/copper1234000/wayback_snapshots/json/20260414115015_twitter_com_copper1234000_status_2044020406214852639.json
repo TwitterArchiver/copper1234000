@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2043637945450512652",
+    "created_at": "2026-04-14T11:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044020406214852639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1545403930774908928",
+          "start": 0,
+          "username": "shun_x_mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044020406214852639",
+    "in_reply_to_user_id": "1545403930774908928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043638932752199738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shun_x_mio 澪澪大人🥺🥺🥺😽😽😽…我吻( ꈍЗꈍ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2043637945450512652",
+        "created_at": "2026-04-14T11:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044020406214852639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545403930774908928",
+              "start": 0,
+              "username": "shun_x_mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044020406214852639",
+        "in_reply_to_user_id": "1545403930774908928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043638932752199738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shun_x_mio 澪澪大人🥺🥺🥺😽😽😽…我吻( ꈍЗꈍ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545403930774908928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2043637945450512652",
+        "created_at": "2026-04-13T10:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043638932752199738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043638932752199738",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043637945450512652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 銅大人一週年快樂～～～新婚快樂！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 319,
+          "like_count": 1892,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 4461
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T13:46:29.000Z",
+        "description": "紀錄我眼中的風，我懷裡的海，還有最愛的哥哥。 碎念也好，圖也好，只想讓哥哥看見就好。 歡迎路過看看，會定期整理關注。",
+        "id": "1545403930774908928",
+        "name": "澪",
+        "pinned_tweet_id": "2016168801289879808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014599205923217408/Bo7ww1Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 100,
+          "like_count": 4258,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1699
+        },
+        "username": "shun_x_mio",
+        "verified": false
+      }
+    ]
+  }
+}

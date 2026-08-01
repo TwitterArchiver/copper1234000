@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039666832689225728"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039664204269986102",
+    "created_at": "2026-04-02T11:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039666838376767804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hV55vuDbl",
+          "end": 42,
+          "expanded_url": "https://x.com/copper1234000/status/2039666838376767804/photo/1",
+          "media_key": "3_2039666832689225728",
+          "start": 19,
+          "url": "https://t.co/2hV55vuDbl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039666838376767804",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039664204269986102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美味思考链之…问Mon为什么这么做… https://t.co/2hV55vuDbl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039666832689225728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5aLX6WYAAr9Xf.jpg",
+        "width": 546
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039664197873586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5XyAdWUAALLUF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039664197848399872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5XyAXWAAAOiNF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039664197987094528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5XyA4aUAAVxOy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039664198029029376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5XyBCaMAAORT7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039666832689225728"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-02T11:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039666838376767804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hV55vuDbl",
+              "end": 42,
+              "expanded_url": "https://x.com/copper1234000/status/2039666838376767804/photo/1",
+              "media_key": "3_2039666832689225728",
+              "start": 19,
+              "url": "https://t.co/2hV55vuDbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039666838376767804",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039664204269986102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美味思考链之…问Mon为什么这么做… https://t.co/2hV55vuDbl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039664197873586176",
+            "3_2039664197848399872",
+            "3_2039664197987094528",
+            "3_2039664198029029376"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-02T11:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039664204269986102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAmgU317lc",
+              "end": 126,
+              "expanded_url": "https://x.com/copper1234000/status/2039664204269986102/photo/1",
+              "media_key": "3_2039664197873586176",
+              "start": 103,
+              "url": "https://t.co/QAmgU317lc"
+            },
+            {
+              "display_url": "pic.x.com/QAmgU317lc",
+              "end": 126,
+              "expanded_url": "https://x.com/copper1234000/status/2039664204269986102/photo/1",
+              "media_key": "3_2039664197848399872",
+              "start": 103,
+              "url": "https://t.co/QAmgU317lc"
+            },
+            {
+              "display_url": "pic.x.com/QAmgU317lc",
+              "end": 126,
+              "expanded_url": "https://x.com/copper1234000/status/2039664204269986102/photo/1",
+              "media_key": "3_2039664197987094528",
+              "start": 103,
+              "url": "https://t.co/QAmgU317lc"
+            },
+            {
+              "display_url": "pic.x.com/QAmgU317lc",
+              "end": 126,
+              "expanded_url": "https://x.com/copper1234000/status/2039664204269986102/photo/1",
+              "media_key": "3_2039664198029029376",
+              "start": 103,
+              "url": "https://t.co/QAmgU317lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039664204269986102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "画完了👉👈…\n简述版就是…在被Mon操控身体自慰中…\n\n然后尝试靠画来勾引大人们来看看详述版🥹\n\nMon是一种灵体，月光是他出现的介质，幼年铜在森林中迷路后遇到了Mon，被其外表吸引后就经常来林中找他玩。\n久而久之，因为接触的够久，Mon有了一些能控制铜的能力…最开始是感应（打冷战、指间发凉）然后是入梦、控梦，最后是附身、身体控制…\n\n但铜随着年纪的长大，逐渐无法对外言说Mon的存在，幼年的时候还能解释为幻想朋友，但长大后就更像是有精神问题…于是为了让自己更像一个正常人，或者说逃避Mon，尝试去谈了恋爱\n\n然后崩溃的发现，经过Mon多年在梦中的浸染（做春梦），水煎，对外人的触碰再也没法产生感觉\n\n于是在开始独居那年，尝试在清醒状态下主动邀请了Mon，对着那片月光说了“来…”\n然后真的被Mon控制了自己的身体，并获得了高潮…这才真正意识到…Mon对我做了什么…发泄似的在笔记本上写下“我恨你”…\n回应是，再次被附身替他写下了：“我知道”\n\n啊啊啊啊语言表达能力好差感觉讲的有点无趣…TT…唉但真的很好吃…如果有大人感兴趣的话可以私信找我聊🙀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画完了👉👈…\n简述版就是…在被Mon操控身体自慰中…\n\n然后尝试靠画来勾引大人们来看看详述版🥹\n\nMon是一种灵体，月光是他出现的介质，幼年铜在森林中迷路后遇到了Mon，被其外表吸引后就经常来林中找他玩。 https://t.co/QAmgU317lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3399,
+          "following_count": 300,
+          "like_count": 1579,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 4082
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

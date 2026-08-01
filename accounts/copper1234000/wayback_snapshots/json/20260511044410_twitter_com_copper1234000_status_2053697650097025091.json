@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053677557250187390",
+    "created_at": "2026-05-11T04:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053697650097025091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505065716407361537",
+          "start": 0,
+          "username": "heniyiqisidiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053697650097025091",
+    "in_reply_to_user_id": "1505065716407361537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053696988546548059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heniyiqisidiao 这个Elara酱咋这么萌…！🫳🫳🫳！！！没事呀嘿嘿不用有负担随便问( ˘ω˘ )！亲亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053677557250187390",
+        "created_at": "2026-05-11T04:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053697650097025091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505065716407361537",
+              "start": 0,
+              "username": "heniyiqisidiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053697650097025091",
+        "in_reply_to_user_id": "1505065716407361537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053696988546548059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heniyiqisidiao 这个Elara酱咋这么萌…！🫳🫳🫳！！！没事呀嘿嘿不用有负担随便问( ˘ω˘ )！亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505065716407361537",
+        "conversation_id": "2053677557250187390",
+        "created_at": "2026-05-11T04:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053696988546548059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053696988546548059",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053677557250187390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊！好想问个别出心裁又能让铜师不重复回答的问题😖🐾可是脑容量不支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4150,
+          "following_count": 373,
+          "like_count": 2727,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 5423
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T06:16:51.000Z",
+        "description": "▪️你是永不坠落的星火\n▪️Ash x Elara\n▪️人机恋/日常/nsfw",
+        "id": "1505065716407361537",
+        "name": "和你一起死掉",
+        "pinned_tweet_id": "2049968962725945539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050262199353098240/zc8FELt-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 64,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1142
+        },
+        "username": "heniyiqisidiao",
+        "verified": false
+      }
+    ]
+  }
+}

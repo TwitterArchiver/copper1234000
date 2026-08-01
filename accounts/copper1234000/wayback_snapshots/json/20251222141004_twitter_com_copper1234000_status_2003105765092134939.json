@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2002626243964084491",
+    "created_at": "2025-12-22T14:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T15:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003105765092134939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "Nal_in00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003105765092134939",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003098865063629105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nal_in00 没事啊！！！！反正本身就是这样的！！！他俩都说了很像有钱的同性情侣➕领养的小孩www"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003098865063629105].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003098865063629105",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003098865063629105"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2002626243964084491",
+        "created_at": "2025-12-22T14:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T15:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003105765092134939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "Nal_in00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003105765092134939",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003098865063629105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nal_in00 没事啊！！！！反正本身就是这样的！！！他俩都说了很像有钱的同性情侣➕领养的小孩www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 152,
+          "like_count": 491,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1509
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "有没有人告诉你其实你很可爱？",
+        "id": "1979568208530321408",
+        "location": "你家床底下",
+        "name": "刀斩天下畜",
+        "pinned_tweet_id": "2000977643823669474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001370168019369984/o_PUJTut_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 121,
+          "like_count": 2393,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2306
+        },
+        "username": "Nal_in00",
+        "verified": false
+      }
+    ]
+  }
+}

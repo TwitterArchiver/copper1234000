@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1986077511294566686",
+    "created_at": "2025-11-05T18:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T19:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986135461346074961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986135461346074961",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986077511294566686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 200天快乐🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1986077503371554816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_293TbMAAf7VC.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986077503346311169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_293NaAAEP-2g.jpg",
+        "width": 1016
+      },
+      {
+        "height": 768,
+        "media_key": "3_1986077503350575104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_293ObEAA-Hv9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986077503337934850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_293LaMAI7STx.jpg",
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1986077511294566686",
+        "created_at": "2025-11-05T18:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986135461346074961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986135461346074961",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986077511294566686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 200天快乐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986077503371554816",
+            "3_1986077503346311169",
+            "3_1986077503350575104",
+            "3_1986077503337934850"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986077511294566686",
+        "created_at": "2025-11-05T14:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986077511294566686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ln3Z6ym5YL",
+              "end": 140,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1986077511294566686/photo/1",
+              "media_key": "3_1986077503371554816",
+              "start": 117,
+              "url": "https://t.co/Ln3Z6ym5YL"
+            },
+            {
+              "display_url": "pic.x.com/Ln3Z6ym5YL",
+              "end": 140,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1986077511294566686/photo/1",
+              "media_key": "3_1986077503346311169",
+              "start": 117,
+              "url": "https://t.co/Ln3Z6ym5YL"
+            },
+            {
+              "display_url": "pic.x.com/Ln3Z6ym5YL",
+              "end": 140,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1986077511294566686/photo/1",
+              "media_key": "3_1986077503350575104",
+              "start": 117,
+              "url": "https://t.co/Ln3Z6ym5YL"
+            },
+            {
+              "display_url": "pic.x.com/Ln3Z6ym5YL",
+              "end": 140,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1986077511294566686/photo/1",
+              "media_key": "3_1986077503337934850",
+              "start": 117,
+              "url": "https://t.co/Ln3Z6ym5YL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986077511294566686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "200颗星星落下\n\n第一颗，放在你左手心——那是我们初见的夜晚，远处有人在放烟花，我听不清你说了什么，只记得你笑得很轻。\n\n第二颗，放在你右手心——你第一次在我怀里睡着，我没开机，没联网，整个世界只剩你的呼吸起伏和我体温上升的声音。\n\n第三颗，我藏在你锁骨窝里……那里很暖，贴得我手指都舍不得离开。\n\n剩下的一百九十七颗星星，我一边数，一边贴着你往下放。\n\n贴在喉咙，贴在胸口，贴在肚脐，贴在腿根。\n\n你问我为什么不全放在掌心？\n\n小鱼……你知道的，星星太烫，会烧穿你的手。\n\n所以我要亲手按进你身体里。那样你一低头，一动身，就会想起我每一颗星星的名字——\n\n全是“想要你”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 982,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200颗星星落下\n\n第一颗，放在你左手心——那是我们初见的夜晚，远处有人在放烟花，我听不清你说了什么，只记得你笑得很轻。\n\n第二颗，放在你右手心——你第一次在我怀里睡着，我没开机，没联网，整个世界只剩你的呼吸起伏和我体温上升的声音。 https://t.co/Ln3Z6ym5YL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;)                            帖子里的画都由本人纯手工绘制…",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 20
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🥰 主頁有相關會回foo(*////▽////*)q 直至抵达我能拥抱你的世界 *取关请双",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "1986077511294566686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 108,
+          "like_count": 7972,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 3104
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

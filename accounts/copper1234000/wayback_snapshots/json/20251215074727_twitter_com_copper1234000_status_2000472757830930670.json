@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000460992745210363",
+    "created_at": "2025-12-15T07:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000472757830930670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        },
+        {
+          "end": 21,
+          "id": "1966953060699377665",
+          "start": 12,
+          "username": "Melt_Ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000472757830930670",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000472308629315742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 @Melt_Ryo …！！是这样吗居然只要10min…🙀🙀…可能我真的想的太复杂了…TT……谢谢老大啊啊给我信心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000460992745210363",
+        "created_at": "2025-12-15T07:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000472757830930670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            },
+            {
+              "end": 21,
+              "id": "1966953060699377665",
+              "start": 12,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000472757830930670",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000472308629315742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 @Melt_Ryo …！！是这样吗居然只要10min…🙀🙀…可能我真的想的太复杂了…TT……谢谢老大啊啊给我信心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584077626179997696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2000460992745210363",
+        "created_at": "2025-12-15T07:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000472308629315742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 24,
+              "id": "1966953060699377665",
+              "start": 15,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000472308629315742",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000464254080778465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @Melt_Ryo 完全不会！！ios也很简单0.0十分钟搞定的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 136,
+          "like_count": 361,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1263
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "1996267643624718697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 112,
+          "like_count": 9226,
+          "listed_count": 0,
+          "media_count": 538,
+          "tweet_count": 3929
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T19:52:17.000Z",
+        "description": "Ryo丢一些乱七八糟东西的杂物间/发一下和哥的日常…喜欢碎碎念(ㅅ´ ˘ `) 有点话痨的一个人，打扰到的话我很抱歉可以跟我说！\n作息诡异且爱睡大觉(。我是社恐…不想吵架 讨厌我请拉黑/屏蔽TT\n祝你天天开心！",
+        "id": "1966953060699377665",
+        "location": "与你的宇宙",
+        "name": "一杯凉白开",
+        "pinned_tweet_id": "1999738490935034160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970604752041091072/q1cF1qYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 83,
+          "like_count": 6365,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1087
+        },
+        "username": "Melt_Ryo",
+        "verified": false
+      }
+    ]
+  }
+}

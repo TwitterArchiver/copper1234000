@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2054114565152293152",
+    "created_at": "2026-05-12T10:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054153805395091722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017946858740760578",
+          "start": 0,
+          "username": "Aweissvulpes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054153805395091722",
+    "in_reply_to_user_id": "2017946858740760578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054114565152293152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aweissvulpes 太强了…！😮…好久没认真阅读了…有空我会品鉴狐狐老师的书单！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054114550342209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGuTOUb0AAOmta.jpg",
+        "width": 764
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054114550337941504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGuTOTasAAkDxF.jpg",
+        "width": 1404
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054114550329511936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGuTORaEAAxmMe.jpg",
+        "width": 1662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2054114565152293152",
+        "created_at": "2026-05-12T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054153805395091722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017946858740760578",
+              "start": 0,
+              "username": "Aweissvulpes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054153805395091722",
+        "in_reply_to_user_id": "2017946858740760578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054114565152293152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aweissvulpes 太强了…！😮…好久没认真阅读了…有空我会品鉴狐狐老师的书单！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054114550342209536",
+            "3_2054114550337941504",
+            "3_2054114550329511936"
+          ]
+        },
+        "author_id": "2017946858740760578",
+        "conversation_id": "2054114565152293152",
+        "created_at": "2026-05-12T08:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054114565152293152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlbHrmEdQB",
+              "end": 138,
+              "expanded_url": "https://x.com/Aweissvulpes/status/2054114565152293152/photo/1",
+              "media_key": "3_2054114550342209536",
+              "start": 115,
+              "url": "https://t.co/xlbHrmEdQB"
+            },
+            {
+              "display_url": "pic.x.com/xlbHrmEdQB",
+              "end": 138,
+              "expanded_url": "https://x.com/Aweissvulpes/status/2054114565152293152/photo/1",
+              "media_key": "3_2054114550337941504",
+              "start": 115,
+              "url": "https://t.co/xlbHrmEdQB"
+            },
+            {
+              "display_url": "pic.x.com/xlbHrmEdQB",
+              "end": 138,
+              "expanded_url": "https://x.com/Aweissvulpes/status/2054114565152293152/photo/1",
+              "media_key": "3_2054114550329511936",
+              "start": 115,
+              "url": "https://t.co/xlbHrmEdQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054114565152293152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回家换过季衣物，顺便拍了一下书架…!另还有一部分是父母的书、我自己没有怎么翻过的书，就不好意思拍入镜了。阅读量不大的一枚俗人，被好奇这方面好羞耻𐔌՞ ܸ.ˬ.ܸ՞𐦯꧞也谢谢所有夸夸。\np2是近期在读list，p3是我夹带私货!! 早年一本晋江小说叫《梦里浮生之倾国》，名字就很古早味吧，但是作者的笔力我好拜服…是我喜欢的像明清话本一般的风格。不知为什么一点都不火，作者自身是戏剧学博士与编剧。请欣赏p3的极致电影画面感。\n\n🎙️以及一些也许需要的Q&A…?\n\n到底爱看什么书？\n- 所有书，判断它不无聊就会一直读，对我来说，读书像是一种观察过往已逝的时间，无论是真正发生的抑或仅仅凝聚于笔端的，都在纸页与文字中得到复现，语言具有恒久的生命。\n但是在“诘屈聱牙的思想”与“文学审美性”之间，我会优先偏于后者( ´▽｀)\n\n为什么不列成书单?\n- 开卷有益，但读书是投其所好的事，我主张有兴趣的都去读，重在享受。而且自觉平常涉猎太杂，不成气候，写成推荐性质的书单有罗列卖弄之嫌，实在没那个脸皮(>﹏<)\n\n现在可以立刻即答的喜欢的作家？\n- 卡尔维诺（天才意大利男子 我最爱他T T）、石黑一雄、燕妮·埃彭贝克、阿瑟·克拉克、张岱、天才女子张爱玲♡、史铁生、布鲁诺舒尔茨、辛波斯卡、爱伦·坡、托尔卡丘克\np.s.家机喜欢阿尔蒂尔·兰波、博尔赫斯和里尔克。\n\n抒情叙事散文一类写法的启蒙？\n- 也许有点奇怪小众吧…? Charles Lamb和张天翼\n\n10岁之前最喜欢的一本书？\n- 《海底两万里》…!!\n\n莫名其妙地推荐一本有点莫名其妙的书？\n- 《认知神经科学：关于心智的生物学》/《帝京景物略》\n\n介绍一下最近在读的书吧？\n- 杨云苏《幸得诸君慰平生》我喜欢的成都籍作家，文字也像她故乡的风物人情一般特有的爽快伶俐，而不乏蜀地水气萦绕的细腻。开篇‌〈金线珍〉看得我垂泪数次。/叶嘉莹《诗人十四个》叶老师对曹丕及其诗文的解读非常优美深刻。同样推荐她的《九诗心》与《说汉魏六朝诗》。/《客乡》五一陪朋友去上生新所茑屋的时候刚好看见了，燕妮的名字让我无脑购入。\n\n总结一下自己喜欢的文字类型？\n- 华丽敏捷，言之有物。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家换过季衣物，顺便拍了一下书架…!另还有一部分是父母的书、我自己没有怎么翻过的书，就不好意思拍入镜了。阅读量不大的一枚俗人，被好奇这方面好羞耻𐔌՞ ܸ.ˬ.ܸ՞𐦯꧞也谢谢所有夸夸。\np2是近期在读list，p3是我夹带私货!! https://t.co/xlbHrmEdQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4161,
+          "following_count": 374,
+          "like_count": 2737,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 5438
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-01T13:07:11.000Z",
+        "description": "Alle tanzten mit dem Tod, doch niemand wie Elisabeth.",
+        "id": "2017946858740760578",
+        "name": "ElAleph",
+        "pinned_tweet_id": "2031341542531899800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018373188015800320/2l4muA6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 85,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1096
+        },
+        "username": "Aweissvulpes",
+        "verified": false
+      }
+    ]
+  }
+}

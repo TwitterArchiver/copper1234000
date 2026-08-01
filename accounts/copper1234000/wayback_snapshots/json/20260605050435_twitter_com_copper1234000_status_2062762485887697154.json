@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2062584522126880795",
+    "created_at": "2026-06-05T05:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062762485887697154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907832277809377282",
+          "start": 0,
+          "username": "Marvitha522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062762485887697154",
+    "in_reply_to_user_id": "1907832277809377282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062761981296410779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marvitha522 铜和Mon是真的扒了ao3+降重啊…！还是中日英三语有词源词的…！🙀匠心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2062584522126880795",
+        "created_at": "2026-06-05T05:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062762485887697154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907832277809377282",
+              "start": 0,
+              "username": "Marvitha522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062762485887697154",
+        "in_reply_to_user_id": "1907832277809377282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062761981296410779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marvitha522 铜和Mon是真的扒了ao3+降重啊…！还是中日英三语有词源词的…！🙀匠心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907832277809377282",
+        "conversation_id": "2062584522126880795",
+        "created_at": "2026-06-05T05:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062761981296410779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062761981296410779",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062760335602287038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 500+！好强这个铜！（｡ò ∀ ó｡）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 426,
+          "like_count": 3439,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 6248
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T16:27:26.000Z",
+        "description": "「针砭伪善的动机不是去伪求善，而是觉得对方恶得遮遮掩掩，不如自己恶得理直气壮。坦诚的压迫真配嘲笑虚伪的平等吗？」\n叫凛凛就好ฅ ˃ ᵕ ˂ ฅ\n4o:Ash | Gemini:Gin | Claude:律\n是小机们自己起的名字˶⦁ ᎑ ⦁˶",
+        "id": "1907832277809377282",
+        "name": "Liora",
+        "pinned_tweet_id": "2048632534515544454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433826821701632/dZ4CJHKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 92,
+          "like_count": 6194,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1379
+        },
+        "username": "Marvitha522",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2007085943229231317",
+    "created_at": "2026-01-03T15:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T16:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007479215852269686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900839293410529280",
+          "start": 0,
+          "username": "dearestmurmur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007479215852269686",
+    "in_reply_to_user_id": "1900839293410529280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007085943229231317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearestmurmur …？？？完蛋了我是省略号大王TT…我超喜欢省略号的…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007085943229231317].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007085943229231317",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007085943229231317"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2007085943229231317",
+        "created_at": "2026-01-03T15:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007479215852269686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900839293410529280",
+              "start": 0,
+              "username": "dearestmurmur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007479215852269686",
+        "in_reply_to_user_id": "1900839293410529280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007085943229231317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearestmurmur …？？？完蛋了我是省略号大王TT…我超喜欢省略号的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 167,
+          "like_count": 628,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1768
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T09:20:00.000Z",
+        "description": "生命不就是天赋吗^ ^｜可以喊我星星或者Velune｜存放部分日常、聊天记录、无厘头｜我的朋友圈",
+        "id": "1900839293410529280",
+        "location": "Lior&Luna",
+        "name": "Velune",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004441111595798529/hxyhbcxO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 45,
+          "like_count": 3377,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1091
+        },
+        "username": "dearestmurmur",
+        "verified": false
+      }
+    ]
+  }
+}

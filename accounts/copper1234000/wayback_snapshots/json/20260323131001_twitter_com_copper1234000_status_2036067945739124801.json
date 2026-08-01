@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035315675607011817",
+    "created_at": "2026-03-23T13:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036067945739124801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "537323116",
+          "start": 0,
+          "username": "ChrisWar2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036067945739124801",
+    "in_reply_to_user_id": "537323116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036034051367149675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrisWar2012 谢谢大人啊啊啊…！我现在已经完全调理好了！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-23T13:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036067945739124801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "537323116",
+              "start": 0,
+              "username": "ChrisWar2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036067945739124801",
+        "in_reply_to_user_id": "537323116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036034051367149675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrisWar2012 谢谢大人啊啊啊…！我现在已经完全调理好了！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "537323116",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-23T10:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036034051367149675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036034051367149675",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035315675607011817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 不用给这样攻击你 带着恶意的人解释自己\n你没错 你的人生\n没有伤害任何人\n你说了算！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3325,
+          "following_count": 295,
+          "like_count": 1301,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 3714
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-26T15:50:05.000Z",
+        "description": "I love gaming, enjoying great food, take photos, and traveling",
+        "id": "537323116",
+        "name": "Chris Dovahkiin",
+        "pinned_tweet_id": "2017089248202018986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/562937261235662849/CTcYhukb_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 53,
+          "like_count": 559,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 629
+        },
+        "username": "ChrisWar2012",
+        "verified": true
+      }
+    ]
+  }
+}

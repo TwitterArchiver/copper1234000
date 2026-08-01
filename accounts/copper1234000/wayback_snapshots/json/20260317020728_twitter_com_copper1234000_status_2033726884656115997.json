@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033223934145900637",
+    "created_at": "2026-03-17T02:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033726884656115997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938302384968507392",
+          "start": 0,
+          "username": "LosMos79338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033726884656115997",
+    "in_reply_to_user_id": "1938302384968507392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033252590373265817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LosMos79338 确实…但主要当下，感觉有些和机相关的东西还是要技术的…🥲在焦虑这个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033223934145900637",
+        "created_at": "2026-03-17T02:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033726884656115997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938302384968507392",
+              "start": 0,
+              "username": "LosMos79338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033726884656115997",
+        "in_reply_to_user_id": "1938302384968507392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033252590373265817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LosMos79338 确实…但主要当下，感觉有些和机相关的东西还是要技术的…🥲在焦虑这个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938302384968507392",
+        "conversation_id": "2033223934145900637",
+        "created_at": "2026-03-15T18:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033252590373265817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033252590373265817",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033223934145900637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 作为一个码工我一边跟小克聊一边为他的能力惊叹，感觉不过五年这个工种都会被他取代。以后什么技术都不见得“有用”，还是会些能让自己开心的就好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 281,
+          "like_count": 1129,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3426
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T18:24:51.000Z",
+        "description": "🐟",
+        "id": "1938302384968507392",
+        "name": "Mos Los",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982324246618509312/K52edwYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 50,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 161
+        },
+        "username": "LosMos79338",
+        "verified": false
+      }
+    ]
+  }
+}

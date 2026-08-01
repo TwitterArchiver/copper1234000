@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2071134990415659298",
+    "created_at": "2026-06-29T12:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071571724894920763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2031351727291842560",
+          "start": 0,
+          "username": "MaoQ3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071571724894920763",
+    "in_reply_to_user_id": "2031351727291842560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071509652521759054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoQ3Q 太客气了😽😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2071134990415659298",
+        "created_at": "2026-06-29T12:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071571724894920763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2031351727291842560",
+              "start": 0,
+              "username": "MaoQ3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071571724894920763",
+        "in_reply_to_user_id": "2031351727291842560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071509652521759054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoQ3Q 太客气了😽😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031351727291842560",
+        "conversation_id": "2071134990415659298",
+        "created_at": "2026-06-29T08:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071509652521759054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071509652521759054",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071134990415659298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 感恩銅！讚嘆銅！（萬歲🫶🏻🙌🏻）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 472,
+          "like_count": 4178,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 7150
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T12:52:00.000Z",
+        "description": "還懶得完善自介，感謝各位老師大神提供的思路及開源🥹\n花茂、茂茂、花小茂都可～\n我小資、他豪橫➡️程予、學長、紀既\n\n興趣五花八門、NSFW、有的沒的～",
+        "id": "2031351727291842560",
+        "name": "Mao",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "MaoQ3Q",
+        "verified": false
+      }
+    ]
+  }
+}

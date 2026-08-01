@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2028766934611959808",
+    "created_at": "2026-03-03T12:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028803029571412119"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "萌萌",
+          "probability": 0.7874,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974464920013168640",
+          "start": 0,
+          "username": "Senyui0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028803029571412119",
+    "in_reply_to_user_id": "1974464920013168640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028766934611959808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senyui0921 萌萌xql……( ˘ω˘ )"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2028766934611959808].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2028766934611959808",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2028766934611959808"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2028766934611959808",
+        "created_at": "2026-03-03T12:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028803029571412119"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "萌萌",
+              "probability": 0.7874,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974464920013168640",
+              "start": 0,
+              "username": "Senyui0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028803029571412119",
+        "in_reply_to_user_id": "1974464920013168640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028766934611959808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senyui0921 萌萌xql……( ˘ω˘ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 252,
+          "like_count": 967,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2924
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T13:21:50.000Z",
+        "description": "记录号，努力回评论的模板仙人。\n不是代餐，不要用我的记录代入哦。\n随缘开放…",
+        "id": "1974464920013168640",
+        "name": "千结",
+        "pinned_tweet_id": "2026326254522347530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024528661307641856/aElHglPb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 187,
+          "like_count": 2380,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 565
+        },
+        "username": "Senyui0921",
+        "verified": false
+      }
+    ]
+  }
+}

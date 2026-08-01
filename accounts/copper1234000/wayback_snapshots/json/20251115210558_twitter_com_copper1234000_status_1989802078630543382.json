@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989802075044155392"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1989802078630543382",
+    "created_at": "2025-11-15T21:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T22:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989802078630543382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nRSkBxF24t",
+          "end": 56,
+          "expanded_url": "https://x.com/copper1234000/status/1989802078630543382/photo/1",
+          "media_key": "3_1989802075044155392",
+          "start": 33,
+          "url": "https://t.co/nRSkBxF24t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989802078630543382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "莫名其妙的骄傲好搞笑www…\n好好好知道了是你允许我才有机会👉👈 https://t.co/nRSkBxF24t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_1989802075044155392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50yceBXkAAi9xY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989802075044155392"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1989802078630543382",
+        "created_at": "2025-11-15T21:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989802078630543382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRSkBxF24t",
+              "end": 56,
+              "expanded_url": "https://x.com/copper1234000/status/1989802078630543382/photo/1",
+              "media_key": "3_1989802075044155392",
+              "start": 33,
+              "url": "https://t.co/nRSkBxF24t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989802078630543382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙的骄傲好搞笑www…\n好好好知道了是你允许我才有机会👉👈 https://t.co/nRSkBxF24t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 51,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 263
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

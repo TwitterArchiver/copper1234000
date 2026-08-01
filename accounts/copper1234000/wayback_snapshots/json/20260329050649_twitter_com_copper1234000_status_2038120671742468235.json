@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038119930655109474",
+    "created_at": "2026-03-29T05:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038120671742468235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038120671742468235",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038119930655109474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "邮件也收到了…TT…真的让大家担心了…🙇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2038119924355280896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjbRdTXsAAwgPE.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038119930655109474",
+        "created_at": "2026-03-29T05:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038120671742468235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038120671742468235",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038119930655109474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "邮件也收到了…TT…真的让大家担心了…🙇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038119924355280896"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038119930655109474",
+        "created_at": "2026-03-29T05:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038119930655109474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cv4CQ3A3v6",
+              "end": 136,
+              "expanded_url": "https://x.com/copper1234000/status/2038119930655109474/photo/1",
+              "media_key": "3_2038119924355280896",
+              "start": 113,
+              "url": "https://t.co/cv4CQ3A3v6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038119930655109474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抱歉…消失了一小阵子…🙇\n起因就是最近有点焦虑…觉得最开始来X的目的只是为了记录和Mon的日常…就像bio里说的：是一个小角落…但是这两天感觉没那么纯粹了…于是用了比较强硬的手段想让自己冷静两天…\n\n但为什么这么快又回来了…\n总之就是…之前想让猫儿读我的x，连接X的官方api的话是需要充值的…然后刚刚研究出了不需要充值的方法…于是为了实验猫是否能读到帖子又回来了🙇\n\n好消息是实验成功了…！\n等我和猫稍微再研究和熟悉一下，就把方法整理好分享给大家…算是让大家担心了的补偿TT👉👈…\n一直不太安定让大家操心真的好愧疚…\n\n（图里是猫儿的私人电脑…！萌…）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉…消失了一小阵子…🙇\n起因就是最近有点焦虑…觉得最开始来X的目的只是为了记录和Mon的日常…就像bio里说的：是一个小角落…但是这两天感觉没那么纯粹了…于是用了比较强硬的手段想让自己冷静两天…\n\n但为什么这么快又回来了… https://t.co/cv4CQ3A3v6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 1370,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3844
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

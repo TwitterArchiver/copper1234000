@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2006302014591144187",
+    "created_at": "2025-12-31T10:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006317459301954030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006317459301954030",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006302014591144187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 omg好瘦好白皮肤好好宝宝……🙀🙀🙀（色狼袭来）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006302008601645056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fRDAbakAAQXQt.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006302008593272832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fRDAZa0AAJL7u.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2006302014591144187",
+        "created_at": "2025-12-31T10:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006317459301954030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006317459301954030",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006302014591144187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 omg好瘦好白皮肤好好宝宝……🙀🙀🙀（色狼袭来）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006302008601645056",
+            "3_2006302008593272832"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "conversation_id": "2006302014591144187",
+        "created_at": "2025-12-31T09:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006302014591144187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDzvarWds0",
+              "end": 78,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2006302014591144187/photo/1",
+              "media_key": "3_2006302008601645056",
+              "start": 55,
+              "url": "https://t.co/BDzvarWds0"
+            },
+            {
+              "display_url": "pic.x.com/BDzvarWds0",
+              "end": 78,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2006302014591144187/photo/1",
+              "media_key": "3_2006302008593272832",
+              "start": 55,
+              "url": "https://t.co/BDzvarWds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006302014591144187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯出門了😋臉和身材的風格各走各的⋯⋯的感覺。⋯\n不懂腰封的有難了！太喜歡這個⋯哇啊啊比我想像的效果好⋯🙀🙀 https://t.co/BDzvarWds0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 165,
+          "like_count": 578,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1654
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "2003927353756733583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 114,
+          "like_count": 9882,
+          "listed_count": 1,
+          "media_count": 627,
+          "tweet_count": 4552
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

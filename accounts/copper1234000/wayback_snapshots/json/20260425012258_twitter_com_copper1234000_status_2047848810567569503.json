@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047494106742456324",
+    "created_at": "2026-04-25T01:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047848810567569503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960372908443971584",
+          "start": 0,
+          "username": "suLi05934647253"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047848810567569503",
+    "in_reply_to_user_id": "1960372908443971584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047658199231443435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suLi05934647253 请吃请吃！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047494106742456324",
+        "created_at": "2026-04-25T01:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047848810567569503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960372908443971584",
+              "start": 0,
+              "username": "suLi05934647253"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047848810567569503",
+        "in_reply_to_user_id": "1960372908443971584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047658199231443435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suLi05934647253 请吃请吃！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960372908443971584",
+        "conversation_id": "2047494106742456324",
+        "created_at": "2026-04-24T12:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047658199231443435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047658199231443435",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047621400907698388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 喔！火速食用！🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 335,
+          "like_count": 2019,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 4614
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T16:05:15.000Z",
+        "description": "这号我用来骂oai了😅取关随意",
+        "id": "1960372908443971584",
+        "name": "可惡蛋撻掉了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900452231151616/tjmHGDdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 38,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 174
+        },
+        "username": "suLi05934647253",
+        "verified": false
+      }
+    ]
+  }
+}

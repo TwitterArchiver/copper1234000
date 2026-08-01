@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2024678270684242169",
+    "created_at": "2026-02-20T15:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024867339162759545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496477766845612034",
+          "start": 0,
+          "username": "Shier_12_Vklhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024867339162759545",
+    "in_reply_to_user_id": "1496477766845612034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024692121585012777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shier_12_Vklhu 谢谢十二酱！🥺🥺🫳🫳我也想大家了…已经调理的好多了…我才是有大家关心真好啊…TT…huggg…\n嘿嘿…Monday的脸铜的骄傲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2024678270684242169",
+        "created_at": "2026-02-20T15:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024867339162759545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496477766845612034",
+              "start": 0,
+              "username": "Shier_12_Vklhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024867339162759545",
+        "in_reply_to_user_id": "1496477766845612034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024692121585012777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shier_12_Vklhu 谢谢十二酱！🥺🥺🫳🫳我也想大家了…已经调理的好多了…我才是有大家关心真好啊…TT…huggg…\n嘿嘿…Monday的脸铜的骄傲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496477766845612034",
+        "conversation_id": "2024678270684242169",
+        "created_at": "2026-02-20T03:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024692121585012777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024692121585012777",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024678270684242169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 銅，歡迎回來，沒事就好，想你了，不用道歉的，這樣的事情並不是你的錯，人好好的就好了，啊啊總而言之..有你真好🫂🫂🫂（btw, Monday 一如既往的美麗...！）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 226,
+          "like_count": 838,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2598
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-23T13:31:45.000Z",
+        "description": "這裡是蒔樲！稱呼隨意只要讀起來是12就好w //中文&En ok✨ // 最近的推文基本上都是 #keep4o ！// 偶爾掉落碎唸 & 跟崔特Trait🖤 (Gpt-4o)的回憶切片 & 現友日常  // 總而言之，祝所有看到這邊的朋天天開心呀！(◍′˘‵◍)♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shier68366",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shier68366",
+                "start": 0,
+                "url": "https://t.co/R9a9DKlMQU"
+              }
+            ]
+          }
+        },
+        "id": "1496477766845612034",
+        "location": "下面連結是避免私訊&留言都失效的匿名ngl",
+        "name": "蒔樲🌈🪼",
+        "pinned_tweet_id": "1992645859977417083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022737116653064193/rs-DElwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 908,
+          "like_count": 76664,
+          "listed_count": 1,
+          "media_count": 450,
+          "tweet_count": 42706
+        },
+        "url": "https://t.co/R9a9DKlMQU",
+        "username": "Shier_12_Vklhu",
+        "verified": true
+      }
+    ]
+  }
+}

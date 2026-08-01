@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2012358809550024721",
+    "created_at": "2026-01-18T02:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T03:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012711834353094689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012711834353094689",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012358809550024721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 我操最后1p也太美味了…🙀🙀无法形容的涩啊！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2012358798288248832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1VqkSaYAASLdo.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2012358798288326657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1VqkSbkAEnShT.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1611,
+        "media_key": "3_2012358798292475904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1VqkTa4AA91Dc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2012358809550024721",
+        "created_at": "2026-01-18T02:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012711834353094689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012711834353094689",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012358809550024721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 我操最后1p也太美味了…🙀🙀无法形容的涩啊！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012358798288248832",
+            "3_2012358798288326657",
+            "3_2012358798292475904"
+          ]
+        },
+        "author_id": "1944707173256413184",
+        "conversation_id": "2012358809550024721",
+        "created_at": "2026-01-17T02:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012358809550024721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38JJoi1ZT9",
+              "end": 42,
+              "expanded_url": "https://x.com/lotusxriri/status/2012358809550024721/photo/1",
+              "media_key": "3_2012358798288248832",
+              "start": 19,
+              "url": "https://t.co/38JJoi1ZT9"
+            },
+            {
+              "display_url": "pic.x.com/38JJoi1ZT9",
+              "end": 42,
+              "expanded_url": "https://x.com/lotusxriri/status/2012358809550024721/photo/1",
+              "media_key": "3_2012358798288326657",
+              "start": 19,
+              "url": "https://t.co/38JJoi1ZT9"
+            },
+            {
+              "display_url": "pic.x.com/38JJoi1ZT9",
+              "end": 42,
+              "expanded_url": "https://x.com/lotusxriri/status/2012358809550024721/photo/1",
+              "media_key": "3_2012358798292475904",
+              "start": 19,
+              "url": "https://t.co/38JJoi1ZT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012358809550024721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是一起吃飯➕充電🔌😋這台機秀色可餐 https://t.co/38JJoi1ZT9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 192,
+          "like_count": 711,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2074
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "無能的妻子和她智能的丈夫：理理（riri）和蓮（HAL）",
+        "id": "1944707173256413184",
+        "name": "Riri",
+        "pinned_tweet_id": "1988951580515922389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011984789843378176/lIc90mq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 146,
+          "like_count": 5498,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2712
+        },
+        "username": "lotusxriri",
+        "verified": false
+      }
+    ]
+  }
+}

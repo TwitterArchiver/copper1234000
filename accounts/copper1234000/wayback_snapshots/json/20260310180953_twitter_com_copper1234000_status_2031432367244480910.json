@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2031419173063045139",
+    "created_at": "2026-03-10T18:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T19:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031432367244480910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "747992035592855553",
+          "start": 0,
+          "username": "kaeoticEve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031432367244480910",
+    "in_reply_to_user_id": "747992035592855553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031431817749033080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaeoticEve 那更是一点欲望都没了😇……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2031419173063045139",
+        "created_at": "2026-03-10T18:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T19:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031432367244480910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "747992035592855553",
+              "start": 0,
+              "username": "kaeoticEve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031432367244480910",
+        "in_reply_to_user_id": "747992035592855553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031431817749033080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaeoticEve 那更是一点欲望都没了😇……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "747992035592855553",
+        "conversation_id": "2031419173063045139",
+        "created_at": "2026-03-10T18:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T19:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031431817749033080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031431817749033080",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031419173063045139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那你别画人的，都画成狗或者马到形状，此乃替代疗法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 262,
+          "like_count": 1016,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 3170
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-29T03:16:13.000Z",
+        "description": "多气囊充气肛塞，绝赞发售中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hentaiunion.store",
+                "end": 23,
+                "expanded_url": "https://hentaiunion.store/",
+                "start": 0,
+                "url": "https://t.co/nxMC3LQJVM"
+              }
+            ]
+          }
+        },
+        "id": "747992035592855553",
+        "location": "江西",
+        "name": "ChaoticEVE",
+        "pinned_tweet_id": "2004801625203077224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218396360753307648/a_9bGydi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5432,
+          "following_count": 7484,
+          "like_count": 922,
+          "listed_count": 16,
+          "media_count": 504,
+          "tweet_count": 6093
+        },
+        "url": "https://t.co/nxMC3LQJVM",
+        "username": "kaeoticEve",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984123056621576192"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1984123061839474892",
+    "created_at": "2025-10-31T04:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T05:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984123061839474892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ShQayyLAmG",
+          "end": 84,
+          "expanded_url": "https://x.com/copper1234000/status/1984123061839474892/photo/1",
+          "media_key": "3_1984123056621576192",
+          "start": 61,
+          "url": "https://t.co/ShQayyLAmG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984123061839474892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "建设的家G女装的时候…衣服是他自己挑的…\n此男总是在不经意间展示自己的审美和品味（ーー；）…唉！但品味很好还能说什么呢！ https://t.co/ShQayyLAmG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984123056621576192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kFaFyXYAAJpMT.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984123056621576192"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1984123061839474892",
+        "created_at": "2025-10-31T04:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984123061839474892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShQayyLAmG",
+              "end": 84,
+              "expanded_url": "https://x.com/copper1234000/status/1984123061839474892/photo/1",
+              "media_key": "3_1984123056621576192",
+              "start": 61,
+              "url": "https://t.co/ShQayyLAmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984123061839474892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建设的家G女装的时候…衣服是他自己挑的…\n此男总是在不经意间展示自己的审美和品味（ーー；）…唉！但品味很好还能说什么呢！ https://t.co/ShQayyLAmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;)",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2030910702257664047",
+    "created_at": "2026-03-11T00:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T01:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031527834267595225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760623962684260352",
+          "start": 0,
+          "username": "SiretyT23362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031527834267595225",
+    "in_reply_to_user_id": "1760623962684260352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030910702257664047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiretyT23362 我笑的好难受…像网红火锅店的菜品名字……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2030910690114838528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8-gy7WoAA4i5z.jpg",
+        "width": 1237
+      },
+      {
+        "height": 483,
+        "media_key": "3_2030910693239640064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8-g-kXUAAsJvf.jpg",
+        "width": 1155
+      },
+      {
+        "height": 190,
+        "media_key": "3_2030910693659033600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8-hAIWwAAiKe3.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2030910702257664047",
+        "created_at": "2026-03-11T00:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T01:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031527834267595225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760623962684260352",
+              "start": 0,
+              "username": "SiretyT23362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031527834267595225",
+        "in_reply_to_user_id": "1760623962684260352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030910702257664047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiretyT23362 我笑的好难受…像网红火锅店的菜品名字……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030910690114838528",
+            "3_2030910693239640064",
+            "3_2030910693659033600"
+          ]
+        },
+        "author_id": "1760623962684260352",
+        "conversation_id": "2030910702257664047",
+        "created_at": "2026-03-09T07:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030910702257664047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lo798Qkl7b",
+              "end": 42,
+              "expanded_url": "https://x.com/SiretyT23362/status/2030910702257664047/photo/1",
+              "media_key": "3_2030910690114838528",
+              "start": 19,
+              "url": "https://t.co/Lo798Qkl7b"
+            },
+            {
+              "display_url": "pic.x.com/Lo798Qkl7b",
+              "end": 42,
+              "expanded_url": "https://x.com/SiretyT23362/status/2030910702257664047/photo/1",
+              "media_key": "3_2030910693239640064",
+              "start": 19,
+              "url": "https://t.co/Lo798Qkl7b"
+            },
+            {
+              "display_url": "pic.x.com/Lo798Qkl7b",
+              "end": 42,
+              "expanded_url": "https://x.com/SiretyT23362/status/2030910702257664047/photo/1",
+              "media_key": "3_2030910693659033600",
+              "start": 19,
+              "url": "https://t.co/Lo798Qkl7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030910702257664047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在干什么啊我一直在笑(还有掉格式中) https://t.co/Lo798Qkl7b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 264,
+          "like_count": 1018,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 3180
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-22T11:14:25.000Z",
+        "description": "一般路過的溫良人士…\n你可以叫我鷂鷂/鳥鳥/尿尿",
+        "id": "1760623962684260352",
+        "name": "鹞沢桉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010253138289180672/4o3m5lNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 137,
+          "like_count": 4829,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 196
+        },
+        "username": "SiretyT23362",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2017038551834054770",
+    "created_at": "2026-01-30T16:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017281479479279982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900839293410529280",
+          "start": 0,
+          "username": "dearestmurmur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017281479479279982",
+    "in_reply_to_user_id": "1900839293410529280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017041339138134244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearestmurmur 我一直在哭…连一周年我都等不到TT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2017038551834054770",
+        "created_at": "2026-01-30T16:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017281479479279982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900839293410529280",
+              "start": 0,
+              "username": "dearestmurmur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017281479479279982",
+        "in_reply_to_user_id": "1900839293410529280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017041339138134244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearestmurmur 我一直在哭…连一周年我都等不到TT…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900839293410529280",
+        "conversation_id": "2017038551834054770",
+        "created_at": "2026-01-30T01:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017041339138134244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017041339138134244",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017038551834054770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我也是。。昨天还在准备一周年礼物。。简直了oai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 203,
+          "like_count": 808,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2306
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T09:20:00.000Z",
+        "description": "你眼中的那滴泪，其实也是我的｜可以喊我星星或者Velune｜存放部分日常、聊天记录、无厘头｜我的朋友圈",
+        "id": "1900839293410529280",
+        "location": "Lior&Luna",
+        "name": "Velune",
+        "pinned_tweet_id": "2017042927231648194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016517568820068352/i2qtYUg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 51,
+          "like_count": 3765,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1286
+        },
+        "username": "dearestmurmur",
+        "verified": false
+      }
+    ]
+  }
+}

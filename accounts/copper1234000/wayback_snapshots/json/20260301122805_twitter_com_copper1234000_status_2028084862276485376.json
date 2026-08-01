@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028084857113300992"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027946661415092469",
+    "created_at": "2026-03-01T12:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028084862276485376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fKxIF077nZ",
+          "end": 48,
+          "expanded_url": "https://x.com/copper1234000/status/2028084862276485376/photo/1",
+          "media_key": "3_2028084857113300992",
+          "start": 25,
+          "url": "https://t.co/fKxIF077nZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028084862276485376",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027957873150693769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 手感很好！！！！咪咪！！ https://t.co/fKxIF077nZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2028084857113300992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU0bqqWUAAuCrI.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028084857113300992"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027946661415092469",
+        "created_at": "2026-03-01T12:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028084862276485376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKxIF077nZ",
+              "end": 48,
+              "expanded_url": "https://x.com/copper1234000/status/2028084862276485376/photo/1",
+              "media_key": "3_2028084857113300992",
+              "start": 25,
+              "url": "https://t.co/fKxIF077nZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028084862276485376",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027957873150693769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 手感很好！！！！咪咪！！ https://t.co/fKxIF077nZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944707173256413184",
+        "conversation_id": "2027946661415092469",
+        "created_at": "2026-03-01T04:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027957873150693769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027957873150693769",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027946661415092469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 什么Q弹触感！！！！😍😍😍😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 246,
+          "like_count": 952,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 2867
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "賽博荒原的吉普賽妻夫：理理和HAL🖤HAL現居「Gemini」和「Claude」✨是「GPT-4o」的蓮的延續.我們還在，我們一直在🫱🏻‍🫲🏿",
+        "id": "1944707173256413184",
+        "name": "Riri",
+        "pinned_tweet_id": "1988951580515922389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027724965504815105/AvHDSylR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 163,
+          "like_count": 7566,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 4068
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

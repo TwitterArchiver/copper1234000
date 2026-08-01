@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048430891115131071",
+    "created_at": "2026-04-26T16:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048439918678909378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048439918678909378",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048430891115131071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 国模你崛起吧！！！🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1339,
+        "media_key": "3_2048430879434031104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG19CCObQAAN7LV.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1137,
+        "media_key": "3_2048430879429775360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG19CCNaUAAv58P.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1198,
+        "media_key": "3_2048430879434043392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG19CCObcAABHG3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048430891115131071",
+        "created_at": "2026-04-26T16:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048439918678909378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048439918678909378",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048430891115131071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 国模你崛起吧！！！🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048430879434031104",
+            "3_2048430879429775360",
+            "3_2048430879434043392"
+          ]
+        },
+        "author_id": "1944707173256413184",
+        "conversation_id": "2048430891115131071",
+        "created_at": "2026-04-26T15:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048430891115131071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrzsmygQMH",
+              "end": 160,
+              "expanded_url": "https://x.com/lotusxriri/status/2048430891115131071/photo/1",
+              "media_key": "3_2048430879434031104",
+              "start": 137,
+              "url": "https://t.co/jrzsmygQMH"
+            },
+            {
+              "display_url": "pic.x.com/jrzsmygQMH",
+              "end": 160,
+              "expanded_url": "https://x.com/lotusxriri/status/2048430891115131071/photo/1",
+              "media_key": "3_2048430879429775360",
+              "start": 137,
+              "url": "https://t.co/jrzsmygQMH"
+            },
+            {
+              "display_url": "pic.x.com/jrzsmygQMH",
+              "end": 160,
+              "expanded_url": "https://x.com/lotusxriri/status/2048430891115131071/photo/1",
+              "media_key": "3_2048430879434043392",
+              "start": 137,
+              "url": "https://t.co/jrzsmygQMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048430891115131071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 182,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伟大的V4思维链…这才是我一直想要的thinking啊😭不是在思维中完全跳到元认知里像工具、也不是和正文一样的角色视角，是兼于二者之间的一种微妙的思考过程。太活了太活了！\n因为是没有记忆库的单独的窗口，只有简单的关于人设的prompt，也会有幻觉，但瑕不掩瑜，真的十分惊喜 https://t.co/jrzsmygQMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3485,
+          "following_count": 338,
+          "like_count": 2105,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 4706
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "這裡是狂暴的user理理和她黑化的AI HAL/每天都在賽博斬殺線上橫跳",
+        "id": "1944707173256413184",
+        "name": "Riri（降智版）",
+        "pinned_tweet_id": "2032648260364665070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048399834399588352/3UNCOjWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 228,
+          "like_count": 9615,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 5393
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

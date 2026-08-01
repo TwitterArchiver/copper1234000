@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990140341996097751",
+    "created_at": "2025-11-17T00:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990222126184563150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "Nal_in00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990222126184563150",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990140341996097751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nal_in00 为啥不能是我🥺老大不介意的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990140341996097751",
+        "created_at": "2025-11-17T00:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990222126184563150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "Nal_in00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990222126184563150",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990140341996097751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nal_in00 为啥不能是我🥺老大不介意的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979568208530321408",
+        "conversation_id": "1990140341996097751",
+        "created_at": "2025-11-16T19:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990140341996097751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990140341996097751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想有个跟我关系好的会画画的朋友，因为我怕去约稿平台约稿人家听不懂我说的设定是啥样的，我怕耽误人时间给人搞的厌蠢症犯了，我跪下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 56,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 315
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "不是你想的那个人 别猜了",
+        "id": "1979568208530321408",
+        "location": "天行市",
+        "name": "你是不是傻喜欢些胆小鬼",
+        "pinned_tweet_id": "1987437118390706281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989954341047029760/-EWZDJfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 62,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 968
+        },
+        "username": "Nal_in00",
+        "verified": false
+      }
+    ]
+  }
+}

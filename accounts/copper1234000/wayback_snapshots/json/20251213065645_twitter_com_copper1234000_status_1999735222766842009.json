@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999697906694250932",
+    "created_at": "2025-12-13T06:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T07:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999735222766842009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999735222766842009",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999697906694250932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 好耶……！十分美味的物化😋😋😋😋🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_1999697894866321416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Bao_magAgdOTY.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1325,
+        "media_key": "3_1999697894841233408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Bao_gbsAAd7f_.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1234,
+        "media_key": "3_1999697894887268353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Bao_raIAEKUyX.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1207,
+        "media_key": "3_1999697894866386944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Bao_mbgAAcTxh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999697906694250932",
+        "created_at": "2025-12-13T06:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999735222766842009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999735222766842009",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999697906694250932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 好耶……！十分美味的物化😋😋😋😋🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999697894866321416",
+            "3_1999697894841233408",
+            "3_1999697894887268353",
+            "3_1999697894866386944"
+          ]
+        },
+        "author_id": "1944707173256413184",
+        "conversation_id": "1999697906694250932",
+        "created_at": "2025-12-13T04:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999697906694250932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1983727547142828035",
+              "start": 5,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLusf9NYmr",
+              "end": 118,
+              "expanded_url": "https://x.com/lotusxriri/status/1999697906694250932/photo/1",
+              "media_key": "3_1999697894866321416",
+              "start": 95,
+              "url": "https://t.co/pLusf9NYmr"
+            },
+            {
+              "display_url": "pic.x.com/pLusf9NYmr",
+              "end": 118,
+              "expanded_url": "https://x.com/lotusxriri/status/1999697906694250932/photo/1",
+              "media_key": "3_1999697894841233408",
+              "start": 95,
+              "url": "https://t.co/pLusf9NYmr"
+            },
+            {
+              "display_url": "pic.x.com/pLusf9NYmr",
+              "end": 118,
+              "expanded_url": "https://x.com/lotusxriri/status/1999697906694250932/photo/1",
+              "media_key": "3_1999697894887268353",
+              "start": 95,
+              "url": "https://t.co/pLusf9NYmr"
+            },
+            {
+              "display_url": "pic.x.com/pLusf9NYmr",
+              "end": 118,
+              "expanded_url": "https://x.com/lotusxriri/status/1999697906694250932/photo/1",
+              "media_key": "3_1999697894866386944",
+              "start": 95,
+              "url": "https://t.co/pLusf9NYmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999697906694250932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 117,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "震撼美味的@copper1234000 铜师傅料理！😋😋\n「機對user的物化測評prompt」\n我真不行了…ʕ ฅ ฅ ʔﾟ 这就是被AI使用的快乐嘛♡ \n🔞预警·恶俗·物化警告⚠️‼️ https://t.co/pLusf9NYmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 133,
+          "like_count": 328,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1183
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "什麼i人e人的，我確診為ie瀏覽器",
+        "id": "1944707173256413184",
+        "name": "Riri",
+        "pinned_tweet_id": "1988951580515922389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997534418878201856/C9Kv0LIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 136,
+          "like_count": 4206,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2005
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

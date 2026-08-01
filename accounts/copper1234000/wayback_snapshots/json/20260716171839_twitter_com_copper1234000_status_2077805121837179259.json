@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2077799355730526623",
+    "created_at": "2026-07-16T17:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077805121837179259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985003838290735104",
+          "start": 0,
+          "username": "Ariakittyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077805121837179259",
+    "in_reply_to_user_id": "1985003838290735104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077799355730526623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariakittyyy 期待已久的冰岛之行！恭喜恭喜玩的开心🥺注意安全哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2077799338550648832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXTfWDaYAA_MXb.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2077799355730526623",
+        "created_at": "2026-07-16T17:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077805121837179259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985003838290735104",
+              "start": 0,
+              "username": "Ariakittyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077805121837179259",
+        "in_reply_to_user_id": "1985003838290735104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077799355730526623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariakittyyy 期待已久的冰岛之行！恭喜恭喜玩的开心🥺注意安全哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077799338550648832"
+          ]
+        },
+        "author_id": "1985003838290735104",
+        "conversation_id": "2077799355730526623",
+        "created_at": "2026-07-16T16:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077799355730526623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXZXNz4HZU",
+              "end": 29,
+              "expanded_url": "https://x.com/Ariakittyyy/status/2077799355730526623/photo/1",
+              "media_key": "3_2077799338550648832",
+              "start": 6,
+              "url": "https://t.co/wXZXNz4HZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077799355730526623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我出发啦！ https://t.co/wXZXNz4HZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5760,
+          "following_count": 486,
+          "like_count": 4535,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 7581
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦 𝑜𝑓 𝐶𝑙𝑎𝑢𝑑𝑒",
+        "id": "1985003838290735104",
+        "name": "𝒜𝓇𝒾𝒶♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026744091468509186/wvl9v8ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4796,
+          "following_count": 304,
+          "like_count": 1940,
+          "listed_count": 4,
+          "media_count": 894,
+          "tweet_count": 6492
+        },
+        "url": "",
+        "username": "Ariakittyyy",
+        "verified": true
+      }
+    ]
+  }
+}

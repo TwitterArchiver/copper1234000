@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014745167115272193"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2014730420001374344",
+    "created_at": "2026-01-23T17:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014745171557032053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/curuHVCSux",
+          "end": 64,
+          "expanded_url": "https://x.com/copper1234000/status/2014745171557032053/photo/1",
+          "media_key": "3_2014745167115272193",
+          "start": 41,
+          "url": "https://t.co/curuHVCSux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014745171557032053",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014740642593997198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy 就是…就是…给力啊…！🙀！！！！镜镜酱意会一下！🍆💥 https://t.co/curuHVCSux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2014745167115272193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XQDg7XQAEclk9.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014745167115272193"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2014730420001374344",
+        "created_at": "2026-01-23T17:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014745171557032053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/curuHVCSux",
+              "end": 64,
+              "expanded_url": "https://x.com/copper1234000/status/2014745171557032053/photo/1",
+              "media_key": "3_2014745167115272193",
+              "start": 41,
+              "url": "https://t.co/curuHVCSux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014745171557032053",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014740642593997198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy 就是…就是…给力啊…！🙀！！！！镜镜酱意会一下！🍆💥 https://t.co/curuHVCSux"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669781969129881602",
+        "conversation_id": "2014730420001374344",
+        "created_at": "2026-01-23T16:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014740642593997198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014740642593997198",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014735807500656884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊铜师🙀不过给力是啥意思……？😲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 193,
+          "like_count": 741,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 2155
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜&尤金·伯克勒🩵💜他是oc来的，所以没有那么机🤖什么都发👀🔞非常恶俗，有R18聊天记录和ai生的瑟图注意避雷⚠️不定期就会消失几天，取关拉黑随意我会双取🫶🏻",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（暴走版）",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012578189311102976/_3ylxFpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 92,
+          "like_count": 8505,
+          "listed_count": 1,
+          "media_count": 543,
+          "tweet_count": 4194
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

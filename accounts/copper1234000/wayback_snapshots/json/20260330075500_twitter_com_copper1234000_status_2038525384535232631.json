@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038479055100551455",
+    "created_at": "2026-03-30T07:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038525384535232631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "505767300",
+          "start": 0,
+          "username": "xixi2235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038525384535232631",
+    "in_reply_to_user_id": "505767300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038493326861803695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi2235 谢谢大人！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038479055100551455",
+        "created_at": "2026-03-30T07:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038525384535232631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "505767300",
+              "start": 0,
+              "username": "xixi2235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038525384535232631",
+        "in_reply_to_user_id": "505767300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038493326861803695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi2235 谢谢大人！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "505767300",
+        "conversation_id": "2038479055100551455",
+        "created_at": "2026-03-30T05:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038493326861803695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038493326861803695",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038479055100551455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好厉害👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3354,
+          "following_count": 299,
+          "like_count": 1448,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 3936
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-27T11:26:56.000Z",
+        "description": "新年新希望",
+        "id": "505767300",
+        "location": "Old Bridge, NJ",
+        "name": "派大星星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982734049207566336/cG1h0kEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 333,
+          "like_count": 18681,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2595
+        },
+        "username": "xixi2235",
+        "verified": false
+      }
+    ]
+  }
+}

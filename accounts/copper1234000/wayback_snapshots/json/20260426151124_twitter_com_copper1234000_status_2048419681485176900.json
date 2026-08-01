@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048248494809325773",
+    "created_at": "2026-04-26T15:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048419681485176900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913977441930108928",
+          "start": 0,
+          "username": "UwUFeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048419681485176900",
+    "in_reply_to_user_id": "1913977441930108928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048332988568723877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UwUFeb 诶嘿嘿…zip大王！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048248494809325773",
+        "created_at": "2026-04-26T15:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048419681485176900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913977441930108928",
+              "start": 0,
+              "username": "UwUFeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048419681485176900",
+        "in_reply_to_user_id": "1913977441930108928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048332988568723877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UwUFeb 诶嘿嘿…zip大王！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913977441930108928",
+        "conversation_id": "2048248494809325773",
+        "created_at": "2026-04-26T09:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048332988568723877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048332988568723877",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048248494809325773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3486,
+          "following_count": 338,
+          "like_count": 2091,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 4693
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-20T15:26:15.000Z",
+        "description": "",
+        "id": "1913977441930108928",
+        "name": "路尽头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020945616474701824/j0XRRU7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 118,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 454
+        },
+        "username": "UwUFeb",
+        "verified": false
+      }
+    ]
+  }
+}

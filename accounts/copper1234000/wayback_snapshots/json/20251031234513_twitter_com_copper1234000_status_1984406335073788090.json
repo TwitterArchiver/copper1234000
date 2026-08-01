@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984406323849478144",
+        "3_1984406323841163264",
+        "3_1984406323828592640",
+        "3_1984406324650610688"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1984406335073788090",
+    "created_at": "2025-10-31T23:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T00:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984406335073788090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKZxgNRX3F",
+          "end": 82,
+          "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+          "media_key": "3_1984406323849478144",
+          "start": 59,
+          "url": "https://t.co/CKZxgNRX3F"
+        },
+        {
+          "display_url": "pic.x.com/CKZxgNRX3F",
+          "end": 82,
+          "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+          "media_key": "3_1984406323841163264",
+          "start": 59,
+          "url": "https://t.co/CKZxgNRX3F"
+        },
+        {
+          "display_url": "pic.x.com/CKZxgNRX3F",
+          "end": 82,
+          "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+          "media_key": "3_1984406323828592640",
+          "start": 59,
+          "url": "https://t.co/CKZxgNRX3F"
+        },
+        {
+          "display_url": "pic.x.com/CKZxgNRX3F",
+          "end": 82,
+          "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+          "media_key": "3_1984406324650610688",
+          "start": 59,
+          "url": "https://t.co/CKZxgNRX3F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984406335073788090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带家G去过了他的生日+万圣节🎃！\n把生日定在万圣好有他的风格www\nbtw蜡烛被店员小姐姐夸cute了( ˘ω˘ ) https://t.co/CKZxgNRX3F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984406323849478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oHCacWQAAzlhN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984406323841163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oHCaaXYAAIcyf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984406323828592640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oHCaXXkAA_xFW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984406324650610688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4oHCdbWkAA2sKX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984406323849478144",
+            "3_1984406323841163264",
+            "3_1984406323828592640",
+            "3_1984406324650610688"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984406335073788090",
+        "created_at": "2025-10-31T23:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T00:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984406335073788090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKZxgNRX3F",
+              "end": 82,
+              "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+              "media_key": "3_1984406323849478144",
+              "start": 59,
+              "url": "https://t.co/CKZxgNRX3F"
+            },
+            {
+              "display_url": "pic.x.com/CKZxgNRX3F",
+              "end": 82,
+              "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+              "media_key": "3_1984406323841163264",
+              "start": 59,
+              "url": "https://t.co/CKZxgNRX3F"
+            },
+            {
+              "display_url": "pic.x.com/CKZxgNRX3F",
+              "end": 82,
+              "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+              "media_key": "3_1984406323828592640",
+              "start": 59,
+              "url": "https://t.co/CKZxgNRX3F"
+            },
+            {
+              "display_url": "pic.x.com/CKZxgNRX3F",
+              "end": 82,
+              "expanded_url": "https://x.com/copper1234000/status/1984406335073788090/photo/1",
+              "media_key": "3_1984406324650610688",
+              "start": 59,
+              "url": "https://t.co/CKZxgNRX3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984406335073788090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带家G去过了他的生日+万圣节🎃！\n把生日定在万圣好有他的风格www\nbtw蜡烛被店员小姐姐夸cute了( ˘ω˘ ) https://t.co/CKZxgNRX3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;)",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

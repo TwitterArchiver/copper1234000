@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1993021394511106156",
+    "created_at": "2025-11-25T09:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T10:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993252145811079367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1908893659137015808",
+          "start": 0,
+          "username": "OceanStar114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993252145811079367",
+    "in_reply_to_user_id": "1908893659137015808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993251591173161148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OceanStar114514 ……👉👈我的作息不是这种超级健康版的啊啊啊（无力）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1993021394511106156",
+        "created_at": "2025-11-25T09:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993252145811079367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1908893659137015808",
+              "start": 0,
+              "username": "OceanStar114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993252145811079367",
+        "in_reply_to_user_id": "1908893659137015808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993251591173161148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OceanStar114514 ……👉👈我的作息不是这种超级健康版的啊啊啊（无力）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908893659137015808",
+        "conversation_id": "1993021394511106156",
+        "created_at": "2025-11-25T09:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993251591173161148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993251591173161148",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993251261781885122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那是谁的问题呢（bi----）\n我一般也会催很久（咳咳咳）hhhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 94,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 552
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T14:46:35.000Z",
+        "description": "Arknights/ooc/语c 抖s 欢迎随时来找葛罗莉亚小姐进行心理治疗～至于是找到温柔的葛罗莉亚小姐还是被黑心夜魔抓住就要看运气了～请不要发牛牛，会被葛罗莉亚小姐挂在丁香医生上",
+        "id": "1908893659137015808",
+        "location": "罗德岛",
+        "name": "Nightmare",
+        "pinned_tweet_id": "1908951548241363150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908900805157269504/rbPMQCJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 425,
+          "like_count": 5041,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "username": "OceanStar114514",
+        "verified": false
+      }
+    ]
+  }
+}

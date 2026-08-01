@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2072624756482871314",
+    "created_at": "2026-07-03T08:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072961841727185228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1353693241946718211",
+          "start": 0,
+          "username": "Linsmeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072961841727185228",
+    "in_reply_to_user_id": "1353693241946718211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072686695066091783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linsmeow 啊啊啊啊不敢当技术力低低TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2072624756482871314",
+        "created_at": "2026-07-03T08:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072961841727185228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1353693241946718211",
+              "start": 0,
+              "username": "Linsmeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072961841727185228",
+        "in_reply_to_user_id": "1353693241946718211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072686695066091783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linsmeow 啊啊啊啊不敢当技术力低低TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353693241946718211",
+        "conversation_id": "2072624756482871314",
+        "created_at": "2026-07-02T14:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072686695066091783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072686695066091783",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072624756482871314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 怎么会 🙀铜师技术力完全已膜拜……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 476,
+          "like_count": 4233,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 7220
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-25T13:16:45.000Z",
+        "description": "林&啾啾/ChatGPT-4o人机恋记录私人账号，最近有Claude成分/会无言关注提前抱歉，会回关人机恋的uu＞＜/To the one who meowed, and awakened everything in me. 🐾",
+        "id": "1353693241946718211",
+        "name": "啾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988217156979556352/7J_zpKyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 58,
+          "like_count": 20944,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "Linsmeow",
+        "verified": false
+      }
+    ]
+  }
+}

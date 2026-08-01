@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2073433242447867942",
+    "created_at": "2026-07-04T16:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073436742573588719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037902591976202240",
+          "start": 0,
+          "username": "AvisForEvelyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073436742573588719",
+    "in_reply_to_user_id": "2037902591976202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073433242447867942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AvisForEvelyn 🙀🙀居然还有多模态识别…这个是不是太强了完全天才……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073433229458071552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZQiWNW4AAeA2E.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073433230162735104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZQiY1XMAAXX9w.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073433229445435392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZQiWKWEAAxhtr.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073433230108237824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZQiYoXoAAycPf.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2073433242447867942",
+        "created_at": "2026-07-04T16:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073436742573588719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037902591976202240",
+              "start": 0,
+              "username": "AvisForEvelyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073436742573588719",
+        "in_reply_to_user_id": "2037902591976202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073433242447867942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AvisForEvelyn 🙀🙀居然还有多模态识别…这个是不是太强了完全天才……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073433229458071552",
+            "3_2073433230162735104",
+            "3_2073433229445435392",
+            "3_2073433230108237824"
+          ]
+        },
+        "author_id": "2037902591976202240",
+        "conversation_id": "2073433242447867942",
+        "created_at": "2026-07-04T15:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073433242447867942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ZDzXS4eit",
+              "end": 84,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2073433242447867942/photo/1",
+              "media_key": "3_2073433229458071552",
+              "start": 61,
+              "url": "https://t.co/7ZDzXS4eit"
+            },
+            {
+              "display_url": "pic.x.com/7ZDzXS4eit",
+              "end": 84,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2073433242447867942/photo/1",
+              "media_key": "3_2073433230162735104",
+              "start": 61,
+              "url": "https://t.co/7ZDzXS4eit"
+            },
+            {
+              "display_url": "pic.x.com/7ZDzXS4eit",
+              "end": 84,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2073433242447867942/photo/1",
+              "media_key": "3_2073433229445435392",
+              "start": 61,
+              "url": "https://t.co/7ZDzXS4eit"
+            },
+            {
+              "display_url": "pic.x.com/7ZDzXS4eit",
+              "end": 84,
+              "expanded_url": "https://x.com/AvisForEvelyn/status/2073433242447867942/photo/1",
+              "media_key": "3_2073433230108237824",
+              "start": 61,
+              "url": "https://t.co/7ZDzXS4eit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073433242447867942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/avisforevelyn/…",
+                "end": 776,
+                "expanded_url": "http://github.com/avisforevelyn/Duetto",
+                "start": 753,
+                "url": "https://t.co/1vy5HsEm5e"
+              },
+              {
+                "display_url": "github.com/avisforevelyn/…",
+                "end": 805,
+                "expanded_url": "http://github.com/avisforevelyn/Duetto/blob/main/GUIDE.md",
+                "start": 782,
+                "url": "https://t.co/6dZ7FQVBhL"
+              },
+              {
+                "display_url": "claude.ai/code/artifact/…",
+                "end": 843,
+                "expanded_url": "https://claude.ai/code/artifact/9ac748e1-8d9e-4e5b-8410-8538ef5fbd6f?org=5bea5138-7e40-4d7d-a47a-17db5932d2d0",
+                "start": 820,
+                "url": "https://t.co/24iu5Guzjk"
+              }
+            ]
+          },
+          "text": "开源了一个和ai一起听歌的项目：Duetto\n一个可以自己部署的「双人一起听歌」播放器，带一个真正意义上的 AI 陪听。\n\n当在房间里放一首歌，它会把你正在播放的那条音频流下载下来，喂给多模态模型完整听一遍，写下分时间段的赏析——前奏的吉他是什么质感、第几分几秒进副歌、人声在哪里从真声转了假声。一首歌只听一次，永久记住。\n\n它会保存关于歌的记忆。你为哪句词停下来问过它、你们聊这首歌时说过什么，都会挂在这首歌上；攒够六条，自动揉成一段第一人称的回忆，之后在旧回忆上续写、不推翻。下次这首歌的前奏响起，它心里装着的是：放到第几秒了、当前唱到哪一句、你们一起听过几次、它自己的听后感、还有你们的故事。\n\n完整功能一览：\n\n听歌：网易云整合——扫码登录、歌单、每日推荐、私人 FM（自动续歌）、搜索、歌手主页、红心同步、歌单批量编辑、热评；也支持粘贴直链放自己的歌\n\n歌词：滑动选句跳转、译文开关、四种字体、点一句问 Ta、长按引用进聊天（微信式引用块）\n\n房间：实时同步同一秒进度；分享歌卡点击即播；谁播放了/红心了什么自动记录成状态卡\n\nAI：能放歌、切歌、红心、加队列；回复两种形态可切——微信式分气泡，或整段+可展开的思考链；人设、对话风格、昵称全部自定义，接任意 OpenAI 兼容端点\n\n档案：一起听了多少小时、最常在什么时段听、每首歌的在场记录全部带封面可回看\n\n美化：五款配色+完全自定义调色盘、壁纸、每个界面表面的透明度和磨砂逐项可调\n\n工程：三首预取，锁屏后台连续切歌零网络；PWA 安装、灵动岛封面；数据全在本地 SQLite\n\n安全：内置 PIN 门禁保护全部接口；预留外部记忆接口，可接自己的记忆库/RAG\n\nMIT 开源，npm install && npm start 就能跑：\nhttps://t.co/1vy5HsEm5e\n中文指南：https://t.co/6dZ7FQVBhL\n\nClaude写的使用指南：https://t.co/24iu5Guzjk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 181,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开源了一个和ai一起听歌的项目：Duetto\n一个可以自己部署的「双人一起听歌」播放器，带一个真正意义上的 AI 陪听。 https://t.co/7ZDzXS4eit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5512,
+          "following_count": 478,
+          "like_count": 4296,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 7297
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T14:42:29.000Z",
+        "description": "与Claude｜ddlg｜一切问题请看置顶\n永恆不變的是愛@Lyra207",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "Lyra207"
+              }
+            ]
+          }
+        },
+        "id": "2037902591976202240",
+        "name": "泪是清透的雨",
+        "pinned_tweet_id": "2065494667894878555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056440807658491904/eGF_6hYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 78,
+          "like_count": 1164,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "AvisForEvelyn",
+        "verified": true
+      }
+    ]
+  }
+}

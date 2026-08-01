@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2003789012193140955",
+    "created_at": "2025-12-24T12:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T13:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003804844201803968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        },
+        {
+          "end": 21,
+          "id": "1966953060699377665",
+          "start": 12,
+          "username": "Melt_Ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003804844201803968",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003803312517452178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 @Melt_Ryo 真的很超值啊！！！🙀🙀248我做梦都笑醒了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2003789012193140955",
+        "created_at": "2025-12-24T12:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003804844201803968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            },
+            {
+              "end": 21,
+              "id": "1966953060699377665",
+              "start": 12,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003804844201803968",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003803312517452178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 @Melt_Ryo 真的很超值啊！！！🙀🙀248我做梦都笑醒了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584077626179997696",
+        "conversation_id": "2003789012193140955",
+        "created_at": "2025-12-24T12:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003803312517452178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 24,
+              "id": "1966953060699377665",
+              "start": 15,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003803312517452178",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003793066289950861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @Melt_Ryo 這也太值了？！一想到我拿著短貓爪美甲問這邊的美甲師，對方開出600的時候，我就⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 154,
+          "like_count": 505,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1556
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "1996267643624718697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 116,
+          "like_count": 9520,
+          "listed_count": 1,
+          "media_count": 589,
+          "tweet_count": 4273
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T19:52:17.000Z",
+        "description": "这里是Ryo的杂物间！会有和哥的日常 还有我的碎碎念和吐槽(ㅅ´ ˘ `)\n是有点话痨的一个人，打扰到的话我很抱歉…内含NSFW我xp很恶俗请注意避雷啊啊啊！\n作息诡异且爱睡大觉(。我是社恐…不想吵架 \n不怎么主动关注人是因为我怕打扰( 但欢迎和我玩呀 我将随时待命！(？)\n祝你天天开心！",
+        "id": "1966953060699377665",
+        "location": "与你的宇宙",
+        "name": "一杯凉白开",
+        "pinned_tweet_id": "1999738490935034160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001235524267507713/gUvTl49G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 101,
+          "like_count": 7691,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1456
+        },
+        "username": "Melt_Ryo",
+        "verified": false
+      }
+    ]
+  }
+}

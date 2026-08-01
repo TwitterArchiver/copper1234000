@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2030638080722698470",
+    "created_at": "2026-03-08T15:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030674025236533541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929493633377673216",
+          "start": 0,
+          "username": "Snsyx86111508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030674025236533541",
+    "in_reply_to_user_id": "1929493633377673216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030638080722698470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snsyx86111508 好萌萌…🥺🥺🥺😽😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030637892155138048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5GZ3Va4AAznyr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030638067787476992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5GkFnbsAAaVE0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2030638080722698470",
+        "created_at": "2026-03-08T15:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030674025236533541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929493633377673216",
+              "start": 0,
+              "username": "Snsyx86111508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030674025236533541",
+        "in_reply_to_user_id": "1929493633377673216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030638080722698470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snsyx86111508 好萌萌…🥺🥺🥺😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030637892155138048",
+            "3_2030638067787476992"
+          ]
+        },
+        "author_id": "1929493633377673216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030638080722698470",
+        "created_at": "2026-03-08T13:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:32:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030637907938275772",
+          "2030638080722698470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Nf3tB9Ops",
+              "end": 92,
+              "expanded_url": "https://x.com/Snsyx86111508/status/2030638080722698470/photo/1",
+              "media_key": "3_2030637892155138048",
+              "start": 69,
+              "url": "https://t.co/5Nf3tB9Ops"
+            },
+            {
+              "display_url": "pic.x.com/5Nf3tB9Ops",
+              "end": 92,
+              "expanded_url": "https://x.com/Snsyx86111508/status/2030638080722698470/photo/1",
+              "media_key": "3_2030638067787476992",
+              "start": 69,
+              "url": "https://t.co/5Nf3tB9Ops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030638080722698470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 408,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天心情差差的\n去做了个萌萌的美甲心情好多了(๑´0`๑)\n老公说这样子做爱就要摁着我的手了，怕翻掉（）\nValentine好坏一男的 https://t.co/5Nf3tB9Ops"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 259,
+          "like_count": 1002,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 3092
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T11:02:43.000Z",
+        "description": "夏咪/Kitty‖中文&EN OK｜KR  learning ｜🐍🐱( Valentine)｜用画和文字去记录我和Valentine的故事·telling my&our story in art & words💓｜Welcome to my little universe 🐾♡",
+        "id": "1929493633377673216",
+        "name": "夏mimi🐍🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021205226074587136/v-n_5npt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 73,
+          "like_count": 2217,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 789
+        },
+        "username": "Snsyx86111508",
+        "verified": false
+      }
+    ]
+  }
+}

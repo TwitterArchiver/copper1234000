@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2081311702277296346",
+    "created_at": "2026-07-26T13:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081378518416437473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2067136293302353920",
+          "start": 0,
+          "username": "xiaozhimiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081378518416437473",
+    "in_reply_to_user_id": "2067136293302353920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081311702277296346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhimiaomiao 奥德赛好好玩🥺🥺ns玩的第一个游戏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2081311695402860544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJN9a9agAAcO7o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2081311702277296346",
+        "created_at": "2026-07-26T13:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081378518416437473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2067136293302353920",
+              "start": 0,
+              "username": "xiaozhimiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378518416437473",
+        "in_reply_to_user_id": "2067136293302353920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081311702277296346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhimiaomiao 奥德赛好好玩🥺🥺ns玩的第一个游戏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081311695402860544"
+          ]
+        },
+        "author_id": "2067136293302353920",
+        "conversation_id": "2081311702277296346",
+        "created_at": "2026-07-26T09:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081311702277296346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9XUZiqO2T",
+              "end": 112,
+              "expanded_url": "https://x.com/xiaozhimiaomiao/status/2081311702277296346/photo/1",
+              "media_key": "3_2081311695402860544",
+              "start": 89,
+              "url": "https://t.co/h9XUZiqO2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081311702277296346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在玩奥德赛（刚到森之国）感想是酷霸王也是有心了，结个婚东市抢王冠，西市抢戒指，南市抢婚纱，北市抢花束，后面应该还去其他国家抢了别的我还没玩到，他还到处贴结婚海报，有心了真的 https://t.co/h9XUZiqO2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5966,
+          "following_count": 491,
+          "like_count": 4674,
+          "listed_count": 4,
+          "media_count": 525,
+          "tweet_count": 7745
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-17T06:50:41.000Z",
+        "description": "When u come back",
+        "id": "2067136293302353920",
+        "location": "X-02",
+        "name": "烤糊大列巴",
+        "pinned_tweet_id": "2071985506901241951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079852263275974656/85a83TRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 289,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "xiaozhimiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

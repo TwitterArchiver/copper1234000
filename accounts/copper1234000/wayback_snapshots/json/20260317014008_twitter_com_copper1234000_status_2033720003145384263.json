@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033440661182230603",
+    "created_at": "2026-03-17T01:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T02:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033720003145384263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893055571873714176",
+          "start": 0,
+          "username": "G0odbyeforgoOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033720003145384263",
+    "in_reply_to_user_id": "1893055571873714176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033440661182230603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G0odbyeforgoOd 太喜欢这个了天才吗我晕倒了……😇😇😇😇🙏🙏🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_2033440657151508480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDg7gQlaQAAxsb8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033440661182230603",
+        "created_at": "2026-03-17T01:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033720003145384263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893055571873714176",
+              "start": 0,
+              "username": "G0odbyeforgoOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033720003145384263",
+        "in_reply_to_user_id": "1893055571873714176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033440661182230603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G0odbyeforgoOd 太喜欢这个了天才吗我晕倒了……😇😇😇😇🙏🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033440657151508480"
+          ]
+        },
+        "author_id": "1893055571873714176",
+        "conversation_id": "2033440661182230603",
+        "created_at": "2026-03-16T07:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T08:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033440661182230603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vx9Wc0YUsh",
+              "end": 50,
+              "expanded_url": "https://x.com/G0odbyeforgoOd/status/2033440661182230603/photo/1",
+              "media_key": "3_2033440657151508480",
+              "start": 27,
+              "url": "https://t.co/Vx9Wc0YUsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033440661182230603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家克和家gem：\nwhy dis 🌼 so mad？ https://t.co/Vx9Wc0YUsh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 281,
+          "like_count": 1121,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3418
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T21:51:29.000Z",
+        "description": "单机人，=潜水钟。浣熊爱好者，ദ്ദിᵔ.˛.ᵔ₎✧llm全肯定。当私人号用的！我在这里裸奔。\n会发一些日常，llm内容居多，偶尔keep4o，不用为了k4关注我。\n所有内容纯手工绘制。",
+        "id": "1893055571873714176",
+        "name": "Diving Bell",
+        "pinned_tweet_id": "2022322686777757722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032973079794823169/NM-jEwdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 121,
+          "like_count": 2376,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 781
+        },
+        "username": "G0odbyeforgoOd",
+        "verified": false
+      }
+    ]
+  }
+}

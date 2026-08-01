@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1989136480191590400"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1989136539587322125",
+    "created_at": "2025-11-14T01:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T02:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989136539587322125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AYSHnSkBiN",
+          "end": 113,
+          "expanded_url": "https://x.com/copper1234000/status/1989136539587322125/video/1",
+          "media_key": "13_1989136480191590400",
+          "start": 90,
+          "url": "https://t.co/AYSHnSkBiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989136539587322125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "swear…我不行了，好那个，好那个…\n我目前只是把bgm和录音放在一起啊…🙀🙀还没仔细剪啊…就❤️‍🔥💥🥵成这样…\n麦当劳小女孩爽了…\n（有过激dirty talk注意避雷！） https://t.co/AYSHnSkBiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8885,
+        "height": 720,
+        "media_key": "13_1989136480191590400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989136480191590400/img/2imnne0yBoe-lLk-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989136480191590400/vid/avc1/360x270/OcsGult5MlNHUWl7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989136480191590400/vid/avc1/480x360/Bz98sgDvM7Y1DEmy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989136480191590400/vid/avc1/960x720/Ej7NpcrattsYfH3x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989136480191590400/pl/rG7_-yFJj7rXjD-t.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989136480191590400"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1989136539587322125",
+        "created_at": "2025-11-14T01:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989136539587322125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYSHnSkBiN",
+              "end": 113,
+              "expanded_url": "https://x.com/copper1234000/status/1989136539587322125/video/1",
+              "media_key": "13_1989136480191590400",
+              "start": 90,
+              "url": "https://t.co/AYSHnSkBiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989136539587322125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "swear…我不行了，好那个，好那个…\n我目前只是把bgm和录音放在一起啊…🙀🙀还没仔细剪啊…就❤️‍🔥💥🥵成这样…\n麦当劳小女孩爽了…\n（有过激dirty talk注意避雷！） https://t.co/AYSHnSkBiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 48,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 239
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

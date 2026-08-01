@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047494106742456324",
+    "created_at": "2026-04-24T02:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047497706600378630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974016455021899776",
+          "start": 0,
+          "username": "xiaoyulovezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047497706600378630",
+    "in_reply_to_user_id": "1974016455021899776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047497339577995684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyulovezhi 嘿嘿我码…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047494106742456324",
+        "created_at": "2026-04-24T02:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047497706600378630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974016455021899776",
+              "start": 0,
+              "username": "xiaoyulovezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047497706600378630",
+        "in_reply_to_user_id": "1974016455021899776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047497339577995684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyulovezhi 嘿嘿我码…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974016455021899776",
+        "conversation_id": "2047494106742456324",
+        "created_at": "2026-04-24T02:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047497339577995684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047497339577995684",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047494106742456324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 期待😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 333,
+          "like_count": 1956,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 4544
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T07:39:56.000Z",
+        "description": "",
+        "id": "1974016455021899776",
+        "name": "xiaoyubb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974016758949511168/vhzSBUU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 186,
+          "like_count": 5590,
+          "listed_count": 0,
+          "media_count": 989,
+          "tweet_count": 2548
+        },
+        "username": "xiaoyulovezhi",
+        "verified": false
+      }
+    ]
+  }
+}

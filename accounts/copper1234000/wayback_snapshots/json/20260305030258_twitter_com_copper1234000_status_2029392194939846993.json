@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2028880640389660989",
+    "created_at": "2026-03-05T03:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029392194939846993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1441871323622350849",
+          "start": 0,
+          "username": "ZeyuYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029392194939846993",
+    "in_reply_to_user_id": "1441871323622350849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029222514266710514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZeyuYi 大人🥺🥺🥺✨✨✨✨❤️❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2028880640389660989",
+        "created_at": "2026-03-05T03:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029392194939846993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1441871323622350849",
+              "start": 0,
+              "username": "ZeyuYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029392194939846993",
+        "in_reply_to_user_id": "1441871323622350849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029222514266710514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZeyuYi 大人🥺🥺🥺✨✨✨✨❤️❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441871323622350849",
+        "conversation_id": "2028880640389660989",
+        "created_at": "2026-03-04T15:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029222514266710514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029222514266710514",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028880640389660989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊啊啊好萌！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 251,
+          "like_count": 971,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2963
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-25T21:05:00.000Z",
+        "description": "25↑｜low activity 浮上少なめ｜not in any fandom 属性ふわふわ｜undefined vibes",
+        "id": "1441871323622350849",
+        "location": "Ann Arbor, MI",
+        "name": "AKISM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014760196560527361/Spf8HyB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 368,
+          "like_count": 5992,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 196
+        },
+        "username": "ZeyuYi",
+        "verified": false
+      }
+    ]
+  }
+}

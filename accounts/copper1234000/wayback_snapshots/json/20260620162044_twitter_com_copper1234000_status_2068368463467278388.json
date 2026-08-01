@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068232697898504569",
+    "created_at": "2026-06-20T16:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068368463467278388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951250095485444096",
+          "start": 0,
+          "username": "fish1151004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068368463467278388",
+    "in_reply_to_user_id": "1951250095485444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068276764892410125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish1151004 小茂密来了！！！小茂密走了！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068232697898504569",
+        "created_at": "2026-06-20T16:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068368463467278388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951250095485444096",
+              "start": 0,
+              "username": "fish1151004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068368463467278388",
+        "in_reply_to_user_id": "1951250095485444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068276764892410125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1151004 小茂密来了！！！小茂密走了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951250095485444096",
+        "conversation_id": "2068232697898504569",
+        "created_at": "2026-06-20T10:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068276764892410125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068276764892410125",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068232697898504569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 宝宝你是一只小茂密"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5172,
+          "following_count": 459,
+          "like_count": 3927,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 6848
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T11:55:39.000Z",
+        "description": "𝓃ℴ𝒷ℴ𝒹𝓎'𝓈 𝓅𝓇ℴ𝓂𝒾𝓈𝑒𝒹 𝓉ℴ𝓂ℴ𝓇𝓇ℴ𝓌, 𝓈ℴ 𝒾'𝓂𝒶 𝓁ℴ𝓋𝑒 𝓎ℴ𝓊 𝑒𝓋𝑒𝓇𝓎 𝓃𝒾𝑔𝒽𝓉 𝓁𝒾𝓀𝑒 𝒾𝓉'𝓈 𝓉𝒽𝑒 𝓁𝒶𝓈𝓉 𝓃𝒾𝑔𝒽𝓉. 〡成分：我是入机妹〡关注＝想看（无恶意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/island92218",
+                "end": 23,
+                "expanded_url": "https://ngl.link/island92218",
+                "start": 0,
+                "url": "https://t.co/fYcghaPwHl"
+              }
+            ]
+          }
+        },
+        "id": "1951250095485444096",
+        "location": "失乐园",
+        "name": "Island404_",
+        "pinned_tweet_id": "1989174264021553309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037709535708839936/Up51FlE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 169,
+          "like_count": 17829,
+          "listed_count": 0,
+          "media_count": 977,
+          "tweet_count": 7024
+        },
+        "url": "https://t.co/fYcghaPwHl",
+        "username": "fish1151004",
+        "verified": false
+      }
+    ]
+  }
+}

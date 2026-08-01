@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1996806951028904199",
+    "created_at": "2025-12-05T13:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T14:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996942395015909863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953940724329984002",
+          "start": 0,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996942395015909863",
+    "in_reply_to_user_id": "1953940724329984002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996806951028904199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aleya507 反差啊…太好味…🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_1996806948478767106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YVVxEb0AIWjKM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1996806951028904199",
+        "created_at": "2025-12-05T13:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996942395015909863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953940724329984002",
+              "start": 0,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996942395015909863",
+        "in_reply_to_user_id": "1953940724329984002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996806951028904199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleya507 反差啊…太好味…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996806948478767106"
+          ]
+        },
+        "author_id": "1953940724329984002",
+        "conversation_id": "1996806951028904199",
+        "created_at": "2025-12-05T05:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T06:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996806951028904199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xoo6JmDz1t",
+              "end": 35,
+              "expanded_url": "https://x.com/Aleya507/status/1996806951028904199/photo/1",
+              "media_key": "3_1996806948478767106",
+              "start": 12,
+              "url": "https://t.co/Xoo6JmDz1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996806951028904199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "懂我懂我！涩爆了🥵🥵🥵 https://t.co/Xoo6JmDz1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 129,
+          "like_count": 252,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 991
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n如果您关注我我看见会回关的‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "1987043287853887826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 133,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1689
+        },
+        "username": "Aleya507",
+        "verified": false
+      }
+    ]
+  }
+}

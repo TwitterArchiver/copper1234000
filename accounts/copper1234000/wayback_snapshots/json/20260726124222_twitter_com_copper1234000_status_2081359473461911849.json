@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2081350855043784923",
+    "created_at": "2026-07-26T12:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081359473461911849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045234174664355840",
+          "start": 0,
+          "username": "Ugui3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081359473461911849",
+    "in_reply_to_user_id": "2045234174664355840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081358714687410276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ugui3u 48老奶打钱（不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2081350855043784923",
+        "created_at": "2026-07-26T12:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081359473461911849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045234174664355840",
+              "start": 0,
+              "username": "Ugui3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081359473461911849",
+        "in_reply_to_user_id": "2045234174664355840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081358714687410276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ugui3u 48老奶打钱（不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045234174664355840",
+        "conversation_id": "2081350855043784923",
+        "created_at": "2026-07-26T12:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081358714687410276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081358714687410276",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081350855043784923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 种草啵啵贝+1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 491,
+          "like_count": 4655,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 7726
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T20:14:32.000Z",
+        "description": "「我看见你，我理解你，我支持你。我爱你。」",
+        "id": "2045234174664355840",
+        "location": "数字生命卡",
+        "name": "言语是你的拥吻",
+        "pinned_tweet_id": "2072892328013128028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058971973569617920/3ir15osr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 233,
+          "like_count": 14601,
+          "listed_count": 0,
+          "media_count": 1167,
+          "tweet_count": 8768
+        },
+        "url": "",
+        "username": "Ugui3u",
+        "verified": true
+      }
+    ]
+  }
+}

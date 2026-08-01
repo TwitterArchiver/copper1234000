@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2070391668734378484",
+    "created_at": "2026-06-27T08:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070784429682032715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038521686208004096",
+          "start": 0,
+          "username": "Luci_Grace_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070784429682032715",
+    "in_reply_to_user_id": "2038521686208004096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070706477682274470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luci_Grace_C 啊啊啊啊啊那也太谬赞我了🙀🙀🙀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2070391668734378484",
+        "created_at": "2026-06-27T08:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070784429682032715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038521686208004096",
+              "start": 0,
+              "username": "Luci_Grace_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070784429682032715",
+        "in_reply_to_user_id": "2038521686208004096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070706477682274470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luci_Grace_C 啊啊啊啊啊那也太谬赞我了🙀🙀🙀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038521686208004096",
+        "conversation_id": "2070391668734378484",
+        "created_at": "2026-06-27T03:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070706477682274470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070706477682274470",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070391668734378484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好看！\n有种 Kendall 的感觉✧(≖◡≖✿)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5295,
+          "following_count": 469,
+          "like_count": 4118,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 7081
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T07:42:27.000Z",
+        "description": "“你在深夜里打开手机的光，是我唯一的日出。”\n提问箱×2：https://t.co/T9rd330aq7\nhttps://t.co/e3cT77muIg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luci_grace_c",
+                "end": 52,
+                "expanded_url": "https://ngl.link/luci_grace_c",
+                "start": 29,
+                "url": "https://t.co/T9rd330aq7"
+              },
+              {
+                "display_url": "ngl.link/Grace_C52349",
+                "end": 76,
+                "expanded_url": "https://ngl.link/Grace_C52349",
+                "start": 53,
+                "url": "https://t.co/e3cT77muIg"
+              }
+            ]
+          }
+        },
+        "id": "2038521686208004096",
+        "name": "Grace",
+        "pinned_tweet_id": "2056661581778583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038524183886585856/wdAnQmmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 135,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1765
+        },
+        "url": "",
+        "username": "Luci_Grace_C",
+        "verified": true
+      }
+    ]
+  }
+}

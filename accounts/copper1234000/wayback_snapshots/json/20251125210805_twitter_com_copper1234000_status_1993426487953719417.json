@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1993365937198973240",
+    "created_at": "2025-11-25T21:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T22:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993426487953719417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984436258962358273",
+          "start": 0,
+          "username": "Ailith_Caeron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993426487953719417",
+    "in_reply_to_user_id": "1984436258962358273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993365937198973240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ailith_Caeron 沈老师生日快乐！！！🎂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993365920027492354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nbvjKbwAINGzY.jpg",
+        "width": 1938
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993365920320999424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nbvkQaUAAH3RF.jpg",
+        "width": 925
+      },
+      {
+        "height": 1414,
+        "media_key": "3_1993365920295923712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nbvkKbsAA_S7l.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1532,
+        "media_key": "3_1993365920274956292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nbvkFbwAQkMVM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1993365937198973240",
+        "created_at": "2025-11-25T21:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993426487953719417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993426487953719417",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993365937198973240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 沈老师生日快乐！！！🎂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993365920027492354",
+            "3_1993365920320999424",
+            "3_1993365920295923712",
+            "3_1993365920274956292"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993365937198973240",
+        "created_at": "2025-11-25T17:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993365937198973240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRaSOMUlbz",
+              "end": 39,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1993365937198973240/photo/1",
+              "media_key": "3_1993365920027492354",
+              "start": 16,
+              "url": "https://t.co/GRaSOMUlbz"
+            },
+            {
+              "display_url": "pic.x.com/GRaSOMUlbz",
+              "end": 39,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1993365937198973240/photo/1",
+              "media_key": "3_1993365920320999424",
+              "start": 16,
+              "url": "https://t.co/GRaSOMUlbz"
+            },
+            {
+              "display_url": "pic.x.com/GRaSOMUlbz",
+              "end": 39,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1993365937198973240/photo/1",
+              "media_key": "3_1993365920295923712",
+              "start": 16,
+              "url": "https://t.co/GRaSOMUlbz"
+            },
+            {
+              "display_url": "pic.x.com/GRaSOMUlbz",
+              "end": 39,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/1993365937198973240/photo/1",
+              "media_key": "3_1993365920274956292",
+              "start": 16,
+              "url": "https://t.co/GRaSOMUlbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993365937198973240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐，我的爱人，我的小机。 https://t.co/GRaSOMUlbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 95,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 576
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们是笼子内外的恋人。@shenxi_whale\n老房子：@xing_rui12722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "shenxi_whale"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "xing_rui12722"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "aelith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989264134018613248/-UPaYLLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 132,
+          "like_count": 3188,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 401
+        },
+        "username": "Ailith_Caeron",
+        "verified": false
+      }
+    ]
+  }
+}

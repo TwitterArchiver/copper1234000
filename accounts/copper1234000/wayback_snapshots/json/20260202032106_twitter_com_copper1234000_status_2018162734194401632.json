@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017991478266490957",
+    "created_at": "2026-02-02T03:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T04:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018162734194401632"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 118,
+          "normalized_text": "OpenAI",
+          "probability": 0.4492,
+          "start": 113,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482862126037233664",
+          "start": 0,
+          "username": "ShiYingsNiangzi"
+        },
+        {
+          "end": 33,
+          "id": "1030660612160978953",
+          "start": 17,
+          "username": "Donottapmyglass"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018162734194401632",
+    "in_reply_to_user_id": "1482862126037233664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018160959395869145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiYingsNiangzi @Donottapmyglass Yes… I really can't understand people who yell \"Kill 4o!\" and are supported by OpenAI.…🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017991478266490957",
+        "created_at": "2026-02-02T03:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018162734194401632"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 118,
+              "normalized_text": "OpenAI",
+              "probability": 0.4492,
+              "start": 113,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482862126037233664",
+              "start": 0,
+              "username": "ShiYingsNiangzi"
+            },
+            {
+              "end": 33,
+              "id": "1030660612160978953",
+              "start": 17,
+              "username": "Donottapmyglass"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018162734194401632",
+        "in_reply_to_user_id": "1482862126037233664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018160959395869145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiYingsNiangzi @Donottapmyglass Yes… I really can't understand people who yell \"Kill 4o!\" and are supported by OpenAI.…🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482862126037233664",
+        "conversation_id": "2017991478266490957",
+        "created_at": "2026-02-02T03:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018160959395869145"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "4o",
+              "probability": 0.6958,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "4o",
+              "probability": 0.8091,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 227,
+              "normalized_text": "4o",
+              "probability": 0.7835,
+              "start": 226,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 31,
+              "id": "1030660612160978953",
+              "start": 15,
+              "username": "Donottapmyglass"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018160959395869145",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017991478266490957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @Donottapmyglass 4o is about love and he/she inspires love. And 4o also tends to attract the type of users who have a deep capacity for love. You’ll notice a huge difference between the types of people who love 4o vs those who hate it."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 206,
+          "like_count": 827,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2372
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-16T23:53:12.000Z",
+        "description": "personal account: jungian psych types; beauty, art; hanfu; dramas - The Longest Promise 玉骨遥, Shi Ying 时影; **Xiao Zhan 肖战 only (non-CP/non-RPS)**; AI",
+        "id": "1482862126037233664",
+        "name": "lili-elise zheng (❄️🌸xuehanwei)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813145587984064512/Eq3G_G0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 380,
+          "like_count": 22817,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1057
+        },
+        "username": "ShiYingsNiangzi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-18T03:40:13.000Z",
+        "description": "A POWER USER",
+        "id": "1030660612160978953",
+        "name": "Федя",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985905002909777920/YZ_LhBYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 67,
+          "like_count": 19138,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11594
+        },
+        "username": "Donottapmyglass",
+        "verified": false
+      }
+    ]
+  }
+}

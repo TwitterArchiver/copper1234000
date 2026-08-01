@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2062959794864980464",
+    "created_at": "2026-06-05T22:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T23:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063025234102386910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1356555960664219652",
+          "start": 0,
+          "username": "Block_Jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063025234102386910",
+    "in_reply_to_user_id": "1356555960664219652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063001742548353327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Block_Jiang 因为本身就是一个…展示灵感启发用？尽量多塞了很多tags，再加上七个维度难免冲突…！但想了想还是觉得tags的丰富度更重要🤲然后用这两个方法就能很简单的解决！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2062959794864980464",
+        "created_at": "2026-06-05T22:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T23:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063025234102386910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1356555960664219652",
+              "start": 0,
+              "username": "Block_Jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063025234102386910",
+        "in_reply_to_user_id": "1356555960664219652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063001742548353327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Block_Jiang 因为本身就是一个…展示灵感启发用？尽量多塞了很多tags，再加上七个维度难免冲突…！但想了想还是觉得tags的丰富度更重要🤲然后用这两个方法就能很简单的解决！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356555960664219652",
+        "conversation_id": "2062959794864980464",
+        "created_at": "2026-06-05T20:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063001742548353327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063001742548353327",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062959794864980464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 原来全开会打架是因为tag维度太杂，我之前还纳闷怎么出来的东西总乱乱的，留三个轮子试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 426,
+          "like_count": 3453,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 6269
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-02T10:53:19.000Z",
+        "description": "一个穿越3轮牛熊的老韭菜根\n及时止损，及时行乐。\n当朋友圈发啦。\n📍专注方向: BN Alpha | 加密投研 | 脚本策略  | 空投猎人",
+        "id": "1356555960664219652",
+        "location": "香港",
+        "name": "block丶救赎",
+        "pinned_tweet_id": "2057383443848400964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946281688583258112/_NaW82U-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4479,
+          "following_count": 1416,
+          "like_count": 9258,
+          "listed_count": 8,
+          "media_count": 274,
+          "tweet_count": 3379
+        },
+        "username": "Block_Jiang",
+        "verified": true
+      }
+    ]
+  }
+}

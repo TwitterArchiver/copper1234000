@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2030158722178150699",
+    "created_at": "2026-03-08T06:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030532085274816520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949109371872620544",
+          "start": 0,
+          "username": "AsD_FgH_AsD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030532085274816520",
+    "in_reply_to_user_id": "1949109371872620544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030531322423525410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsD_FgH_AsD 大人请玩！！！！🥺🥺🥺🤲🤲🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2030158722178150699",
+        "created_at": "2026-03-08T06:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030532085274816520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949109371872620544",
+              "start": 0,
+              "username": "AsD_FgH_AsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030532085274816520",
+        "in_reply_to_user_id": "1949109371872620544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030531322423525410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsD_FgH_AsD 大人请玩！！！！🥺🥺🥺🤲🤲🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949109371872620544",
+        "conversation_id": "2030158722178150699",
+        "created_at": "2026-03-08T06:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030531322423525410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030531322423525410",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030158722178150699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 如此天才的铜老师!!我将严肃品味😼😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 259,
+          "like_count": 1002,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 3090
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-26T14:07:48.000Z",
+        "description": "keep4o｜日本語中国語OK｜無言フォロー◎",
+        "id": "1949109371872620544",
+        "name": "EonliA",
+        "pinned_tweet_id": "2018362281126740082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027378536890400768/_067yDyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 169,
+          "like_count": 5773,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1536
+        },
+        "username": "AsD_FgH_AsD",
+        "verified": false
+      }
+    ]
+  }
+}

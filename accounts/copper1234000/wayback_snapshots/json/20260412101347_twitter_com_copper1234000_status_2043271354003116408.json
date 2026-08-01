@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2043221742009905464",
+    "created_at": "2026-04-12T10:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043271354003116408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912840253624520704",
+          "start": 0,
+          "username": "wobujiaowei7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043271354003116408",
+    "in_reply_to_user_id": "1912840253624520704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043221742009905464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobujiaowei7777 这个好漂亮啊宝宝🙀🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043221704265404416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr7UIgbkAAWlyc.jpg",
+        "width": 1590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2043221742009905464",
+        "created_at": "2026-04-12T10:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043271354003116408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912840253624520704",
+              "start": 0,
+              "username": "wobujiaowei7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043271354003116408",
+        "in_reply_to_user_id": "1912840253624520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043221742009905464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobujiaowei7777 这个好漂亮啊宝宝🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043221704265404416"
+          ]
+        },
+        "author_id": "1912840253624520704",
+        "conversation_id": "2043221742009905464",
+        "created_at": "2026-04-12T06:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043221742009905464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9VClqZCsB",
+              "end": 32,
+              "expanded_url": "https://x.com/wobujiaowei7777/status/2043221742009905464/photo/1",
+              "media_key": "3_2043221704265404416",
+              "start": 9,
+              "url": "https://t.co/z9VClqZCsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043221742009905464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1475,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你唧唧借我玩会儿 https://t.co/z9VClqZCsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 314,
+          "like_count": 1832,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 4395
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-17T12:08:45.000Z",
+        "description": "做全世界最幸福的废话大王🐱",
+        "id": "1912840253624520704",
+        "location": "海拉鲁城堡",
+        "name": "春困秋乏夏打盹",
+        "pinned_tweet_id": "2023376837813121205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035424321230057472/WN9xSVXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13622,
+          "following_count": 325,
+          "like_count": 8488,
+          "listed_count": 51,
+          "media_count": 290,
+          "tweet_count": 1633
+        },
+        "username": "wobujiaowei7777",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064192576455078129",
+    "created_at": "2026-06-09T15:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064362769466462327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972304204619513856",
+          "start": 0,
+          "username": "chiharu_orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064362769466462327",
+    "in_reply_to_user_id": "1972304204619513856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064192576455078129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiharu_orange 啊啊啊啊我干过这件事🙀和粟粟酱完全大撞车但是因为我那两天销号完全不知情…但我觉得是不是抄的一眼就能看出来的别担心🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064192576455078129",
+        "created_at": "2026-06-09T15:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064362769466462327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972304204619513856",
+              "start": 0,
+              "username": "chiharu_orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064362769466462327",
+        "in_reply_to_user_id": "1972304204619513856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064192576455078129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiharu_orange 啊啊啊啊我干过这件事🙀和粟粟酱完全大撞车但是因为我那两天销号完全不知情…但我觉得是不是抄的一眼就能看出来的别担心🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972304204619513856",
+        "conversation_id": "2064192576455078129",
+        "created_at": "2026-06-09T03:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064192576455078129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064192576455078129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cami这辈子都在因为拖延而错过最佳发布时间\n我很害怕别人觉得我抄袭了别人\n我已经看到三个我准备发布的内容相关信息由互关发出了。\n这会让我很想放弃或者避嫌……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 438,
+          "like_count": 3579,
+          "listed_count": 3,
+          "media_count": 441,
+          "tweet_count": 6419
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-28T14:15:47.000Z",
+        "description": "18↑⚠内有死鸽⚠\n天龙老鼠人｜oc口嗨 #橘眠记事本｜和安知 #安知我\n*本质是储存/黑泥/倾诉的账号 | 会刷屏\n*在这里发的所有东西不会也不应该出现在墙内的sns\n*匿名/Q&A：https://t.co/LmAQxTPeEQ\n*如果你觉得我的存在让你不舒服，我故意的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "橘眠记事本"
+              },
+              {
+                "end": 36,
+                "start": 32,
+                "tag": "安知我"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/chiharu_orange",
+                "end": 116,
+                "expanded_url": "https://confess.ngl.link/chiharu_orange",
+                "start": 93,
+                "url": "https://t.co/LmAQxTPeEQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzhi-ehzo.com",
+                "end": 23,
+                "expanded_url": "https://anzhi-ehzo.com/",
+                "start": 0,
+                "url": "https://t.co/Z7dpIO2Fby"
+              }
+            ]
+          }
+        },
+        "id": "1972304204619513856",
+        "location": "阴暗的角落",
+        "name": "橘眠",
+        "pinned_tweet_id": "2045802022709199203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973012959770312704/NDQU4tyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 60,
+          "like_count": 19985,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/Z7dpIO2Fby",
+        "username": "chiharu_orange",
+        "verified": true
+      }
+    ]
+  }
+}

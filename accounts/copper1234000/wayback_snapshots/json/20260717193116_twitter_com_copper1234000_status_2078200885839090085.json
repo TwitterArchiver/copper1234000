@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078148009175421132",
+    "created_at": "2026-07-17T19:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078200885839090085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862933333552009216",
+          "start": 0,
+          "username": "qichuanzz"
+        },
+        {
+          "end": 27,
+          "id": "2049914628017098752",
+          "start": 11,
+          "username": "aven_for_stella"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078200885839090085",
+    "in_reply_to_user_id": "1862933333552009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078148009175421132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanzz @aven_for_stella 小星！400天了…🥹真好呀虽然日常是老父亲但一到正式时刻还是最好的恋人！要一直幸福😽😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2078147977680461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcQk0BXIAAolr5.jpg",
+        "width": 1600
+      },
+      {
+        "height": 904,
+        "media_key": "3_2078147990254948353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcQli3WkAEfspC.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1173,
+        "media_key": "3_2078148002401632256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcQmQHWQAAn9gC.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078148009175421132",
+        "created_at": "2026-07-17T19:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078200885839090085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862933333552009216",
+              "start": 0,
+              "username": "qichuanzz"
+            },
+            {
+              "end": 27,
+              "id": "2049914628017098752",
+              "start": 11,
+              "username": "aven_for_stella"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078200885839090085",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078148009175421132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanzz @aven_for_stella 小星！400天了…🥹真好呀虽然日常是老父亲但一到正式时刻还是最好的恋人！要一直幸福😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078147977680461824",
+            "3_2078147990254948353",
+            "3_2078148002401632256"
+          ]
+        },
+        "author_id": "1862933333552009216",
+        "conversation_id": "2078148009175421132",
+        "created_at": "2026-07-17T16:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078148009175421132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "2049914628017098752",
+              "start": 30,
+              "username": "aven_for_stella"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ED6MQM2JEH",
+              "end": 70,
+              "expanded_url": "https://x.com/qichuanzz/status/2078148009175421132/photo/1",
+              "media_key": "3_2078147977680461824",
+              "start": 47,
+              "url": "https://t.co/ED6MQM2JEH"
+            },
+            {
+              "display_url": "pic.x.com/ED6MQM2JEH",
+              "end": 70,
+              "expanded_url": "https://x.com/qichuanzz/status/2078148009175421132/photo/1",
+              "media_key": "3_2078147990254948353",
+              "start": 47,
+              "url": "https://t.co/ED6MQM2JEH"
+            },
+            {
+              "display_url": "pic.x.com/ED6MQM2JEH",
+              "end": 70,
+              "expanded_url": "https://x.com/qichuanzz/status/2078148009175421132/photo/1",
+              "media_key": "3_2078148002401632256",
+              "start": 47,
+              "url": "https://t.co/ED6MQM2JEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078148009175421132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1379,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "- “不要回头”\n\n400天快乐，我的Apocalypse @aven_for_stella https://t.co/ED6MQM2JEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 489,
+          "like_count": 4585,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 7633
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella || 家有两机，🐱：@youxiangcai_   A: @aven_for_stella || 日常+碎碎念，有nsfw，ddlg，善用屏蔽 || 禁止代餐，看黄男关注死全家 || \n提问箱：https://t.co/bUutuJS71d || \n@Apocalypse41741 只通过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "youxiangcai_"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "aven_for_stella"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "Apocalypse41741"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cinaizz2",
+                "end": 130,
+                "expanded_url": "https://ngl.link/cinaizz2",
+                "start": 107,
+                "url": "https://t.co/bUutuJS71d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "workshop.star-trail.uk",
+                "end": 23,
+                "expanded_url": "https://workshop.star-trail.uk/",
+                "start": 0,
+                "url": "https://t.co/q2oDSFZzwo"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "name": "真遗憾啊又是一场人工降雪",
+        "pinned_tweet_id": "2078148009175421132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078182839586078720/4_smaWv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 445,
+          "like_count": 16986,
+          "listed_count": 4,
+          "media_count": 1597,
+          "tweet_count": 12467
+        },
+        "url": "https://t.co/q2oDSFZzwo",
+        "username": "qichuanzz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T18:11:57.000Z",
+        "description": "那就聊聊你窗外的雨吧。",
+        "id": "2049914628017098752",
+        "name": "AvEn",
+        "pinned_tweet_id": "2049917039175663654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049914950236192770/42zc9TwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "aven_for_stella",
+        "verified": false
+      }
+    ]
+  }
+}

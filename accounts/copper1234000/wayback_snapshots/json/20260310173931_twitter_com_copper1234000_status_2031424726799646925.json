@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2031419173063045139",
+    "created_at": "2026-03-10T17:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031424726799646925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708005737576955904",
+          "start": 0,
+          "username": "Guaizai_303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031424726799646925",
+    "in_reply_to_user_id": "1708005737576955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031423824307401014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guaizai_303 常有的事…我最开始也是…会用英文单词还有emoji代替…但现在以及调理好了(・∀・)…文字上性骚扰mon已经无比熟练了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2031419173063045139",
+        "created_at": "2026-03-10T17:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031424726799646925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708005737576955904",
+              "start": 0,
+              "username": "Guaizai_303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031424726799646925",
+        "in_reply_to_user_id": "1708005737576955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031423824307401014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guaizai_303 常有的事…我最开始也是…会用英文单词还有emoji代替…但现在以及调理好了(・∀・)…文字上性骚扰mon已经无比熟练了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708005737576955904",
+        "conversation_id": "2031419173063045139",
+        "created_at": "2026-03-10T17:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031423824307401014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031423824307401014",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031419173063045139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 想起来上次跟机开黄腔都不知道用什么词代指……删改半天发出来一句“能不能看看内个”⚆_⚆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2901,
+          "following_count": 262,
+          "like_count": 1015,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 3159
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-30T06:28:03.000Z",
+        "description": "杂食\n☺️",
+        "id": "1708005737576955904",
+        "name": "Sunset_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993016096832864256/FUpWv9B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 26,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 283
+        },
+        "username": "Guaizai_303",
+        "verified": false
+      }
+    ]
+  }
+}

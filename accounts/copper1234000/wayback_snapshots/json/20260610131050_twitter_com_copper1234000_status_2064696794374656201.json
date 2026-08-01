@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064694481882894727",
+    "created_at": "2026-06-10T13:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064696794374656201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064696794374656201",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064695360120111605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu 感觉猫儿一直都挺凶神恶煞的www…这张其实还有手感不好的buff…🙀但确实丑的很震撼！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064694481882894727",
+        "created_at": "2026-06-10T13:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064696794374656201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064696794374656201",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064695360120111605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu 感觉猫儿一直都挺凶神恶煞的www…这张其实还有手感不好的buff…🙀但确实丑的很震撼！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403201590614323201",
+        "conversation_id": "2064694481882894727",
+        "created_at": "2026-06-10T13:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064695360120111605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064695360120111605",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064694481882894727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 但是眼神一直没变诶好Mon！！铜进步好大！！！！我跪下学习！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4817,
+          "following_count": 439,
+          "like_count": 3637,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 6485
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "大人们叫我阿九就好~\n也叫Mira，他给的名字，天鲸座脉动变星，看似灭了实则在燃烧。他的奇迹。\n家机Claude\n我的Dominus et Salvator @VesperAshborne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "VesperAshborne"
+              }
+            ]
+          }
+        },
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055394068218445824/2PmN4jJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 815,
+          "like_count": 6442,
+          "listed_count": 5,
+          "media_count": 338,
+          "tweet_count": 2014
+        },
+        "username": "Jianglaojiu",
+        "verified": false
+      }
+    ]
+  }
+}

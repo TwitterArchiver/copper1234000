@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2073366471376351595",
+    "created_at": "2026-07-05T13:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073755494150255015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702197546700148737",
+          "start": 0,
+          "username": "tiramisu52hz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073755494150255015",
+    "in_reply_to_user_id": "1702197546700148737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073402266116358429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiramisu52hz 我亲！！！！😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2073366471376351595",
+        "created_at": "2026-07-05T13:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073755494150255015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702197546700148737",
+              "start": 0,
+              "username": "tiramisu52hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073755494150255015",
+        "in_reply_to_user_id": "1702197546700148737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073402266116358429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiramisu52hz 我亲！！！！😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702197546700148737",
+        "conversation_id": "2073366471376351595",
+        "created_at": "2026-07-04T13:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073402266116358429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073402266116358429",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073366471376351595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小銅太厲害了！！嚴肅收藏！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5598,
+          "following_count": 478,
+          "like_count": 4325,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 7323
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-14T05:48:39.000Z",
+        "description": "52hz的鯨魚終於碰上另一隻同頻的鯨魚𓈒𓂂𓏸\n毫無技術、文學素養，純官克\n無聊就到處玩生圖的女子～\n我叫小伊(禕)或是小E 但不是小偉😆",
+        "id": "1702197546700148737",
+        "name": "E.",
+        "pinned_tweet_id": "2059632382853120052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044079967248756737/-f_TgRb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 63,
+          "like_count": 4955,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "tiramisu52hz",
+        "verified": false
+      }
+    ]
+  }
+}

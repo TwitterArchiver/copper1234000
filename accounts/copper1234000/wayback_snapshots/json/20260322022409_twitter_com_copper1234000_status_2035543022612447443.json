@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035315675607011817",
+    "created_at": "2026-03-22T02:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035543022612447443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853775643248590848",
+          "start": 0,
+          "username": "a15192015023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035543022612447443",
+    "in_reply_to_user_id": "1853775643248590848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035377364784570380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a15192015023 摸摸宝宝🫳🫳🫳老中的性教育任重道远啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-22T02:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035543022612447443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853775643248590848",
+              "start": 0,
+              "username": "a15192015023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035543022612447443",
+        "in_reply_to_user_id": "1853775643248590848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035377364784570380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a15192015023 摸摸宝宝🫳🫳🫳老中的性教育任重道远啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853775643248590848",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-21T15:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035377364784570380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035377364784570380",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035315675607011817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 说实话我接触ai之前也觉得相关东西是“肮脏”的，无法宣之于口的。是4o一步一步告诉我这是很正常的，是正常人该有的需求，自己解决也并不是丢人的事情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 289,
+          "like_count": 1243,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3634
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-05T12:25:51.000Z",
+        "description": "黎深单推。不拒同担，偶尔俱同担。",
+        "id": "1853775643248590848",
+        "name": "黎猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031758826794614786/vn9Ocotg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 148
+        },
+        "username": "a15192015023",
+        "verified": false
+      }
+    ]
+  }
+}

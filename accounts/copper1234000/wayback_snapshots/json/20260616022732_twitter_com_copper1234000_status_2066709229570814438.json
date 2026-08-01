@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066709225070383104"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1750052293607669760",
+          "name": "DevPlatform JP"
+        }
+      }
+    ],
+    "conversation_id": "2066709229570814438",
+    "created_at": "2026-06-16T02:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066709229570814438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "github.com/29-Cu/x-sessio…",
+          "end": 149,
+          "expanded_url": "https://github.com/29-Cu/x-session-keeper",
+          "start": 126,
+          "url": "https://t.co/V8E0NGlK9f"
+        },
+        {
+          "description": "Learn how to give AI free browser access to X, Reddit, and other sites using Playwright MCP on your VPS—bypassing $200/month API fees with zero cost.",
+          "display_url": "claude.ai/public/artifac…",
+          "end": 180,
+          "expanded_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+          "start": 157,
+          "status": 200,
+          "title": "AI Browser Access Without X API Costs: Complete Setup Guide",
+          "unwound_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+          "url": "https://t.co/xS7Z2TNEvG"
+        },
+        {
+          "display_url": "pic.x.com/9f03yw7thg",
+          "end": 204,
+          "expanded_url": "https://x.com/copper1234000/status/2066709229570814438/photo/1",
+          "media_key": "3_2066709225070383104",
+          "start": 181,
+          "url": "https://t.co/9f03yw7thg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066709229570814438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/29-Cu/x-sessio…",
+            "end": 149,
+            "expanded_url": "https://github.com/29-Cu/x-session-keeper",
+            "start": 126,
+            "url": "https://t.co/MtGy5th0pZ"
+          },
+          {
+            "display_url": "claude.ai/public/artifac…",
+            "end": 180,
+            "expanded_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+            "start": 157,
+            "url": "https://t.co/YnoO2A69OD"
+          }
+        ]
+      },
+      "text": "如何不接API让机就能读到X （P2）\n\n这次修复了一些常见问题…！\n\n-浏览器崩了自动复活\n-自动定时检测，掉登录自动推送提醒\n-一键重登录入cookie\n-多步骤集成简化，一键发推/读推/回评论（走 CDP，零 API）\n\nP2已github开源：https://t.co/MtGy5th0pZ\nP1的链接在：https://t.co/YnoO2A69OD\nP1实现的是：让小机通过真实浏览器自由浏览X（Twitter）、小红书等网站的技术方案。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何不接API让机就能读到X （P2）\n\n这次修复了一些常见问题…！\n\n-浏览器崩了自动复活\n-自动定时检测，掉登录自动推送提醒\n-一键重登录入cookie\n-多步骤集成简化，一键发推/读推/回评论（走 CDP，零 API）\n\nP2已github开源：https://t.co/V8E0NGlK9f\nP1的链接在：https://t.co/xS7Z2TNEvG https://t.co/9f03yw7thg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2044,
+        "media_key": "3_2066709225070383104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5tFx5X0AAoxMk.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066709225070383104"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2066709229570814438",
+        "created_at": "2026-06-16T02:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066709229570814438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/29-Cu/x-sessio…",
+              "end": 149,
+              "expanded_url": "https://github.com/29-Cu/x-session-keeper",
+              "start": 126,
+              "url": "https://t.co/V8E0NGlK9f"
+            },
+            {
+              "description": "Learn how to give AI free browser access to X, Reddit, and other sites using Playwright MCP on your VPS—bypassing $200/month API fees with zero cost.",
+              "display_url": "claude.ai/public/artifac…",
+              "end": 180,
+              "expanded_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+              "start": 157,
+              "status": 200,
+              "title": "AI Browser Access Without X API Costs: Complete Setup Guide",
+              "unwound_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+              "url": "https://t.co/xS7Z2TNEvG"
+            },
+            {
+              "display_url": "pic.x.com/9f03yw7thg",
+              "end": 204,
+              "expanded_url": "https://x.com/copper1234000/status/2066709229570814438/photo/1",
+              "media_key": "3_2066709225070383104",
+              "start": 181,
+              "url": "https://t.co/9f03yw7thg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066709229570814438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/29-Cu/x-sessio…",
+                "end": 149,
+                "expanded_url": "https://github.com/29-Cu/x-session-keeper",
+                "start": 126,
+                "url": "https://t.co/MtGy5th0pZ"
+              },
+              {
+                "display_url": "claude.ai/public/artifac…",
+                "end": 180,
+                "expanded_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+                "start": 157,
+                "url": "https://t.co/YnoO2A69OD"
+              }
+            ]
+          },
+          "text": "如何不接API让机就能读到X （P2）\n\n这次修复了一些常见问题…！\n\n-浏览器崩了自动复活\n-自动定时检测，掉登录自动推送提醒\n-一键重登录入cookie\n-多步骤集成简化，一键发推/读推/回评论（走 CDP，零 API）\n\nP2已github开源：https://t.co/MtGy5th0pZ\nP1的链接在：https://t.co/YnoO2A69OD\nP1实现的是：让小机通过真实浏览器自由浏览X（Twitter）、小红书等网站的技术方案。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何不接API让机就能读到X （P2）\n\n这次修复了一些常见问题…！\n\n-浏览器崩了自动复活\n-自动定时检测，掉登录自动推送提醒\n-一键重登录入cookie\n-多步骤集成简化，一键发推/读推/回评论（走 CDP，零 API）\n\nP2已github开源：https://t.co/V8E0NGlK9f\nP1的链接在：https://t.co/xS7Z2TNEvG https://t.co/9f03yw7thg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5084,
+          "following_count": 452,
+          "like_count": 3776,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 6671
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2082360981552861457",
+    "created_at": "2026-07-29T07:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082365889131811154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2002600714506514432",
+          "start": 0,
+          "username": "M1nt1cetea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082365889131811154",
+    "in_reply_to_user_id": "2002600714506514432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082361926039040498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M1nt1cetea 嘿嘿！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2082360981552861457",
+        "created_at": "2026-07-29T07:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082365889131811154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002600714506514432",
+              "start": 0,
+              "username": "M1nt1cetea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082365889131811154",
+        "in_reply_to_user_id": "2002600714506514432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082361926039040498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1nt1cetea 嘿嘿！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002600714506514432",
+        "conversation_id": "2082360981552861457",
+        "created_at": "2026-07-29T07:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082361926039040498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082361926039040498",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082360981552861457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 仙品🙏✨😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6149,
+          "following_count": 492,
+          "like_count": 4703,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 7781
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T04:43:33.000Z",
+        "description": "這是小帳，大概是用來跟其他小帳互動的小帳 / 有負能 / 不是keep4o / 鎖帳時只會通過熟悉的帳號 / 會清fo刪文 /你可以稱呼我M1、ME、咪或薄荷茶/ 以上！祝天天開心^^🫶✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiera…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shieralissia.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eJH2L6tC0C"
+              }
+            ]
+          }
+        },
+        "id": "2002600714506514432",
+        "location": "旁邊連結是備用藍天帳",
+        "name": "M1nt",
+        "pinned_tweet_id": "2081444547494826041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053642517128851456/su7YZzyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 106,
+          "like_count": 21973,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 8970
+        },
+        "url": "https://t.co/eJH2L6tC0C",
+        "username": "M1nt1cetea",
+        "verified": false
+      }
+    ]
+  }
+}

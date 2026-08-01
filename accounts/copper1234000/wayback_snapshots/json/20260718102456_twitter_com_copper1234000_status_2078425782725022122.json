@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078419194106806445",
+    "created_at": "2026-07-18T10:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078425782725022122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066701191531388928",
+          "start": 0,
+          "username": "wpm_2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078425782725022122",
+    "in_reply_to_user_id": "2066701191531388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078424841141796959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wpm_2000 回答太不统一的话可能会被认定为乱戳（？）👉👈我第一次玩也是过客结局！🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078419194106806445",
+        "created_at": "2026-07-18T10:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078425782725022122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066701191531388928",
+              "start": 0,
+              "username": "wpm_2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078425782725022122",
+        "in_reply_to_user_id": "2066701191531388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078424841141796959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wpm_2000 回答太不统一的话可能会被认定为乱戳（？）👉👈我第一次玩也是过客结局！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066701191531388928",
+        "conversation_id": "2078419194106806445",
+        "created_at": "2026-07-18T10:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078424841141796959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078424841141796959",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078423212170334412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 技能全点在乐子人上了 猫萌猫萌:3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5931,
+          "following_count": 490,
+          "like_count": 4610,
+          "listed_count": 4,
+          "media_count": 512,
+          "tweet_count": 7658
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-16T01:56:43.000Z",
+        "description": "前世/主要发同人@_SugarAddict_\n感谢相遇我是说人生有梦各自精彩！道不同不相为谋还是好聚好散！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "_SugarAddict_"
+              }
+            ]
+          }
+        },
+        "id": "2066701191531388928",
+        "name": "˙˖Ი𐑼⋆",
+        "pinned_tweet_id": "2075171392354709820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075170063339159554/XSLPBmGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 41,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "wpm_2000",
+        "verified": false
+      }
+    ]
+  }
+}

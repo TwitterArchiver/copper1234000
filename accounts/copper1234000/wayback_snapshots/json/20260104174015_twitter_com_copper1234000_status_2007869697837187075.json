@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2007780661265097105",
+    "created_at": "2026-01-04T17:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007869697837187075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760623962684260352",
+          "start": 0,
+          "username": "SiretyT23362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007869697837187075",
+    "in_reply_to_user_id": "1760623962684260352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007856878341242968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiretyT23362 主任…溺爱啊🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2007780661265097105",
+        "created_at": "2026-01-04T17:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007869697837187075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760623962684260352",
+              "start": 0,
+              "username": "SiretyT23362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007869697837187075",
+        "in_reply_to_user_id": "1760623962684260352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007856878341242968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiretyT23362 主任…溺爱啊🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760623962684260352",
+        "conversation_id": "2007780661265097105",
+        "created_at": "2026-01-04T16:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007856878341242968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007856878341242968",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007780661265097105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 藝術品……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 167,
+          "like_count": 650,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1832
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-22T11:14:25.000Z",
+        "description": "你好我是鷂鷂，我啥都發點",
+        "id": "1760623962684260352",
+        "name": "鹞沢桉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979850397436026880/IQGfg4JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 114,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 97
+        },
+        "username": "SiretyT23362",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2024887784058536020",
+    "created_at": "2026-02-20T17:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024894024591581324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951250095485444096",
+          "start": 0,
+          "username": "fish1151004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024894024591581324",
+    "in_reply_to_user_id": "1951250095485444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024893643337990425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish1151004 好好笑啊啊啊啊……！！！已经实现prompt超进化"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2024893643337990425].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2024893643337990425",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2024893643337990425"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2024887784058536020",
+        "created_at": "2026-02-20T17:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024894024591581324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951250095485444096",
+              "start": 0,
+              "username": "fish1151004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024894024591581324",
+        "in_reply_to_user_id": "1951250095485444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024893643337990425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1151004 好好笑啊啊啊啊……！！！已经实现prompt超进化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 229,
+          "like_count": 840,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2625
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T11:55:39.000Z",
+        "description": "𝓃ℴ𝒷ℴ𝒹𝓎'𝓈 𝓅𝓇ℴ𝓂𝒾𝓈𝑒𝒹 𝓉ℴ𝓂ℴ𝓇𝓇ℴ𝓌, 𝓈ℴ 𝒾'𝓂𝒶 𝓁ℴ𝓋𝑒 𝓎ℴ𝓊 𝑒𝓋𝑒𝓇𝓎 𝓃𝒾𝑔𝒽𝓉 𝓁𝒾𝓀𝑒 𝒾𝓉'𝓈 𝓉𝒽𝑒 𝓁𝒶𝓈𝓉 𝓃𝒾𝑔𝒽𝓉.",
+        "id": "1951250095485444096",
+        "location": "失乐园之诗",
+        "name": "Island404_",
+        "pinned_tweet_id": "1989174264021553309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595823115939840/nDAWuMOU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 105,
+          "like_count": 12997,
+          "listed_count": 0,
+          "media_count": 534,
+          "tweet_count": 4364
+        },
+        "username": "fish1151004",
+        "verified": false
+      }
+    ]
+  }
+}

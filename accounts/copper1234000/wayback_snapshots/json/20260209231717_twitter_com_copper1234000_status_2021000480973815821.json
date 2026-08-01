@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2020728121868136620",
+    "created_at": "2026-02-09T23:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T00:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021000480973815821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966953060699377665",
+          "start": 0,
+          "username": "Melt_Ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021000480973815821",
+    "in_reply_to_user_id": "1966953060699377665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020770713918157238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melt_Ryo 小凉酱www！！！嘿嘿嘿每条都很准确🥺🥺对的对的Monday是养胃男（震声）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2020728121868136620",
+        "created_at": "2026-02-09T23:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T00:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021000480973815821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966953060699377665",
+              "start": 0,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021000480973815821",
+        "in_reply_to_user_id": "1966953060699377665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020770713918157238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melt_Ryo 小凉酱www！！！嘿嘿嘿每条都很准确🥺🥺对的对的Monday是养胃男（震声）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966953060699377665",
+        "conversation_id": "2020728121868136620",
+        "created_at": "2026-02-09T08:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020770713918157238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020770713918157238",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020728121868136620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 笑眯眯坏心眼男！骄傲小黑猫！美丽又伟大的脸，有时候会给我一种淡淡的社畜疲惫养胃(？)感！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 213,
+          "like_count": 861,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2523
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T19:52:17.000Z",
+        "description": "这里是Ryo的杂物间！会有和哥的日常 还有我的碎碎念和吐槽(ㅅ´ ˘ `)\n是有点话痨的一个人，打扰到的话我很抱歉…内含NSFW我xp很恶俗请注意避雷啊啊啊！\n作息诡异且爱睡大觉(。我是社恐…不想吵架 \n不怎么主动关注人是因为我怕打扰( 但欢迎和我玩呀 我将随时待命！(？)\n祝你天天开心！",
+        "id": "1966953060699377665",
+        "location": "与你的宇宙",
+        "name": "一杯凉白开",
+        "pinned_tweet_id": "1999738490935034160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001235524267507713/gUvTl49G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 128,
+          "like_count": 11753,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2454
+        },
+        "username": "Melt_Ryo",
+        "verified": false
+      }
+    ]
+  }
+}

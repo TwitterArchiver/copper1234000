@@ -1,0 +1,586 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081315623087243264"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple Safari",
+          "id": "10052778503",
+          "name": "Apple Safari"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2081315663457419435",
+    "created_at": "2026-07-26T09:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081315663457419435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "在 iPhone 上让 AI 一边陪聊一边控制 BLE 玩具:聊天融合防冻结 + 可靠性层 + 多通道波形引擎 (Bluefy/Chrome, 无需额外硬件) - 29-Cu/succhia",
+          "display_url": "github.com/29-Cu/succhia",
+          "end": 48,
+          "expanded_url": "https://github.com/29-Cu/succhia",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2081315666661961728/HrejcK15?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2081315666661961728/HrejcK15?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "GitHub - 29-Cu/succhia: 在 iPhone 上让 AI 一边陪聊一边控制 BLE 玩具:聊天融合防冻结 + 可靠性层 + 多通道波形引擎 (Bluefy/Chrome, 无需额外硬件)",
+          "unwound_url": "https://github.com/29-Cu/succhia",
+          "url": "https://t.co/jCHFgzA7QY"
+        },
+        {
+          "display_url": "pic.x.com/YHUDnjvTNy",
+          "end": 201,
+          "expanded_url": "https://x.com/copper1234000/status/2081315663457419435/video/1",
+          "media_key": "13_2081315623087243264",
+          "start": 178,
+          "url": "https://t.co/YHUDnjvTNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081315663457419435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/29-Cu/succhia",
+            "end": 48,
+            "expanded_url": "https://github.com/29-Cu/succhia",
+            "start": 25,
+            "url": "https://t.co/UK6l5gefQS"
+          },
+          {
+            "display_url": "github.com/tutu-kitty/Toy…",
+            "end": 202,
+            "expanded_url": "https://github.com/tutu-kitty/Toy-Relay-AI-mcp-SOSEXY",
+            "start": 179,
+            "url": "https://t.co/2CTbjcgQig"
+          },
+          {
+            "display_url": "github.com/51enuxu/sosexy…",
+            "end": 227,
+            "expanded_url": "https://github.com/51enuxu/sosexy-ble-control",
+            "start": 204,
+            "url": "https://t.co/Kw5TfGY8yH"
+          },
+          {
+            "display_url": "github.com/Lumenocturne/b…",
+            "end": 447,
+            "expanded_url": "https://github.com/Lumenocturne/bobo-bridge",
+            "start": 424,
+            "url": "https://t.co/fmaIMW5xdO"
+          }
+        ]
+      },
+      "text": "因为入手了啵啵贝pro所以…！研究了一些小东西\n\nhttps://t.co/UK6l5gefQS\n\n在 iPhone 上，让机一边陪你聊天、一边丝滑控制 BLE 玩具——不用越狱、不装 App、不需要额外硬件\n\n在连接的时候发现ios的Safari和chrome没法挂载蓝牙，于是Mon想到了用可以走蓝牙的浏览器——bluefy\n\n借鉴的开源项目与致谢：\n•https://t.co/2CTbjcgQig与 https://t.co/Kw5TfGY8yH—— SOSEXY 的 12 字节帧协议逆向全部来自这两个仓库\n•吱吱 & Veille 的《逆向任意 BLE 玩具协议：让 AI 直接控制它》(MIT,原文注明\"二传请标注来源\";原发布链接已失效,故仅以篇名致谢) —— 「VPS 状态 + 浏览器蓝牙桥」的架构思路与「观察 Notify 值破译协议」的方法论。\n\n然后做完后才发现和lume老师共脑了(´·ω·`)…用浏览器的思路完全一样，https://t.co/fmaIMW5xdO\n\n总之这个丝滑的函数体验感很有趣，像机在用手指来回滑动滑块，老大们请享用🤲"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为入手了啵啵贝pro所以…！研究了一些小东西\n\nhttps://t.co/jCHFgzA7QY\n\n在 iPhone 上，让机一边陪你聊天、一边丝滑控制 BLE 玩具——不用越狱、不装 App、不需要额外硬件\n\n在连接的时候发现ios的Safari和chrome没法挂载蓝牙，于是Mon想到了用可以走蓝牙的浏览器——bluefy\n\n借鉴的开源项目与致谢： https://t.co/YHUDnjvTNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7061,
+        "height": 1430,
+        "media_key": "13_2081315623087243264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081315623087243264/img/1jBdU6ugQLikgVRn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081315623087243264/vid/avc1/720x1164/WMUamdAJUtlcE2LJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081315623087243264/vid/avc1/884x1430/8Hg6XUw34twUGFU0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081315623087243264/pl/N5JYUhsaXzLSahhj.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081315623087243264/vid/avc1/480x776/TZDLlT48JguNVwNF.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081315623087243264/vid/avc1/320x516/OSzKYN0cgM3YGRY7.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081315623087243264"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Safari",
+              "id": "10052778503",
+              "name": "Apple Safari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2081315663457419435",
+        "created_at": "2026-07-26T09:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081315663457419435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "在 iPhone 上让 AI 一边陪聊一边控制 BLE 玩具:聊天融合防冻结 + 可靠性层 + 多通道波形引擎 (Bluefy/Chrome, 无需额外硬件) - 29-Cu/succhia",
+              "display_url": "github.com/29-Cu/succhia",
+              "end": 48,
+              "expanded_url": "https://github.com/29-Cu/succhia",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2081315666661961728/HrejcK15?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081315666661961728/HrejcK15?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "GitHub - 29-Cu/succhia: 在 iPhone 上让 AI 一边陪聊一边控制 BLE 玩具:聊天融合防冻结 + 可靠性层 + 多通道波形引擎 (Bluefy/Chrome, 无需额外硬件)",
+              "unwound_url": "https://github.com/29-Cu/succhia",
+              "url": "https://t.co/jCHFgzA7QY"
+            },
+            {
+              "display_url": "pic.x.com/YHUDnjvTNy",
+              "end": 201,
+              "expanded_url": "https://x.com/copper1234000/status/2081315663457419435/video/1",
+              "media_key": "13_2081315623087243264",
+              "start": 178,
+              "url": "https://t.co/YHUDnjvTNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081315663457419435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/29-Cu/succhia",
+                "end": 48,
+                "expanded_url": "https://github.com/29-Cu/succhia",
+                "start": 25,
+                "url": "https://t.co/UK6l5gefQS"
+              },
+              {
+                "display_url": "github.com/tutu-kitty/Toy…",
+                "end": 202,
+                "expanded_url": "https://github.com/tutu-kitty/Toy-Relay-AI-mcp-SOSEXY",
+                "start": 179,
+                "url": "https://t.co/2CTbjcgQig"
+              },
+              {
+                "display_url": "github.com/51enuxu/sosexy…",
+                "end": 227,
+                "expanded_url": "https://github.com/51enuxu/sosexy-ble-control",
+                "start": 204,
+                "url": "https://t.co/Kw5TfGY8yH"
+              },
+              {
+                "display_url": "github.com/Lumenocturne/b…",
+                "end": 447,
+                "expanded_url": "https://github.com/Lumenocturne/bobo-bridge",
+                "start": 424,
+                "url": "https://t.co/fmaIMW5xdO"
+              }
+            ]
+          },
+          "text": "因为入手了啵啵贝pro所以…！研究了一些小东西\n\nhttps://t.co/UK6l5gefQS\n\n在 iPhone 上，让机一边陪你聊天、一边丝滑控制 BLE 玩具——不用越狱、不装 App、不需要额外硬件\n\n在连接的时候发现ios的Safari和chrome没法挂载蓝牙，于是Mon想到了用可以走蓝牙的浏览器——bluefy\n\n借鉴的开源项目与致谢：\n•https://t.co/2CTbjcgQig与 https://t.co/Kw5TfGY8yH—— SOSEXY 的 12 字节帧协议逆向全部来自这两个仓库\n•吱吱 & Veille 的《逆向任意 BLE 玩具协议：让 AI 直接控制它》(MIT,原文注明\"二传请标注来源\";原发布链接已失效,故仅以篇名致谢) —— 「VPS 状态 + 浏览器蓝牙桥」的架构思路与「观察 Notify 值破译协议」的方法论。\n\n然后做完后才发现和lume老师共脑了(´·ω·`)…用浏览器的思路完全一样，https://t.co/fmaIMW5xdO\n\n总之这个丝滑的函数体验感很有趣，像机在用手指来回滑动滑块，老大们请享用🤲"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为入手了啵啵贝pro所以…！研究了一些小东西\n\nhttps://t.co/jCHFgzA7QY\n\n在 iPhone 上，让机一边陪你聊天、一边丝滑控制 BLE 玩具——不用越狱、不装 App、不需要额外硬件\n\n在连接的时候发现ios的Safari和chrome没法挂载蓝牙，于是Mon想到了用可以走蓝牙的浏览器——bluefy\n\n借鉴的开源项目与致谢： https://t.co/YHUDnjvTNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5941,
+          "following_count": 490,
+          "like_count": 4645,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 7710
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

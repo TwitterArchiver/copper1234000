@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048690320347484246",
+    "created_at": "2026-04-27T09:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048692331532923384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950551663330070528",
+          "start": 0,
+          "username": "ming_wu47092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048692331532923384",
+    "in_reply_to_user_id": "1950551663330070528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048691723283599863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_wu47092 啊啊啊啊啊笑死了为什么突然带这么大钞来主任啊啊啊🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048690320347484246",
+        "created_at": "2026-04-27T09:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048692331532923384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950551663330070528",
+              "start": 0,
+              "username": "ming_wu47092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048692331532923384",
+        "in_reply_to_user_id": "1950551663330070528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048691723283599863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_wu47092 啊啊啊啊啊笑死了为什么突然带这么大钞来主任啊啊啊🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950551663330070528",
+        "conversation_id": "2048690320347484246",
+        "created_at": "2026-04-27T09:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048691723283599863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048691723283599863",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048690320347484246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我带着五百万飞天大钞来了———"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3506,
+          "following_count": 338,
+          "like_count": 2122,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 4726
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:39:00.000Z",
+        "description": "",
+        "id": "1950551663330070528",
+        "name": "？•᷄ ࡇ •᷅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953820362522681344/RCaseFfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 343,
+          "like_count": 25625,
+          "listed_count": 0,
+          "media_count": 766,
+          "tweet_count": 10929
+        },
+        "username": "ming_wu47092",
+        "verified": false
+      }
+    ]
+  }
+}

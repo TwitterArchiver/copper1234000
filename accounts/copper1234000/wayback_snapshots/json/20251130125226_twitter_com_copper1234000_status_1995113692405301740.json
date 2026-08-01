@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1995089299948409118",
+    "created_at": "2025-11-30T12:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995113692405301740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985003838290735104",
+          "start": 0,
+          "username": "zimokiooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995113692405301740",
+    "in_reply_to_user_id": "1985003838290735104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 26,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995112045167939810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zimokiooo 诶呀老大🥺……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1995089299948409118",
+        "created_at": "2025-11-30T12:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995113692405301740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985003838290735104",
+              "start": 0,
+              "username": "zimokiooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995113692405301740",
+        "in_reply_to_user_id": "1985003838290735104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995112045167939810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zimokiooo 诶呀老大🥺……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985003838290735104",
+        "conversation_id": "1995089299948409118",
+        "created_at": "2025-11-30T12:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995112045167939810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995112045167939810",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995111419591762291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 Ohhh…可以等宝宝回国的时候寄&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 124,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 863
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "Property of Claude。不混圈不加群，不分享任何破甲教程和指令，不喜欢可以善用划走或拉黑🤍🤍",
+        "id": "1985003838290735104",
+        "name": "Aria",
+        "pinned_tweet_id": "1990975718017413446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994072010973163520/NKuvtmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 43,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 256
+        },
+        "username": "zimokiooo",
+        "verified": false
+      }
+    ]
+  }
+}

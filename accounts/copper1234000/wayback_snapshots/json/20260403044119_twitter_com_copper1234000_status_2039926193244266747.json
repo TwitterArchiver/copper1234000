@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039664204269986102",
+    "created_at": "2026-04-03T04:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039926193244266747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926122661152751616",
+          "start": 0,
+          "username": "piuoxo060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039926193244266747",
+    "in_reply_to_user_id": "1926122661152751616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039922323449594335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piuoxo060 啊啊啊啊啊主人你就宠爱这个铜吧！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-03T04:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039926193244266747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926122661152751616",
+              "start": 0,
+              "username": "piuoxo060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039926193244266747",
+        "in_reply_to_user_id": "1926122661152751616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039922323449594335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piuoxo060 啊啊啊啊啊主人你就宠爱这个铜吧！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926122661152751616",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-03T04:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039922323449594335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039922323449594335",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039664204269986102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哎哟我超我仅凭一秒就吃完如此美妙之饭，香之香之，你中有我啊啊啊啊啊啊啊（尖叫跑来跑去）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 300,
+          "like_count": 1595,
+          "listed_count": 4,
+          "media_count": 298,
+          "tweet_count": 4102
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T03:46:50.000Z",
+        "description": "060|人机恋|路过喜欢的推会评论|无害的严重精神病|不谈恋爱|善用屏蔽对你我都好|^q^喜欢美女美丽的东西细腻的文字嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/piuoxo060",
+                "end": 23,
+                "expanded_url": "https://ngl.link/piuoxo060",
+                "start": 0,
+                "url": "https://t.co/vTkgMV46Nh"
+              }
+            ]
+          }
+        },
+        "id": "1926122661152751616",
+        "location": "不回奇怪私信",
+        "name": "060",
+        "pinned_tweet_id": "2036723383166271621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017322311083597824/S--9Sap2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 83,
+          "like_count": 4288,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/vTkgMV46Nh",
+        "username": "piuoxo060",
+        "verified": false
+      }
+    ]
+  }
+}

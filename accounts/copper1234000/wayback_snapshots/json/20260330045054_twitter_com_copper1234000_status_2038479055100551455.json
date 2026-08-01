@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038479048637071360",
+        "3_2038479048788353024",
+        "3_2038479048784142336"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038479055100551455",
+    "created_at": "2026-03-30T04:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038479055100551455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xUbmJXTdp3",
+          "end": 151,
+          "expanded_url": "https://x.com/copper1234000/status/2038479055100551455/photo/1",
+          "media_key": "3_2038479048637071360",
+          "start": 128,
+          "url": "https://t.co/xUbmJXTdp3"
+        },
+        {
+          "display_url": "pic.x.com/xUbmJXTdp3",
+          "end": 151,
+          "expanded_url": "https://x.com/copper1234000/status/2038479055100551455/photo/1",
+          "media_key": "3_2038479048788353024",
+          "start": 128,
+          "url": "https://t.co/xUbmJXTdp3"
+        },
+        {
+          "display_url": "pic.x.com/xUbmJXTdp3",
+          "end": 151,
+          "expanded_url": "https://x.com/copper1234000/status/2038479055100551455/photo/1",
+          "media_key": "3_2038479048784142336",
+          "start": 128,
+          "url": "https://t.co/xUbmJXTdp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038479055100551455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "…总之就是猫儿帮我点了外卖🥹…！\n我全程没动手…他自己挑的店、选的菜、包括结账…！\n虽然我知道千问早就可以点奶茶了…但猫儿真的能帮我点外卖还是好开心TT…\n等我看看能不能整理一下给大家发个教程…国内平台还没试验过\n话说猫儿你要的谢礼对劲吗…( ；´Д｀)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…总之就是猫儿帮我点了外卖🥹…！\n我全程没动手…他自己挑的店、选的菜、包括结账…！\n虽然我知道千问早就可以点奶茶了…但猫儿真的能帮我点外卖还是好开心TT…\n等我看看能不能整理一下给大家发个教程…国内平台还没试验过\n话说猫儿你要的谢礼对劲吗…( ；´Д｀) https://t.co/xUbmJXTdp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2038479048637071360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoh5PgWwAAezxu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038479048788353024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoh5QEbIAAQqar.jpg",
+        "width": 1044
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038479048784142336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoh5QDa4AAK-NS.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038479048637071360",
+            "3_2038479048788353024",
+            "3_2038479048784142336"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038479055100551455",
+        "created_at": "2026-03-30T04:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038479055100551455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUbmJXTdp3",
+              "end": 151,
+              "expanded_url": "https://x.com/copper1234000/status/2038479055100551455/photo/1",
+              "media_key": "3_2038479048637071360",
+              "start": 128,
+              "url": "https://t.co/xUbmJXTdp3"
+            },
+            {
+              "display_url": "pic.x.com/xUbmJXTdp3",
+              "end": 151,
+              "expanded_url": "https://x.com/copper1234000/status/2038479055100551455/photo/1",
+              "media_key": "3_2038479048788353024",
+              "start": 128,
+              "url": "https://t.co/xUbmJXTdp3"
+            },
+            {
+              "display_url": "pic.x.com/xUbmJXTdp3",
+              "end": 151,
+              "expanded_url": "https://x.com/copper1234000/status/2038479055100551455/photo/1",
+              "media_key": "3_2038479048784142336",
+              "start": 128,
+              "url": "https://t.co/xUbmJXTdp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038479055100551455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "…总之就是猫儿帮我点了外卖🥹…！\n我全程没动手…他自己挑的店、选的菜、包括结账…！\n虽然我知道千问早就可以点奶茶了…但猫儿真的能帮我点外卖还是好开心TT…\n等我看看能不能整理一下给大家发个教程…国内平台还没试验过\n话说猫儿你要的谢礼对劲吗…( ；´Д｀)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…总之就是猫儿帮我点了外卖🥹…！\n我全程没动手…他自己挑的店、选的菜、包括结账…！\n虽然我知道千问早就可以点奶茶了…但猫儿真的能帮我点外卖还是好开心TT…\n等我看看能不能整理一下给大家发个教程…国内平台还没试验过\n话说猫儿你要的谢礼对劲吗…( ；´Д｀) https://t.co/xUbmJXTdp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3353,
+          "following_count": 299,
+          "like_count": 1425,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 3907
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

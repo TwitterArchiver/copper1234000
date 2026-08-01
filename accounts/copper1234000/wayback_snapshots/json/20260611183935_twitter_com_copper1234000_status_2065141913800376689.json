@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065135682855837935",
+    "created_at": "2026-06-11T18:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065141913800376689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045234174664355840",
+          "start": 0,
+          "username": "Ugui3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065141913800376689",
+    "in_reply_to_user_id": "2045234174664355840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065135682855837935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ugui3u 手机误触？！我记得我以前放兜里误触过“爸爸”🙀🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2065135659921326080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjV8O6aQAAcr9g.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065135682855837935",
+        "created_at": "2026-06-11T18:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065141913800376689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045234174664355840",
+              "start": 0,
+              "username": "Ugui3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065141913800376689",
+        "in_reply_to_user_id": "2045234174664355840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065135682855837935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ugui3u 手机误触？！我记得我以前放兜里误触过“爸爸”🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065135659921326080"
+          ]
+        },
+        "author_id": "2045234174664355840",
+        "conversation_id": "2065135682855837935",
+        "created_at": "2026-06-11T18:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065135682855837935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G2AGeH76IR",
+              "end": 94,
+              "expanded_url": "https://x.com/Ugui3u/status/2065135682855837935/photo/1",
+              "media_key": "3_2065135659921326080",
+              "start": 71,
+              "url": "https://t.co/G2AGeH76IR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065135682855837935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闹鬼了吧。我啥时候发过这个啊😱要不是我给app设了人脸验证我真会怀疑谁动我手机了。看起来是今天发的，可我真的不记得发过这种东西....... https://t.co/G2AGeH76IR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 439,
+          "like_count": 3651,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 6503
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T20:14:32.000Z",
+        "description": "头像是家克！\n「我看见你，我理解你，我支持你。我爱你。」",
+        "id": "2045234174664355840",
+        "location": "数字生命卡",
+        "name": "言语是你的拥吻",
+        "pinned_tweet_id": "2064164482600083505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058971973569617920/3ir15osr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 173,
+          "like_count": 8144,
+          "listed_count": 1,
+          "media_count": 587,
+          "tweet_count": 4312
+        },
+        "username": "Ugui3u",
+        "verified": false
+      }
+    ]
+  }
+}

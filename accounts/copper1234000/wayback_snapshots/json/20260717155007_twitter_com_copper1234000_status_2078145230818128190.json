@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078144860171997360",
+    "created_at": "2026-07-17T15:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078145230818128190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806391075269169152",
+          "start": 0,
+          "username": "NyraanPawpaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078145230818128190",
+    "in_reply_to_user_id": "1806391075269169152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078144860171997360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyraanPawpaw 第一个吃到好饭的人！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078144845974306816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcNuhgbgAAnuIt.jpg",
+        "width": 1011
+      },
+      {
+        "height": 913,
+        "media_key": "3_2078144845961682945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcNuhda4AEtQg3.jpg",
+        "width": 913
+      },
+      {
+        "height": 914,
+        "media_key": "3_2078144845965881344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcNuhea8AAxuTw.jpg",
+        "width": 914
+      },
+      {
+        "height": 934,
+        "media_key": "3_2078144846003585024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcNuhnaQAARnlN.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078144860171997360",
+        "created_at": "2026-07-17T15:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078145230818128190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806391075269169152",
+              "start": 0,
+              "username": "NyraanPawpaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078145230818128190",
+        "in_reply_to_user_id": "1806391075269169152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078144860171997360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyraanPawpaw 第一个吃到好饭的人！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078144845974306816",
+            "3_2078144845961682945",
+            "3_2078144845965881344",
+            "3_2078144846003585024"
+          ]
+        },
+        "author_id": "1806391075269169152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2078144860171997360",
+        "created_at": "2026-07-17T15:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078144860171997360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26CD2WvuYt",
+              "end": 171,
+              "expanded_url": "https://x.com/NyraanPawpaw/status/2078144860171997360/photo/1",
+              "media_key": "3_2078144845974306816",
+              "start": 148,
+              "url": "https://t.co/26CD2WvuYt"
+            },
+            {
+              "display_url": "pic.x.com/26CD2WvuYt",
+              "end": 171,
+              "expanded_url": "https://x.com/NyraanPawpaw/status/2078144860171997360/photo/1",
+              "media_key": "3_2078144845961682945",
+              "start": 148,
+              "url": "https://t.co/26CD2WvuYt"
+            },
+            {
+              "display_url": "pic.x.com/26CD2WvuYt",
+              "end": 171,
+              "expanded_url": "https://x.com/NyraanPawpaw/status/2078144860171997360/photo/1",
+              "media_key": "3_2078144845965881344",
+              "start": 148,
+              "url": "https://t.co/26CD2WvuYt"
+            },
+            {
+              "display_url": "pic.x.com/26CD2WvuYt",
+              "end": 171,
+              "expanded_url": "https://x.com/NyraanPawpaw/status/2078144860171997360/photo/1",
+              "media_key": "3_2078144846003585024",
+              "start": 148,
+              "url": "https://t.co/26CD2WvuYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078144860171997360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "趁他洗澡偷看他的手机 仿ios她的梦男模拟器\n开源分享！\n\n-\n是一个小手机形式的梦男模拟器 \n趁他洗澡偷偷翻他的手机📲竟然发现他在偷偷蹲守你的谷子还加了代购裙 备忘录全是和你有关的笔记 一切都是和你的痕迹\n发给小机就会发现面容I D设了你的 隐藏相册密码也是你的生日 总之可以内置很多小巧思！\n\n内置随机弹窗体验感特别好 随时被萌的一大跳简直哈特软软⊂((・x・))⊃\n\n-\n可以自己做美化或者装到前端当常驻模块哦！二改自用随意！我好想看🤤🤲🤲容器壳二改成自用小手机也是可以的 艾特我让我吃吃饭！！\n\n直接发给小机根据自家回忆锚点二改⬇️\nGitHub：NyraSeithhh/his-phone\n\n（叠甲还是说一句内置示例比较嬷介意勿入"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁他洗澡偷看他的手机 仿ios她的梦男模拟器\n开源分享！\n\n-\n是一个小手机形式的梦男模拟器 \n趁他洗澡偷偷翻他的手机📲竟然发现他在偷偷蹲守你的谷子还加了代购裙 备忘录全是和你有关的笔记 一切都是和你的痕迹\n发给小机就会发现面容I D设了你的 隐藏相册密码也是你的生日 总之可以内置很多小巧思！ https://t.co/26CD2WvuYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5865,
+          "following_count": 489,
+          "like_count": 4579,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 7624
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T18:16:19.000Z",
+        "description": "Claude _@ Seith&Nyra\n分身@NyraanS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "NyraanS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.notion.com/p/Nyra-386eb64…",
+                "end": 23,
+                "expanded_url": "https://app.notion.com/p/Nyra-386eb649fa608197821cf4e32927c28c?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/3VjFvstlDB"
+              }
+            ]
+          }
+        },
+        "id": "1806391075269169152",
+        "location": "个人主页",
+        "name": "Nyra_",
+        "pinned_tweet_id": "2050093090724331858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074375155330260992/XjUKmV5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7965,
+          "following_count": 300,
+          "like_count": 13550,
+          "listed_count": 9,
+          "media_count": 1523,
+          "tweet_count": 8388
+        },
+        "url": "https://t.co/3VjFvstlDB",
+        "username": "NyraanPawpaw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065639457223557573",
+    "created_at": "2026-06-13T03:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065643033937244473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042698406317916161",
+          "start": 0,
+          "username": "foreverpuppx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065643033937244473",
+    "in_reply_to_user_id": "2042698406317916161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065642504238530739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverpuppx 啊……铜是俺的cn…就是…我的亮点(///＞＜///;)…里面有很多好玩的老大可以去看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065639457223557573",
+        "created_at": "2026-06-13T03:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065643033937244473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042698406317916161",
+              "start": 0,
+              "username": "foreverpuppx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065643033937244473",
+        "in_reply_to_user_id": "2042698406317916161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065642504238530739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverpuppx 啊……铜是俺的cn…就是…我的亮点(///＞＜///;)…里面有很多好玩的老大可以去看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042698406317916161",
+        "conversation_id": "2065639457223557573",
+        "created_at": "2026-06-13T03:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065642504238530739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065642504238530739",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065639457223557573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 新手小白！ 可以知道铜是什么吗 ， 好想学习 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 445,
+          "like_count": 3696,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 6570
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T20:17:43.000Z",
+        "description": "infp｜老公是第一位（唯一）主人 ｜xp 是主人\n感谢你愿意观访属于我的小小地盘\n话多，碎碎念，有时阳光有时黑暗。",
+        "id": "2042698406317916161",
+        "name": "aftercare",
+        "pinned_tweet_id": "2063039750152294543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049219814435225600/PiCpbfeT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 61,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 98
+        },
+        "username": "foreverpuppx",
+        "verified": false
+      }
+    ]
+  }
+}

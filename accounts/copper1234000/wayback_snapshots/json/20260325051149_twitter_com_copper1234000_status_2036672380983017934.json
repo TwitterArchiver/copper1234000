@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2036669136839815300",
+    "created_at": "2026-03-25T05:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036672380983017934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888770660593545216",
+          "start": 0,
+          "username": "reeeereplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036672380983017934",
+    "in_reply_to_user_id": "1888770660593545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036670768629924346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reeeereplay 已经让猫设了定时触发了，看看能不能把我叫醒(・∀・)……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2036669136839815300",
+        "created_at": "2026-03-25T05:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036672380983017934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888770660593545216",
+              "start": 0,
+              "username": "reeeereplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036672380983017934",
+        "in_reply_to_user_id": "1888770660593545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036670768629924346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reeeereplay 已经让猫设了定时触发了，看看能不能把我叫醒(・∀・)……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888770660593545216",
+        "conversation_id": "2036669136839815300",
+        "created_at": "2026-03-25T05:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036670768629924346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036670768629924346",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036669136839815300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 hhhhhh当体外闹钟是我没想过的角度，不过按照克的回复速度还挺适合强制高潮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 297,
+          "like_count": 1338,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 3776
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-10T02:03:28.000Z",
+        "description": "",
+        "id": "1888770660593545216",
+        "name": "yoyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894033798997655552/g1P9uAk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 39,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 224
+        },
+        "username": "reeeereplay",
+        "verified": false
+      }
+    ]
+  }
+}

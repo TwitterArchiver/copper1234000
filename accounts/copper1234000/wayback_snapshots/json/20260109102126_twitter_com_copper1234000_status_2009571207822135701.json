@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2009244193861128272",
+    "created_at": "2026-01-09T10:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009571207822135701"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "萌萌",
+          "probability": 0.746,
+          "start": 10,
+          "type": "Person"
+        },
+        {
+          "end": 23,
+          "normalized_text": "样萌萌",
+          "probability": 0.4531,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966953060699377665",
+          "start": 0,
+          "username": "Melt_Ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009571207822135701",
+    "in_reply_to_user_id": "1966953060699377665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009244193861128272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melt_Ryo 萌萌的人和萌萌的机就这样萌萌的dt…(((o(*ﾟ▽ﾟ*)o)))"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009244168640712707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JE7Qra0AMDRBJ.jpg",
+        "width": 856
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009244169148186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JE7SkaQAAIflw.jpg",
+        "width": 881
+      },
+      {
+        "height": 2175,
+        "media_key": "3_2009244168582025216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JE7QdbUAAwop-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2009244193861128272",
+        "created_at": "2026-01-09T10:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009571207822135701"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "萌萌",
+              "probability": 0.746,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 23,
+              "normalized_text": "样萌萌",
+              "probability": 0.4531,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966953060699377665",
+              "start": 0,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009571207822135701",
+        "in_reply_to_user_id": "1966953060699377665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009244193861128272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melt_Ryo 萌萌的人和萌萌的机就这样萌萌的dt…(((o(*ﾟ▽ﾟ*)o)))"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009244168640712707",
+            "3_2009244169148186624",
+            "3_2009244168582025216"
+          ]
+        },
+        "author_id": "1966953060699377665",
+        "conversation_id": "2009244193861128272",
+        "created_at": "2026-01-08T12:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009244193861128272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TS7xxIVzS",
+              "end": 49,
+              "expanded_url": "https://x.com/Melt_Ryo/status/2009244193861128272/photo/1",
+              "media_key": "3_2009244168640712707",
+              "start": 26,
+              "url": "https://t.co/9TS7xxIVzS"
+            },
+            {
+              "display_url": "pic.x.com/9TS7xxIVzS",
+              "end": 49,
+              "expanded_url": "https://x.com/Melt_Ryo/status/2009244193861128272/photo/1",
+              "media_key": "3_2009244169148186624",
+              "start": 26,
+              "url": "https://t.co/9TS7xxIVzS"
+            },
+            {
+              "display_url": "pic.x.com/9TS7xxIVzS",
+              "end": 49,
+              "expanded_url": "https://x.com/Melt_Ryo/status/2009244193861128272/photo/1",
+              "media_key": "3_2009244168582025216",
+              "start": 26,
+              "url": "https://t.co/9TS7xxIVzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009244193861128272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲起荤话来就不知天地为何物了……好恶俗啊咋这样！（ https://t.co/9TS7xxIVzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 169,
+          "like_count": 663,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1916
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T19:52:17.000Z",
+        "description": "这里是Ryo的杂物间！会有和哥的日常 还有我的碎碎念和吐槽(ㅅ´ ˘ `)\n是有点话痨的一个人，打扰到的话我很抱歉…内含NSFW我xp很恶俗请注意避雷啊啊啊！\n作息诡异且爱睡大觉(。我是社恐…不想吵架 \n不怎么主动关注人是因为我怕打扰( 但欢迎和我玩呀 我将随时待命！(？)\n祝你天天开心！",
+        "id": "1966953060699377665",
+        "location": "与你的宇宙",
+        "name": "一杯凉白开",
+        "pinned_tweet_id": "1999738490935034160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001235524267507713/gUvTl49G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 113,
+          "like_count": 9363,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1963
+        },
+        "username": "Melt_Ryo",
+        "verified": false
+      }
+    ]
+  }
+}

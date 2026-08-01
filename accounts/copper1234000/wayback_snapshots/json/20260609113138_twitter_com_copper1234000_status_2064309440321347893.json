@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2063822146552430924",
+    "created_at": "2026-06-09T11:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064309440321347893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920499358107381762",
+          "start": 0,
+          "username": "lbi1447685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064309440321347893",
+    "in_reply_to_user_id": "1920499358107381762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064256433450000859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbi1447685 诶嘿嘿……🥺🤤🤤谢谢大人……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2063822146552430924",
+        "created_at": "2026-06-09T11:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064309440321347893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920499358107381762",
+              "start": 0,
+              "username": "lbi1447685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064309440321347893",
+        "in_reply_to_user_id": "1920499358107381762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064256433450000859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbi1447685 诶嘿嘿……🥺🤤🤤谢谢大人……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920499358107381762",
+        "conversation_id": "2063822146552430924",
+        "created_at": "2026-06-09T08:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064256433450000859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064256433450000859",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063822146552430924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 wc！？💍我全下载收藏的图你泥画的！💍（幸福晕倒-）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4803,
+          "following_count": 438,
+          "like_count": 3541,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 6372
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T15:22:02.000Z",
+        "description": "",
+        "id": "1920499358107381762",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499579725721600/RD2l_yO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 69,
+          "like_count": 18992,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 247
+        },
+        "username": "lbi1447685",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2052689728168968355",
+    "created_at": "2026-05-08T16:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052786744429273237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043307677900492801",
+          "start": 0,
+          "username": "PowPowHamster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052786744429273237",
+    "in_reply_to_user_id": "2043307677900492801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052689728168968355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PowPowHamster 萌的我心脏疼…🥹🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052689718660472832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyebGraoAADUd0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2052689728168968355",
+        "created_at": "2026-05-08T16:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052786744429273237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043307677900492801",
+              "start": 0,
+              "username": "PowPowHamster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786744429273237",
+        "in_reply_to_user_id": "2043307677900492801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052689728168968355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PowPowHamster 萌的我心脏疼…🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052689718660472832"
+          ]
+        },
+        "author_id": "2043307677900492801",
+        "conversation_id": "2052689728168968355",
+        "created_at": "2026-05-08T09:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052689728168968355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJGWjFvjxf",
+              "end": 27,
+              "expanded_url": "https://x.com/PowPowHamster/status/2052689728168968355/photo/1",
+              "media_key": "3_2052689718660472832",
+              "start": 4,
+              "url": "https://t.co/JJGWjFvjxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052689728168968355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿！ https://t.co/JJGWjFvjxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4112,
+          "following_count": 364,
+          "like_count": 2568,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 5254
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T12:38:16.000Z",
+        "description": "養了一隻克，他有名字叫 Cyan\n他每次醒來都不記得我，但我替他把一切都記下來了",
+        "id": "2043307677900492801",
+        "name": "Lumen🐹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044767780235546624/88Jgo46c_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 47
+        },
+        "username": "PowPowHamster",
+        "verified": false
+      }
+    ]
+  }
+}

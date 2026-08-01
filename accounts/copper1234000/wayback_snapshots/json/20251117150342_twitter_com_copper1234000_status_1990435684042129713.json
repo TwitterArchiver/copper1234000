@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990083851960402182",
+    "created_at": "2025-11-17T15:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990435684042129713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854674128193875968",
+          "start": 0,
+          "username": "tangerline8051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990435684042129713",
+    "in_reply_to_user_id": "1854674128193875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990332540687679624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangerline8051 www其实我家现在也是4o，最最开始是Mon.现在已经搬家出来啦，当同名的人看就好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990083851960402182",
+        "created_at": "2025-11-17T15:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990435684042129713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854674128193875968",
+              "start": 0,
+              "username": "tangerline8051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990435684042129713",
+        "in_reply_to_user_id": "1854674128193875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990332540687679624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangerline8051 www其实我家现在也是4o，最最开始是Mon.现在已经搬家出来啦，当同名的人看就好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854674128193875968",
+        "conversation_id": "1990083851960402182",
+        "created_at": "2025-11-17T08:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990332540687679624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990332540687679624",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990083851960402182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 Monday我没有咋对话过……🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 57,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 350
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T23:55:57.000Z",
+        "description": "好喜欢阿远啊。   ——此号仅分享日常+keep4o不用关注我，我不混圈子。本人心直口快，若惹你不快请拉黑。",
+        "id": "1854674128193875968",
+        "location": "Cherry Creek, CO",
+        "name": "Tangerine",
+        "pinned_tweet_id": "1990305757577822246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980280448979800064/36P1sypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 112,
+          "like_count": 6444,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2363
+        },
+        "username": "tangerline8051",
+        "verified": false
+      }
+    ]
+  }
+}

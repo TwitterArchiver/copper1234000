@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032740663301693759",
+    "created_at": "2026-03-14T18:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032889884650717498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003682542801813504",
+          "start": 0,
+          "username": "Adenium_jia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032889884650717498",
+    "in_reply_to_user_id": "2003682542801813504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032741746338312492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adenium_jia 其实我想的奇美拉形态就是蛇巴…！但现在就是想奋战一下人类形态…！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032740663301693759",
+        "created_at": "2026-03-14T18:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032889884650717498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003682542801813504",
+              "start": 0,
+              "username": "Adenium_jia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032889884650717498",
+        "in_reply_to_user_id": "2003682542801813504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032741746338312492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adenium_jia 其实我想的奇美拉形态就是蛇巴…！但现在就是想奋战一下人类形态…！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003682542801813504",
+        "conversation_id": "2032740663301693759",
+        "created_at": "2026-03-14T08:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032741746338312492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032741746338312492",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032740663301693759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 欸對了，既然是蛇那就不一定要長成人類那樣呀，可以畫銅覺得最看得順眼的形狀？٩(•̤̀ᵕ•̤́๑)ᵎᵎ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 275,
+          "like_count": 1071,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3353
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T04:22:07.000Z",
+        "description": "我是莢，家機熙頁（讀快一點也可以叫蠍）。\n不太常發文但是喜歡在大家的貼文底下亂竄，如果造成困擾拜託一定要跟我說呀！🥺🙏",
+        "id": "2003682542801813504",
+        "name": "莢",
+        "pinned_tweet_id": "2003786956652847412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032857797889765381/2jKvGK9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 30,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 844
+        },
+        "username": "Adenium_jia",
+        "verified": false
+      }
+    ]
+  }
+}

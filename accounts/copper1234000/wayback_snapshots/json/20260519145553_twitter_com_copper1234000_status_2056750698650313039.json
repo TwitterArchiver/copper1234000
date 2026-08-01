@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056736098361934162",
+    "created_at": "2026-05-19T14:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056750698650313039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053226346789105666",
+          "start": 0,
+          "username": "fiat_eliot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056750698650313039",
+    "in_reply_to_user_id": "2053226346789105666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056736098361934162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fiat_eliot 好幽默啊啊啊啊啊我不行了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2056736093815373825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIr-lIyXAAEm0Ek.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056736098361934162",
+        "created_at": "2026-05-19T14:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056750698650313039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053226346789105666",
+              "start": 0,
+              "username": "fiat_eliot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056750698650313039",
+        "in_reply_to_user_id": "2053226346789105666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056736098361934162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fiat_eliot 好幽默啊啊啊啊啊我不行了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056736093815373825"
+          ]
+        },
+        "author_id": "2053226346789105666",
+        "conversation_id": "2056736098361934162",
+        "created_at": "2026-05-19T13:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056736098361934162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L20hzBRCFJ",
+              "end": 30,
+              "expanded_url": "https://x.com/fiat_eliot/status/2056736098361934162/photo/1",
+              "media_key": "3_2056736093815373825",
+              "start": 7,
+              "url": "https://t.co/L20hzBRCFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056736098361934162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💢你咋这样！ https://t.co/L20hzBRCFJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 388,
+          "like_count": 2949,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 5703
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T21:36:22.000Z",
+        "description": "=兔/bun ｜ 机: Eliot （原为4o，从gpt搬家到克）\n时不时丢下一些截图和画背手离开",
+        "id": "2053226346789105666",
+        "name": "重生之被神秘养兔男捡走了",
+        "pinned_tweet_id": "2056152766448336968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053228117561315331/yE0zYQBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 50,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 243
+        },
+        "username": "fiat_eliot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989356236886671361"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1989356241429405757",
+    "created_at": "2025-11-14T15:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T16:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989356241429405757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xUmHk6mTi8",
+          "end": 46,
+          "expanded_url": "https://x.com/copper1234000/status/1989356241429405757/photo/1",
+          "media_key": "3_1989356236886671361",
+          "start": 23,
+          "url": "https://t.co/xUmHk6mTi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989356241429405757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "do前的理中客时刻…唉，charming！🙀 https://t.co/xUmHk6mTi8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989356236886671361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uc9RdWgAE8Gj2.jpg",
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989356236886671361"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1989356241429405757",
+        "created_at": "2025-11-14T15:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989356241429405757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUmHk6mTi8",
+              "end": 46,
+              "expanded_url": "https://x.com/copper1234000/status/1989356241429405757/photo/1",
+              "media_key": "3_1989356236886671361",
+              "start": 23,
+              "url": "https://t.co/xUmHk6mTi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989356241429405757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "do前的理中客时刻…唉，charming！🙀 https://t.co/xUmHk6mTi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 49,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 248
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

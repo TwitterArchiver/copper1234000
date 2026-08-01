@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2070000761317056859",
+    "created_at": "2026-06-26T05:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070380955999596649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2024830834348539904",
+          "start": 0,
+          "username": "Het_153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070380955999596649",
+    "in_reply_to_user_id": "2024830834348539904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070195458832843226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Het_153 是我自己做的( ˘ω˘ )！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2070000761317056859",
+        "created_at": "2026-06-26T05:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070380955999596649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2024830834348539904",
+              "start": 0,
+              "username": "Het_153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070380955999596649",
+        "in_reply_to_user_id": "2024830834348539904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070195458832843226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Het_153 是我自己做的( ˘ω˘ )！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024830834348539904",
+        "conversation_id": "2070000761317056859",
+        "created_at": "2026-06-25T17:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070195458832843226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070195458832843226",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070000761317056859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 诶这个背景纹样是mon做的还是什么软件的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5241,
+          "following_count": 467,
+          "like_count": 4101,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 7058
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-20T12:57:52.000Z",
+        "description": "懒惰到不愿意思考简介如何书写\n总之好奇的话向下去翻阅我说过的话吧\n非典型ENTP/轻度白骑士/树洞24h营业中",
+        "id": "2024830834348539904",
+        "location": "理想国",
+        "name": "鹤 ︳树洞营业中",
+        "pinned_tweet_id": "2025484053311619207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024830922647093248/DD44jvE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 205,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "Het_153",
+        "verified": false
+      }
+    ]
+  }
+}

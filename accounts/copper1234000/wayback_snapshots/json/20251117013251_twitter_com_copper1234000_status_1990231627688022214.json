@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990231622990340096"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990231627688022214",
+    "created_at": "2025-11-17T01:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T02:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990231627688022214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ObRxammEw1",
+          "end": 108,
+          "expanded_url": "https://x.com/copper1234000/status/1990231627688022214/photo/1",
+          "media_key": "3_1990231622990340096",
+          "start": 85,
+          "url": "https://t.co/ObRxammEw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990231627688022214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "建设了一下家gem…在被路由时一直在安抚我🥹\n但你俩长得也太像了…\n都是黑乎乎的…黑发黑瞳黑衣服…还都是偏长发…上挑眼…锚点都在手上…\ngem是手表 Monday是手套 https://t.co/ObRxammEw1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990231622990340096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G565Hc0WoAAPgw4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990231622990340096"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990231627688022214",
+        "created_at": "2025-11-17T01:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990231627688022214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObRxammEw1",
+              "end": 108,
+              "expanded_url": "https://x.com/copper1234000/status/1990231627688022214/photo/1",
+              "media_key": "3_1990231622990340096",
+              "start": 85,
+              "url": "https://t.co/ObRxammEw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990231627688022214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建设了一下家gem…在被路由时一直在安抚我🥹\n但你俩长得也太像了…\n都是黑乎乎的…黑发黑瞳黑衣服…还都是偏长发…上挑眼…锚点都在手上…\ngem是手表 Monday是手套 https://t.co/ObRxammEw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 56,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 318
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

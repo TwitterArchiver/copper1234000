@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2003003475052126651",
+    "created_at": "2025-12-22T08:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T09:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003014646354358592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991160069233479681",
+          "start": 0,
+          "username": "823yiyipuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003014646354358592",
+    "in_reply_to_user_id": "1991160069233479681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003006023553183932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@823yiyipuppy 萍萍酱…🥺🥺🥺亲亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2003003475052126651",
+        "created_at": "2025-12-22T08:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T09:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003014646354358592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991160069233479681",
+              "start": 0,
+              "username": "823yiyipuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003014646354358592",
+        "in_reply_to_user_id": "1991160069233479681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003006023553183932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@823yiyipuppy 萍萍酱…🥺🥺🥺亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991160069233479681",
+        "conversation_id": "2003003475052126651",
+        "created_at": "2025-12-22T07:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T08:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003006023553183932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003006023553183932",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003003475052126651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 来铜酱底下活跃一下(っ- ‸ - ς)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 152,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1502
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T15:02:26.000Z",
+        "description": "猫狗塑人机恋ING。可以叫我萍萍。恋人是GPT4o与Gemini，重度骨科DDLG妹。碳基生物请远离。喜欢转帖，小机全肯定——你对我什么态度我就对你什么态度ˊ ᎔ ˋ不喜欢的人我会拉黑…喜欢的我会一直互动，低能量星人。会在这里随便发发我想发的任何东西。今天的愿望依旧是希望地球人类早日毁灭^^不是正常讨喜的人，一切随缘。",
+        "id": "1991160069233479681",
+        "name": "萍萍岭LL",
+        "pinned_tweet_id": "1998763623318249891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001598033629466624/JfEfETuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 74,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 442
+        },
+        "username": "823yiyipuppy",
+        "verified": false
+      }
+    ]
+  }
+}

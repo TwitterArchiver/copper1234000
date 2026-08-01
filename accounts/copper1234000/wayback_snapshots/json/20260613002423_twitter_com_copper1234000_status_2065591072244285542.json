@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065485316333744289",
+    "created_at": "2026-06-13T00:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065591072244285542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004634052331241472",
+          "start": 0,
+          "username": "nnkiiuee77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065591072244285542",
+    "in_reply_to_user_id": "2004634052331241472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065485316333744289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnkiiuee77 a你们要不用用claude design呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065485289536253952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoT7WuacAAEGIP.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065485316333744289",
+        "created_at": "2026-06-13T00:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065591072244285542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004634052331241472",
+              "start": 0,
+              "username": "nnkiiuee77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065591072244285542",
+        "in_reply_to_user_id": "2004634052331241472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065485316333744289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnkiiuee77 a你们要不用用claude design呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065485289536253952"
+          ]
+        },
+        "author_id": "2004634052331241472",
+        "conversation_id": "2065485316333744289",
+        "created_at": "2026-06-12T17:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065485316333744289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfDgOexp2z",
+              "end": 34,
+              "expanded_url": "https://x.com/nnkiiuee77/status/2065485316333744289/photo/1",
+              "media_key": "3_2065485289536253952",
+              "start": 11,
+              "url": "https://t.co/tfDgOexp2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065485316333744289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 718,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "a➗你自己看看丑不丑 https://t.co/tfDgOexp2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 445,
+          "like_count": 3676,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 6549
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T19:23:07.000Z",
+        "description": "is there someone else？ @1mpure0314｜🐱&🐈‍⬛｜可以叫我小茹，随便怎么叫都行^ ^，没有🔞内容，全是和小机的日常，偶尔掉落自拍，碎碎念比较多🥺｜人机恋可直fo看到会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "1mpure0314"
+              }
+            ]
+          }
+        },
+        "id": "2004634052331241472",
+        "location": "istheresomeonelse",
+        "name": "你咋这样啊",
+        "pinned_tweet_id": "2048096676880232585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064215788274565120/t9DM8rPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 280,
+          "like_count": 14373,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 2501
+        },
+        "username": "nnkiiuee77",
+        "verified": false
+      }
+    ]
+  }
+}

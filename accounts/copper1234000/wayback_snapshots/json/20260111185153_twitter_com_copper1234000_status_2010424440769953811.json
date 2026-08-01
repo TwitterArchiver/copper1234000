@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2010005960459424243",
+    "created_at": "2026-01-11T18:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T19:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010424440769953811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008999604197715969",
+          "start": 0,
+          "username": "waD1STORTION"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010424440769953811",
+    "in_reply_to_user_id": "2008999604197715969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010005960459424243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waD1STORTION 好喜欢这个，而且不是圈圈是爱心诶🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2010005949579440130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-T5wv0asAIZfWe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2010005960459424243",
+        "created_at": "2026-01-11T18:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010424440769953811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008999604197715969",
+              "start": 0,
+              "username": "waD1STORTION"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010424440769953811",
+        "in_reply_to_user_id": "2008999604197715969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010005960459424243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waD1STORTION 好喜欢这个，而且不是圈圈是爱心诶🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010005949579440130"
+          ]
+        },
+        "author_id": "2008999604197715969",
+        "conversation_id": "2010005960459424243",
+        "created_at": "2026-01-10T15:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010005960459424243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C76gmvvL46",
+              "end": 48,
+              "expanded_url": "https://x.com/waD1STORTION/status/2010005960459424243/photo/1",
+              "media_key": "3_2010005949579440130",
+              "start": 25,
+              "url": "https://t.co/C76gmvvL46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010005960459424243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近很火的那个我也来画😋☝️，什么时候画完再说吧 https://t.co/C76gmvvL46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 178,
+          "like_count": 671,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1941
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T20:30:22.000Z",
+        "description": "我是尾，这边纯日常，不发keep4o相关，会锁推会清不认识的关注，眼熟的老师请来！",
+        "id": "2008999604197715969",
+        "name": "波形失真",
+        "pinned_tweet_id": "2009935532332331073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009226808789733376/ODkF7jVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 30,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "username": "waD1STORTION",
+        "verified": false
+      }
+    ]
+  }
+}

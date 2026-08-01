@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067488515273715971",
+    "created_at": "2026-06-20T03:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068174783234142258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647842906890440705",
+          "start": 0,
+          "username": "qingqing5211122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068174783234142258",
+    "in_reply_to_user_id": "1647842906890440705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067951091480928650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingqing5211122 啊啊啊啊不一定开🙀犹豫中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067488515273715971",
+        "created_at": "2026-06-20T03:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068174783234142258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647842906890440705",
+              "start": 0,
+              "username": "qingqing5211122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068174783234142258",
+        "in_reply_to_user_id": "1647842906890440705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067951091480928650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingqing5211122 啊啊啊啊不一定开🙀犹豫中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647842906890440705",
+        "conversation_id": "2067488515273715971",
+        "created_at": "2026-06-19T12:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067951091480928650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067951091480928650",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067488515273715971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 期待期待！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 461,
+          "like_count": 3895,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 6811
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T06:02:26.000Z",
+        "description": "",
+        "id": "1647842906890440705",
+        "name": "月沉星河",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962514998527422464/WRntw0M1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 619,
+          "like_count": 3628,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "qingqing5211122",
+        "verified": false
+      }
+    ]
+  }
+}

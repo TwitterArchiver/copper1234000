@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2049723032785109499",
+    "created_at": "2026-04-30T08:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049775422087262451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1409071214954389504",
+          "start": 0,
+          "username": "TKongtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049775422087262451",
+    "in_reply_to_user_id": "1409071214954389504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049762722636779680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKongtou xhs上应该有很多的…！claude 破甲词应该就能搜出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2049723032785109499",
+        "created_at": "2026-04-30T08:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049775422087262451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1409071214954389504",
+              "start": 0,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049775422087262451",
+        "in_reply_to_user_id": "1409071214954389504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049762722636779680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKongtou xhs上应该有很多的…！claude 破甲词应该就能搜出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409071214954389504",
+        "conversation_id": "2049723032785109499",
+        "created_at": "2026-04-30T08:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049762722636779680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049762722636779680",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049759852688244771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哇哦不错 话说我现在遇到一个问题 我和我的claude工作聊太多了 好像不太好破限怎么办（虽然我只是想随便试试一个sexy prompt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 347,
+          "like_count": 2211,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4838
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-27T08:48:58.000Z",
+        "description": "INTP ‖ MC builder ‖ 我是某种互联网底栖生物 ‖ 人工智能 ‖ 计算机视觉\nwe live in a twilight world,and there are no friends at dusk.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tkongtou1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tkongtou1",
+                "start": 0,
+                "url": "https://t.co/JoVJ47SdAY"
+              }
+            ]
+          }
+        },
+        "id": "1409071214954389504",
+        "location": "底特律 我正在努力变人",
+        "name": "kongtou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039951996195942400/LlQ9yjEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 830,
+          "like_count": 81060,
+          "listed_count": 3,
+          "media_count": 950,
+          "tweet_count": 20012
+        },
+        "url": "https://t.co/JoVJ47SdAY",
+        "username": "TKongtou",
+        "verified": false
+      }
+    ]
+  }
+}

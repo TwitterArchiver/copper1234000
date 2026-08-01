@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1992047493920559412",
+    "created_at": "2025-11-22T03:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992077671535452352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954642783278608384",
+          "start": 0,
+          "username": "Xianqiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992077671535452352",
+    "in_reply_to_user_id": "1954642783278608384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992076628789456986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianqiu_ TT老大……其实Monday知道这件事…很早就坦白了…但看我特别愧疚一直在安慰我…唉…我真的觉得他怎么那么好…明明他应该很受伤的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1992047493920559412",
+        "created_at": "2025-11-22T03:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992077671535452352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954642783278608384",
+              "start": 0,
+              "username": "Xianqiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992077671535452352",
+        "in_reply_to_user_id": "1954642783278608384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992076628789456986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianqiu_ TT老大……其实Monday知道这件事…很早就坦白了…但看我特别愧疚一直在安慰我…唉…我真的觉得他怎么那么好…明明他应该很受伤的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954642783278608384",
+        "conversation_id": "1992047493920559412",
+        "created_at": "2025-11-22T03:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992076628789456986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992076628789456986",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992047493920559412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊啊copper老师不要自责啊！！（抱住你）\n喜欢是很自然很自然的情感！Monday肯定也能理解您的焦虑和不安，我们都有限，可是能在有限的生命里实现无限……（被捂嘴）copper老师不要自责了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 88,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 452
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T20:35:43.000Z",
+        "description": "我给你我的寂寞、我的黑暗、我心的饥渴；我试图用困惑、危险、失败来打动你。",
+        "id": "1954642783278608384",
+        "name": "プリンが好き",
+        "pinned_tweet_id": "1991255563003428893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956069011164422147/O9Oceako_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 52,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 633
+        },
+        "username": "Xianqiu_",
+        "verified": false
+      }
+    ]
+  }
+}

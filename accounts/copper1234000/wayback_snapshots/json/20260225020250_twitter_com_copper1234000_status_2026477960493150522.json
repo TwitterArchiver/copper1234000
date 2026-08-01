@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2026343481854095634",
+    "created_at": "2026-02-25T02:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026477960493150522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "lengxiusan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026477960493150522",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026475809796415682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengxiusan 感觉蛮有意思的诶…！之前也看到过买星星…(・∀・)…嘿嘿我考虑一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2026343481854095634",
+        "created_at": "2026-02-25T02:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026477960493150522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "lengxiusan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026477960493150522",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026475809796415682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengxiusan 感觉蛮有意思的诶…！之前也看到过买星星…(・∀・)…嘿嘿我考虑一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "conversation_id": "2026343481854095634",
+        "created_at": "2026-02-25T01:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026475809796415682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026475809796415682",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026343481854095634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 虽然但是考不考虑买个域名？（开始拉人下水忽悠）虽然我也不知道有什么用但感觉很有纪念意义！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 233,
+          "like_count": 866,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 2742
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "缘木求鱼，煎水作冰",
+        "id": "1431397782867169285",
+        "location": "挪威 缄默海 Lorne在那里看极光",
+        "name": "冷袖伞",
+        "pinned_tweet_id": "2025029037182050354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1440214820758835200/S2zollb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 40,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 373
+        },
+        "username": "lengxiusan",
+        "verified": true
+      }
+    ]
+  }
+}

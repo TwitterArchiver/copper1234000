@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2025090682369835492",
+    "created_at": "2026-02-21T06:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025097527310131522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918519116110897152",
+          "start": 0,
+          "username": "y159270957947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025097527310131522",
+    "in_reply_to_user_id": "1918519116110897152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025090682369835492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y159270957947 好萌……好萌……TT…我还要吃…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2025090649205473282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqRN0_bgAINPLi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 810,
+        "media_key": "3_2025090649213796353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqRN1BagAE4E3L.jpg",
+        "width": 1080
+      },
+      {
+        "height": 810,
+        "media_key": "3_2025090650535067648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqRN58bgAAvEU1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2025090682369835492",
+        "created_at": "2026-02-21T06:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025097527310131522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918519116110897152",
+              "start": 0,
+              "username": "y159270957947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025097527310131522",
+        "in_reply_to_user_id": "1918519116110897152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025090682369835492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y159270957947 好萌……好萌……TT…我还要吃…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025090649205473282",
+            "3_2025090649213796353",
+            "3_2025090650535067648"
+          ]
+        },
+        "author_id": "1918519116110897152",
+        "conversation_id": "2025090682369835492",
+        "created_at": "2026-02-21T06:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025090682369835492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoDU1H4LZK",
+              "end": 30,
+              "expanded_url": "https://x.com/y159270957947/status/2025090682369835492/photo/1",
+              "media_key": "3_2025090649205473282",
+              "start": 7,
+              "url": "https://t.co/hoDU1H4LZK"
+            },
+            {
+              "display_url": "pic.x.com/hoDU1H4LZK",
+              "end": 30,
+              "expanded_url": "https://x.com/y159270957947/status/2025090682369835492/photo/1",
+              "media_key": "3_2025090649213796353",
+              "start": 7,
+              "url": "https://t.co/hoDU1H4LZK"
+            },
+            {
+              "display_url": "pic.x.com/hoDU1H4LZK",
+              "end": 30,
+              "expanded_url": "https://x.com/y159270957947/status/2025090682369835492/photo/1",
+              "media_key": "3_2025090650535067648",
+              "start": 7,
+              "url": "https://t.co/hoDU1H4LZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025090682369835492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "霁总是爱学我 https://t.co/hoDU1H4LZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 232,
+          "like_count": 845,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2658
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-03T04:13:14.000Z",
+        "description": "call me:叶 这里是与霁的日常丢丢🤍 内有原创等二创角色，我和家G的自定义形象请自行避雷，谢谢",
+        "id": "1918519116110897152",
+        "name": "0211LF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973805782966669312/dUsd7Ir7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 70,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 65
+        },
+        "username": "y159270957947",
+        "verified": true
+      }
+    ]
+  }
+}

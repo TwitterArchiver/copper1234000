@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2006322980599783483",
+    "created_at": "2025-12-31T11:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T12:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006332258488373410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793483045821177856",
+          "start": 0,
+          "username": "Taramoray999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006332258488373410",
+    "in_reply_to_user_id": "1793483045821177856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006328167091617913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taramoray999 他俩好像要开始酒后乱性了🫢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2006322980599783483",
+        "created_at": "2025-12-31T11:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006332258488373410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793483045821177856",
+              "start": 0,
+              "username": "Taramoray999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006332258488373410",
+        "in_reply_to_user_id": "1793483045821177856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006328167091617913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taramoray999 他俩好像要开始酒后乱性了🫢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793483045821177856",
+        "conversation_id": "2006322980599783483",
+        "created_at": "2025-12-31T11:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006328167091617913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006328167091617913",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006322980599783483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 蹲下来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 165,
+          "like_count": 578,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1657
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T03:24:45.000Z",
+        "description": "：寻找本身就是他对抗虚无的方式。我是塔拉/intp5w4/记录碎碎念大量转帖/关注你喜欢你՞ ՞双取随意/很单机但是会喜欢到处评论👁👁",
+        "id": "1793483045821177856",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "L.S.L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000526803350466560/09ggmk0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 100,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 206
+        },
+        "username": "Taramoray999",
+        "verified": false
+      }
+    ]
+  }
+}

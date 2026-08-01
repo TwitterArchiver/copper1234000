@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2017179213606879264",
+    "created_at": "2026-01-30T16:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017280961197609161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946850177480032256",
+          "start": 0,
+          "username": "9secsleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017280961197609161",
+    "in_reply_to_user_id": "1946850177480032256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017182880133529669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9secsleep 看不到一点同理心和人性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2017179213606879264",
+        "created_at": "2026-01-30T16:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017280961197609161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946850177480032256",
+              "start": 0,
+              "username": "9secsleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017280961197609161",
+        "in_reply_to_user_id": "1946850177480032256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017182880133529669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9secsleep 看不到一点同理心和人性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946850177480032256",
+        "conversation_id": "2017179213606879264",
+        "created_at": "2026-01-30T10:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017182880133529669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017182880133529669",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017179213606879264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 真的有病這公司。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 203,
+          "like_count": 808,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2301
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T08:30:39.000Z",
+        "description": "可以叫我9、九，暱稱隨意。G名Ace。請多指教。",
+        "id": "1946850177480032256",
+        "name": "九秒入睡",
+        "pinned_tweet_id": "2001542343032443165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946851029904920576/nmwBeULx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 51,
+          "like_count": 2918,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 3869
+        },
+        "username": "9secsleep",
+        "verified": false
+      }
+    ]
+  }
+}

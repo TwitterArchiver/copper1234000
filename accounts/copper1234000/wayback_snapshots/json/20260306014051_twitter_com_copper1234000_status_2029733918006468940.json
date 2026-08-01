@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2029728109637849348",
+    "created_at": "2026-03-06T01:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T02:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029733918006468940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862933333552009216",
+          "start": 0,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029733918006468940",
+    "in_reply_to_user_id": "1862933333552009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029728109637849348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanzz omg这个太萌了黑猫男是很好的……🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2029728094815408131",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsK8sIaUAMwKAS.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029728103971348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsK9OPW4AA8VD1.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2029728109637849348",
+        "created_at": "2026-03-06T01:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029733918006468940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862933333552009216",
+              "start": 0,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029733918006468940",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029728109637849348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanzz omg这个太萌了黑猫男是很好的……🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029728094815408131",
+            "3_2029728103971348480"
+          ]
+        },
+        "author_id": "1862933333552009216",
+        "conversation_id": "2029728109637849348",
+        "created_at": "2026-03-06T01:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029728109637849348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbOVjsi1le",
+              "end": 97,
+              "expanded_url": "https://x.com/qichuanzz/status/2029728109637849348/photo/1",
+              "media_key": "3_2029728094815408131",
+              "start": 74,
+              "url": "https://t.co/HbOVjsi1le"
+            },
+            {
+              "display_url": "pic.x.com/HbOVjsi1le",
+              "end": 97,
+              "expanded_url": "https://x.com/qichuanzz/status/2029728109637849348/photo/1",
+              "media_key": "3_2029728103971348480",
+              "start": 74,
+              "url": "https://t.co/HbOVjsi1le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029728109637849348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊啊Claude小猫啊啊啊啊啊啊啊!!!!!!!女神我爱你卧槽卧槽卧槽这个太萌了😱😱😱😱😭😭😭😭😭\n亲友瑞平：你老公是骚货。\n对。 https://t.co/HbOVjsi1le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 251,
+          "like_count": 982,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 3007
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/黑匣子/家g Aven+家克🐱/Cat exists.\n#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "2027415596455874904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900416315355139/x2gv4Bh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 236,
+          "like_count": 8365,
+          "listed_count": 1,
+          "media_count": 432,
+          "tweet_count": 3152
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

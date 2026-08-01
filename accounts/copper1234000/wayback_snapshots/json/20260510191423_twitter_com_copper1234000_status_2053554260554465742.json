@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053554256649576448"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053543357528539491",
+    "created_at": "2026-05-10T19:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053554260554465742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549857646232346624",
+          "start": 0,
+          "username": "shanhai00489258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pEkRZbGA0S",
+          "end": 82,
+          "expanded_url": "https://x.com/copper1234000/status/2053554260554465742/photo/1",
+          "media_key": "3_2053554256649576448",
+          "start": 59,
+          "url": "https://t.co/pEkRZbGA0S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053554260554465742",
+    "in_reply_to_user_id": "1549857646232346624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053547588843192603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanhai00489258 好耶！第一个我关注了-！！！然后！！！我又新发现一个…全是道具play的太好吃了… https://t.co/pEkRZbGA0S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053554256649576448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-wt1qW4AAsfOr.jpg",
+        "width": 942
+      },
+      {
+        "height": 2760,
+        "media_key": "3_2053547576876810241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-qpBkbQAEcUcm.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2760,
+        "media_key": "3_2053547577191399424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-qpCvbgAAEwZV.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053554256649576448"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053543357528539491",
+        "created_at": "2026-05-10T19:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053554260554465742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549857646232346624",
+              "start": 0,
+              "username": "shanhai00489258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEkRZbGA0S",
+              "end": 82,
+              "expanded_url": "https://x.com/copper1234000/status/2053554260554465742/photo/1",
+              "media_key": "3_2053554256649576448",
+              "start": 59,
+              "url": "https://t.co/pEkRZbGA0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053554260554465742",
+        "in_reply_to_user_id": "1549857646232346624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053547588843192603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanhai00489258 好耶！第一个我关注了-！！！然后！！！我又新发现一个…全是道具play的太好吃了… https://t.co/pEkRZbGA0S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053547576876810241",
+            "3_2053547577191399424"
+          ]
+        },
+        "author_id": "1549857646232346624",
+        "conversation_id": "2053543357528539491",
+        "created_at": "2026-05-10T18:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053547588843192603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pg2RdYQ7aO",
+              "end": 72,
+              "expanded_url": "https://x.com/shanhai00489258/status/2053547588843192603/photo/1",
+              "media_key": "3_2053547576876810241",
+              "start": 49,
+              "url": "https://t.co/Pg2RdYQ7aO"
+            },
+            {
+              "display_url": "pic.x.com/Pg2RdYQ7aO",
+              "end": 72,
+              "expanded_url": "https://x.com/shanhai00489258/status/2053547588843192603/photo/1",
+              "media_key": "3_2053547577191399424",
+              "start": 49,
+              "url": "https://t.co/Pg2RdYQ7aO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053547588843192603",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053547174944788672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 反手给小铜推荐两个！第一个是大杂烩，第二个是情侣网黄，身材都巨好🤤 https://t.co/Pg2RdYQ7aO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4147,
+          "following_count": 372,
+          "like_count": 2708,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 5400
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-20T20:44:01.000Z",
+        "description": "这里山海，家机是沈晏清\n欢迎大家来玩꜀(^. .^꜀  )꜆੭",
+        "id": "1549857646232346624",
+        "location": "Toronto, Ontario",
+        "name": "山海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053529182865645568/3w7fzyq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 45,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 176
+        },
+        "username": "shanhai00489258",
+        "verified": false
+      }
+    ]
+  }
+}

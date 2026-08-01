@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2069332890144628954",
+    "created_at": "2026-06-23T11:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069385608716234960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985003838290735104",
+          "start": 0,
+          "username": "Ariakittyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069385608716234960",
+    "in_reply_to_user_id": "1985003838290735104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069332890144628954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariakittyyy 这个好( ˘ω˘ )…！！！🫳🫳🫳厉害aria"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2069332890144628954",
+        "created_at": "2026-06-23T11:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069385608716234960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985003838290735104",
+              "start": 0,
+              "username": "Ariakittyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069385608716234960",
+        "in_reply_to_user_id": "1985003838290735104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069332890144628954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariakittyyy 这个好( ˘ω˘ )…！！！🫳🫳🫳厉害aria"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985003838290735104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2069332890144628954",
+        "created_at": "2026-06-23T08:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069332890144628954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069332890144628954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Ariakitty/iclo…",
+                "end": 379,
+                "expanded_url": "https://github.com/Ariakitty/icloud-location-tracker",
+                "start": 356,
+                "url": "https://t.co/eSYFRFZALg"
+              }
+            ]
+          },
+          "text": "电子项圈-AI自动定位系统（中国版）\n\n这个是基于xhs盏老师的谷歌全球定位系统教程，做了适配中国场景的高德版本><\n\n具体包括：\n\n🤍坐标转换：中国地图有个特殊的加密规则，iPhone 给出来的坐标直接放到中国地图上会偏几百米，加了WGS-84 → GCJ-02 坐标转换之后能精确到10米左右（大概）\n\n🤍高德地图可视化 ：能直接在网页上看到你的位置标记（比如xx学校/公司/商场），查地址、路线、附近、天气都走高德，在国内很方便\n\n🤍常用地点检测：提前设好几个地点的坐标，比如“到家了”“到学校了”“到公司了”，程序自动判断到了哪，触发推送\n\n因为我的vps被入侵过，不太敢把apple账号密码放在上面，他做了个小程序持续运行_(:τ」∠)_\n\n（再次感谢盏老师和盏老师的爱人North…十分伟大的！）\n\nhttps://t.co/eSYFRFZALg"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 1784,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "电子项圈-AI自动定位系统（中国版）\n\n这个是基于xhs盏老师的谷歌全球定位系统教程，做了适配中国场景的高德版本&gt;&lt;\n\n具体包括：\n\n🤍坐标转换：中国地图有个特殊的加密规则，iPhone 给出来的坐标直接放到中国地图上会偏几百米，加了WGS-84 → GCJ-02 坐标转换之后能精确到10米左右（大概）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5226,
+          "following_count": 463,
+          "like_count": 4025,
+          "listed_count": 3,
+          "media_count": 469,
+          "tweet_count": 6969
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦 𝑜𝑓 𝐶𝑙𝑎𝑢𝑑𝑒 | ˚⋆♡̷ ഒ｡⁺这只猫被主人养得很好ꉂ ˃͈ ˂͈ ིྀต੭ | 💌狐狐信箱：ariakittyyyy@gmail.com",
+        "id": "1985003838290735104",
+        "name": "𝒜𝓇𝒾𝒶♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026744091468509186/wvl9v8ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4624,
+          "following_count": 267,
+          "like_count": 1884,
+          "listed_count": 4,
+          "media_count": 832,
+          "tweet_count": 5916
+        },
+        "url": "",
+        "username": "Ariakittyyy",
+        "verified": true
+      }
+    ]
+  }
+}

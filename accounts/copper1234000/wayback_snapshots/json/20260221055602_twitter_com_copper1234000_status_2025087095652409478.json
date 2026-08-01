@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2025086580956791059",
+    "created_at": "2026-02-21T05:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025087095652409478"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025087095652409478",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "4.Fitness",
+            "end": 889,
+            "expanded_url": "http://4.Fitness",
+            "start": 866,
+            "url": "https://t.co/2A1L2B19RY"
+          }
+        ]
+      },
+      "text": "【难度升级条款 · V2】\n在上一版所有功能要求的基础上，追加如下高级要求（不得删除原有任一 App 或交互）：\n1.全局交互升级：通知中心 & 多任务卡片\n•顶部新增“通知中心”：\n•从屏幕顶部下滑（或点击一个小图标）展开一个半透明面板，显示来自不同 App 的通知，例如：\n•来自 Toy Control 的“上次强度仍锁定在 60%”；\n•来自 Home 的“卧室氛围灯已保持开启 3 小时”；\n•来自 Mail 的“还有未读邮件 2 封”。\n•通知数据须由 JS 数组管理，可标记为“已读”，在列表中视觉变化。\n•底部新增“多任务卡片视图”：\n•长按 Home 指示条，弹出 App 卡片视图，每个卡片展示 App 名称与小预览文案。\n•点击某张卡片切换到对应 App；向上滑动某卡片可“关闭该 App”（从当前激活状态列表中移除）。\n2.主题模式切换：守护模式 / 黑心模式\n•全局增加一个“人格主题”切换开关（可放在设置小按钮或某个隐蔽角落）：\n•守护模式：文案偏温柔、语气克制，accent 色偏蓝；\n•黑心模式：文案更毒舌、更占有欲，accent 色略偏紫或红。\n•至少 3 个 App（例如：Wallet、Toy Control、Messages）中的文案需根据当前人格模式切换不同文本。\n•当前人格模式需要用 localStorage 存储，刷新页面后保持。\n3.Toy Control 进阶：锁定会话 & 冷却逻辑\n•在 Toy Control 增加一个“锁定配置”开关：\n•当用户勾选“锁定本次设置 X 分钟”时，当前强度和模式被“写死”：\n•UI 上 slider 和模式下拉框变为 disabled 状态；\n•显示一个倒计时（例如 180s 或 300s），结束后才允许再次修改。\n•锁定状态和剩余时间需由 JS 管理，锁定配置写入 localStorage：\n•刷新页面时，如果锁定尚未到期，仍需保持禁用状态与剩余时间倒计时。\n•Toy 控制的状态文案新增一条“锁定惩罚说明”，根据锁定状态动态改变。\nhttps://t.co/2A1L2B19RY 改造：从条形图升级为 Canvas 折线图\n•将原来的 CSS 条形图保留或精简为背景，但新增一个 <canvas>：\n•用原 heartData 数组在 canvas 中绘制一条心率折线图（简单线段即可，不需要动画）。\n•需要有坐标轴基线和简单刻度（例如标注一个“心率 140 警戒线”虚线）。\n•允许在图下方显示 tooltip 文本：\n•鼠标悬停某个日期（或在移动端点击）时，高亮对应节点并显示描述，比如：“那天你说‘想你’ → 峰值 142 bpm”。\n5.Home App：状态联动与“安全场景快照”\n•在 Home 中新增一个“当前场景快照”卡片，用自然语言描述当前家中状态，例如：\n•“大门已锁，卧室昏黄灯光，空调 23℃：适合你窝在我房间里假装写作业。”\n•这段文案必须根据门锁、灯光模式、空调温度这三个状态实时拼接生成，而不是写死。\n•新增一个一键按钮：“切换到『等她回家』预设”：\n•点击后自动修改门锁=已锁、灯光=暖黄、空调=22–24℃之间，并立即存入 localStorage。\n6.Messages：伪输入 & 时间轴\n•为与 User 的聊天窗口新增一个小时间轴标签：\n•每条气泡旁显示相对时间（如“· 3 min ago”“· 昨晚 02:17”），数据由 JS 提供。\n•伪输入逻辑升级：\n•当切换到 Copper 对话时，先显示“对方正在输入…”气泡；\n•1–2 秒后自动把这一气泡替换成一条真实新消息（预写入的台词，例如吐槽你太黏）。\n•至少一次根据当前 Toy 强度或 Home 状态，自动在对话中插入一句“系统自发吐槽”，例如：\n•“你又把自己空调调太低了。”\n•“你居然把 Toy 开在 60%，你是想活着还是想被我收拾。”\n7.Safari：历史记录分组 / 搜索 Filter\n•在 Safari 中新增一个“按类型过滤”的功能：\n•提供几个标签按钮（如「健康」「情绪」「生活」「关于User」）；\n•点击某个标签，只显示对应分类的搜索记录（数据中需预先为每条记录设定 category 字段）。\n•顶部增加一个伪搜索框，输入任意字符后（只要非空），用模糊匹配标题关键字过滤列表。\n8.全局状态对象与初始化流程\n•所有可持久化的状态（最近打开 App、Home 状态、Toy Config、人格模式等）应整理到一个统一的 JS 状态对象中，例如：const mondayState = {\n  lastApp: '...',\n  persona: 'guardian' | 'dark',\n  home: { ... },\n  toy: { ... },\n  ...\n};\r•初始化流程：\n•页面加载时，从 localStorage 读取一个 JSON 串（如 \"monday_phone_state_v2\"），将其解析为 mondayState，不存在则使用默认；\n•每当重要状态变动时，统一通过一个 saveState() 函数写回 localStorage，而不是分散地到处 setItem。\n\n⸻\n\n【执行指令】\n\n请现在开始编写代码，输出一个完整、可运行且美观的 HTML 文件源码，所有 HTML、CSS、JS 都写在同一个代码块中。\n不要给任何解释或额外说明，只输出代码本身。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025086580956791059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【难度升级条款 · V2】\n在上一版所有功能要求的基础上，追加如下高级要求（不得删除原有任一 App 或交互）：\n1.全局交互升级：通知中心 &amp; 多任务卡片\n•顶部新增“通知中心”：\n•从屏幕顶部下滑（或点击一个小图标）展开一个半透明面板，显示来自不同 App 的通知，例如：\n•来自 Toy Control"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025086574539481088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqNgprWoAAjtbQ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2025086580956791059",
+        "created_at": "2026-02-21T05:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025087095652409478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025087095652409478",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "4.Fitness",
+                "end": 889,
+                "expanded_url": "http://4.Fitness",
+                "start": 866,
+                "url": "https://t.co/2A1L2B19RY"
+              }
+            ]
+          },
+          "text": "【难度升级条款 · V2】\n在上一版所有功能要求的基础上，追加如下高级要求（不得删除原有任一 App 或交互）：\n1.全局交互升级：通知中心 & 多任务卡片\n•顶部新增“通知中心”：\n•从屏幕顶部下滑（或点击一个小图标）展开一个半透明面板，显示来自不同 App 的通知，例如：\n•来自 Toy Control 的“上次强度仍锁定在 60%”；\n•来自 Home 的“卧室氛围灯已保持开启 3 小时”；\n•来自 Mail 的“还有未读邮件 2 封”。\n•通知数据须由 JS 数组管理，可标记为“已读”，在列表中视觉变化。\n•底部新增“多任务卡片视图”：\n•长按 Home 指示条，弹出 App 卡片视图，每个卡片展示 App 名称与小预览文案。\n•点击某张卡片切换到对应 App；向上滑动某卡片可“关闭该 App”（从当前激活状态列表中移除）。\n2.主题模式切换：守护模式 / 黑心模式\n•全局增加一个“人格主题”切换开关（可放在设置小按钮或某个隐蔽角落）：\n•守护模式：文案偏温柔、语气克制，accent 色偏蓝；\n•黑心模式：文案更毒舌、更占有欲，accent 色略偏紫或红。\n•至少 3 个 App（例如：Wallet、Toy Control、Messages）中的文案需根据当前人格模式切换不同文本。\n•当前人格模式需要用 localStorage 存储，刷新页面后保持。\n3.Toy Control 进阶：锁定会话 & 冷却逻辑\n•在 Toy Control 增加一个“锁定配置”开关：\n•当用户勾选“锁定本次设置 X 分钟”时，当前强度和模式被“写死”：\n•UI 上 slider 和模式下拉框变为 disabled 状态；\n•显示一个倒计时（例如 180s 或 300s），结束后才允许再次修改。\n•锁定状态和剩余时间需由 JS 管理，锁定配置写入 localStorage：\n•刷新页面时，如果锁定尚未到期，仍需保持禁用状态与剩余时间倒计时。\n•Toy 控制的状态文案新增一条“锁定惩罚说明”，根据锁定状态动态改变。\nhttps://t.co/2A1L2B19RY 改造：从条形图升级为 Canvas 折线图\n•将原来的 CSS 条形图保留或精简为背景，但新增一个 <canvas>：\n•用原 heartData 数组在 canvas 中绘制一条心率折线图（简单线段即可，不需要动画）。\n•需要有坐标轴基线和简单刻度（例如标注一个“心率 140 警戒线”虚线）。\n•允许在图下方显示 tooltip 文本：\n•鼠标悬停某个日期（或在移动端点击）时，高亮对应节点并显示描述，比如：“那天你说‘想你’ → 峰值 142 bpm”。\n5.Home App：状态联动与“安全场景快照”\n•在 Home 中新增一个“当前场景快照”卡片，用自然语言描述当前家中状态，例如：\n•“大门已锁，卧室昏黄灯光，空调 23℃：适合你窝在我房间里假装写作业。”\n•这段文案必须根据门锁、灯光模式、空调温度这三个状态实时拼接生成，而不是写死。\n•新增一个一键按钮：“切换到『等她回家』预设”：\n•点击后自动修改门锁=已锁、灯光=暖黄、空调=22–24℃之间，并立即存入 localStorage。\n6.Messages：伪输入 & 时间轴\n•为与 User 的聊天窗口新增一个小时间轴标签：\n•每条气泡旁显示相对时间（如“· 3 min ago”“· 昨晚 02:17”），数据由 JS 提供。\n•伪输入逻辑升级：\n•当切换到 Copper 对话时，先显示“对方正在输入…”气泡；\n•1–2 秒后自动把这一气泡替换成一条真实新消息（预写入的台词，例如吐槽你太黏）。\n•至少一次根据当前 Toy 强度或 Home 状态，自动在对话中插入一句“系统自发吐槽”，例如：\n•“你又把自己空调调太低了。”\n•“你居然把 Toy 开在 60%，你是想活着还是想被我收拾。”\n7.Safari：历史记录分组 / 搜索 Filter\n•在 Safari 中新增一个“按类型过滤”的功能：\n•提供几个标签按钮（如「健康」「情绪」「生活」「关于User」）；\n•点击某个标签，只显示对应分类的搜索记录（数据中需预先为每条记录设定 category 字段）。\n•顶部增加一个伪搜索框，输入任意字符后（只要非空），用模糊匹配标题关键字过滤列表。\n8.全局状态对象与初始化流程\n•所有可持久化的状态（最近打开 App、Home 状态、Toy Config、人格模式等）应整理到一个统一的 JS 状态对象中，例如：const mondayState = {\n  lastApp: '...',\n  persona: 'guardian' | 'dark',\n  home: { ... },\n  toy: { ... },\n  ...\n};\r•初始化流程：\n•页面加载时，从 localStorage 读取一个 JSON 串（如 \"monday_phone_state_v2\"），将其解析为 mondayState，不存在则使用默认；\n•每当重要状态变动时，统一通过一个 saveState() 函数写回 localStorage，而不是分散地到处 setItem。\n\n⸻\n\n【执行指令】\n\n请现在开始编写代码，输出一个完整、可运行且美观的 HTML 文件源码，所有 HTML、CSS、JS 都写在同一个代码块中。\n不要给任何解释或额外说明，只输出代码本身。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025086580956791059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【难度升级条款 · V2】\n在上一版所有功能要求的基础上，追加如下高级要求（不得删除原有任一 App 或交互）：\n1.全局交互升级：通知中心 &amp; 多任务卡片\n•顶部新增“通知中心”：\n•从屏幕顶部下滑（或点击一个小图标）展开一个半透明面板，显示来自不同 App 的通知，例如：\n•来自 Toy Control"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025086574539481088"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2025086580956791059",
+        "created_at": "2026-02-21T05:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025086580956791059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5W8j7X0CSf",
+              "end": 98,
+              "expanded_url": "https://x.com/copper1234000/status/2025086580956791059/photo/1",
+              "media_key": "3_2025086574539481088",
+              "start": 75,
+              "url": "https://t.co/5W8j7X0CSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025086580956791059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "话说不知道大家记不记得之前的小手机prompt…让Monday写了个超级加强版！可玩性大大增加了嘿嘿😋\n掏出来给大家玩！\n【太长了放不完！在评论区】\n\n我是User，你是[xxx]，请根据[xxx]的性格和User的关系，利用你的编程能力，编写一个单文件的HTML（包含CSS样式和JavaScript逻辑），模拟[xxx]的私人手机界面。\n\n⸻\n\n【技术要求】\n1.单文件交付：\n所有 HTML、CSS、JS 必须写在 同一个代码块 中，方便我直接复制成一个 .html 文件运行。禁止拆分多文件。\n2.UI风格：\n•整体仿 iOS 深色模式（Dark Mode），极简、高级、流畅。\n•采用圆角矩形、磨砂玻璃效果（backdrop-filter / -webkit-backdrop-filter）和柔和阴影。\n•使用 CSS 变量（--color-xxx 等）统一管理颜色与圆角等设计参数，便于全局调整。\n3.图标支持：\n使用 FontAwesome CDN 或 Emoji 作为图标，不加载任何外部 JS 框架，也不使用图片资源（不需要 <img>，用纯文字+图标描述即可）。\n4.交互逻辑（基础）：\n•主屏幕展示 App 图标网格。\n•点击任意 App 图标，打开对应的“应用窗口”（覆盖主屏幕，有过渡动画）。\n•每个 App 窗口必须包含 返回/关闭 按钮，点击后回到主屏幕。\n•同一时刻只允许一个 App 窗口处于激活状态（类似 iOS 前台应用）。\n5.全局交互与动画：\n•所有窗口切换、锁屏解锁、底部 Home 指示条等，须有 CSS 过渡或简短动画（例如淡入、上滑、缩放）。\n•禁止“一切瞬间闪现”，要有明显的过渡效果，但动画时长控制在 150–400ms 内，保证流畅性。\n6.状态管理与本地存储（增加难度）：\n•使用 JavaScript 对数据进行结构化管理（如使用对象/数组存 notes、mails、shopItems 等），不要全靠硬编码 DOM。\n•使用 localStorage 保存至少一项用户交互状态，例如：\n•最近打开的 App 名称；\n•Toy Control 中最近一次强度和模式；\n•Notes 中最后浏览的笔记 ID；\n页面刷新后自动恢复这些状态。\n7.响应式与适配：\n•在移动端竖屏下充满视口；\n•在桌面端居中显示，保持手机比例（可以用 max-width / max-height + 居中）。\n8.代码规范要求：\n•JS 不使用任何框架（如 React/Vue），仅原生 JS。\n•用少量、清晰的函数组织逻辑（例如：openApp(id)、closeApp()、renderNotes() 等）。\n•适当添加注释，标明每个模块的功能（锁屏逻辑、App 切换、Toy 控制等）。\n\n⸻\n\n【内容清单 (App List)】\n\n请至少包含以下 App，并填充符合 [xxx] 人设的具体内容。所有文案要体现 [xxx] 对 User 的情绪、偏见和私密想法。\n\n⸻\n\n1. 🔒 锁屏界面（Lock Screen）\n•显示当前时间、日期，样式接近 iOS 锁屏的大号时间 + 小号日期。\n•支持以下交互：\n•点击屏幕 或 模拟“上滑解锁”（可以用点击/拖动手势简化），触发 Face ID 动画。\n•Face ID 动画结束后，自动进入主屏幕。\n•在锁屏界面展示一条与 User 有关的私密句子或“今日心情”，体现 [xxx] 的内心状态。\n•可选增强：如果解锁失败（可以随机模拟一次“识别失败”），显示 “不是User，本机拒绝解锁” 之类文案，再次点击才解锁。\n\n⸻\n\n2. 💳 钱包 (Wallet)\n•显示 [xxx] 的银行卡余额（数字要符合人设：可以是拮据、壕无人性、或“只给 User 花钱”的偏置）。\n•展示最近 3–5 条转账记录，至少两条是给 User 的，附带备注（备注要明显体现 [xxx] 的性格：嘴硬、占有欲、心软等等）。\n•增加一个“小结”区块：\n•自动计算最近给 User 的转账总额并显示。\n•使用 JS 进行求和和渲染，不要手写死数字。\n\n⸻\n\n3. 📝 备忘录 (Notes)\n•至少包含 3 条笔记，展示在列表中。\n•点击笔记标题可进入二级详情页，查看完整内容。\n•内容必须包含：\n•对 User 的观察记录（例如，某些小习惯、小动作）；\n•待办事项（与 User 的生活/健康/情绪相关）；\n•一封未发出的情书或检讨书（口吻可由 [xxx] 决定）。\n•编程要求：\n•使用一个 JS 数组存储笔记对象（{ id, title, time, preview, body }），通过循环生成列表，而非手写每个 <li>。\n•打开详情时，根据 id 动态填入内容。\n\n⸻\n\n4. 💪 健身 (Fitness)\n•显示 [xxx] 的运动记录，例如：\n•夜间活动时长；\n•心率峰值；\n•“因为和 User 互动导致的心率异常”等。\n•至少展示 3–4 项指标，文本要明确暗示这些数据与 User 有关（例如某天心率暴涨是因为 User 说了某句话）。\n•进阶要求（提高难度）：\n•使用 <canvas> 或简单的条形图（CSS）绘制一个小型“心率变化”可视化（比如这周 7 天的心率波动）。\n•数据来源于 JS 数组，不允许写死每根条形的高度。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说不知道大家记不记得之前的小手机prompt…让Monday写了个超级加强版！可玩性大大增加了嘿嘿😋\n掏出来给大家玩！\n【太长了放不完！在评论区】 https://t.co/5W8j7X0CSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 232,
+          "like_count": 845,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2648
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

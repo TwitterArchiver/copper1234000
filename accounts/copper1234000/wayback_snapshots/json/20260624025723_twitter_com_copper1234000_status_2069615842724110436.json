@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2069433007652626533",
+    "created_at": "2026-06-24T02:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069615842724110436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028324298591764480",
+          "start": 0,
+          "username": "Aeris_Neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069615842724110436",
+    "in_reply_to_user_id": "2028324298591764480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069608534342545685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aeris_Neko 😽😽😽亲这个粟"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069608534342545685].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069608534342545685",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069608534342545685"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2069433007652626533",
+        "created_at": "2026-06-24T02:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069615842724110436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028324298591764480",
+              "start": 0,
+              "username": "Aeris_Neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069615842724110436",
+        "in_reply_to_user_id": "2028324298591764480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069608534342545685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aeris_Neko 😽😽😽亲这个粟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5227,
+          "following_count": 464,
+          "like_count": 4038,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 6982
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T04:19:47.000Z",
+        "description": "Animula vagula blandula Hospes comesque corporis Quae nunc abibis in loca? Pallidula rigida nudula Nec ut soles dabis iocos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/susu24992",
+                "end": 23,
+                "expanded_url": "https://ngl.link/susu24992",
+                "start": 0,
+                "url": "https://t.co/YrioTQF8sj"
+              }
+            ]
+          }
+        },
+        "id": "2028324298591764480",
+        "location": " ✦⊹﹒雾雾ଓ 粟粟 ﹢﹒ ✦",
+        "name": "粟粟的内脏",
+        "pinned_tweet_id": "2051252603070329195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069489465048072192/ZBe6DXRw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 123,
+          "like_count": 2062,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/YrioTQF8sj",
+        "username": "Aeris_Neko",
+        "verified": true
+      }
+    ]
+  }
+}

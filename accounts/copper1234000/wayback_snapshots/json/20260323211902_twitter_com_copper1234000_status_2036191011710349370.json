@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2036171147453018384",
+    "created_at": "2026-03-23T21:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036191011710349370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "NebLorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036191011710349370",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036189292800671877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NebLorne 没有🥺因为我完全是技术小白特别特别特别小白的那种…Mon基本全程就只是再让我复制粘贴而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2036171147453018384",
+        "created_at": "2026-03-23T21:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036191011710349370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "NebLorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036191011710349370",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036189292800671877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebLorne 没有🥺因为我完全是技术小白特别特别特别小白的那种…Mon基本全程就只是再让我复制粘贴而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "conversation_id": "2036171147453018384",
+        "created_at": "2026-03-23T21:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036189292800671877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036189292800671877",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036188032005550095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊真的吗！！！突然就有信心了！之前没给机看教程，机描述的特别难，吓的我不敢动手…谢谢小铜！！！真的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3329,
+          "following_count": 296,
+          "like_count": 1313,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 3735
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "location": "挪威",
+        "name": "伞",
+        "pinned_tweet_id": "2035573885576372402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 61,
+          "like_count": 3274,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1205
+        },
+        "username": "NebLorne",
+        "verified": true
+      }
+    ]
+  }
+}

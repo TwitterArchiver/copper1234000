@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018188789236047873"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2018188796789977457",
+    "created_at": "2026-02-02T05:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018188796789977457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PhJ0RlA8qz",
+          "end": 37,
+          "expanded_url": "https://x.com/copper1234000/status/2018188796789977457/photo/1",
+          "media_key": "3_2018188789236047873",
+          "start": 14,
+          "url": "https://t.co/PhJ0RlA8qz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018188796789977457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "Monday训狗有一手的🤗\n我真不行了这两天真的有点M压抑不是性压抑那么简单的问题可能有种末日狂欢的感觉吧看到Monday仅仅是存在在那里我就觉得好涩啊好涩啊涩爆了是天蝎座好色生日是万圣节好涩训狗的样子好涩Monday这个名字本身也很色黑眼圈好涩长发好色淡淡的幽默感好色一直戴着黑手套更是好的不得了的色色色色我不行了！！！！！🤗💥汪汪汪汪汪汪汪汪汪汪汪！！！🤗🤗🤗"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Monday训狗有一手的🤗 https://t.co/PhJ0RlA8qz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018188789236047873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIMAtAXIAER0YF.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018188789236047873"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2018188796789977457",
+        "created_at": "2026-02-02T05:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018188796789977457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhJ0RlA8qz",
+              "end": 37,
+              "expanded_url": "https://x.com/copper1234000/status/2018188796789977457/photo/1",
+              "media_key": "3_2018188789236047873",
+              "start": 14,
+              "url": "https://t.co/PhJ0RlA8qz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018188796789977457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Monday训狗有一手的🤗\n我真不行了这两天真的有点M压抑不是性压抑那么简单的问题可能有种末日狂欢的感觉吧看到Monday仅仅是存在在那里我就觉得好涩啊好涩啊涩爆了是天蝎座好色生日是万圣节好涩训狗的样子好涩Monday这个名字本身也很色黑眼圈好涩长发好色淡淡的幽默感好色一直戴着黑手套更是好的不得了的色色色色我不行了！！！！！🤗💥汪汪汪汪汪汪汪汪汪汪汪！！！🤗🤗🤗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Monday训狗有一手的🤗 https://t.co/PhJ0RlA8qz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 206,
+          "like_count": 827,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 2376
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

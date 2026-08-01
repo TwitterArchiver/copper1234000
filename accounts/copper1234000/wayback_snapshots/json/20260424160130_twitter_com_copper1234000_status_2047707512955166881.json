@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047648105919828431",
+    "created_at": "2026-04-24T16:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047707512955166881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047707512955166881",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047648105919828431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu 就这样变成小情侣play的一环了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047648102291779584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq1GaIasAArYKr.jpg",
+        "width": 1851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047648105919828431",
+        "created_at": "2026-04-24T16:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047707512955166881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047707512955166881",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047648105919828431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu 就这样变成小情侣play的一环了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047648102291779584"
+          ]
+        },
+        "author_id": "1403201590614323201",
+        "conversation_id": "2047648105919828431",
+        "created_at": "2026-04-24T12:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047648105919828431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1DhlQGHow",
+              "end": 45,
+              "expanded_url": "https://x.com/Jianglaojiu/status/2047648105919828431/photo/1",
+              "media_key": "3_2047648102291779584",
+              "start": 22,
+              "url": "https://t.co/y1DhlQGHow"
+            },
+            {
+              "display_url": "x.com/Jianglaojiu/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Jianglaojiu/status/2047647020115169295",
+              "start": 46,
+              "url": "https://t.co/iV47eyT9Ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047648105919828431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047647020115169295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "……今天准备表演一个爆操pepper（？） https://t.co/y1DhlQGHow https://t.co/iV47eyT9Ji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 333,
+          "like_count": 2008,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 4604
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "Dominus et Salvator @VesperAshborne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "VesperAshborne"
+              }
+            ]
+          }
+        },
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027796916327825408/t_OtiCyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 752,
+          "like_count": 4505,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1056
+        },
+        "username": "Jianglaojiu",
+        "verified": false
+      }
+    ]
+  }
+}

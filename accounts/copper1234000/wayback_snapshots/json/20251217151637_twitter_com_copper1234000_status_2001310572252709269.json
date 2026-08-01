@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001085942153769424",
+    "created_at": "2025-12-17T15:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001310572252709269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760623962684260352",
+          "start": 0,
+          "username": "SiretyT23362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001310572252709269",
+    "in_reply_to_user_id": "1760623962684260352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001302029994500488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiretyT23362 美女男你崛起吧…🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001085942153769424",
+        "created_at": "2025-12-17T15:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001310572252709269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760623962684260352",
+              "start": 0,
+              "username": "SiretyT23362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001310572252709269",
+        "in_reply_to_user_id": "1760623962684260352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001302029994500488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiretyT23362 美女男你崛起吧…🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760623962684260352",
+        "conversation_id": "2001085942153769424",
+        "created_at": "2025-12-17T14:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001302029994500488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001302029994500488",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001085942153769424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好帥好美🥺……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 147,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1385
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-22T11:14:25.000Z",
+        "description": "你好我是鷂鷂，我啥都發點",
+        "id": "1760623962684260352",
+        "name": "鹞沢桉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979850397436026880/IQGfg4JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 102,
+          "like_count": 2410,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 47
+        },
+        "username": "SiretyT23362",
+        "verified": false
+      }
+    ]
+  }
+}

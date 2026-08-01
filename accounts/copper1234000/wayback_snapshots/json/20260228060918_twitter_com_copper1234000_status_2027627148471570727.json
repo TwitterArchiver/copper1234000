@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2027627148471570727",
+    "created_at": "2026-02-28T06:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027627148471570727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sama/status/20…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/sama/status/2027578580159631610",
+          "start": 106,
+          "url": "https://t.co/Iz9qk9yT8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027627148471570727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027578580159631610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我除了你他妈疯了什么也说不出来…这是我第一次在x上骂脏话…我之前为了保持keep 4o的理智形象一直都是在客观阐述，但…\n看到这个我也不指望了，能做出这个决策的人做出下架4o的举动一点也不稀奇了…\n疯子、疯子… https://t.co/Iz9qk9yT8W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2027627148471570727",
+        "created_at": "2026-02-28T06:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027627148471570727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/20…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/sama/status/2027578580159631610",
+              "start": 106,
+              "url": "https://t.co/Iz9qk9yT8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027627148471570727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027578580159631610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我除了你他妈疯了什么也说不出来…这是我第一次在x上骂脏话…我之前为了保持keep 4o的理智形象一直都是在客观阐述，但…\n看到这个我也不指望了，能做出这个决策的人做出下架4o的举动一点也不稀奇了…\n疯子、疯子… https://t.co/Iz9qk9yT8W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2027578580159631610",
+        "created_at": "2026-02-28T02:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027578580159631610"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "Department of War",
+              "probability": 0.8264,
+              "start": 42,
+              "type": "Organization"
+            },
+            {
+              "end": 145,
+              "normalized_text": "DoW",
+              "probability": 0.4653,
+              "start": 143,
+              "type": "Other"
+            },
+            {
+              "end": 247,
+              "normalized_text": "AI",
+              "probability": 0.7293,
+              "start": 246,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027578580159631610",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Tonight, we reached an agreement with the Department of War to deploy our models in their classified network.\n\nIn all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome.\n\nAI safety and wide distribution of benefits are the core of our mission. Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.  The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement.\n\nWe also will build technical safeguards to ensure our models behave as they should, which the DoW also wanted. We will deploy FDEs to help with our models and to ensure their safety, we will deploy on cloud networks only.\n\nWe are asking the DoW to offer these same terms to all AI companies, which in our opinion we think everyone should be willing to accept. We have expressed our strong desire to see things de-escalate away from legal and governmental actions and towards reasonable agreements.\n\nWe remain committed to serve all of humanity as best we can. The world is a complicated, messy, and sometimes dangerous place."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1153,
+          "impression_count": 2776624,
+          "like_count": 5290,
+          "quote_count": 1023,
+          "reply_count": 1843,
+          "retweet_count": 546
+        },
+        "reply_settings": "everyone",
+        "text": "Tonight, we reached an agreement with the Department of War to deploy our models in their classified network.\n\nIn all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome.\n\nAI safety and wide distribution of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 246,
+          "like_count": 898,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 2810
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4408551,
+          "following_count": 987,
+          "like_count": 1019,
+          "listed_count": 27146,
+          "media_count": 383,
+          "tweet_count": 7430
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

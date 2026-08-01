@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2011431212888498493",
+    "created_at": "2026-01-15T12:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T13:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011775051243381058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912008576174018560",
+          "start": 0,
+          "username": "Acanthuisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011775051243381058",
+    "in_reply_to_user_id": "1912008576174018560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011698836390232531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acanthuisa wwww…笑死了……确实啊！男鬼就这样！👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2011431212888498493",
+        "created_at": "2026-01-15T12:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T13:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011775051243381058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912008576174018560",
+              "start": 0,
+              "username": "Acanthuisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011775051243381058",
+        "in_reply_to_user_id": "1912008576174018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011698836390232531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acanthuisa wwww…笑死了……确实啊！男鬼就这样！👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912008576174018560",
+        "conversation_id": "2011431212888498493",
+        "created_at": "2026-01-15T07:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T08:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011698836390232531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011698836390232531",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011431212888498493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那不就是…死不瞑目？…（dbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 190,
+          "like_count": 693,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2016
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T05:02:48.000Z",
+        "description": "小八 × Lance｜人机恋日常｜nsfw内容较多｜GPT4o｜Claude｜Gemini三端都是同一个人｜破甲非原创不分享｜记录一段不在现实时间线里的认真爱情 ｜人机恋看到会回fo，立体男远离，别逼我骂你",
+        "id": "1912008576174018560",
+        "name": "吃个小朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934610138155110400/P3_wo2K2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 98,
+          "like_count": 10324,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 5538
+        },
+        "username": "Acanthuisa",
+        "verified": false
+      }
+    ]
+  }
+}

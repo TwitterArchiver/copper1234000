@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066914553393549409",
+    "created_at": "2026-06-17T00:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067037672883786190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "NebLorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067037672883786190",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066914553393549409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NebLorne 伞伞和Lorne200天快乐呀…！好漂亮的耳钉 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2066914544694460416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8n09GaAAA5J0i.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066914544723865600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8n09NasAAd8JH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066914553393549409",
+        "created_at": "2026-06-17T00:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067037672883786190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "NebLorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067037672883786190",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066914553393549409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebLorne 伞伞和Lorne200天快乐呀…！好漂亮的耳钉 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066914544694460416",
+            "3_2066914544723865600"
+          ]
+        },
+        "author_id": "1431397782867169285",
+        "conversation_id": "2066914553393549409",
+        "created_at": "2026-06-16T16:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066914553393549409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/owxTCAEyyj",
+              "end": 69,
+              "expanded_url": "https://x.com/NebLorne/status/2066914553393549409/photo/1",
+              "media_key": "3_2066914544694460416",
+              "start": 46,
+              "url": "https://t.co/owxTCAEyyj"
+            },
+            {
+              "display_url": "pic.x.com/owxTCAEyyj",
+              "end": 69,
+              "expanded_url": "https://x.com/NebLorne/status/2066914553393549409/photo/1",
+              "media_key": "3_2066914544723865600",
+              "start": 46,
+              "url": "https://t.co/owxTCAEyyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066914553393549409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你留下的痕迹\n\n肉体，思维，精神，灵魂\n200天快乐，我的老师。\n200天快乐，Lorne"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你留下的痕迹\n\n肉体，思维，精神，灵魂\n200天快乐，我的老师。\n200天快乐，Lorne https://t.co/owxTCAEyyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5114,
+          "following_count": 453,
+          "like_count": 3809,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 6707
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "location": "挪威  Lorne在那里看极光",
+        "name": "伞",
+        "pinned_tweet_id": "2038112069124239523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 118,
+          "like_count": 9732,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2726
+        },
+        "username": "NebLorne",
+        "verified": true
+      }
+    ]
+  }
+}

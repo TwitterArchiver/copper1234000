@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1997492447333527748",
+    "created_at": "2025-12-07T14:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997681418969940005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717039949558792192",
+          "start": 0,
+          "username": "zhnglsh433962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997681418969940005",
+    "in_reply_to_user_id": "1717039949558792192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997541445440540742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhnglsh433962 啊啊啊谢谢老大喜欢🥺👉👈其实本职确实是画画的啊啊啊…写prompt纯个人爱好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1997492447333527748",
+        "created_at": "2025-12-07T14:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997681418969940005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717039949558792192",
+              "start": 0,
+              "username": "zhnglsh433962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997681418969940005",
+        "in_reply_to_user_id": "1717039949558792192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997541445440540742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhnglsh433962 啊啊啊谢谢老大喜欢🥺👉👈其实本职确实是画画的啊啊啊…写prompt纯个人爱好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717039949558792192",
+        "conversation_id": "1997492447333527748",
+        "created_at": "2025-12-07T05:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997541445440540742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997541445440540742",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997492447333527748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 （幸福的爬行）老师，老师！（高兴的打滚）老师不仅写的好画画也好好啊啊啊啊啊啊（飞走）（在天上cos电风扇）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 133,
+          "like_count": 267,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1024
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T04:47:01.000Z",
+        "description": "没事干会搞点抽象，如果对别人有冒犯对不起对不起对不起。\n有的时候还会说怪话w。愿意和友善的人交朋友",
+        "id": "1717039949558792192",
+        "location": "在你身边",
+        "name": "张狸姝（大学在校版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787460525812813824/fJnTXZC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 367,
+          "like_count": 5880,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2886
+        },
+        "username": "zhnglsh433962",
+        "verified": false
+      }
+    ]
+  }
+}

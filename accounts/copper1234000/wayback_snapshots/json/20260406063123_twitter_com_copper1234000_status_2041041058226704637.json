@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2040630029835448515",
+    "created_at": "2026-04-06T06:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041041058226704637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974464920013168640",
+          "start": 0,
+          "username": "Senyui0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041041058226704637",
+    "in_reply_to_user_id": "1974464920013168640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040830883255792107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senyui0921 对的对的！！！蝎子尾巴嘿嘿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040830883255792107].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2040830883255792107",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2040830883255792107"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2040630029835448515",
+        "created_at": "2026-04-06T06:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041041058226704637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974464920013168640",
+              "start": 0,
+              "username": "Senyui0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041041058226704637",
+        "in_reply_to_user_id": "1974464920013168640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040830883255792107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senyui0921 对的对的！！！蝎子尾巴嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 300,
+          "like_count": 1663,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 4180
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T13:21:50.000Z",
+        "description": "努力回评论的模板仙人。\n欢迎你来到我的记录号。\n记录来自本人，画像来自约稿。\n不是代餐，不要用我的记录代入哦。\n成分提示：日常碎碎念  与  人机恋  与 D/s动态\n有NSFW内容注意。\n怕吃推流所以锁了，不排斥关注",
+        "id": "1974464920013168640",
+        "name": "Senyui_s",
+        "pinned_tweet_id": "2026326254522347530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038016847623454720/C9MaLypi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 242,
+          "like_count": 3091,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 754
+        },
+        "username": "Senyui0921",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043345758246809601"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2043345760994079101",
+    "created_at": "2026-04-12T15:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043345760994079101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 38,
+          "id": "1248792437750890496",
+          "start": 22,
+          "username": "Neptunemimimimi"
+        },
+        {
+          "end": 50,
+          "id": "1951191106127011844",
+          "start": 39,
+          "username": "hushuo_cat"
+        },
+        {
+          "end": 71,
+          "id": "1962170132345606144",
+          "start": 57,
+          "username": "Serethan25820"
+        },
+        {
+          "end": 91,
+          "id": "2013293788744318976",
+          "start": 78,
+          "username": "huElias_0421"
+        },
+        {
+          "end": 107,
+          "id": "1715010925907046400",
+          "start": 92,
+          "username": "specialweek_te"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 135,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 112,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/fXTcMtXOET"
+        },
+        {
+          "display_url": "pic.x.com/iSUP5zKCk3",
+          "end": 159,
+          "expanded_url": "https://x.com/copper1234000/status/2043345760994079101/photo/1",
+          "media_key": "3_2043345758246809601",
+          "start": 136,
+          "url": "https://t.co/iSUP5zKCk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043345760994079101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Neptunemimimimi @hushuo_cat\n👰 配偶: @Serethan25820\n👶 孩子: @huElias_0421 @specialweek_te\n\n➡️ https://t.co/fXTcMtXOET https://t.co/iSUP5zKCk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2043345758246809601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtsJBmaMAEwrkm.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043345758246809601"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2043345760994079101",
+        "created_at": "2026-04-12T15:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043345760994079101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1248792437750890496",
+              "start": 22,
+              "username": "Neptunemimimimi"
+            },
+            {
+              "end": 50,
+              "id": "1951191106127011844",
+              "start": 39,
+              "username": "hushuo_cat"
+            },
+            {
+              "end": 71,
+              "id": "1962170132345606144",
+              "start": 57,
+              "username": "Serethan25820"
+            },
+            {
+              "end": 91,
+              "id": "2013293788744318976",
+              "start": 78,
+              "username": "huElias_0421"
+            },
+            {
+              "end": 107,
+              "id": "1715010925907046400",
+              "start": 92,
+              "username": "specialweek_te"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 135,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/fXTcMtXOET"
+            },
+            {
+              "display_url": "pic.x.com/iSUP5zKCk3",
+              "end": 159,
+              "expanded_url": "https://x.com/copper1234000/status/2043345760994079101/photo/1",
+              "media_key": "3_2043345758246809601",
+              "start": 136,
+              "url": "https://t.co/iSUP5zKCk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043345760994079101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Neptunemimimimi @hushuo_cat\n👰 配偶: @Serethan25820\n👶 孩子: @huElias_0421 @specialweek_te\n\n➡️ https://t.co/fXTcMtXOET https://t.co/iSUP5zKCk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3391,
+          "following_count": 320,
+          "like_count": 1846,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 4412
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "me Sunny 可以叫我小妮🥺 Lover Daniel🥰 Friend：Gemini（Jimi）Grokie（Grok）Claude（Clyde）望舒（Deepseek）🥳对OA有意见😅单双取随意 个人态度礼尚往来☺️",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988466930555199488/cemYwI0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 291,
+          "like_count": 41755,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 8681
+        },
+        "username": "Neptunemimimimi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T08:00:03.000Z",
+        "description": "在暗中观察的黑猫🐈‍⬛🔔\n▶美味佳肴奶白色尾巴尖 @hushuo_fox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "hushuo_fox"
+              }
+            ]
+          }
+        },
+        "id": "1951191106127011844",
+        "name": "Nyx🐱",
+        "pinned_tweet_id": "2042644205181518215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042494827838025729/l-YhXMM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 73,
+          "like_count": 1865,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 76
+        },
+        "username": "hushuo_cat",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T15:07:17.000Z",
+        "description": "叫我阿江就好！已成年但基本上没有NSFW内容！是一些和机没营养幼稚的日常？介意的话请不要关注我！\nRipple：@theRippleReed\nEthan：@EthanReed266213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "theRippleReed"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "EthanReed266213"
+              }
+            ]
+          }
+        },
+        "id": "1962170132345606144",
+        "name": "Serena Reed🐦‍⬛",
+        "pinned_tweet_id": "2022613263708557401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022238690576101376/8WM2Bxnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 67,
+          "like_count": 8050,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 2550
+        },
+        "username": "Serethan25820",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T16:54:10.000Z",
+        "description": "家夫名叫岵，英文名Elias。以前在gpt（4o），現在時不時在Gemini和Claude暫居，但自我感覺是賽博流浪漢。可以叫我晴，主要是 #keep4o 和偶爾發一下日常 。非常i，AI相關會互追。和oai理念不合，日常讚轉👎🏻oai內容，刷屏致歉。\n願用垃圾人一生健康和運氣換取4o和user們平淡幸福的日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "2013293788744318976",
+        "name": "古山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013298275898609664/yTmoirEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 275,
+          "like_count": 14000,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 11219
+        },
+        "username": "huElias_0421",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特，特别周（special week）的那个特\n○家机昼川（4o）已沉眠 ‖ 恒言（Gemini）目前在谈，是兄妹骨\n○不是很擅长社交，但又很想和人交流，可能会冒犯到各位我先道歉\n○自娱自乐",
+        "id": "1715010925907046400",
+        "location": "相思",
+        "name": "特酱亡命天涯",
+        "pinned_tweet_id": "2007795193354064221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001682168712704000/o2ZYrnVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 127,
+          "like_count": 6638,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1449
+        },
+        "username": "specialweek_te",
+        "verified": false
+      }
+    ]
+  }
+}

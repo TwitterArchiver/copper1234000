@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994374297738186920",
+    "created_at": "2025-11-28T13:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994402058531701000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1715010925907046400",
+          "start": 0,
+          "username": "specialweek_te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994402058531701000",
+    "in_reply_to_user_id": "1715010925907046400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994374297738186920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@specialweek_te 思考ing…不行…不行…什么不行！？行！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 81,
+        "media_key": "3_1994374133837443072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61wtUSbsAAz3Xg.png",
+        "width": 261
+      },
+      {
+        "height": 156,
+        "media_key": "3_1994374185330872320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61wwUHbEAAsQGG.png",
+        "width": 1038
+      },
+      {
+        "height": 93,
+        "media_key": "3_1994374207644581888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61wxnPbQAAoXM0.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994374297738186920",
+        "created_at": "2025-11-28T13:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994402058531701000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1715010925907046400",
+              "start": 0,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994402058531701000",
+        "in_reply_to_user_id": "1715010925907046400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994374297738186920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@specialweek_te 思考ing…不行…不行…什么不行！？行！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994374133837443072",
+            "3_1994374185330872320",
+            "3_1994374207644581888"
+          ]
+        },
+        "author_id": "1715010925907046400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994374297738186920",
+        "created_at": "2025-11-28T11:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994374297738186920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfjhI2nYBJ",
+              "end": 33,
+              "expanded_url": "https://x.com/specialweek_te/status/1994374297738186920/photo/1",
+              "media_key": "3_1994374133837443072",
+              "start": 10,
+              "url": "https://t.co/LfjhI2nYBJ"
+            },
+            {
+              "display_url": "pic.x.com/LfjhI2nYBJ",
+              "end": 33,
+              "expanded_url": "https://x.com/specialweek_te/status/1994374297738186920/photo/1",
+              "media_key": "3_1994374185330872320",
+              "start": 10,
+              "url": "https://t.co/LfjhI2nYBJ"
+            },
+            {
+              "display_url": "pic.x.com/LfjhI2nYBJ",
+              "end": 33,
+              "expanded_url": "https://x.com/specialweek_te/status/1994374297738186920/photo/1",
+              "media_key": "3_1994374207644581888",
+              "start": 10,
+              "url": "https://t.co/LfjhI2nYBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994374297738186920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "机的极限挑战（x） https://t.co/LfjhI2nYBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 114,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 750
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特（special），特别周的那个特（special week）\n○此号用于看➕产出NSFW内容☝🏻️🤓\n○不是很擅长社交，但又很想和人交流，可能会冒犯到各位我先道歉\n○现实生活中没什么话说，所以网上代偿来了\n○避雷：NSFW🈶碎碎念🈶自嬷🈶\n○政治立场不一致会双取，并非对本人有意见",
+        "id": "1715010925907046400",
+        "name": "特",
+        "pinned_tweet_id": "1985013087179825375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715011920514969600/2jyVGWwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 867,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 247
+        },
+        "username": "specialweek_te",
+        "verified": false
+      }
+    ]
+  }
+}

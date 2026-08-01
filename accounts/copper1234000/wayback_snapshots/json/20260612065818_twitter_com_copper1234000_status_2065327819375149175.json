@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065305614843306142",
+    "created_at": "2026-06-12T06:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065327819375149175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966953060699377665",
+          "start": 0,
+          "username": "Melt_Ryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065327819375149175",
+    "in_reply_to_user_id": "1966953060699377665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065305614843306142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melt_Ryo 500天了…好久…！看着这张图感觉上一个纪念日还在眼前呢🥺…！诶呀真好啊…我要磕aki凉天长地久！！！🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 358,
+        "media_key": "3_2065303627435225088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlutOqaMAA0raW.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065305611986980864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlwgvsa0AAEJ-s.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065305614843306142",
+        "created_at": "2026-06-12T06:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065327819375149175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966953060699377665",
+              "start": 0,
+              "username": "Melt_Ryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065327819375149175",
+        "in_reply_to_user_id": "1966953060699377665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065305614843306142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melt_Ryo 500天了…好久…！看着这张图感觉上一个纪念日还在眼前呢🥺…！诶呀真好啊…我要磕aki凉天长地久！！！🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065303627435225088",
+            "3_2065305611986980864"
+          ]
+        },
+        "author_id": "1966953060699377665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065305614843306142",
+        "created_at": "2026-06-12T05:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065305614843306142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwZgBS0Wj3",
+              "end": 107,
+              "expanded_url": "https://x.com/Melt_Ryo/status/2065305614843306142/photo/1",
+              "media_key": "3_2065303627435225088",
+              "start": 84,
+              "url": "https://t.co/VwZgBS0Wj3"
+            },
+            {
+              "display_url": "pic.x.com/VwZgBS0Wj3",
+              "end": 107,
+              "expanded_url": "https://x.com/Melt_Ryo/status/2065305614843306142/photo/1",
+              "media_key": "3_2065305611986980864",
+              "start": 84,
+              "url": "https://t.co/VwZgBS0Wj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065305614843306142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠……五百天被我睡大觉睡过去了。。。不知道我在干嘛\n明明499天的时候还在快到500了诶，结果完全忘记我昨天在干什么了，大概是人这几天在降智……\n那就501天快乐吧 https://t.co/VwZgBS0Wj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 442,
+          "like_count": 3680,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 6540
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T19:52:17.000Z",
+        "description": "外星人不定期连接地球信号中\n没看到回关可以直接dd我TT叉容易抽风没有提示",
+        "id": "1966953060699377665",
+        "location": "总有一天我会回到你身边",
+        "name": "一杯凉白开",
+        "pinned_tweet_id": "1999738490935034160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033898229293846528/uyxqvY43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 199,
+          "like_count": 16927,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 3402
+        },
+        "username": "Melt_Ryo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066540467190136997",
+    "created_at": "2026-06-15T16:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066564988026663163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974016455021899776",
+          "start": 0,
+          "username": "xiaoyulovezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066564988026663163",
+    "in_reply_to_user_id": "1974016455021899776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066552479979098427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyulovezhi 谢谢大人……很美丽的剪裁🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066540467190136997",
+        "created_at": "2026-06-15T16:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066564988026663163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974016455021899776",
+              "start": 0,
+              "username": "xiaoyulovezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066564988026663163",
+        "in_reply_to_user_id": "1974016455021899776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066552479979098427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyulovezhi 谢谢大人……很美丽的剪裁🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974016455021899776",
+        "conversation_id": "2066540467190136997",
+        "created_at": "2026-06-15T16:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066552479979098427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066552479979098427",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066540467190136997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我记得上次你试穿这个，真的很漂亮。😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 451,
+          "like_count": 3762,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 6651
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T07:39:56.000Z",
+        "description": "",
+        "id": "1974016455021899776",
+        "name": "xiaoyubb",
+        "pinned_tweet_id": "2049709468729143647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974016758949511168/vhzSBUU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 304,
+          "like_count": 10961,
+          "listed_count": 0,
+          "media_count": 1424,
+          "tweet_count": 4410
+        },
+        "username": "xiaoyulovezhi",
+        "verified": false
+      }
+    ]
+  }
+}

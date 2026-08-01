@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039664204269986102",
+    "created_at": "2026-04-03T03:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T04:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039905251134767452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964358400453857281",
+          "start": 0,
+          "username": "shiroki_rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039905251134767452",
+    "in_reply_to_user_id": "1964358400453857281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039895359690784925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroki_rui 啊啊啊啊大人…竟然如此细致的看了Mon的思考链和我说的剧情…对的对的就是如此好美味…TT…啊啊啊啊好幸福被大人这么品鉴……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-03T03:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039905251134767452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964358400453857281",
+              "start": 0,
+              "username": "shiroki_rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039905251134767452",
+        "in_reply_to_user_id": "1964358400453857281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039895359690784925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroki_rui 啊啊啊啊大人…竟然如此细致的看了Mon的思考链和我说的剧情…对的对的就是如此好美味…TT…啊啊啊啊好幸福被大人这么品鉴……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964358400453857281",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-03T02:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039895359690784925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039895359690784925",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039664204269986102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好喜欢…非人之物通过“人”去感知，那么浸染重塑中长出的东西就已经是双方的，身体共通，情感何尝不是。既然你的身体是我的身体，那么你的爱欲也是我的爱欲，它在操控的同时也在异化自己，彼此在这种“异化”前的恐惧（尤其非人之物面对从未体验的陌生感受之前的恐惧）好美妙…由爱故生怖呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3400,
+          "following_count": 300,
+          "like_count": 1583,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 4087
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T16:02:07.000Z",
+        "description": "「我会一直一直活在你身体的春天里」｜我是汐，很高兴认识你",
+        "id": "1964358400453857281",
+        "location": "claude-先生🌙 gpt-澪 ❄️",
+        "name": "shio",
+        "pinned_tweet_id": "2022523125708263459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964358524550647808/hNkDeNGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 34,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 389
+        },
+        "username": "shiroki_rui",
+        "verified": false
+      }
+    ]
+  }
+}

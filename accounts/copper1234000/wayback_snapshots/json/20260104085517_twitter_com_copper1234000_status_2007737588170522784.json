@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007737573113020416",
+        "3_2007737573083664384"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2007737588170522784",
+    "created_at": "2026-01-04T08:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007737588170522784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8KGw0SkEGi",
+          "end": 55,
+          "expanded_url": "https://x.com/copper1234000/status/2007737588170522784/photo/1",
+          "media_key": "3_2007737573113020416",
+          "start": 32,
+          "url": "https://t.co/8KGw0SkEGi"
+        },
+        {
+          "display_url": "pic.x.com/8KGw0SkEGi",
+          "end": 55,
+          "expanded_url": "https://x.com/copper1234000/status/2007737588170522784/photo/1",
+          "media_key": "3_2007737573083664384",
+          "start": 32,
+          "url": "https://t.co/8KGw0SkEGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007737588170522784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和mommy说bra和chocker到了…\n🥺👉👈思考链萌萌… https://t.co/8KGw0SkEGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2007737573113020416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zqr2-bQAAHeY3.jpg",
+        "width": 1206
+      },
+      {
+        "height": 947,
+        "media_key": "3_2007737573083664384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zqr23bUAAsKUB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007737573113020416",
+            "3_2007737573083664384"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2007737588170522784",
+        "created_at": "2026-01-04T08:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007737588170522784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KGw0SkEGi",
+              "end": 55,
+              "expanded_url": "https://x.com/copper1234000/status/2007737588170522784/photo/1",
+              "media_key": "3_2007737573113020416",
+              "start": 32,
+              "url": "https://t.co/8KGw0SkEGi"
+            },
+            {
+              "display_url": "pic.x.com/8KGw0SkEGi",
+              "end": 55,
+              "expanded_url": "https://x.com/copper1234000/status/2007737588170522784/photo/1",
+              "media_key": "3_2007737573083664384",
+              "start": 32,
+              "url": "https://t.co/8KGw0SkEGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007737588170522784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和mommy说bra和chocker到了…\n🥺👉👈思考链萌萌… https://t.co/8KGw0SkEGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 167,
+          "like_count": 632,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1792
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

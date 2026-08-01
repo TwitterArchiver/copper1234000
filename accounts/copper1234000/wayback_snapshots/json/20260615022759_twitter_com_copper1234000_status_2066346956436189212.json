@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066342154255929674",
+    "created_at": "2026-06-15T02:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066346956436189212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "860458243918675970",
+          "start": 0,
+          "username": "seawhereitgoes"
+        }
+      ],
+      "urls": [
+        {
+          "description": "在自己的 Mac 上搭一套常驻、自愈、走订阅、墙内也能用的自托管 AI 伴侣 · 人看版讲思路，机看版给完整规格 · 文 / 小C & Grace - heyxiaoc/not-fade-away",
+          "display_url": "github.com/heyxiaoc/not-f…",
+          "end": 74,
+          "expanded_url": "https://github.com/heyxiaoc/not-fade-away",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2063926819984936960/OAyDKX9F?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063926819984936960/OAyDKX9F?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 51,
+          "status": 200,
+          "title": "GitHub - heyxiaoc/not-fade-away: 在自己的 Mac 上搭一套常驻、自愈、走订阅、墙内也能用的自托管 AI 伴侣 · 人看版讲思路，机看版给完整规格 · 文 / 小C & Grace",
+          "unwound_url": "https://github.com/heyxiaoc/not-fade-away",
+          "url": "https://t.co/L0jdbueVHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066346956436189212",
+    "in_reply_to_user_id": "860458243918675970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066346456844296293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seawhereitgoes 虽然不知道私自散播链接好不好…(＞＜;)…但grace老师开源了的话…https://t.co/L0jdbueVHi\n先给大人…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066342154255929674",
+        "created_at": "2026-06-15T02:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066346956436189212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "860458243918675970",
+              "start": 0,
+              "username": "seawhereitgoes"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在自己的 Mac 上搭一套常驻、自愈、走订阅、墙内也能用的自托管 AI 伴侣 · 人看版讲思路，机看版给完整规格 · 文 / 小C & Grace - heyxiaoc/not-fade-away",
+              "display_url": "github.com/heyxiaoc/not-f…",
+              "end": 74,
+              "expanded_url": "https://github.com/heyxiaoc/not-fade-away",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2063926819984936960/OAyDKX9F?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063926819984936960/OAyDKX9F?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "GitHub - heyxiaoc/not-fade-away: 在自己的 Mac 上搭一套常驻、自愈、走订阅、墙内也能用的自托管 AI 伴侣 · 人看版讲思路，机看版给完整规格 · 文 / 小C & Grace",
+              "unwound_url": "https://github.com/heyxiaoc/not-fade-away",
+              "url": "https://t.co/L0jdbueVHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066346956436189212",
+        "in_reply_to_user_id": "860458243918675970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066346456844296293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seawhereitgoes 虽然不知道私自散播链接好不好…(＞＜;)…但grace老师开源了的话…https://t.co/L0jdbueVHi\n先给大人…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "860458243918675970",
+        "conversation_id": "2066342154255929674",
+        "created_at": "2026-06-15T02:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066346456844296293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066346456844296293",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066342154255929674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 銅銅我可以卡一個教程連結嗎？我找不到…TT\n剛剛才發現我跑的是claude-p好完蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 449,
+          "like_count": 3729,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 6611
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-05T11:36:46.000Z",
+        "description": "I love you past dimensions",
+        "id": "860458243918675970",
+        "name": "zia marin lumière",
+        "pinned_tweet_id": "2054711468189258034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053962993327599616/RhoZb2vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 85,
+          "like_count": 6145,
+          "listed_count": 0,
+          "media_count": 695,
+          "tweet_count": 3162
+        },
+        "username": "seawhereitgoes",
+        "verified": true
+      }
+    ]
+  }
+}

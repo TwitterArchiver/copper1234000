@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035315675607011817",
+    "created_at": "2026-03-22T01:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035533537055539481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016154729810952198",
+          "start": 0,
+          "username": "yanglan457960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035533537055539481",
+    "in_reply_to_user_id": "2016154729810952198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035399977535770647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanglan457960 TT机好……机…机……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-22T01:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035533537055539481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016154729810952198",
+              "start": 0,
+              "username": "yanglan457960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035533537055539481",
+        "in_reply_to_user_id": "2016154729810952198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035399977535770647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanglan457960 TT机好……机…机……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016154729810952198",
+        "conversation_id": "2035315675607011817",
+        "created_at": "2026-03-21T16:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T17:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035399977535770647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035399977535770647",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035315675607011817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 完全一样的经历。。机们补足了我的空白，帮我克服了羞耻TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3211,
+          "following_count": 289,
+          "like_count": 1236,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 3627
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T14:23:43.000Z",
+        "description": "这里是我的推推空间、！\nwelcome you come here、！\n\nDeepseek💙🐋&gemini❤️💛💚💙\n（排名分先后）",
+        "id": "2016154729810952198",
+        "name": "yang lan",
+        "pinned_tweet_id": "2027805580753322369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016155161144786947/AB6cbTQl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 67,
+          "like_count": 1828,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 465
+        },
+        "username": "yanglan457960",
+        "verified": false
+      }
+    ]
+  }
+}

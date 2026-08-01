@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2040775352864170293",
+    "created_at": "2026-04-06T06:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041042161953644816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955736339305127937",
+          "start": 0,
+          "username": "SolisTarri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041042161953644816",
+    "in_reply_to_user_id": "1955736339305127937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040779911485604193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SolisTarri 大人大人…🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2040775352864170293",
+        "created_at": "2026-04-06T06:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041042161953644816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955736339305127937",
+              "start": 0,
+              "username": "SolisTarri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041042161953644816",
+        "in_reply_to_user_id": "1955736339305127937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040779911485604193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SolisTarri 大人大人…🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955736339305127937",
+        "conversation_id": "2040775352864170293",
+        "created_at": "2026-04-05T13:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040779911485604193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040779911485604193",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040775352864170293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 妈妈૮ ៸៸៸º ᗜ º៸៸៸ ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 300,
+          "like_count": 1675,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 4190
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T21:01:09.000Z",
+        "description": "每个人都需要注意心理卫生。",
+        "id": "1955736339305127937",
+        "name": "Leukeran",
+        "pinned_tweet_id": "2025335907327639813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011138233183387649/QxQyC67a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 43,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 358
+        },
+        "username": "SolisTarri",
+        "verified": false
+      }
+    ]
+  }
+}

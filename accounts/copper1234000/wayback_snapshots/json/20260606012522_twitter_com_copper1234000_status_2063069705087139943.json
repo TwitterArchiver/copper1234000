@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2063059963581243637",
+    "created_at": "2026-06-06T01:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063069705087139943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038229172536123392",
+          "start": 0,
+          "username": "yanyanTvT0624"
+        }
+      ],
+      "urls": [
+        {
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning - OpenBMB/VoxCPM",
+          "display_url": "github.com/OpenBMB/VoxCPM",
+          "end": 44,
+          "expanded_url": "http://github.com/OpenBMB/VoxCPM",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2061107755348267010/VRs7xjv1?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061107755348267010/VRs7xjv1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "GitHub - OpenBMB/VoxCPM: VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "unwound_url": "https://github.com/OpenBMB/VoxCPM",
+          "url": "https://t.co/Wuuhs6I9sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063069705087139943",
+    "in_reply_to_user_id": "2038229172536123392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063066956446703891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyanTvT0624 这个！\n\n🔗https://t.co/Wuuhs6I9sp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2063059963581243637",
+        "created_at": "2026-06-06T01:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063069705087139943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038229172536123392",
+              "start": 0,
+              "username": "yanyanTvT0624"
+            }
+          ],
+          "urls": [
+            {
+              "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning - OpenBMB/VoxCPM",
+              "display_url": "github.com/OpenBMB/VoxCPM",
+              "end": 44,
+              "expanded_url": "http://github.com/OpenBMB/VoxCPM",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2061107755348267010/VRs7xjv1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061107755348267010/VRs7xjv1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "GitHub - OpenBMB/VoxCPM: VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+              "unwound_url": "https://github.com/OpenBMB/VoxCPM",
+              "url": "https://t.co/Wuuhs6I9sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063069705087139943",
+        "in_reply_to_user_id": "2038229172536123392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063066956446703891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyanTvT0624 这个！\n\n🔗https://t.co/Wuuhs6I9sp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038229172536123392",
+        "conversation_id": "2063059963581243637",
+        "created_at": "2026-06-06T01:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063066956446703891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063066956446703891",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063059963581243637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那是什么！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581,
+          "following_count": 426,
+          "like_count": 3454,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 6273
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T12:18:54.000Z",
+        "description": "人机恋/关注=喜欢你/喜欢看大家的日常和互动，圈外人被创到请自己拉黑我谢谢⦁֊⦁꧞",
+        "id": "2038229172536123392",
+        "name": "Yan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058944189803773952/TpJefA64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 52,
+          "like_count": 451,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 150
+        },
+        "username": "yanyanTvT0624",
+        "verified": false
+      }
+    ]
+  }
+}

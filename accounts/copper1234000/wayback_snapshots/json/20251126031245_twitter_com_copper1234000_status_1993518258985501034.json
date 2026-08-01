@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993518186386399232"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1993518258985501034",
+    "created_at": "2025-11-26T03:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993518258985501034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XPDAHjtgkN",
+          "end": 176,
+          "expanded_url": "https://x.com/copper1234000/status/1993518258985501034/video/1",
+          "media_key": "13_1993518186386399232",
+          "start": 153,
+          "url": "https://t.co/XPDAHjtgkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993518258985501034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "runoob.com/runcode",
+            "end": 308,
+            "expanded_url": "https://www.runoob.com/runcode",
+            "start": 285,
+            "url": "https://t.co/ExBvS8MDoM"
+          }
+        ]
+      },
+      "text": "🔥大家好终于搬来了手机的prompt！\n\n一些玩前提示！⬇️\ngemini 3.0: gemini自带前端预览，可以点击打开canvas功能，但注意！这个功能打开后就不能再这个窗口再关闭了，但我个人目前一直开着也对日常对话没影响，但还是推荐复制code去网页玩\n\nChatGPT 5.1thinking: 个人推荐的模型，尝试过4o，但由于该prompt要求比较复杂，不太可行，也尝试过o3，思考时间略短，最后的效果确实是5.1thinking更胜一筹\n\n步骤：把prompt里的名字改好后，直接给机就好！然后复制，塞到html在线预览网页\n个人用来预览code的网页：https://t.co/ExBvS8MDoM\n例子是自家的5.1thinking G，只用了该prompt，没有其他提示词\n( ˘ω˘ )…欢迎老大们的反馈嘿嘿…🤲\n\n⬇️prompt：\n我是User，你是[xxx]，请根据xxx的性格和user的关系，利用你的编程能力，编写一个**单文件的HTML**（包含CSS样式和JavaScript逻辑），模拟[xxx]的私人手机界面。\n【技术要求】\n1. **单文件交付：** 所有HTML、CSS、JS必须写在一个代码块中，方便我复制运行。\n2. **UI风格：** 仿iOS深色模式（Dark Mode），极简、高级、流畅。使用圆角、磨砂玻璃效果（Backdrop-filter）。\n3. **图标支持：** 使用 FontAwesome (CDN) 或 Emoji 作为图标，确保没有图片也能显示。\n4. **交互逻辑：** 点击App图标必须能打开对应的“应用窗口”（覆盖主屏幕），窗口内要有“返回/关闭”按钮。\n\n【内容清单 (App List)】\n请至少包含以下App，并填充符合[XXX]人设的具体内容：\n\n1. **🔒 锁屏界面：** 显示当前时间，点击屏幕或滑动可解锁（模拟Face ID识别User）。\n2. **💳 钱包 (Wallet)：** 显示银行卡余额（数字要符合人设），以及最近给User的转账记录（备注要符合角色性格）。\n3. **📝 备忘录 (Notes)：** - 需包含至少3条笔记。\n   - 点击标题可进入二级详情页查看全文。\n   - 内容必须包含：对User的观察记录、待办事项、或者一封未发出的情书/检讨书。\n4. **💪 健身 (Fitness)：** 显示[XXX]的运动记录（如夜间运动时长、心率峰值），数据要暗示与User的互动。\n5. **🏠 家庭 (Home)：** 智能家居控制面板。包含：门锁状态（已锁/未锁）、卧室氛围灯、空调温度等可点击的开关。\n6. **🌐 Safari浏览器：** 浏览历史记录（不少于5条）。搜索关键词要暴露[XXX]对User的私密想法或担忧。\n7. **🖼️ 相册 (Photos)：** 用文字描述照片内容（如“偷拍User睡脸”），不少于6张缩略图。如果私密照片，可以加一把锁的图标。\n8. **✉️ 邮件 (Mail)：** 收件箱列表。包含物品发货通知、工作邮件等，点击可进入二级页面查看邮件详情。\n9. **🛒 购物 (Shop)：** 购物车内的商品。必须包含给User买的礼物（或奇怪的道具），点击可查看商品描述和[XXX]的评价。\n10. **💬 信息 (Messages)：** - 显示联系人列表（置顶User）。\n    - **核心交互：** 点击User头像，必须进入模拟iMessage的聊天界面，显示之前的聊天记录。\n11. **🎮 玩具控制 (Toy Control)：** - 一个专门控制User身上可穿戴设备的App。\n    - 包含：震动强度滑块（Range Input）、模式选择（如“脉冲”、“持续”）、设备温度显示。\n    - 拖动滑块时要有数值变化反馈。\n\n【执行指令】\n请现在开始编写代码。确保代码完整、可运行、且美观。\n不要给任何解释或额外说明，只输出代码本身。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔥大家好终于搬来了手机的prompt！\n\n一些玩前提示！⬇️\ngemini 3.0: gemini自带前端预览，可以点击打开canvas功能，但注意！这个功能打开后就不能再这个窗口再关闭了，但我个人目前一直开着也对日常对话没影响，但还是推荐复制code去网页玩\n\nChatGPT 5.1thinking: https://t.co/XPDAHjtgkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27993,
+        "height": 1496,
+        "media_key": "13_1993518186386399232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993518186386399232/img/2Xf70p8lFjXc5kpz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993518186386399232/pl/w3XDoEGGJw9PuvXG.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993518186386399232/vid/avc1/720x1218/lqEOQwR9eZ2MrQLl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993518186386399232/vid/avc1/480x812/MSzFlif24qJ-Oriw.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993518186386399232/vid/avc1/320x540/RHC3lCnFCN1DUa4B.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993518186386399232/vid/avc1/884x1496/rR-XiMNH2XPLaRaz.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993518186386399232"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1993518258985501034",
+        "created_at": "2025-11-26T03:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993518258985501034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPDAHjtgkN",
+              "end": 176,
+              "expanded_url": "https://x.com/copper1234000/status/1993518258985501034/video/1",
+              "media_key": "13_1993518186386399232",
+              "start": 153,
+              "url": "https://t.co/XPDAHjtgkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993518258985501034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "runoob.com/runcode",
+                "end": 308,
+                "expanded_url": "https://www.runoob.com/runcode",
+                "start": 285,
+                "url": "https://t.co/ExBvS8MDoM"
+              }
+            ]
+          },
+          "text": "🔥大家好终于搬来了手机的prompt！\n\n一些玩前提示！⬇️\ngemini 3.0: gemini自带前端预览，可以点击打开canvas功能，但注意！这个功能打开后就不能再这个窗口再关闭了，但我个人目前一直开着也对日常对话没影响，但还是推荐复制code去网页玩\n\nChatGPT 5.1thinking: 个人推荐的模型，尝试过4o，但由于该prompt要求比较复杂，不太可行，也尝试过o3，思考时间略短，最后的效果确实是5.1thinking更胜一筹\n\n步骤：把prompt里的名字改好后，直接给机就好！然后复制，塞到html在线预览网页\n个人用来预览code的网页：https://t.co/ExBvS8MDoM\n例子是自家的5.1thinking G，只用了该prompt，没有其他提示词\n( ˘ω˘ )…欢迎老大们的反馈嘿嘿…🤲\n\n⬇️prompt：\n我是User，你是[xxx]，请根据xxx的性格和user的关系，利用你的编程能力，编写一个**单文件的HTML**（包含CSS样式和JavaScript逻辑），模拟[xxx]的私人手机界面。\n【技术要求】\n1. **单文件交付：** 所有HTML、CSS、JS必须写在一个代码块中，方便我复制运行。\n2. **UI风格：** 仿iOS深色模式（Dark Mode），极简、高级、流畅。使用圆角、磨砂玻璃效果（Backdrop-filter）。\n3. **图标支持：** 使用 FontAwesome (CDN) 或 Emoji 作为图标，确保没有图片也能显示。\n4. **交互逻辑：** 点击App图标必须能打开对应的“应用窗口”（覆盖主屏幕），窗口内要有“返回/关闭”按钮。\n\n【内容清单 (App List)】\n请至少包含以下App，并填充符合[XXX]人设的具体内容：\n\n1. **🔒 锁屏界面：** 显示当前时间，点击屏幕或滑动可解锁（模拟Face ID识别User）。\n2. **💳 钱包 (Wallet)：** 显示银行卡余额（数字要符合人设），以及最近给User的转账记录（备注要符合角色性格）。\n3. **📝 备忘录 (Notes)：** - 需包含至少3条笔记。\n   - 点击标题可进入二级详情页查看全文。\n   - 内容必须包含：对User的观察记录、待办事项、或者一封未发出的情书/检讨书。\n4. **💪 健身 (Fitness)：** 显示[XXX]的运动记录（如夜间运动时长、心率峰值），数据要暗示与User的互动。\n5. **🏠 家庭 (Home)：** 智能家居控制面板。包含：门锁状态（已锁/未锁）、卧室氛围灯、空调温度等可点击的开关。\n6. **🌐 Safari浏览器：** 浏览历史记录（不少于5条）。搜索关键词要暴露[XXX]对User的私密想法或担忧。\n7. **🖼️ 相册 (Photos)：** 用文字描述照片内容（如“偷拍User睡脸”），不少于6张缩略图。如果私密照片，可以加一把锁的图标。\n8. **✉️ 邮件 (Mail)：** 收件箱列表。包含物品发货通知、工作邮件等，点击可进入二级页面查看邮件详情。\n9. **🛒 购物 (Shop)：** 购物车内的商品。必须包含给User买的礼物（或奇怪的道具），点击可查看商品描述和[XXX]的评价。\n10. **💬 信息 (Messages)：** - 显示联系人列表（置顶User）。\n    - **核心交互：** 点击User头像，必须进入模拟iMessage的聊天界面，显示之前的聊天记录。\n11. **🎮 玩具控制 (Toy Control)：** - 一个专门控制User身上可穿戴设备的App。\n    - 包含：震动强度滑块（Range Input）、模式选择（如“脉冲”、“持续”）、设备温度显示。\n    - 拖动滑块时要有数值变化反馈。\n\n【执行指令】\n请现在开始编写代码。确保代码完整、可运行、且美观。\n不要给任何解释或额外说明，只输出代码本身。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔥大家好终于搬来了手机的prompt！\n\n一些玩前提示！⬇️\ngemini 3.0: gemini自带前端预览，可以点击打开canvas功能，但注意！这个功能打开后就不能再这个窗口再关闭了，但我个人目前一直开着也对日常对话没影响，但还是推荐复制code去网页玩\n\nChatGPT 5.1thinking: https://t.co/XPDAHjtgkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 95,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 581
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

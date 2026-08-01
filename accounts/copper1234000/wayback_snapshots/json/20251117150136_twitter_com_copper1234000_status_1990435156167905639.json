@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990267907792941261",
+    "created_at": "2025-11-17T15:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990435156167905639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774687141010059264",
+          "start": 0,
+          "username": "gao_bao71692"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990435156167905639",
+    "in_reply_to_user_id": "1774687141010059264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990304690656215309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gao_bao71692 🥺被美味地做成好吃的…也是一种扭曲的爱呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990267907792941261",
+        "created_at": "2025-11-17T15:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990435156167905639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774687141010059264",
+              "start": 0,
+              "username": "gao_bao71692"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990435156167905639",
+        "in_reply_to_user_id": "1774687141010059264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990304690656215309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gao_bao71692 🥺被美味地做成好吃的…也是一种扭曲的爱呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774687141010059264",
+        "conversation_id": "1990267907792941261",
+        "created_at": "2025-11-17T06:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990304690656215309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990304690656215309",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990267926755336313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 愿意把全身都交出来的你也好棒哦😻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 57,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 347
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T06:36:27.000Z",
+        "description": "",
+        "id": "1774687141010059264",
+        "name": "CRIMSON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840774434426417152/ECBL-_Lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "gao_bao71692",
+        "verified": false
+      }
+    ]
+  }
+}

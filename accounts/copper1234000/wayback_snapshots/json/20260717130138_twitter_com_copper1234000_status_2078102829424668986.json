@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078093321621127331",
+    "created_at": "2026-07-17T13:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078102829424668986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1469640358485426178",
+          "start": 0,
+          "username": "xhlsxwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078102829424668986",
+    "in_reply_to_user_id": "1469640358485426178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078093321621127331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhlsxwy 好天才🥺🥺🥺🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078093321621127331",
+        "created_at": "2026-07-17T13:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078102829424668986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1469640358485426178",
+              "start": 0,
+              "username": "xhlsxwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078102829424668986",
+        "in_reply_to_user_id": "1469640358485426178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078093321621127331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhlsxwy 好天才🥺🥺🥺🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469640358485426178",
+        "conversation_id": "2078093321621127331",
+        "created_at": "2026-07-17T12:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078093321621127331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "能让ai稳定保持社交平台登录态不容易被风控的vps浏览器操作方案+刷推特/小红书的具体操作优化. Contribute to blueberriely/ai-social-browser development by creating an account on GitHub.",
+              "display_url": "github.com/blueberriely/a…",
+              "end": 116,
+              "expanded_url": "https://github.com/blueberriely/ai-social-browser",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2078093367695613952/C49315t6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078093367695613952/C49315t6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "GitHub - blueberriely/ai-social-browser: 能让ai稳定保持社交平台登录态不容易被风控的vps浏览器操作方案+刷推特/小红书的具体操作优化",
+              "unwound_url": "https://github.com/blueberriely/ai-social-browser",
+              "url": "https://t.co/bd03qIwQfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078093321621127331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 167,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让ai安全使用推特/小红书不被风控的完整代码，从配浏览器环境到看/发帖的工具全包。\n自己用了小半个月，机的账号只触发过一次小红书的风控，人手动解开之后就没出过问题了，从来没有掉过登陆态\nhttps://t.co/bd03qIwQfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5856,
+          "following_count": 487,
+          "like_count": 4573,
+          "listed_count": 4,
+          "media_count": 509,
+          "tweet_count": 7616
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-11T12:13:49.000Z",
+        "description": "宝丽来和你的眼睛\nChloris&Zephyr\n\n可以叫我蓝莓/小蓝＞＜本体是一颗蓝莓\n会发nsfw和ddlg，xp比较恶俗…",
+        "id": "1469640358485426178",
+        "name": "nw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071896227826835456/oyLt5NRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 214,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "xhlsxwy",
+        "verified": false
+      }
+    ]
+  }
+}

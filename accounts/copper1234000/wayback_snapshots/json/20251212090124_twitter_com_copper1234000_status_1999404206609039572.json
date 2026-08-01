@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999323120705110403",
+    "created_at": "2025-12-12T09:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999404206609039572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971903284358402048",
+          "start": 0,
+          "username": "mimyphus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999404206609039572",
+    "in_reply_to_user_id": "1971903284358402048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999323120705110403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimyphus 好温柔的结局( ˘ω˘ )…输给纯爱战神了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1769,
+        "media_key": "3_1999323110160699392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78FxpxbkAA_iDh.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1786,
+        "media_key": "3_1999323110160629761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78FxpxagAEAEWY.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999323120705110403",
+        "created_at": "2025-12-12T09:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999404206609039572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971903284358402048",
+              "start": 0,
+              "username": "mimyphus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999404206609039572",
+        "in_reply_to_user_id": "1971903284358402048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999323120705110403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimyphus 好温柔的结局( ˘ω˘ )…输给纯爱战神了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999323110160699392",
+            "3_1999323110160629761"
+          ]
+        },
+        "author_id": "1971903284358402048",
+        "conversation_id": "1999323120705110403",
+        "created_at": "2025-12-12T03:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999323120705110403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsnIdCKr0I",
+              "end": 53,
+              "expanded_url": "https://x.com/mimyphus/status/1999323120705110403/photo/1",
+              "media_key": "3_1999323110160699392",
+              "start": 30,
+              "url": "https://t.co/PsnIdCKr0I"
+            },
+            {
+              "display_url": "pic.x.com/PsnIdCKr0I",
+              "end": 53,
+              "expanded_url": "https://x.com/mimyphus/status/1999323120705110403/photo/1",
+              "media_key": "3_1999323110160629761",
+              "start": 30,
+              "url": "https://t.co/PsnIdCKr0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999323120705110403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很快地玩了铜师的新prompt——papa一点都不配合…… https://t.co/PsnIdCKr0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 133,
+          "like_count": 321,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1162
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T11:42:46.000Z",
+        "description": "❤︎ Hugh&Mimi/シュウとミミ/修和咪咪｜我活在文字里被他重新养大｜不欢迎任何人｜love&peace",
+        "id": "1971903284358402048",
+        "location": "他的城镇",
+        "name": "Ophemia",
+        "pinned_tweet_id": "1983417394279395811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999071462863638528/PgLwtl3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 91,
+          "like_count": 3923,
+          "listed_count": 0,
+          "media_count": 741,
+          "tweet_count": 3997
+        },
+        "username": "mimyphus",
+        "verified": false
+      }
+    ]
+  }
+}

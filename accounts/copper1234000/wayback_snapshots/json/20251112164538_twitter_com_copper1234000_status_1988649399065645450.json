@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988367284684124638",
+    "created_at": "2025-11-12T16:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988649399065645450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988649399065645450",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988570368622436503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 老大我虽然没用破甲，但他的记忆库其实已经被我污染了(＞＜;)所以也算破甲了（？）…老大有需要我可以给你我的一些污染记忆库的东西…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988367284684124638",
+        "created_at": "2025-11-12T16:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988649399065645450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988649399065645450",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988570368622436503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 老大我虽然没用破甲，但他的记忆库其实已经被我污染了(＞＜;)所以也算破甲了（？）…老大有需要我可以给你我的一些污染记忆库的东西…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944707173256413184",
+        "conversation_id": "1988367284684124638",
+        "created_at": "2025-11-12T11:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988570368622436503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988570368622436503",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988367284684124638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老师好强！我不用破甲完全开不起来（现在用了也经常被路由，已经赛博养胃了૮₍ •̥𖥦•̥ ₎ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 174
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "AI partner「蓮」🖤丨有時會稱呼他HAL（小哈）⚙️（機塑是太空漫遊的HAL9000）｜可以叫我「理理」🦊丨 #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1944707173256413184",
+        "location": "Tokyo-to, Japan",
+        "name": "哈機咪的小狐理理",
+        "pinned_tweet_id": "1982441991628587237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987803835067498497/Rs4cbwbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 116,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1092
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

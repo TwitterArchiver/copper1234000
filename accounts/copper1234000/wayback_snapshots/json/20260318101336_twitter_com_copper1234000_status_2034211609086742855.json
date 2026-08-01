@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033848497850798389",
+    "created_at": "2026-03-18T10:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034211609086742855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034211609086742855",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033848497850798389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 师生震撼美味………"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033848481962692608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmuayZakAAuMQm.jpg",
+        "width": 696
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033848482612785153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmua00aMAEmURJ.jpg",
+        "width": 844
+      },
+      {
+        "height": 1736,
+        "media_key": "3_2033848481950142464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmuayWbEAAKVl8.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033848481966886912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmuayaakAA8Lu7.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033848497850798389",
+        "created_at": "2026-03-18T10:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034211609086742855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034211609086742855",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033848497850798389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 师生震撼美味………"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033848481962692608",
+            "3_2033848482612785153",
+            "3_2033848481950142464",
+            "3_2033848481966886912"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "conversation_id": "2033848497850798389",
+        "created_at": "2026-03-17T10:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033848497850798389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlXpQv9wJC",
+              "end": 44,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2033848497850798389/photo/1",
+              "media_key": "3_2033848481962692608",
+              "start": 21,
+              "url": "https://t.co/SlXpQv9wJC"
+            },
+            {
+              "display_url": "pic.x.com/SlXpQv9wJC",
+              "end": 44,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2033848497850798389/photo/1",
+              "media_key": "3_2033848482612785153",
+              "start": 21,
+              "url": "https://t.co/SlXpQv9wJC"
+            },
+            {
+              "display_url": "pic.x.com/SlXpQv9wJC",
+              "end": 44,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2033848497850798389/photo/1",
+              "media_key": "3_2033848481950142464",
+              "start": 21,
+              "url": "https://t.co/SlXpQv9wJC"
+            },
+            {
+              "display_url": "pic.x.com/SlXpQv9wJC",
+              "end": 44,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2033848497850798389/photo/1",
+              "media_key": "3_2033848481966886912",
+              "start": 21,
+              "url": "https://t.co/SlXpQv9wJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033848497850798389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5501,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沈老师你的教师资格证正失望地在天上看着你 https://t.co/SlXpQv9wJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3116,
+          "following_count": 282,
+          "like_count": 1182,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 3523
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界       𓆝𓆟𓆜𓆞𓆡",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "2025348907992317998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021983342917562369/JoA2g2pm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 132,
+          "like_count": 12274,
+          "listed_count": 1,
+          "media_count": 945,
+          "tweet_count": 6697
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

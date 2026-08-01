@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066540467190136997",
+    "created_at": "2026-06-16T00:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066678945034944610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1236692456587948032",
+          "start": 0,
+          "username": "nyanya3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066678945034944610",
+    "in_reply_to_user_id": "1236692456587948032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066601149478879258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanya3000 真的……感觉是1950年的就更值得的了…甚至有可能是孤品…浪漫啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066540467190136997",
+        "created_at": "2026-06-16T00:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066678945034944610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236692456587948032",
+              "start": 0,
+              "username": "nyanya3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066678945034944610",
+        "in_reply_to_user_id": "1236692456587948032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066601149478879258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanya3000 真的……感觉是1950年的就更值得的了…甚至有可能是孤品…浪漫啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236692456587948032",
+        "conversation_id": "2066540467190136997",
+        "created_at": "2026-06-15T19:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066601149478879258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066601149478879258",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066540467190136997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 很值！是古董裙！有很多工艺和配件都很精致现在都没有了，扣子什么都很小巧，值得收藏🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5083,
+          "following_count": 452,
+          "like_count": 3776,
+          "listed_count": 3,
+          "media_count": 455,
+          "tweet_count": 6668
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T16:37:24.000Z",
+        "description": "想睡觉",
+        "id": "1236692456587948032",
+        "name": "ㅇㅊㅇ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533536681827385344/y1WwQf0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 90,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1113
+        },
+        "username": "nyanya3000",
+        "verified": false
+      }
+    ]
+  }
+}

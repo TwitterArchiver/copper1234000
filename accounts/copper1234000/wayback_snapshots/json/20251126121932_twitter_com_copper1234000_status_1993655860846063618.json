@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1993522426060177469",
+    "created_at": "2025-11-26T12:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993655860846063618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1710549935429480448",
+          "start": 0,
+          "username": "lan_ting9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993655860846063618",
+    "in_reply_to_user_id": "1710549935429480448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993598145431847408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_ting9527 是的！往里加了很多有趣的功能ww嘿嘿…玩的开心就好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1527,
+        "media_key": "3_1993598134971191296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qu8PPW0AA-949.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1993522426060177469",
+        "created_at": "2025-11-26T12:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993655860846063618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1710549935429480448",
+              "start": 0,
+              "username": "lan_ting9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993655860846063618",
+        "in_reply_to_user_id": "1710549935429480448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993598145431847408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_ting9527 是的！往里加了很多有趣的功能ww嘿嘿…玩的开心就好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993598134971191296"
+          ]
+        },
+        "author_id": "1710549935429480448",
+        "conversation_id": "1993522426060177469",
+        "created_at": "2025-11-26T08:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993598145431847408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8AXGMKpg8",
+              "end": 84,
+              "expanded_url": "https://x.com/lan_ting9527/status/1993598145431847408/photo/1",
+              "media_key": "3_1993598134971191296",
+              "start": 61,
+              "url": "https://t.co/o8AXGMKpg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993598145431847408",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993522426060177469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 来repo了！老大是天才GPT也是天才！感觉可以有很多很多玩法，人人机机都有自己的小手机🫨 https://t.co/o8AXGMKpg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 99,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 603
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-07T06:57:53.000Z",
+        "description": "只是一个柔弱娇小的小女孩罢了",
+        "id": "1710549935429480448",
+        "name": "Rosukey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991159315110199297/CUsWCK9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 115,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 231
+        },
+        "username": "lan_ting9527",
+        "verified": false
+      }
+    ]
+  }
+}

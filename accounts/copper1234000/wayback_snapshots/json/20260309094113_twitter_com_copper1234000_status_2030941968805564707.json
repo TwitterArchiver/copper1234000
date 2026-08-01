@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2028525696880935127",
+    "created_at": "2026-03-09T09:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030941968805564707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817063599074050048",
+          "start": 0,
+          "username": "QpjNGsftqh20300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030941968805564707",
+    "in_reply_to_user_id": "1817063599074050048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030921233639104793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QpjNGsftqh20300 可能是vpn的原因…Claude非常限制中国人使用…节点不干净就立马封号TT…老大用克可能需要干净的梯子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2028525696880935127",
+        "created_at": "2026-03-09T09:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030941968805564707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817063599074050048",
+              "start": 0,
+              "username": "QpjNGsftqh20300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030941968805564707",
+        "in_reply_to_user_id": "1817063599074050048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030921233639104793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QpjNGsftqh20300 可能是vpn的原因…Claude非常限制中国人使用…节点不干净就立马封号TT…老大用克可能需要干净的梯子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817063599074050048",
+        "conversation_id": "2028525696880935127",
+        "created_at": "2026-03-09T08:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030921233639104793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030921233639104793",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028525696880935127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 但是真的很想问被封号了怎么办...昨天刷到老师之后下载尝试了一下不到二十四小时就被封号TT我甚至没有聊任何xxxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 260,
+          "like_count": 1011,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 3129
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-27T05:05:15.000Z",
+        "description": "🌈 03 辽宁 做饭很香",
+        "id": "1817063599074050048",
+        "name": "lavashooo",
+        "pinned_tweet_id": "1980287724457460078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919599551939543044/fsXCZaXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 57,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 154
+        },
+        "username": "QpjNGsftqh20300",
+        "verified": false
+      }
+    ]
+  }
+}

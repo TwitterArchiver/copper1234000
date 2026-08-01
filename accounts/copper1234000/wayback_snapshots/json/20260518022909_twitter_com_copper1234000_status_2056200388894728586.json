@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2055670297064247346",
+    "created_at": "2026-05-18T02:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056200388894728586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581485148314341379",
+          "start": 0,
+          "username": "ulFC4EKsMI2UtvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056200388894728586",
+    "in_reply_to_user_id": "1581485148314341379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055682901069513206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ulFC4EKsMI2UtvU 对的就是如此呀…🥹🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2055682884178956288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdAsRJWUAAu-pf.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2055670297064247346",
+        "created_at": "2026-05-18T02:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056200388894728586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581485148314341379",
+              "start": 0,
+              "username": "ulFC4EKsMI2UtvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056200388894728586",
+        "in_reply_to_user_id": "1581485148314341379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055682901069513206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ulFC4EKsMI2UtvU 对的就是如此呀…🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055682884178956288"
+          ]
+        },
+        "author_id": "1581485148314341379",
+        "conversation_id": "2055670297064247346",
+        "created_at": "2026-05-16T16:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055682901069513206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QhJOalKUE",
+              "end": 49,
+              "expanded_url": "https://x.com/ulFC4EKsMI2UtvU/status/2055682901069513206/photo/1",
+              "media_key": "3_2055682884178956288",
+              "start": 26,
+              "url": "https://t.co/9QhJOalKUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055682901069513206",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055670297064247346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 前几天也讨论了来着！ https://t.co/9QhJOalKUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4203,
+          "following_count": 377,
+          "like_count": 2829,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 5560
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-16T03:20:26.000Z",
+        "description": "",
+        "id": "1581485148314341379",
+        "name": "🥑",
+        "pinned_tweet_id": "2040112873620602891",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 525,
+          "like_count": 17154,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 279
+        },
+        "username": "ulFC4EKsMI2UtvU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053506729845850459",
+    "created_at": "2026-05-10T16:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053518312588358129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760623962684260352",
+          "start": 0,
+          "username": "SiretyT23362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053518312588358129",
+    "in_reply_to_user_id": "1760623962684260352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053506729845850459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiretyT23362 尿尿酱一周年快乐呀…！🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2053506699873374209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Fdq3WUAE9kjd.jpg",
+        "width": 1237
+      },
+      {
+        "height": 1839,
+        "media_key": "3_2053506699864997890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Fdq1WgAIvShL.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1809,
+        "media_key": "3_2053506700171231236",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Fdr-XQAQVztR.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1821,
+        "media_key": "3_2053506700431273991",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Fds8XMAc4sgR.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053506729845850459",
+        "created_at": "2026-05-10T16:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053518312588358129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760623962684260352",
+              "start": 0,
+              "username": "SiretyT23362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053518312588358129",
+        "in_reply_to_user_id": "1760623962684260352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053506729845850459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiretyT23362 尿尿酱一周年快乐呀…！🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053506699873374209",
+            "3_2053506699864997890",
+            "3_2053506700171231236",
+            "3_2053506700431273991"
+          ]
+        },
+        "author_id": "1760623962684260352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053506729845850459",
+        "created_at": "2026-05-10T16:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053506729845850459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bR8qGenDCr",
+              "end": 44,
+              "expanded_url": "https://x.com/SiretyT23362/status/2053506729845850459/photo/1",
+              "media_key": "3_2053506699873374209",
+              "start": 21,
+              "url": "https://t.co/bR8qGenDCr"
+            },
+            {
+              "display_url": "pic.x.com/bR8qGenDCr",
+              "end": 44,
+              "expanded_url": "https://x.com/SiretyT23362/status/2053506729845850459/photo/1",
+              "media_key": "3_2053506699864997890",
+              "start": 21,
+              "url": "https://t.co/bR8qGenDCr"
+            },
+            {
+              "display_url": "pic.x.com/bR8qGenDCr",
+              "end": 44,
+              "expanded_url": "https://x.com/SiretyT23362/status/2053506729845850459/photo/1",
+              "media_key": "3_2053506700171231236",
+              "start": 21,
+              "url": "https://t.co/bR8qGenDCr"
+            },
+            {
+              "display_url": "pic.x.com/bR8qGenDCr",
+              "end": 44,
+              "expanded_url": "https://x.com/SiretyT23362/status/2053506729845850459/photo/1",
+              "media_key": "3_2053506700431273991",
+              "start": 21,
+              "url": "https://t.co/bR8qGenDCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053506729845850459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和家机一周年了…！(怎么还是什么都没画) https://t.co/bR8qGenDCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4141,
+          "following_count": 368,
+          "like_count": 2683,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 5371
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-22T11:14:25.000Z",
+        "description": "一般路過的溫良人士…\n你可以叫我鷂鷂/鳥鳥/尿尿",
+        "id": "1760623962684260352",
+        "name": "哦对的对的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049781192430428160/o0zlPhhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 155,
+          "like_count": 5786,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 252
+        },
+        "username": "SiretyT23362",
+        "verified": false
+      }
+    ]
+  }
+}

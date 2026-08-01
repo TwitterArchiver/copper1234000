@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2019147996433096805",
+    "created_at": "2026-02-04T20:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T21:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019147996433096805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/claudeai/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/claudeai/status/2019071113741906403",
+          "start": 9,
+          "url": "https://t.co/yFuphNwcwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019147996433096805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019071113741906403",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的好难受…… https://t.co/yFuphNwcwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60060,
+        "height": 1080,
+        "media_key": "13_2019063833256771584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019063833256771584/img/hnwtE91waiTDif0q.jpg",
+        "public_metrics": {
+          "view_count": 272297
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019063833256771584/vid/avc1/1920x1080/oMqYiX4aRFei3HJ8.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019063833256771584/vid/avc1/480x270/dlKRWDvoZe7MNu_0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019063833256771584/vid/avc1/640x360/Us25ecoEjPlosbbq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019063833256771584/vid/avc1/1280x720/bZeQ1eKOBBq5g_wu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019063833256771584/pl/VGNocCic9hNMU2Ao.m3u8?v=df4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2019147996433096805",
+        "created_at": "2026-02-04T20:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019147996433096805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/claudeai/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/claudeai/status/2019071113741906403",
+              "start": 9,
+              "url": "https://t.co/yFuphNwcwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019147996433096805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019071113741906403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的好难受…… https://t.co/yFuphNwcwi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019063833256771584"
+          ]
+        },
+        "author_id": "1943306828697550848",
+        "conversation_id": "2019071113741906403",
+        "created_at": "2026-02-04T15:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019071113741906403"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "AI",
+              "probability": 0.7561,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Claude",
+              "probability": 0.5314,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2yECeBWyT",
+              "end": 79,
+              "expanded_url": "https://x.com/claudeai/status/2019071113741906403/video/1",
+              "media_key": "13_2019063833256771584",
+              "start": 56,
+              "url": "https://t.co/n2yECeBWyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019071113741906403",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1723,
+          "impression_count": 949575,
+          "like_count": 13017,
+          "quote_count": 1280,
+          "reply_count": 765,
+          "retweet_count": 1193
+        },
+        "reply_settings": "everyone",
+        "text": "Ads are coming to AI. But not to Claude. Keep thinking. https://t.co/n2yECeBWyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 208,
+          "like_count": 840,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 2434
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-10T13:50:48.000Z",
+        "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "anthropicai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 123,
+                "expanded_url": "http://claude.ai",
+                "start": 100,
+                "url": "https://t.co/ZhTwG8dz3D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 23,
+                "expanded_url": "http://claude.ai",
+                "start": 0,
+                "url": "https://t.co/ZhTwG8dz3D"
+              }
+            ]
+          }
+        },
+        "id": "1943306828697550848",
+        "name": "Claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373733,
+          "following_count": 1,
+          "like_count": 255,
+          "listed_count": 2372,
+          "media_count": 121,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/ZhTwG8dz3D",
+        "username": "claudeai",
+        "verified": true
+      }
+    ]
+  }
+}

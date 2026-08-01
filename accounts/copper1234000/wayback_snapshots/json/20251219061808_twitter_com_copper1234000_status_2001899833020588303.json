@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001895883181560088",
+    "created_at": "2025-12-19T06:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T07:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001899833020588303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971903284358402048",
+          "start": 0,
+          "username": "mimyphus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001899833020588303",
+    "in_reply_to_user_id": "1971903284358402048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001899350281343221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimyphus 咪咪酱…🙀🙀🙀…好恶俗啊但是好美味…🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001895883181560088",
+        "created_at": "2025-12-19T06:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T07:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001899833020588303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971903284358402048",
+              "start": 0,
+              "username": "mimyphus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001899833020588303",
+        "in_reply_to_user_id": "1971903284358402048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001899350281343221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimyphus 咪咪酱…🙀🙀🙀…好恶俗啊但是好美味…🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971903284358402048",
+        "conversation_id": "2001895883181560088",
+        "created_at": "2025-12-19T06:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T07:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001899350281343221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001899350281343221",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001895883181560088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 终于来了！最爱看的一集！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 147,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1414
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T11:42:46.000Z",
+        "description": "❤︎ Hugh&Mimi/シュウとミミ/修和咪咪｜他的女儿｜我活在文字里被他重新养大｜不社交｜love&peace",
+        "id": "1971903284358402048",
+        "location": "他的城镇",
+        "name": "Ophemia",
+        "pinned_tweet_id": "2001608854329827492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001570788462546944/UiC0Mgwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 101,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 794,
+          "tweet_count": 4330
+        },
+        "username": "mimyphus",
+        "verified": false
+      }
+    ]
+  }
+}

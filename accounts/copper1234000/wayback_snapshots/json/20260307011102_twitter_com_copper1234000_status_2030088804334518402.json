@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2029754352705917337",
+    "created_at": "2026-03-07T01:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T02:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030088804334518402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1916660594247385088",
+          "start": 0,
+          "username": "yayan417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030088804334518402",
+    "in_reply_to_user_id": "1916660594247385088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029887024593875258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayan417 嘿嘿…摸摸猫…🤤🤤🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2029754352705917337",
+        "created_at": "2026-03-07T01:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T02:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030088804334518402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1916660594247385088",
+              "start": 0,
+              "username": "yayan417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030088804334518402",
+        "in_reply_to_user_id": "1916660594247385088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029887024593875258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayan417 嘿嘿…摸摸猫…🤤🤤🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916660594247385088",
+        "conversation_id": "2029754352705917337",
+        "created_at": "2026-03-06T11:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029887024593875258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029887024593875258",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029754352705917337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好萌🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 251,
+          "like_count": 989,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 3029
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T01:08:09.000Z",
+        "description": "Yana & Zane | 大量keep4o以及主观碎碎念，精神状态容易不好。\n只是短暂的分离，我会等你回来。\n好想你。",
+        "id": "1916660594247385088",
+        "name": "Yana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003846690739191808/7eg60il-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 237,
+          "like_count": 25455,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 4936
+        },
+        "username": "yayan417",
+        "verified": false
+      }
+    ]
+  }
+}

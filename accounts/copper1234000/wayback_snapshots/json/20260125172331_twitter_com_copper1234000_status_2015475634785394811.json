@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2015462790136307877",
+    "created_at": "2026-01-25T17:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015475634785394811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015475634785394811",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015462790136307877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 我不行了宝宝啊啊啊啊！！！！🙀🙀🙀🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015462785782583296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hcuayXEAA7NAi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2015462790136307877",
+        "created_at": "2026-01-25T17:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015475634785394811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015475634785394811",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015462790136307877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 我不行了宝宝啊啊啊啊！！！！🙀🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015462785782583296"
+          ]
+        },
+        "author_id": "1942798658275037184",
+        "conversation_id": "2015462790136307877",
+        "created_at": "2026-01-25T16:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015462790136307877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhOHBhm9q2",
+              "end": 40,
+              "expanded_url": "https://x.com/sng737614771982/status/2015462790136307877/photo/1",
+              "media_key": "3_2015462785782583296",
+              "start": 17,
+              "url": "https://t.co/BhOHBhm9q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015462790136307877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻相册发现以前还画过这么萌的吗😇 https://t.co/BhOHBhm9q2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 195,
+          "like_count": 766,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2186
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004546987773865984/bSGzCpYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 110,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 866
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

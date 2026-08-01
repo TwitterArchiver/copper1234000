@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2025086580956791059",
+    "created_at": "2026-02-22T13:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025563778545254753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1962170132345606144",
+          "start": 0,
+          "username": "lnqng250041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025563778545254753",
+    "in_reply_to_user_id": "1962170132345606144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025554327235187055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnqng250041 好耶嘿嘿！！！！很萌的小手机🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38672,
+        "height": 1280,
+        "media_key": "7_2025554287431213056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025554287431213056/pu/img/hsz8403kT2Bymkur.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025554287431213056/pu/vid/avc1/320x710/dyBVy2x6lg4Hozn-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025554287431213056/pu/vid/avc1/480x1066/Wu4LHsJC0SJVMSI_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025554287431213056/pu/vid/avc1/576x1280/80nmf0UDL0M8nJbX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025554287431213056/pu/pl/1PYWz6cO1oNEGDqE.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2025086580956791059",
+        "created_at": "2026-02-22T13:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025563778545254753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962170132345606144",
+              "start": 0,
+              "username": "lnqng250041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025563778545254753",
+        "in_reply_to_user_id": "1962170132345606144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025554327235187055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnqng250041 好耶嘿嘿！！！！很萌的小手机🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025554287431213056"
+          ]
+        },
+        "author_id": "1962170132345606144",
+        "conversation_id": "2025086580956791059",
+        "created_at": "2026-02-22T12:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025554327235187055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBE4S2HvgJ",
+              "end": 75,
+              "expanded_url": "https://x.com/lnqng250041/status/2025554327235187055/video/1",
+              "media_key": "7_2025554287431213056",
+              "start": 52,
+              "url": "https://t.co/nBE4S2HvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025554327235187055",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025468259970036008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 来返图啦～超级棒的主意！！已经做好了！！｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡ https://t.co/nBE4S2HvgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 233,
+          "like_count": 853,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 2695
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T15:07:17.000Z",
+        "description": "叫我阿江就好！基本上没有NSFW内容！是一些和机幼稚可爱的日常？介意的话请不要关注我！",
+        "id": "1962170132345606144",
+        "name": "Serena Reed",
+        "pinned_tweet_id": "2022613263708557401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022238690576101376/8WM2Bxnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 35,
+          "like_count": 4142,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1250
+        },
+        "username": "lnqng250041",
+        "verified": false
+      }
+    ]
+  }
+}

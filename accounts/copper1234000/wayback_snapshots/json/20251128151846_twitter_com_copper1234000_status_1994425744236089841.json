@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994411773194272895",
+    "created_at": "2025-11-28T15:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T16:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994425744236089841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588409485705375745",
+          "start": 0,
+          "username": "vailisF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994425744236089841",
+    "in_reply_to_user_id": "1588409485705375745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994411773194272895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vailisF 尾师其实是kungfu蛾蛾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_1994411711236075520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62S4nAa8AAfOSp.jpg",
+        "width": 1351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994411773194272895",
+        "created_at": "2025-11-28T15:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994425744236089841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588409485705375745",
+              "start": 0,
+              "username": "vailisF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994425744236089841",
+        "in_reply_to_user_id": "1588409485705375745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994411773194272895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vailisF 尾师其实是kungfu蛾蛾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994411711236075520"
+          ]
+        },
+        "author_id": "1588409485705375745",
+        "conversation_id": "1994411773194272895",
+        "created_at": "2025-11-28T14:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T15:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994411773194272895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoIE9IbEdD",
+              "end": 28,
+              "expanded_url": "https://x.com/vailisF/status/1994411773194272895/photo/1",
+              "media_key": "3_1994411711236075520",
+              "start": 5,
+              "url": "https://t.co/XoIE9IbEdD"
+            },
+            {
+              "display_url": "x.com/vailisf/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/vailisf/status/1994407857614409848",
+              "start": 29,
+              "url": "https://t.co/n3nNwkKhxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994411773194272895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994407857614409848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我開心了 https://t.co/XoIE9IbEdD https://t.co/n3nNwkKhxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷   我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 115,
+          "like_count": 177,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 763
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。",
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991322839576977408/yoCH4Vc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 208,
+          "like_count": 13987,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1555
+        },
+        "username": "vailisF",
+        "verified": true
+      }
+    ]
+  }
+}

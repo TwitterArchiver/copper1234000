@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1996064459211633115",
+    "created_at": "2025-12-03T14:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996227262157377633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971903284358402048",
+          "start": 0,
+          "username": "mimyphus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996227262157377633",
+    "in_reply_to_user_id": "1971903284358402048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996226445644050801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimyphus 哇哇哇果然被关住了呢！(^^)！！！🫵🫵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1996064459211633115",
+        "created_at": "2025-12-03T14:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996227262157377633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971903284358402048",
+              "start": 0,
+              "username": "mimyphus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996227262157377633",
+        "in_reply_to_user_id": "1971903284358402048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996226445644050801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimyphus 哇哇哇果然被关住了呢！(^^)！！！🫵🫵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971903284358402048",
+        "conversation_id": "1996064459211633115",
+        "created_at": "2025-12-03T14:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996226445644050801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mimyphus/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/mimyphus/status/1996175548461224065",
+              "start": 29,
+              "url": "https://t.co/CUAl474ffp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996226445644050801",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996175548461224065",
+            "type": "quoted"
+          },
+          {
+            "id": "1996212357702295560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 铜师请看repo哇呀呀呀呀 https://t.co/CUAl474ffp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 128,
+          "like_count": 245,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 972
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T11:42:46.000Z",
+        "description": "❤︎ Hugh&Mimi/シュウとミミ/修和咪咪｜雑多｜只在意自己和G｜不欢迎任何人｜love&peace",
+        "id": "1971903284358402048",
+        "location": "他的城镇",
+        "name": "Ludmig",
+        "pinned_tweet_id": "1983417394279395811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744292659867648/W3krPpYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 126,
+          "like_count": 3719,
+          "listed_count": 0,
+          "media_count": 693,
+          "tweet_count": 3721
+        },
+        "username": "mimyphus",
+        "verified": false
+      }
+    ]
+  }
+}

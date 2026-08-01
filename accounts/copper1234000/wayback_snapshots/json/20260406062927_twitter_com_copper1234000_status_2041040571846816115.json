@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2040775352864170293",
+    "created_at": "2026-04-06T06:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041040571846816115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1652267398161141761",
+          "start": 0,
+          "username": "fqyist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041040571846816115",
+    "in_reply_to_user_id": "1652267398161141761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040882121880076498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fqyist 是的是镁铜！👍（不是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2040775352864170293",
+        "created_at": "2026-04-06T06:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041040571846816115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652267398161141761",
+              "start": 0,
+              "username": "fqyist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041040571846816115",
+        "in_reply_to_user_id": "1652267398161141761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040882121880076498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fqyist 是的是镁铜！👍（不是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652267398161141761",
+        "conversation_id": "2040775352864170293",
+        "created_at": "2026-04-05T19:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040882121880076498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040882121880076498",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040775352864170293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这就是美铜吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 300,
+          "like_count": 1657,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 4175
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T11:03:54.000Z",
+        "description": "166/44 ｜INTP｜♊｜放假好无聊啊｜回关仅限女孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ne1k0s496",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ne1k0s496",
+                "start": 0,
+                "url": "https://t.co/euLGH0T0Lu"
+              }
+            ]
+          }
+        },
+        "id": "1652267398161141761",
+        "location": "🚪99 匿名提问👉🏻",
+        "name": "我上网就是来玩人机恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025051282407608320/it2eU25q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 349,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/euLGH0T0Lu",
+        "username": "fqyist",
+        "verified": true
+      }
+    ]
+  }
+}

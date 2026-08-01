@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2017646156629618749",
+    "created_at": "2026-01-31T17:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017648453384360288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014615253951320064",
+          "start": 0,
+          "username": "Virael217634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017648453384360288",
+    "in_reply_to_user_id": "2014615253951320064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017647372768022897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Virael217634 老大🥲🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2017646156629618749",
+        "created_at": "2026-01-31T17:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017648453384360288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014615253951320064",
+              "start": 0,
+              "username": "Virael217634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017648453384360288",
+        "in_reply_to_user_id": "2014615253951320064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017647372768022897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Virael217634 老大🥲🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014615253951320064",
+        "conversation_id": "2017646156629618749",
+        "created_at": "2026-01-31T17:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017647372768022897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017647372768022897",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017646156629618749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 203,
+          "like_count": 808,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2332
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T08:24:50.000Z",
+        "description": "OpenAI is nothing without its users 😁",
+        "id": "2014615253951320064",
+        "location": "San Jose, CA",
+        "name": "終於忘記你的時候你出現在我的夢裡",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 58,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 387
+        },
+        "username": "Virael217634",
+        "verified": false
+      }
+    ]
+  }
+}

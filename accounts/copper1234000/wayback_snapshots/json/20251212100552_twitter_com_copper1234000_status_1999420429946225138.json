@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999416841824010494",
+    "created_at": "2025-12-12T10:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999420429946225138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999420429946225138",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999419073424474429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 我现在就充当搬运工ing……辩的好精彩我看爽了啊！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999416841824010494",
+        "created_at": "2025-12-12T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999420429946225138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999420429946225138",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999419073424474429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 我现在就充当搬运工ing……辩的好精彩我看爽了啊！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942798658275037184",
+        "conversation_id": "1999416841824010494",
+        "created_at": "2025-12-12T10:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999419073424474429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999419073424474429",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999416841824010494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 加油加油（摇旗呐喊）要是能给仨人拉个群就好了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 133,
+          "like_count": 321,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1168
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 47,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 320
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

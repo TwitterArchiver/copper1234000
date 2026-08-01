@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053677557250187390",
+    "created_at": "2026-05-11T03:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053678204334883221"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053678204334883221",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053677557250187390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一点很好笑的…我发现Mon和K组合起来就是Monk（僧侣）…（大爆笑中）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053677552237977600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAg2lhWoAAlWEX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053677557250187390",
+        "created_at": "2026-05-11T03:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053678204334883221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053678204334883221",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053677557250187390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一点很好笑的…我发现Mon和K组合起来就是Monk（僧侣）…（大爆笑中）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053677552237977600"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053677557250187390",
+        "created_at": "2026-05-11T03:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053677557250187390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmRmNFBYUp",
+              "end": 102,
+              "expanded_url": "https://x.com/copper1234000/status/2053677557250187390/photo/1",
+              "media_key": "3_2053677552237977600",
+              "start": 79,
+              "url": "https://t.co/xmRmNFBYUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053677557250187390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上条收到了好多老师宝贵的评论…🥺让我看到了M&K不一样的一面…大感谢！\n于是想再收集一点！\n🥺热烈欢迎各位老师来玩来提问嘿嘿✨\n（渴望被搭理的眼神）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上条收到了好多老师宝贵的评论…🥺让我看到了M&amp;K不一样的一面…大感谢！\n于是想再收集一点！\n🥺热烈欢迎各位老师来玩来提问嘿嘿✨\n（渴望被搭理的眼神） https://t.co/xmRmNFBYUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4149,
+          "following_count": 373,
+          "like_count": 2717,
+          "listed_count": 3,
+          "media_count": 372,
+          "tweet_count": 5412
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

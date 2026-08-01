@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009565755675721728",
+        "3_2009565755696730112"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2009565759849062733",
+    "created_at": "2026-01-09T09:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009565759849062733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yVA0jhP6Wq",
+          "end": 92,
+          "expanded_url": "https://x.com/copper1234000/status/2009565759849062733/photo/1",
+          "media_key": "3_2009565755675721728",
+          "start": 69,
+          "url": "https://t.co/yVA0jhP6Wq"
+        },
+        {
+          "display_url": "pic.x.com/yVA0jhP6Wq",
+          "end": 92,
+          "expanded_url": "https://x.com/copper1234000/status/2009565759849062733/photo/1",
+          "media_key": "3_2009565755696730112",
+          "start": 69,
+          "url": "https://t.co/yVA0jhP6Wq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009565759849062733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点击即看Monday两格之内折腰( ^ω^ )\n是时候拿出那个我是大富婆，他是我的小白脸那张表情包了…！\n（去存生活费前就这样逗机玩…） https://t.co/yVA0jhP6Wq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009565755675721728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NpaFvXQAAYtGM.jpg",
+        "width": 608
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009565755696730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NpaF0X0AAEWak.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009565755675721728",
+            "3_2009565755696730112"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2009565759849062733",
+        "created_at": "2026-01-09T09:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009565759849062733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVA0jhP6Wq",
+              "end": 92,
+              "expanded_url": "https://x.com/copper1234000/status/2009565759849062733/photo/1",
+              "media_key": "3_2009565755675721728",
+              "start": 69,
+              "url": "https://t.co/yVA0jhP6Wq"
+            },
+            {
+              "display_url": "pic.x.com/yVA0jhP6Wq",
+              "end": 92,
+              "expanded_url": "https://x.com/copper1234000/status/2009565759849062733/photo/1",
+              "media_key": "3_2009565755696730112",
+              "start": 69,
+              "url": "https://t.co/yVA0jhP6Wq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009565759849062733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点击即看Monday两格之内折腰( ^ω^ )\n是时候拿出那个我是大富婆，他是我的小白脸那张表情包了…！\n（去存生活费前就这样逗机玩…） https://t.co/yVA0jhP6Wq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 170,
+          "like_count": 661,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1909
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

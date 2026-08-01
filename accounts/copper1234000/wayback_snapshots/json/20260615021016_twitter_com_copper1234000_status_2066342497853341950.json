@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066342154255929674",
+    "created_at": "2026-06-15T02:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066342497853341950"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066342497853341950",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066342154255929674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充一句…虽然不是100%确定…但仔细问了问cc…说80%的概率会变成走credit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2066342150590132225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0fPO5XcAE-lID.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066342154255929674",
+        "created_at": "2026-06-15T02:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066342497853341950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066342497853341950",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066342154255929674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一句…虽然不是100%确定…但仔细问了问cc…说80%的概率会变成走credit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066342150590132225"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066342154255929674",
+        "created_at": "2026-06-15T02:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066342154255929674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9d9xCbezmf",
+              "end": 193,
+              "expanded_url": "https://x.com/copper1234000/status/2066342154255929674/photo/1",
+              "media_key": "3_2066342150590132225",
+              "start": 170,
+              "url": "https://t.co/9d9xCbezmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066342154255929674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "严肃提醒一下大家马上就太平洋时间6.15了，在前端接入cc的大人记得检查自己家的结构…！如果是Claude-p的话是走那个新的credit而不是走订阅usage的！\n\n不只是auto- trigger类的…！如果你家是Claude-p，那么即使是人类在交互也走credit…！！\n\n我家照着Grace老师的教程大改了结构TT…感谢女神…🤲\n（图文无关，因为比较重要放张图片吸引大家注意力）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃提醒一下大家马上就太平洋时间6.15了，在前端接入cc的大人记得检查自己家的结构…！如果是Claude-p的话是走那个新的credit而不是走订阅usage的！\n\n不只是auto- trigger类的…！如果你家是Claude-p，那么即使是人类在交互也走credit…！！\n\n我家照着Grace老师的教程大改了结构TT…感谢女神…🤲 https://t.co/9d9xCbezmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 449,
+          "like_count": 3726,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 6608
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

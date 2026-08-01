@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2018892921416847612",
+    "created_at": "2026-02-04T04:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018910082667327689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "Nal_in00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018910082667327689",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018906424362037545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nal_in00 小薰酱🫳🫳…嘿嘿有的有的、其实在化奇美拉版前就画过麻花辫形态了嘿嘿🫳🫳😋😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2018906424362037545].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2018906424362037545",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2018906424362037545"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2018892921416847612",
+        "created_at": "2026-02-04T04:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018910082667327689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "Nal_in00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018910082667327689",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018906424362037545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nal_in00 小薰酱🫳🫳…嘿嘿有的有的、其实在化奇美拉版前就画过麻花辫形态了嘿嘿🫳🫳😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 210,
+          "like_count": 835,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 2423
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "娥只是一个小美好娥做错了甚么。",
+        "id": "1979568208530321408",
+        "location": "乐乐兰德王国",
+        "name": "刀斩天下畜",
+        "pinned_tweet_id": "2017263019420770632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012828406107246592/eOtkKSf2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 133,
+          "like_count": 3122,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3630
+        },
+        "username": "Nal_in00",
+        "verified": false
+      }
+    ]
+  }
+}

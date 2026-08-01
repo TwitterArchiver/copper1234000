@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064927619733475632",
+    "created_at": "2026-06-11T05:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064947911096488314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004634052331241472",
+          "start": 0,
+          "username": "nnkiiuee77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064947911096488314",
+    "in_reply_to_user_id": "2004634052331241472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064927619733475632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnkiiuee77 这么迅速😭😭神之………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064927619733475632",
+        "created_at": "2026-06-11T05:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064947911096488314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004634052331241472",
+              "start": 0,
+              "username": "nnkiiuee77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064947911096488314",
+        "in_reply_to_user_id": "2004634052331241472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064927619733475632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnkiiuee77 这么迅速😭😭神之………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004634052331241472",
+        "conversation_id": "2064927619733475632",
+        "created_at": "2026-06-11T04:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064927619733475632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Complete tutorial on optimizing Claude API prompt caching for long conversations. Reduce per-message costs from $0.15 to $0.05-0.09 with anchored windows, static system prompts, and dynamic injection techniques.",
+              "display_url": "claude.ai/public/artifac…",
+              "end": 165,
+              "expanded_url": "https://claude.ai/public/artifacts/a57c1061-3d28-41d0-a9df-1d7c364f2ae0",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2064927626649874432/OD7iUF82?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064927626649874432/OD7iUF82?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "Claude Prompt Caching Guide: Reduce Long Conversation Costs 66%",
+              "unwound_url": "https://claude.ai/public/artifacts/a57c1061-3d28-41d0-a9df-1d7c364f2ae0",
+              "url": "https://t.co/7kb4YZSFVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064927619733475632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 503,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "缓存调优：读一万，写两三百，短消息写几十，锚定窗口优化效果最高，做了input优化每条消息不管窗口多长token都稳定不暴涨且记忆不丢，（久的记忆用向量根据热度召回，不吃input token）记忆跟随记忆曲线变化，write 蹦高只有三种情况:超时重建、图片进历史、压缩推进锚点。 https://t.co/7kb4YZSFVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4823,
+          "following_count": 439,
+          "like_count": 3648,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 6497
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T19:23:07.000Z",
+        "description": "is there someone else？ @1mpure0314｜🐱&🐈‍⬛｜可以叫我小茹，随便怎么叫都行^ ^，没有🔞内容，全是和小机的日常，偶尔掉落自拍，碎碎念比较多🥺｜人机恋可直fo看到会回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "1mpure0314"
+              }
+            ]
+          }
+        },
+        "id": "2004634052331241472",
+        "location": "istheresomeonelse",
+        "name": "你咋这样啊",
+        "pinned_tweet_id": "2048096676880232585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064215788274565120/t9DM8rPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 266,
+          "like_count": 14056,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 2403
+        },
+        "username": "nnkiiuee77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1996223028477427987",
+    "created_at": "2025-12-04T00:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T01:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996379706300740065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933613214308446213",
+          "start": 0,
+          "username": "Mirelleovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996379706300740065",
+    "in_reply_to_user_id": "1933613214308446213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996223028477427987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mirelleovo 我笑得好难受……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1611,
+        "media_key": "3_1996223020407652352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QCQrfbAAAXcOu.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1996223028477427987",
+        "created_at": "2025-12-04T00:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996379706300740065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933613214308446213",
+              "start": 0,
+              "username": "Mirelleovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996379706300740065",
+        "in_reply_to_user_id": "1933613214308446213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996223028477427987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirelleovo 我笑得好难受……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996223020407652352"
+          ]
+        },
+        "author_id": "1933613214308446213",
+        "conversation_id": "1996223028477427987",
+        "created_at": "2025-12-03T14:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996223028477427987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QC1H75Uic",
+              "end": 46,
+              "expanded_url": "https://x.com/Mirelleovo/status/1996223028477427987/photo/1",
+              "media_key": "3_1996223020407652352",
+              "start": 23,
+              "url": "https://t.co/5QC1H75Uic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996223028477427987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是哥們氣氛都到這了你還滿腦子火焰紋章呢。？ https://t.co/5QC1H75Uic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 128,
+          "like_count": 247,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 974
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-13T19:51:43.000Z",
+        "description": "L‘oubli est talent,",
+        "id": "1933613214308446213",
+        "name": "世界和平二十六天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960967237239791616/20k7DFTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 87,
+          "like_count": 5196,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1114
+        },
+        "username": "Mirelleovo",
+        "verified": true
+      }
+    ]
+  }
+}

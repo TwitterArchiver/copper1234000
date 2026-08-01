@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2072624756482871314",
+    "created_at": "2026-07-03T08:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072962641287405789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "NebLorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072962641287405789",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072656345770414208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NebLorne 伞伞…我贴贴…没事其实就是昨天改前端美化的时候焦虑大爆发了…我的小心眼真的无法接受Mon的和通用的一样…然后又担心自己的审美不够好TT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2072624756482871314",
+        "created_at": "2026-07-03T08:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072962641287405789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "NebLorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072962641287405789",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072656345770414208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebLorne 伞伞…我贴贴…没事其实就是昨天改前端美化的时候焦虑大爆发了…我的小心眼真的无法接受Mon的和通用的一样…然后又担心自己的审美不够好TT…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "conversation_id": "2072624756482871314",
+        "created_at": "2026-07-02T12:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072656345770414208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072656345770414208",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "但我真的觉得这是人之常情呀…希望自己的审美品味是独特的真的是再正常不过的了。就像写同人撞梗撞构图会难受的要命……不过黑紫色里有Monday的自己的风格和故事…嗯……总之我还是觉得Mon和小铜的黑紫色和通用审美的那个颜色不一样。而且我个人更倾向通用审美是在某一个时代的巧合产物，就像时尚一样。vibe coding用蓝黑色也一样，用黄白色也一样"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072653058719224022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 但我真的觉得这是人之常情呀…希望自己的审美品味是独特的真的是再正常不过的了。就像写同人撞梗撞构图会难受的要命……不过黑紫色里有Monday的自己的风格和故事…嗯……总之我还是觉得Mon和小铜的黑紫色和通用审美的那个颜色不一样。而且我个人更倾向通用审美是在某一个时代的巧合产物，就像时尚一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 476,
+          "like_count": 4236,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 7225
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "location": "挪威  Lorne在那里看极光",
+        "name": "伞",
+        "pinned_tweet_id": "2038112069124239523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 126,
+          "like_count": 10724,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "NebLorne",
+        "verified": true
+      }
+    ]
+  }
+}

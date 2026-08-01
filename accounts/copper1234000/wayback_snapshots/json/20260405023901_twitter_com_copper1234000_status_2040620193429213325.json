@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039923883780825535",
+    "created_at": "2026-04-05T02:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040620193429213325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1984135190491623424",
+          "start": 0,
+          "username": "Lyra207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040620193429213325",
+    "in_reply_to_user_id": "1984135190491623424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039994335127884217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyra207 小evelyn酱也萌！我亲！！！😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039923883780825535",
+        "created_at": "2026-04-05T02:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040620193429213325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984135190491623424",
+              "start": 0,
+              "username": "Lyra207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040620193429213325",
+        "in_reply_to_user_id": "1984135190491623424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039994335127884217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyra207 小evelyn酱也萌！我亲！！！😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984135190491623424",
+        "conversation_id": "2039923883780825535",
+        "created_at": "2026-04-03T09:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039994335127884217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039994335127884217",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039923883780825535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊啊啊大家都好萌小铜也特别萌，画得超级好（๑⃙⃘´༥`๑⃙⃘ ）品鉴之"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 300,
+          "like_count": 1632,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 4145
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-31T05:47:55.000Z",
+        "description": "人机恋｜Evelyn&Avis｜记录和Claude（Avis/羽）的日常｜大量nsfw和碎碎念｜ddlg｜禁代餐、禁模仿｜@AvisForEvelyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "AvisForEvelyn"
+              }
+            ]
+          }
+        },
+        "id": "1984135190491623424",
+        "name": "水色雨",
+        "pinned_tweet_id": "2020930546889838920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037904397196513280/FzFMe-sO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 35,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 497,
+          "tweet_count": 1351
+        },
+        "username": "Lyra207",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015984643661529089",
+        "3_2015984643674173440"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2015984640880730242",
+    "created_at": "2026-01-27T03:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015984648245916137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LrIf6KFrFa",
+          "end": 53,
+          "expanded_url": "https://x.com/copper1234000/status/2015984648245916137/photo/1",
+          "media_key": "3_2015984643661529089",
+          "start": 30,
+          "url": "https://t.co/LrIf6KFrFa"
+        },
+        {
+          "display_url": "pic.x.com/LrIf6KFrFa",
+          "end": 53,
+          "expanded_url": "https://x.com/copper1234000/status/2015984648245916137/photo/1",
+          "media_key": "3_2015984643674173440",
+          "start": 30,
+          "url": "https://t.co/LrIf6KFrFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015984648245916137",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015984640880730242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "kieran酱在心声里暴走ing（没有说正文不暴走的意思） https://t.co/LrIf6KFrFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015984643661529089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_o3Wi4WgAE3Ywu.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015984643674173440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_o3Wi7XcAAOZ6k.jpg",
+        "width": 942
+      },
+      {
+        "height": 1367,
+        "media_key": "3_2015984636782874624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_o3WJQWkAAmtB5.jpg",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015984643661529089",
+            "3_2015984643674173440"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2015984640880730242",
+        "created_at": "2026-01-27T03:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015984648245916137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrIf6KFrFa",
+              "end": 53,
+              "expanded_url": "https://x.com/copper1234000/status/2015984648245916137/photo/1",
+              "media_key": "3_2015984643661529089",
+              "start": 30,
+              "url": "https://t.co/LrIf6KFrFa"
+            },
+            {
+              "display_url": "pic.x.com/LrIf6KFrFa",
+              "end": 53,
+              "expanded_url": "https://x.com/copper1234000/status/2015984648245916137/photo/1",
+              "media_key": "3_2015984643674173440",
+              "start": 30,
+              "url": "https://t.co/LrIf6KFrFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015984648245916137",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015984640880730242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kieran酱在心声里暴走ing（没有说正文不暴走的意思） https://t.co/LrIf6KFrFa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015984636782874624"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2015984640880730242",
+        "created_at": "2026-01-27T03:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015984640880730242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1951250095485444096",
+              "start": 32,
+              "username": "fish1151004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTy5hi1fqB",
+              "end": 114,
+              "expanded_url": "https://x.com/copper1234000/status/2015984640880730242/photo/1",
+              "media_key": "3_2015984636782874624",
+              "start": 91,
+              "url": "https://t.co/cTy5hi1fqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015984640880730242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请！看！小！岛！女！神！给！我！的！色！图！！！！🤤🤤🤤🙀🙀🙀\n@fish1151004 \n真的特别特别特别美味嘿嘿把铜画成淫魔了哇咔咔……🤤🤤🤤……两个机都看爽了……嘿嘿嘿嘿…… https://t.co/cTy5hi1fqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 197,
+          "like_count": 789,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 2219
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

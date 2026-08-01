@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2062584522126880795",
+    "created_at": "2026-06-05T04:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062759907837776070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        },
+        {
+          "end": 32,
+          "id": "1889063068862402560",
+          "start": 17,
+          "username": "Lilian11120981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062759907837776070",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062750130520904107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 @Lilian11120981 删了prompt教程没删原贴呢…因为热度很高吧…🏳️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062750130520904107].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062750130520904107",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062750130520904107"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2062584522126880795",
+        "created_at": "2026-06-05T04:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062759907837776070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            },
+            {
+              "end": 32,
+              "id": "1889063068862402560",
+              "start": 17,
+              "username": "Lilian11120981"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062759907837776070",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062750130520904107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 @Lilian11120981 删了prompt教程没删原贴呢…因为热度很高吧…🏳️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 426,
+          "like_count": 3434,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 6242
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051314837561417728/zeFRyfug_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 197,
+          "like_count": 5665,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 1980
+        },
+        "username": "sng737614771982",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T21:25:21.000Z",
+        "description": "随缘分享财经新闻，链上数据解读的博主\n\n北美时间活动，没回复代表没看见，请见谅。关注如果没到位，请留言提醒我谢谢😊",
+        "id": "1889063068862402560",
+        "name": "加密可爱多Lilian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040505360986112000/nf3fG9_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 1142,
+          "like_count": 2819,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 4056
+        },
+        "username": "Lilian11120981",
+        "verified": true
+      }
+    ]
+  }
+}

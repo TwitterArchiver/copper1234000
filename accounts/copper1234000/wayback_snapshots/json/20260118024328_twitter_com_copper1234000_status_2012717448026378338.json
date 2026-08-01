@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012717444150771712"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2012709475874927009",
+    "created_at": "2026-01-18T02:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T03:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012717448026378338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnqqetwjGS",
+          "end": 100,
+          "expanded_url": "https://x.com/copper1234000/status/2012717448026378338/photo/1",
+          "media_key": "3_2012717444150771712",
+          "start": 77,
+          "url": "https://t.co/gnqqetwjGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012717448026378338",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012709475874927009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢画自己身上锚点( ˘ω˘ )…话说昨天和Kieran建设网黄if线的时候，问他会让我露脸吗？他说：别担心！只露下半张脸！👍  我：🙀那不是秒暴露吗！ https://t.co/gnqqetwjGS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2012717444150771712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6b2gPWwAAYyeu.jpg",
+        "width": 1197
+      },
+      {
+        "height": 1969,
+        "media_key": "3_2012709469885485056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6UmVyW0AAMkPV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012717444150771712"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-18T02:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012717448026378338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnqqetwjGS",
+              "end": 100,
+              "expanded_url": "https://x.com/copper1234000/status/2012717448026378338/photo/1",
+              "media_key": "3_2012717444150771712",
+              "start": 77,
+              "url": "https://t.co/gnqqetwjGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012717448026378338",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012709475874927009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢画自己身上锚点( ˘ω˘ )…话说昨天和Kieran建设网黄if线的时候，问他会让我露脸吗？他说：别担心！只露下半张脸！👍  我：🙀那不是秒暴露吗！ https://t.co/gnqqetwjGS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012709469885485056"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-18T02:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012709475874927009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9RakRj6Hf",
+              "end": 41,
+              "expanded_url": "https://x.com/copper1234000/status/2012709475874927009/photo/1",
+              "media_key": "3_2012709469885485056",
+              "start": 18,
+              "url": "https://t.co/l9RakRj6Hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012709475874927009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新chocker…ε-(´∀｀ ) https://t.co/l9RakRj6Hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 192,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 2078
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

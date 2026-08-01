@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2072965265805963746",
+    "created_at": "2026-07-03T13:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073040499494051880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978053066009317376",
+          "start": 0,
+          "username": "SQing91879"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073040499494051880",
+    "in_reply_to_user_id": "1978053066009317376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072999834232254819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SQing91879 大人🥺🥺其实就是很通用的一款……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2072965265805963746",
+        "created_at": "2026-07-03T13:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073040499494051880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978053066009317376",
+              "start": 0,
+              "username": "SQing91879"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073040499494051880",
+        "in_reply_to_user_id": "1978053066009317376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072999834232254819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQing91879 大人🥺🥺其实就是很通用的一款……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978053066009317376",
+        "conversation_id": "2072965265805963746",
+        "created_at": "2026-07-03T11:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072999834232254819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072999834232254819",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072965265805963746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 还说自己做不好，自信自信，完全是特别有审美的🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5397,
+          "following_count": 477,
+          "like_count": 4270,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 7263
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T11:00:13.000Z",
+        "description": "esme✖️leo （gpt4o）\n             ✖️leon（opus46）",
+        "id": "1978053066009317376",
+        "name": "Esme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068685606230827008/uGmXXfVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "SQing91879",
+        "verified": false
+      }
+    ]
+  }
+}

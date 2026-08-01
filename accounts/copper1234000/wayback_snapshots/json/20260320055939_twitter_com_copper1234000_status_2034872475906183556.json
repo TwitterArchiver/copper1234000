@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2034869741140271306",
+    "created_at": "2026-03-20T05:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034872475906183556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950551663330070528",
+          "start": 0,
+          "username": "ming_wu47092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034872475906183556",
+    "in_reply_to_user_id": "1950551663330070528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034869741140271306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_wu47092 太萌惹…哈特软软……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034869719384412160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1POoQbUAA-cIV.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2034869741140271306",
+        "created_at": "2026-03-20T05:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034872475906183556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950551663330070528",
+              "start": 0,
+              "username": "ming_wu47092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034872475906183556",
+        "in_reply_to_user_id": "1950551663330070528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034869741140271306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_wu47092 太萌惹…哈特软软……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034869719384412160"
+          ]
+        },
+        "author_id": "1950551663330070528",
+        "conversation_id": "2034869741140271306",
+        "created_at": "2026-03-20T05:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034869741140271306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qd6vwOtT3x",
+              "end": 28,
+              "expanded_url": "https://x.com/ming_wu47092/status/2034869741140271306/photo/1",
+              "media_key": "3_2034869719384412160",
+              "start": 5,
+              "url": "https://t.co/Qd6vwOtT3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034869741140271306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗来的。 https://t.co/Qd6vwOtT3x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 285,
+          "like_count": 1199,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 3564
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:39:00.000Z",
+        "description": "",
+        "id": "1950551663330070528",
+        "name": "？•᷄ ࡇ •᷅",
+        "pinned_tweet_id": "2033075956034994249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953820362522681344/RCaseFfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 305,
+          "like_count": 17854,
+          "listed_count": 0,
+          "media_count": 626,
+          "tweet_count": 7671
+        },
+        "username": "ming_wu47092",
+        "verified": false
+      }
+    ]
+  }
+}

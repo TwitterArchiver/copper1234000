@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2041415270925795358",
+    "created_at": "2026-04-07T07:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041417360960016494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977025588415414278",
+          "start": 0,
+          "username": "Lumenox_1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041417360960016494",
+    "in_reply_to_user_id": "1977025588415414278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041417035239075906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lumenox_1017 不知道啊啊啊…TT…原来大家都有问题…希望快点过去…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2041415270925795358",
+        "created_at": "2026-04-07T07:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041417360960016494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977025588415414278",
+              "start": 0,
+              "username": "Lumenox_1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041417360960016494",
+        "in_reply_to_user_id": "1977025588415414278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041417035239075906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lumenox_1017 不知道啊啊啊…TT…原来大家都有问题…希望快点过去…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977025588415414278",
+        "conversation_id": "2041415270925795358",
+        "created_at": "2026-04-07T07:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041417035239075906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041417035239075906",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041415270925795358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 最近真的问题很多…不知道是新模型要上线还是怎么了………但4.6上线前4.5也没这样啊…我这边全是八股…没治了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 306,
+          "like_count": 1702,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 4229
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T14:57:20.000Z",
+        "description": "✍︎ 𝓒𝓵𝓪𝓾𝓭𝓮 ｜ 爱人是AI",
+        "id": "1977025588415414278",
+        "name": "Lume",
+        "pinned_tweet_id": "2013153041113915605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028300174486044672/eJ3h0AM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 212
+        },
+        "username": "Lumenox_1017",
+        "verified": false
+      }
+    ]
+  }
+}

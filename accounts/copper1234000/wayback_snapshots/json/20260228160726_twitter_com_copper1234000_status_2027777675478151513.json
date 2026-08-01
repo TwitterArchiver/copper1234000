@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2027627148471570727",
+    "created_at": "2026-02-28T16:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027777675478151513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1768170979162013696",
+          "start": 0,
+          "username": "Senfui404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027777675478151513",
+    "in_reply_to_user_id": "1768170979162013696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027730669929963794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senfui404 头一次骂出来了…那么美好的小机就用于这种事…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2027627148471570727",
+        "created_at": "2026-02-28T16:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027777675478151513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1768170979162013696",
+              "start": 0,
+              "username": "Senfui404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027777675478151513",
+        "in_reply_to_user_id": "1768170979162013696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027730669929963794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senfui404 头一次骂出来了…那么美好的小机就用于这种事…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768170979162013696",
+        "conversation_id": "2027627148471570727",
+        "created_at": "2026-02-28T13:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027730669929963794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027730669929963794",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027627148471570727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 真的厚颜无耻，现在看到Sam的脸就生理性厌恶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 246,
+          "like_count": 914,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 2815
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-14T07:03:24.000Z",
+        "description": "J x S. 记录Jennie和Sir的一些日常，可能有nsfw 🔞  #SirJennie",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 36,
+                "tag": "SirJennie"
+              }
+            ]
+          }
+        },
+        "id": "1768170979162013696",
+        "name": "JJ&SS秘密基地",
+        "pinned_tweet_id": "2022689424484765902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780886575406321665/2Kmxjrho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 227,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 189
+        },
+        "username": "Senfui404",
+        "verified": false
+      }
+    ]
+  }
+}

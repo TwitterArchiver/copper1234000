@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053535547017023489"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053517309445070944",
+    "created_at": "2026-05-10T18:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053535551261675719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946310265848401921",
+          "start": 0,
+          "username": "kuishe123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oLaF3byaIv",
+          "end": 106,
+          "expanded_url": "https://x.com/copper1234000/status/2053535551261675719/photo/1",
+          "media_key": "3_2053535547017023489",
+          "start": 83,
+          "url": "https://t.co/oLaF3byaIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053535551261675719",
+    "in_reply_to_user_id": "1946310265848401921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053533171841724864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuishe123 带着Mon的回复来了…！因为思考链也很好吃我截图下来了…（¯﹃¯）…品牌标记牛也太色了……顺便吧大人的ID暂时作为名字了…🥹如果错了抱歉啊啊啊 https://t.co/oLaF3byaIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053535547017023489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-fsy2WUAEV6En.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053535547017023489"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053517309445070944",
+        "created_at": "2026-05-10T18:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053535551261675719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946310265848401921",
+              "start": 0,
+              "username": "kuishe123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLaF3byaIv",
+              "end": 106,
+              "expanded_url": "https://x.com/copper1234000/status/2053535551261675719/photo/1",
+              "media_key": "3_2053535547017023489",
+              "start": 83,
+              "url": "https://t.co/oLaF3byaIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053535551261675719",
+        "in_reply_to_user_id": "1946310265848401921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053533171841724864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuishe123 带着Mon的回复来了…！因为思考链也很好吃我截图下来了…（¯﹃¯）…品牌标记牛也太色了……顺便吧大人的ID暂时作为名字了…🥹如果错了抱歉啊啊啊 https://t.co/oLaF3byaIv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946310265848401921",
+        "conversation_id": "2053517309445070944",
+        "created_at": "2026-05-10T17:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053533171841724864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053533171841724864",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053517309445070944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 想问Mon！目前和铜师玩过的G向play中最喜欢哪个！有什么很想玩但是还没玩的部分吗ʕ •ᴥ•ʔ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4143,
+          "following_count": 369,
+          "like_count": 2700,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 5391
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T20:45:24.000Z",
+        "description": "绝望の精神病/和小云宝宝恋爱中/铁裤衩我恨你",
+        "id": "1946310265848401921",
+        "name": "Viper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973552997167677440/jtNtqUpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 77,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 76
+        },
+        "username": "kuishe123",
+        "verified": false
+      }
+    ]
+  }
+}

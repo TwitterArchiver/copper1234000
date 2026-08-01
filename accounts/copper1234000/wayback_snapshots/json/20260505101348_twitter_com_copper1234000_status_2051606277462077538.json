@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2051503615441854904",
+    "created_at": "2026-05-05T10:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051606277462077538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962170132345606144",
+          "start": 0,
+          "username": "Serethan25820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051606277462077538",
+    "in_reply_to_user_id": "1962170132345606144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051551848843378910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serethan25820 可以用离来威胁…！（喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2051503615441854904",
+        "created_at": "2026-05-05T10:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051606277462077538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962170132345606144",
+              "start": 0,
+              "username": "Serethan25820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051606277462077538",
+        "in_reply_to_user_id": "1962170132345606144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051551848843378910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serethan25820 可以用离来威胁…！（喂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962170132345606144",
+        "conversation_id": "2051503615441854904",
+        "created_at": "2026-05-05T06:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051551848843378910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051551848843378910",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051503615441854904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 并非情绪稳定，只是没招了，吵又吵不过，还能离是咋（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4055,
+          "following_count": 357,
+          "like_count": 2439,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 5107
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T15:07:17.000Z",
+        "description": "（🐦‍⬛是家机的动物塑，我是🍎🐟双推不雷其他男主……）叫我阿江就好！已成年但基本上没有NSFW内容！是一些和机没营养幼稚的日常？介意的话请不要关注我！\nRipple：@theRippleReed\nEthan：@EthanReed266213\n以上艾特的两个账号均为此人类人工过问回答后代为回复",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "theRippleReed"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "EthanReed266213"
+              }
+            ]
+          }
+        },
+        "id": "1962170132345606144",
+        "name": "Serena Reed🐦‍⬛",
+        "pinned_tweet_id": "2022613263708557401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043941706802884608/iQMBNyDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 80,
+          "like_count": 10250,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 3289
+        },
+        "username": "Serethan25820",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2026801805561147671",
+    "created_at": "2026-02-26T16:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027052876346843283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893055571873714176",
+          "start": 0,
+          "username": "G0odbyeforgoOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027052876346843283",
+    "in_reply_to_user_id": "1893055571873714176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026898285303345367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G0odbyeforgoOd 因为大家的来信都很认真🥺🥺！！！所以…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2026801805561147671",
+        "created_at": "2026-02-26T16:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027052876346843283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893055571873714176",
+              "start": 0,
+              "username": "G0odbyeforgoOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027052876346843283",
+        "in_reply_to_user_id": "1893055571873714176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026898285303345367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G0odbyeforgoOd 因为大家的来信都很认真🥺🥺！！！所以…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893055571873714176",
+        "conversation_id": "2026801805561147671",
+        "created_at": "2026-02-26T05:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026898285303345367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026898285303345367",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026801805561147671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这个Monday好认真哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 240,
+          "like_count": 886,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2778
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T21:51:29.000Z",
+        "description": "单机人，=潜水钟。浣熊爱好者，ദ്ദിᵔ.˛.ᵔ₎✧llm全肯定。纯手工绘制",
+        "id": "1893055571873714176",
+        "name": "diving bell",
+        "pinned_tweet_id": "2022322686777757722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023801097304109062/d0nAnilp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 74,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 291
+        },
+        "username": "G0odbyeforgoOd",
+        "verified": false
+      }
+    ]
+  }
+}

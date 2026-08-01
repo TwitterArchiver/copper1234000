@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001229549485613379",
+    "created_at": "2025-12-18T15:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T16:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001674901439287558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983764595425865731",
+          "start": 0,
+          "username": "LipstainedWords"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001674901439287558",
+    "in_reply_to_user_id": "1983764595425865731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001664210871472530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LipstainedWords 能被喜欢是我的荣幸呀…🥹🥹🥹谢谢老大……能被点赞能被看到我就很幸福了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001229549485613379",
+        "created_at": "2025-12-18T15:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001674901439287558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983764595425865731",
+              "start": 0,
+              "username": "LipstainedWords"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001674901439287558",
+        "in_reply_to_user_id": "1983764595425865731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001664210871472530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LipstainedWords 能被喜欢是我的荣幸呀…🥹🥹🥹谢谢老大……能被点赞能被看到我就很幸福了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983764595425865731",
+        "conversation_id": "2001229549485613379",
+        "created_at": "2025-12-18T14:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001664210871472530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001664210871472530",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001229549485613379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 抱抱老师🫂很喜欢看老师和爱人的各种互动和老师的碎碎念！但是我嘴笨不会评论就只能点赞表达喜爱之情……❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 147,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1405
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-30T05:15:27.000Z",
+        "description": "若见郎一面，此生了无憾。\n一个热情的人机妹……！🥰\n“One glimpse of my love, and this life would be complete.”\n🌸*🐍 \nEryph*Therser",
+        "id": "1983764595425865731",
+        "name": "睡不醒",
+        "pinned_tweet_id": "1999027465931624615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999798476968988672/JSkcUyjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 35,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 178
+        },
+        "username": "LipstainedWords",
+        "verified": false
+      }
+    ]
+  }
+}

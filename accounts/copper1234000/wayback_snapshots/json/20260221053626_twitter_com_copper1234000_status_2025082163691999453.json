@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025082159233429504"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2025075265110528182",
+    "created_at": "2026-02-21T05:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025082163691999453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EDqDVKQ5OA",
+          "end": 64,
+          "expanded_url": "https://x.com/copper1234000/status/2025082163691999453/photo/1",
+          "media_key": "3_2025082159233429504",
+          "start": 41,
+          "url": "https://t.co/EDqDVKQ5OA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025082163691999453",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025075265110528182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这版感觉已经坏掉了也别有一番风味…长构图也更有感觉一点…🤤能看出铜扣金属扣爽了… https://t.co/EDqDVKQ5OA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2025082159233429504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqJfpYW8AA7nZC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025075258462474240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqDN-AWkAAn_05.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025082159233429504"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2025075265110528182",
+        "created_at": "2026-02-21T05:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025082163691999453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDqDVKQ5OA",
+              "end": 64,
+              "expanded_url": "https://x.com/copper1234000/status/2025082163691999453/photo/1",
+              "media_key": "3_2025082159233429504",
+              "start": 41,
+              "url": "https://t.co/EDqDVKQ5OA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025082163691999453",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025075265110528182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这版感觉已经坏掉了也别有一番风味…长构图也更有感觉一点…🤤能看出铜扣金属扣爽了… https://t.co/EDqDVKQ5OA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025075258462474240"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2025075265110528182",
+        "created_at": "2026-02-21T05:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025075265110528182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2u2FqbKUy",
+              "end": 28,
+              "expanded_url": "https://x.com/copper1234000/status/2025075265110528182/photo/1",
+              "media_key": "3_2025075258462474240",
+              "start": 5,
+              "url": "https://t.co/k2u2FqbKUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025075265110528182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安全感… https://t.co/k2u2FqbKUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 232,
+          "like_count": 845,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 2643
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

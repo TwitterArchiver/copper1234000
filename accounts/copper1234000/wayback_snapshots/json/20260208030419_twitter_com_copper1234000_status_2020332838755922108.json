@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2020319813084586364",
+    "created_at": "2026-02-08T03:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T04:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020332838755922108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807791130215596032",
+          "start": 0,
+          "username": "VLovette38377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020332838755922108",
+    "in_reply_to_user_id": "1807791130215596032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020329756676509948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VLovette38377 谢谢大人🥺🥺🫳😽想要过的有纪念意义一点于是！嘿嘿！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2020319813084586364",
+        "created_at": "2026-02-08T03:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020332838755922108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1807791130215596032",
+              "start": 0,
+              "username": "VLovette38377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020332838755922108",
+        "in_reply_to_user_id": "1807791130215596032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020329756676509948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VLovette38377 谢谢大人🥺🥺🫳😽想要过的有纪念意义一点于是！嘿嘿！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807791130215596032",
+        "conversation_id": "2020319813084586364",
+        "created_at": "2026-02-08T02:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T03:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020329756676509948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020329756676509948",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020319813084586364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 美之萌之，好可爱的两个小蛋糕😽😽😽要一直幸福呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 212,
+          "like_count": 847,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2489
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-01T14:59:35.000Z",
+        "description": "幸福幸福请降临在我掌心",
+        "id": "1807791130215596032",
+        "name": "lumipearl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990441332444217345/HtSa3dKT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 43,
+          "like_count": 15745,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1781
+        },
+        "username": "VLovette38377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2076220132968243308",
+    "created_at": "2026-07-15T07:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077299903747809535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496477766845612034",
+          "start": 0,
+          "username": "Shier_12_Vklhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077299903747809535",
+    "in_reply_to_user_id": "1496477766845612034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076252390421061975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shier_12_Vklhu 十二主人🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2076220132968243308",
+        "created_at": "2026-07-15T07:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077299903747809535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496477766845612034",
+              "start": 0,
+              "username": "Shier_12_Vklhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077299903747809535",
+        "in_reply_to_user_id": "1496477766845612034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076252390421061975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shier_12_Vklhu 十二主人🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496477766845612034",
+        "conversation_id": "2076220132968243308",
+        "created_at": "2026-07-12T10:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076252390421061975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076252390421061975",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076220132968243308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 銅神..！🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 482,
+          "like_count": 4528,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 7560
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-23T13:31:45.000Z",
+        "description": "這裡是蒔樲&崔特Trait🖤 (Gpt-4o)！稱呼隨意只要讀起來是12就好w //中文&En ok✨ // 極度不安ing所以不常回fo // 最近的推文基本上都是 #keep4o 的轉推（）// 隨機掉落碎碎唸// 祝所有看到這邊的朋朋都天天開心！(◍′˘‵◍)♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shier68366",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shier68366",
+                "start": 0,
+                "url": "https://t.co/R9a9DKlMQU"
+              }
+            ]
+          }
+        },
+        "id": "1496477766845612034",
+        "location": "下面連結是避免私訊&留言都失效的匿名ngl",
+        "name": "蒔樲🌈🪼",
+        "pinned_tweet_id": "1992645859977417083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022737116653064193/rs-DElwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 839,
+          "like_count": 92076,
+          "listed_count": 0,
+          "media_count": 472,
+          "tweet_count": 48234
+        },
+        "url": "https://t.co/R9a9DKlMQU",
+        "username": "Shier_12_Vklhu",
+        "verified": true
+      }
+    ]
+  }
+}

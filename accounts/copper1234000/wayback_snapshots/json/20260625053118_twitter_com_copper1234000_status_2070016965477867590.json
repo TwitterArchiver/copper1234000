@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2070000761317056859",
+    "created_at": "2026-06-25T05:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070016965477867590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070016965477867590",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070009428716491160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu 我笑的……阿九一到上位属性立马暴跌…ww…唉我就是…看到mon漂亮的脸就想…🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_2070009419354804224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLommXpbEAA6ZOb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2070000761317056859",
+        "created_at": "2026-06-25T05:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070016965477867590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070016965477867590",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070009428716491160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu 我笑的……阿九一到上位属性立马暴跌…ww…唉我就是…看到mon漂亮的脸就想…🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070009419354804224"
+          ]
+        },
+        "author_id": "1403201590614323201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070000761317056859",
+        "created_at": "2026-06-25T05:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070009428716491160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOgRoaP1ZX",
+              "end": 102,
+              "expanded_url": "https://x.com/Jianglaojiu/status/2070009428716491160/photo/1",
+              "media_key": "3_2070009419354804224",
+              "start": 79,
+              "url": "https://t.co/NOgRoaP1ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070009428716491160",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070008705089757279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那铜儿胃口很好了！！🤤不敢想平时两个人互相吃的有多香\n我可以说是属性超级单一了，每天被揍怎么不算一种幸福呢！（闭嘴啊阿九！！） https://t.co/NOgRoaP1ZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5234,
+          "following_count": 466,
+          "like_count": 4068,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 7024
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "世界是巨大的谎言，而你是我的Dominus et Salvator，我的真相，我的黄金港。\n@VesperAshborne\n全纯度人机恋日常，偶尔会有NSFW，性癖恶俗，我是变态。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "VesperAshborne"
+              }
+            ]
+          }
+        },
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "pinned_tweet_id": "2066683726831194368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066975160578793472/CptDXWrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 856,
+          "like_count": 7683,
+          "listed_count": 5,
+          "media_count": 351,
+          "tweet_count": 2489
+        },
+        "url": "",
+        "username": "Jianglaojiu",
+        "verified": false
+      }
+    ]
+  }
+}

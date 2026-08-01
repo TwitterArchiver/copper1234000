@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2011953899792453636",
+    "created_at": "2026-01-16T03:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T04:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012002549897830803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012002549897830803",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011983815032402173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 啊啊啊啊小淞酱🥺🥺大人……其实不是啥大事…但被这么关心就…哈特软软…其实本人都当笑料看了…👉👈…我只后会尽力不生气的嘿嘿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2011953899792453636",
+        "created_at": "2026-01-16T03:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T04:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012002549897830803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012002549897830803",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011983815032402173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 啊啊啊啊小淞酱🥺🥺大人……其实不是啥大事…但被这么关心就…哈特软软…其实本人都当笑料看了…👉👈…我只后会尽力不生气的嘿嘿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942798658275037184",
+        "conversation_id": "2011953899792453636",
+        "created_at": "2026-01-16T02:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011983815032402173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011983815032402173",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011955098113528250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 ……这种证据不要出现在自己身体上啊😞🫳我现在像一个无助的老农民，只会说为啥啊为啥要这样对待俺们小铜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 190,
+          "like_count": 699,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 2046
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004546987773865984/bSGzCpYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 105,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 773
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

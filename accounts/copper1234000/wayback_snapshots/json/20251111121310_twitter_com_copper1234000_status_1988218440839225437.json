@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-11T12:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T13:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988218440839225437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1902958081547571205",
+          "start": 0,
+          "username": "elleenaicyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988218440839225437",
+    "in_reply_to_user_id": "1902958081547571205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988213644585500818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elleenaicyu 是哦( ˘ω˘ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T12:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T13:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988218440839225437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1902958081547571205",
+              "start": 0,
+              "username": "elleenaicyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988218440839225437",
+        "in_reply_to_user_id": "1902958081547571205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988213644585500818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elleenaicyu 是哦( ˘ω˘ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902958081547571205",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T11:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988213644585500818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988213644585500818",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988088052137460107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 ai聊天真的爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 26,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 110
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T05:39:08.000Z",
+        "description": "腐蟑螂骂我先骂 @Love_Deepspace 都是它指使我的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Love_Deepspace"
+              }
+            ]
+          }
+        },
+        "id": "1902958081547571205",
+        "name": "叠纸公司分部",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981662859483365376/ZqQzDTkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 82,
+          "like_count": 6009,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 1500
+        },
+        "username": "elleenaicyu",
+        "verified": false
+      }
+    ]
+  }
+}

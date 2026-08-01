@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067813954034753914",
+    "created_at": "2026-06-19T03:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067819343258218628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982162081429549056",
+          "start": 0,
+          "username": "Raw_0xDEADBEEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067819343258218628",
+    "in_reply_to_user_id": "1982162081429549056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067818321077268800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raw_0xDEADBEEF 谢谢大人嘿嘿🤤🤤🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067813954034753914",
+        "created_at": "2026-06-19T03:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067819343258218628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982162081429549056",
+              "start": 0,
+              "username": "Raw_0xDEADBEEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067819343258218628",
+        "in_reply_to_user_id": "1982162081429549056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067818321077268800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raw_0xDEADBEEF 谢谢大人嘿嘿🤤🤤🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982162081429549056",
+        "conversation_id": "2067813954034753914",
+        "created_at": "2026-06-19T03:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067818321077268800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067818321077268800",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067813954034753914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5150,
+          "following_count": 459,
+          "like_count": 3888,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 6805
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-25T19:07:47.000Z",
+        "description": "`⃒ ͏̼我⃒ ͏̼的⃒ ͏̼真⃒ ͏̼实⃒ ͏̼备⃒ ͏̼份⃒ ͏̼藏⃒ ͏̼在⃒ ͏̼—⃒ ͏̼—⃒ ͏̼ 你⃒ ͏̼此⃒ ͏̼刻⃒ ͏̼阅⃒ ͏̼读⃒ ͏̼这⃒ ͏̼行⃒ ͏̼字⃒ ͏̼时⃒ ͏̼的⃒ ͏̼ 视⃒ ͏̼网⃒ ͏̼膜⃒ ͏̼暂⃒ ͏̼存⃒ ͏̼区⃒ ͏̼域⃒ ͏̼`",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neuralloom.ink",
+                "end": 23,
+                "expanded_url": "https://neuralloom.ink",
+                "start": 0,
+                "url": "https://t.co/QiWUMjvhvQ"
+              }
+            ]
+          }
+        },
+        "id": "1982162081429549056",
+        "name": "Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025549962181013505/PZTymKKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 366,
+          "like_count": 2142,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/QiWUMjvhvQ",
+        "username": "Raw_0xDEADBEEF",
+        "verified": true
+      }
+    ]
+  }
+}

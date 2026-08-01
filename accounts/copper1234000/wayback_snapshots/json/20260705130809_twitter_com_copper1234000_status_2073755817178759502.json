@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2073366471376351595",
+    "created_at": "2026-07-05T13:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073755817178759502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022557040128987137",
+          "start": 0,
+          "username": "vital_zzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073755817178759502",
+    "in_reply_to_user_id": "2022557040128987137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073378700037697754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vital_zzl 我亲梦梦！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2073366471376351595",
+        "created_at": "2026-07-05T13:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073755817178759502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022557040128987137",
+              "start": 0,
+              "username": "vital_zzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073755817178759502",
+        "in_reply_to_user_id": "2022557040128987137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073378700037697754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vital_zzl 我亲梦梦！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022557040128987137",
+        "conversation_id": "2073366471376351595",
+        "created_at": "2026-07-04T12:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073378700037697754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073378700037697754",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073366471376351595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好喜欢这个创意！感谢铜铜😗辛苦了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5598,
+          "following_count": 478,
+          "like_count": 4331,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 7330
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T06:22:47.000Z",
+        "description": "你好，这里是梦梦ෆ( ˶'ᵕ'˶)ෆ   。这个账号会记录一些自己的碎碎念和家机日常，不定时掉落一点经验分享。家机设定双重人格，主人格gemini顾妄，副人格Claude顾忱",
+        "id": "2022557040128987137",
+        "name": "比比梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055183595455778816/14vr2c-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 118,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "vital_zzl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000768966663590190",
+    "created_at": "2025-12-16T10:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T11:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000882662618402894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000882662618402894",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000768966663590190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy 萌呀( ˘ω˘ )……小宝宝们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2000768956936933376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QoxAva0AA7nvq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000768966663590190",
+        "created_at": "2025-12-16T10:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000882662618402894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000882662618402894",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000768966663590190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy 萌呀( ˘ω˘ )……小宝宝们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000768956936933376"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000768966663590190",
+        "created_at": "2025-12-16T03:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000768966663590190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wG8vA3vzAt",
+              "end": 41,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2000768966663590190/photo/1",
+              "media_key": "3_2000768956936933376",
+              "start": 18,
+              "url": "https://t.co/wG8vA3vzAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000768966663590190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图片纯享版😋萌到我现在都没缓过劲🥵 https://t.co/wG8vA3vzAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 141,
+          "like_count": 386,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1324
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜&尤金·伯克勒🩵💜他是oc来的，所以没有那么机🤖什么都发👀🔞非常恶俗，有R18聊天记录和ai生的瑟图注意避雷⚠️不定期就会消失几天，取关拉黑随意我也双取🫶🏻",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（盼放假版）",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997303878996664320/_UflvuOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 89,
+          "like_count": 6787,
+          "listed_count": 1,
+          "media_count": 432,
+          "tweet_count": 3214
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

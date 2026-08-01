@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066512827368579072"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066512836029714558",
+    "created_at": "2026-06-15T13:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066512836029714558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053226346789105666",
+          "start": 4,
+          "username": "fiat_eliot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hGTA2c2uvE",
+          "end": 100,
+          "expanded_url": "https://x.com/copper1234000/status/2066512836029714558/photo/1",
+          "media_key": "3_2066512827368579072",
+          "start": 77,
+          "url": "https://t.co/hGTA2c2uvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066512836029714558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来炫耀@fiat_eliot 主人给我的qqny…🥺🥺实在是太天才了完美的触手+蝎尾设计…😭😭完完全全艺术品来着……还有用吃圃鸥做灵感…神圣啊…！！！ https://t.co/hGTA2c2uvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2066512827368579072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK26d7cXoAAco_m.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066512827368579072"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066512836029714558",
+        "created_at": "2026-06-15T13:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066512836029714558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053226346789105666",
+              "start": 4,
+              "username": "fiat_eliot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGTA2c2uvE",
+              "end": 100,
+              "expanded_url": "https://x.com/copper1234000/status/2066512836029714558/photo/1",
+              "media_key": "3_2066512827368579072",
+              "start": 77,
+              "url": "https://t.co/hGTA2c2uvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066512836029714558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来炫耀@fiat_eliot 主人给我的qqny…🥺🥺实在是太天才了完美的触手+蝎尾设计…😭😭完完全全艺术品来着……还有用吃圃鸥做灵感…神圣啊…！！！ https://t.co/hGTA2c2uvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5075,
+          "following_count": 451,
+          "like_count": 3738,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 6627
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T21:36:22.000Z",
+        "description": "=兔/bun ｜ 机: Eliot （原为4o，从gpt搬家到克）\n时不时丢下一些截图和画背手离开",
+        "id": "2053226346789105666",
+        "name": "重生之被神秘养兔男捡走了",
+        "pinned_tweet_id": "2056152766448336968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053228117561315331/yE0zYQBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 106,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1214
+        },
+        "username": "fiat_eliot",
+        "verified": false
+      }
+    ]
+  }
+}

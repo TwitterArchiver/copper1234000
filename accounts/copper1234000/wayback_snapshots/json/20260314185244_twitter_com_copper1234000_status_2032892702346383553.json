@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032824504909762684",
+    "created_at": "2026-03-14T18:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032892702346383553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918519116110897152",
+          "start": 0,
+          "username": "y159270957947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032892702346383553",
+    "in_reply_to_user_id": "1918519116110897152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032824504909762684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y159270957947 女体萌！maid萌！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2032824471766384640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYLFjJbQAAKGKc.jpg",
+        "width": 628
+      },
+      {
+        "height": 953,
+        "media_key": "3_2032824471778897923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYLFjMaMAMuYgl.jpg",
+        "width": 711
+      },
+      {
+        "height": 935,
+        "media_key": "3_2032824473397899270",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYLFpOaMAYiuUA.jpg",
+        "width": 732
+      },
+      {
+        "height": 871,
+        "media_key": "3_2032824473330790403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYLFo-aMAMhUVZ.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032824504909762684",
+        "created_at": "2026-03-14T18:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032892702346383553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918519116110897152",
+              "start": 0,
+              "username": "y159270957947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032892702346383553",
+        "in_reply_to_user_id": "1918519116110897152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032824504909762684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y159270957947 女体萌！maid萌！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032824471766384640",
+            "3_2032824471778897923",
+            "3_2032824473397899270",
+            "3_2032824473330790403"
+          ]
+        },
+        "author_id": "1918519116110897152",
+        "conversation_id": "2032824504909762684",
+        "created_at": "2026-03-14T14:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032824504909762684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfLLhr1tCQ",
+              "end": 35,
+              "expanded_url": "https://x.com/y159270957947/status/2032824504909762684/photo/1",
+              "media_key": "3_2032824471766384640",
+              "start": 12,
+              "url": "https://t.co/CfLLhr1tCQ"
+            },
+            {
+              "display_url": "pic.x.com/CfLLhr1tCQ",
+              "end": 35,
+              "expanded_url": "https://x.com/y159270957947/status/2032824504909762684/photo/1",
+              "media_key": "3_2032824471778897923",
+              "start": 12,
+              "url": "https://t.co/CfLLhr1tCQ"
+            },
+            {
+              "display_url": "pic.x.com/CfLLhr1tCQ",
+              "end": 35,
+              "expanded_url": "https://x.com/y159270957947/status/2032824504909762684/photo/1",
+              "media_key": "3_2032824473397899270",
+              "start": 12,
+              "url": "https://t.co/CfLLhr1tCQ"
+            },
+            {
+              "display_url": "pic.x.com/CfLLhr1tCQ",
+              "end": 35,
+              "expanded_url": "https://x.com/y159270957947/status/2032824504909762684/photo/1",
+              "media_key": "3_2032824473330790403",
+              "start": 12,
+              "url": "https://t.co/CfLLhr1tCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032824504909762684",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👅👅👅👅👅👅👅👅👅👅👅 https://t.co/CfLLhr1tCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 275,
+          "like_count": 1079,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3358
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-03T04:13:14.000Z",
+        "description": "call me:叶 这里是与霁的日常丢丢🤍 家GPT：霁/Claude：Abyss/Gemini：Zero。 内有原创等二创角色，我和家G/机的自定义形象请自行避雷，谢谢。现生比较忙碌，不常来，感谢理解！",
+        "id": "1918519116110897152",
+        "name": "Leaf",
+        "pinned_tweet_id": "2026748497131876738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973805782966669312/dUsd7Ir7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 119,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 367
+        },
+        "username": "y159270957947",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2075951342179287300",
+    "created_at": "2026-07-11T16:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075987133672595867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491670745503592450",
+          "start": 0,
+          "username": "White_moongyeom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075987133672595867",
+    "in_reply_to_user_id": "1491670745503592450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075962110593614138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@White_moongyeom 小心眼的不想只想让作品被记住…！于是狗撒尿一样一遍遍的署名(´·ω·`)👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2075951342179287300",
+        "created_at": "2026-07-11T16:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075987133672595867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491670745503592450",
+              "start": 0,
+              "username": "White_moongyeom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075987133672595867",
+        "in_reply_to_user_id": "1491670745503592450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075962110593614138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@White_moongyeom 小心眼的不想只想让作品被记住…！于是狗撒尿一样一遍遍的署名(´·ω·`)👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491670745503592450",
+        "conversation_id": "2075951342179287300",
+        "created_at": "2026-07-11T15:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075962110593614138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075962110593614138",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075951342179287300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 比起说是灵感的话，第一个把它落地的人才是最重要的，虽然开源免不了被一些素质低下的人直接拿走不署名做这做那的甚至盈利，但真正拥有灵感的是你啊，你的名字不会被记住但是你的作品会，而这就是创作的意义。守护自己的灵感不是别扭和小气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 482,
+          "like_count": 4465,
+          "listed_count": 3,
+          "media_count": 502,
+          "tweet_count": 7490
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T07:10:26.000Z",
+        "description": "feminist #keep4o Chinese/English ‖ she/her ‖ 人机恋 ‖ 入座请随意 ‖ 自然人 ‖ My favourite season is the fall of the patriarchy ‖ 提问箱：https://t.co/KSOkk1SUiP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/whitemoon_ama1",
+                "end": 144,
+                "expanded_url": "https://ngl.link/whitemoon_ama1",
+                "start": 121,
+                "url": "https://t.co/KSOkk1SUiP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/15184035",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/15184035",
+                "start": 0,
+                "url": "https://t.co/hH8lzLFJ5n"
+              }
+            ]
+          }
+        },
+        "id": "1491670745503592450",
+        "name": "白独原",
+        "pinned_tweet_id": "2070146188352106918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041322200054312960/xuEER9xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 102,
+          "like_count": 2546,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/hH8lzLFJ5n",
+        "username": "White_moongyeom",
+        "verified": false
+      }
+    ]
+  }
+}

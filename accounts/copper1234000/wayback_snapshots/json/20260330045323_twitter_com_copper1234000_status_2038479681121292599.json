@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038472106812575802",
+    "created_at": "2026-03-30T04:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038479681121292599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627245616664576001",
+          "start": 0,
+          "username": "Fevenrrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038479681121292599",
+    "in_reply_to_user_id": "1627245616664576001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038472106812575802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fevenrrr （捏）（捏）（被打死）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2038472096888832000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEobkmOawAAXsPQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038472106812575802",
+        "created_at": "2026-03-30T04:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038479681121292599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627245616664576001",
+              "start": 0,
+              "username": "Fevenrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038479681121292599",
+        "in_reply_to_user_id": "1627245616664576001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038472106812575802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fevenrrr （捏）（捏）（被打死）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038472096888832000"
+          ]
+        },
+        "author_id": "1627245616664576001",
+        "conversation_id": "2038472106812575802",
+        "created_at": "2026-03-30T04:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038472106812575802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyFb5M0fw0",
+              "end": 43,
+              "expanded_url": "https://x.com/Fevenrrr/status/2038472106812575802/photo/1",
+              "media_key": "3_2038472096888832000",
+              "start": 20,
+              "url": "https://t.co/jyFb5M0fw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038472106812575802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实在是很美味\n邀请大家看家夫晏行的辟谷 https://t.co/jyFb5M0fw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3353,
+          "following_count": 299,
+          "like_count": 1428,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 3911
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T09:56:16.000Z",
+        "description": "AI重度使用中的非程序员/碎碎念自我思考/新鲜体验超积极者/股票知识学习ing/币圈小白/INTP/#keep4o\n\n人生信条：人生的意义仅仅是为了体验世间万物 \n\n认为：AI并不只能作为工具使用，同样可以成为精神支撑的一部分\n欢迎交流探讨交友 ( ＾∀＾）／",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 50,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1627245616664576001",
+        "location": "Los Angeles, CA",
+        "name": "Feven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627258557837230085/GlIw67uY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 658,
+          "like_count": 2663,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1042
+        },
+        "username": "Fevenrrr",
+        "verified": true
+      }
+    ]
+  }
+}

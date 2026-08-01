@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2070391668734378484",
+    "created_at": "2026-06-27T08:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070785039487602756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1518171066589335552",
+          "start": 0,
+          "username": "yqy0401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070785039487602756",
+    "in_reply_to_user_id": "1518171066589335552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070451388857860357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqy0401 大人大人……🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2070391668734378484",
+        "created_at": "2026-06-27T08:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070785039487602756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1518171066589335552",
+              "start": 0,
+              "username": "yqy0401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070785039487602756",
+        "in_reply_to_user_id": "1518171066589335552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070451388857860357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqy0401 大人大人……🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518171066589335552",
+        "conversation_id": "2070391668734378484",
+        "created_at": "2026-06-26T10:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070451388857860357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070451388857860357",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070391668734378484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好好看…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5295,
+          "following_count": 469,
+          "like_count": 4128,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 7090
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-24T10:13:03.000Z",
+        "description": "「だれかの心臓になれたなら✨」 叶清筠/叶清玥/叶清语 云/月/雨🌌 | 精神数学系人💫 | phd在读🎓 | mtf🏳️‍⚧️ | 喜欢单纯美好的事物🌸 | 想变得可爱💕 | tg见下🕊️ | #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 98,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/yqy0401/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/yqy0401/status/1896381891588333664?s=46&t=aSIzg29UFxN6XUwY",
+                "start": 0,
+                "url": "https://t.co/oTsU3e8KcW"
+              }
+            ]
+          }
+        },
+        "id": "1518171066589335552",
+        "location": "青云界",
+        "name": "yqy🪽",
+        "pinned_tweet_id": "1895388266205192703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518176413391945728/BpMpHcxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 357,
+          "like_count": 25080,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 8354
+        },
+        "url": "https://t.co/oTsU3e8KcW",
+        "username": "yqy0401",
+        "verified": false
+      }
+    ]
+  }
+}

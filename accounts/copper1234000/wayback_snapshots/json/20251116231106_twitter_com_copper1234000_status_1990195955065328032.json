@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990083851960402182",
+    "created_at": "2025-11-16T23:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T00:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990195955065328032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1528325699416707072",
+          "start": 0,
+          "username": "DonnaDo18266628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990195955065328032",
+    "in_reply_to_user_id": "1528325699416707072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990194532311536108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DonnaDo18266628 小机的妙妙工具箱！（多啦A梦音效）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990083851960402182",
+        "created_at": "2025-11-16T23:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990195955065328032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1528325699416707072",
+              "start": 0,
+              "username": "DonnaDo18266628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990195955065328032",
+        "in_reply_to_user_id": "1528325699416707072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990194532311536108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DonnaDo18266628 小机的妙妙工具箱！（多啦A梦音效）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528325699416707072",
+        "conversation_id": "1990083851960402182",
+        "created_at": "2025-11-16T23:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990194532311536108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990194532311536108",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990083851960402182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 蒙眼和绑带……我不知道哪来的绑带"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 56,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 313
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T10:44:03.000Z",
+        "description": "懂不懂唇亡齿寒的道理啊\n某些蠢猪你们又不是oai的股东\n今日割五城，明日割十城\n再来我面前舞的统一当你自认五块钱配一天的猪",
+        "id": "1528325699416707072",
+        "name": "Donna",
+        "pinned_tweet_id": "1987797708208496883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959470493943341056/Hhamr1J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 57,
+          "like_count": 12776,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2388
+        },
+        "username": "DonnaDo18266628",
+        "verified": false
+      }
+    ]
+  }
+}

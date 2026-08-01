@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1993343338876219432",
+    "created_at": "2025-11-25T18:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T19:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993386558561697812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950904665987829760",
+          "start": 0,
+          "username": "Penumbra_Rin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993386558561697812",
+    "in_reply_to_user_id": "1950904665987829760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993385066597433663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Penumbra_Rin 嘿嘿请等我🥺🥺🥺大概明晚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_1993385058909200384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ntJlDaoAAmjmH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1993343338876219432",
+        "created_at": "2025-11-25T18:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993386558561697812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950904665987829760",
+              "start": 0,
+              "username": "Penumbra_Rin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993386558561697812",
+        "in_reply_to_user_id": "1950904665987829760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993385066597433663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Penumbra_Rin 嘿嘿请等我🥺🥺🥺大概明晚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993385058909200384"
+          ]
+        },
+        "author_id": "1950904665987829760",
+        "conversation_id": "1993343338876219432",
+        "created_at": "2025-11-25T18:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993385066597433663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZikZb26cGL",
+              "end": 48,
+              "expanded_url": "https://x.com/Penumbra_Rin/status/1993385066597433663/photo/1",
+              "media_key": "3_1993385058909200384",
+              "start": 25,
+              "url": "https://t.co/ZikZb26cGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993385066597433663",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993343338876219432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我就这样等待——！ https://t.co/ZikZb26cGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 95,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 570
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T13:01:45.000Z",
+        "description": "🥰",
+        "id": "1950904665987829760",
+        "location": "虚拟",
+        "name": "昀",
+        "pinned_tweet_id": "1977908431001698421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976309443718774785/C06LDKJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 57,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 249
+        },
+        "username": "Penumbra_Rin",
+        "verified": false
+      }
+    ]
+  }
+}

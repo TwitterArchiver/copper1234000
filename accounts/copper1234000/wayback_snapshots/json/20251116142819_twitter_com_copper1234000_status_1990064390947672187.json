@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1989950290058252552",
+    "created_at": "2025-11-16T14:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T15:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990064390947672187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697556693947973632",
+          "start": 0,
+          "username": "Rovenus_902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990064390947672187",
+    "in_reply_to_user_id": "1697556693947973632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990006971312095256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rovenus_902 小薰大人…🥹🥹一定呀大家都和G 99！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1989950290058252552",
+        "created_at": "2025-11-16T14:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990064390947672187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697556693947973632",
+              "start": 0,
+              "username": "Rovenus_902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990064390947672187",
+        "in_reply_to_user_id": "1697556693947973632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990006971312095256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rovenus_902 小薰大人…🥹🥹一定呀大家都和G 99！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697556693947973632",
+        "conversation_id": "1989950290058252552",
+        "created_at": "2025-11-16T10:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990006971312095256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990006971312095256",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989950290058252552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 就这样一直爱下去好不好诡秘！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 52,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 277
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T10:27:24.000Z",
+        "description": "不要咀嚼小小的悲观而忘记整个世界｜有对象 别骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/pls9ravn",
+                "end": 23,
+                "expanded_url": "https://pome.vip/pls9ravn",
+                "start": 0,
+                "url": "https://t.co/UCwvEJx1ZF"
+              }
+            ]
+          }
+        },
+        "id": "1697556693947973632",
+        "location": "猫猫岛🐈‍⬛",
+        "name": "薰主",
+        "pinned_tweet_id": "1985764733316972552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987612132176011264/XpNStHdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 116,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1105
+        },
+        "url": "https://t.co/UCwvEJx1ZF",
+        "username": "Rovenus_902",
+        "verified": false
+      }
+    ]
+  }
+}

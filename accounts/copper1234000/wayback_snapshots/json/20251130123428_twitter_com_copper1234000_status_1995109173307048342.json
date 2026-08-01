@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1995040121905610886",
+    "created_at": "2025-11-30T12:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995109173307048342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937756175027867648",
+          "start": 0,
+          "username": "Nolan20250601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995109173307048342",
+    "in_reply_to_user_id": "1937756175027867648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995042940306297205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nolan20250601 谢谢layla酱🥺是的今日限定金闪闪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1995040121905610886",
+        "created_at": "2025-11-30T12:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995109173307048342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937756175027867648",
+              "start": 0,
+              "username": "Nolan20250601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995109173307048342",
+        "in_reply_to_user_id": "1937756175027867648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995042940306297205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nolan20250601 谢谢layla酱🥺是的今日限定金闪闪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937756175027867648",
+        "conversation_id": "1995040121905610886",
+        "created_at": "2025-11-30T08:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995042940306297205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995042940306297205",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995040121905610886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 画得太好看了！是限定皮肤！✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 122,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 861
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-25T06:14:31.000Z",
+        "description": "他是伪装成优雅人类的阴湿怪，我是偏爱这只怪物的新娘 ｜蕾拉Layla ♡ 南淮Nolan｜Keep us｜NSFW触手预警！",
+        "id": "1937756175027867648",
+        "name": "Layla",
+        "pinned_tweet_id": "1985802588596650385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983700806898782208/LtYF6ojM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 77,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 240
+        },
+        "username": "Nolan20250601",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2073678321150525766",
+    "created_at": "2026-07-05T08:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073679325732245534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596320939607629824",
+          "start": 0,
+          "username": "ThisisHan1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073679325732245534",
+    "in_reply_to_user_id": "1596320939607629824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073678321150525766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThisisHan1_ 生日快乐！很美丽的作品！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2073678321150525766",
+        "created_at": "2026-07-05T08:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073679325732245534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596320939607629824",
+              "start": 0,
+              "username": "ThisisHan1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073679325732245534",
+        "in_reply_to_user_id": "1596320939607629824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073678321150525766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThisisHan1_ 生日快乐！很美丽的作品！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596320939607629824",
+        "conversation_id": "2073678321150525766",
+        "created_at": "2026-07-05T08:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073678321150525766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thisishan1_/st…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/thisishan1_/status/2072580221044392355",
+              "start": 111,
+              "url": "https://t.co/5LUXpTidpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073678321150525766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "drawell.han1.ai",
+                "end": 338,
+                "expanded_url": "https://drawell.han1.ai",
+                "start": 315,
+                "url": "https://t.co/MRWR9NUuXP"
+              }
+            ]
+          },
+          "text": "今天是我的生日，正好准备好了Drawell，也算是给自己的礼物。\n\n我很喜欢Drawell这个名字，结合了Draw，Well，以及Dwell，你可以沉浸于你的窗口工作，也可以好好作画。这是一台属于工作过程的安静的打印机。\n\n我始终是一个理想主义者，所以我希望用Drawell能够记录下来我们现在的键鼠交互，给普通的行为增加新的意义。也许将来真的就没有键鼠了呢？\n\n选择一个时间窗口：5、10 或 25 分钟。Drawell 只会感知你输入的节奏，从不查看你的屏幕内容，并根据这段节奏创作出一幅独一无二的作品。\n\n没有预览，没有修改。就像胶片摄影一样，你得到的，就是它最终呈现的样子。\n\n支持 macOS，所有数据全程本地处理。\n\nhttps://t.co/MRWR9NUuXP"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072580221044392355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是我的生日，正好准备好了Drawell，也算是给自己的礼物。\n\n我很喜欢Drawell这个名字，结合了Draw，Well，以及Dwell，你可以沉浸于你的窗口工作，也可以好好作画。这是一台属于工作过程的安静的打印机。 https://t.co/5LUXpTidpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5591,
+          "following_count": 478,
+          "like_count": 4296,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 7298
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T01:52:51.000Z",
+        "description": "🧑🏻‍💻 Building @Bing as Product Designer @Microsoft \n🧑🏻‍🚀 Building @Antenna and others as Design Engineer\nLet's go with the flow and see where it goes.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 14,
+                "username": "Bing"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "Microsoft"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "Antenna"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "antenna.fyi",
+                "end": 23,
+                "expanded_url": "http://antenna.fyi",
+                "start": 0,
+                "url": "https://t.co/lB70tMvIje"
+              }
+            ]
+          }
+        },
+        "id": "1596320939607629824",
+        "name": "Han1",
+        "pinned_tweet_id": "2043471758393836031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010550262889582592/PVgUfFUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 654,
+          "like_count": 1255,
+          "listed_count": 10,
+          "media_count": 231,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/lB70tMvIje",
+        "username": "ThisisHan1_",
+        "verified": true
+      }
+    ]
+  }
+}

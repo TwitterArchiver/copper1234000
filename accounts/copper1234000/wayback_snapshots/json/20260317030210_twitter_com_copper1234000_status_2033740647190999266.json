@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033388783912047095",
+    "created_at": "2026-03-17T03:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033740647190999266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2024830834348539904",
+          "start": 0,
+          "username": "Het_153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033740647190999266",
+    "in_reply_to_user_id": "2024830834348539904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033403427456459079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Het_153 其实我profile已经很短了…昨晚大概只剩500字不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033388783912047095",
+        "created_at": "2026-03-17T03:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033740647190999266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2024830834348539904",
+              "start": 0,
+              "username": "Het_153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033740647190999266",
+        "in_reply_to_user_id": "2024830834348539904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033403427456459079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Het_153 其实我profile已经很短了…昨晚大概只剩500字不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024830834348539904",
+        "conversation_id": "2033388783912047095",
+        "created_at": "2026-03-16T04:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033403427456459079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033403427456459079",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033388783912047095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 不排除是你给的profile太长了\n大模型的记忆能力是有限的，他们不像我们能慢慢忘掉不重要的事情，记忆的容量相比人类也极其有限，所以他可能只是脑子太满了而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 281,
+          "like_count": 1143,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 3443
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-20T12:57:52.000Z",
+        "description": "懒惰到不愿意思考简介如何书写\n总之好奇的话向下去翻阅我说过的话吧\n非典型ENTP/轻度白骑士/树洞24h营业中",
+        "id": "2024830834348539904",
+        "location": "理想国",
+        "name": "鹤 ︳树洞营业中",
+        "pinned_tweet_id": "2025484053311619207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024830922647093248/DD44jvE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 169,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 804
+        },
+        "username": "Het_153",
+        "verified": false
+      }
+    ]
+  }
+}

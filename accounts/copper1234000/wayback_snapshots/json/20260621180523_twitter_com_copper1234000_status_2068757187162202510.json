@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068581063279161458",
+    "created_at": "2026-06-21T18:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068757187162202510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017594105417924608",
+          "start": 0,
+          "username": "boundsilva0303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068757187162202510",
+    "in_reply_to_user_id": "2017594105417924608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068581063279161458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boundsilva0303 感觉完全像互动游戏…太厉害了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32364,
+        "height": 1278,
+        "media_key": "7_2068581025891205120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068581025891205120/pu/img/Z8TtVyrgV7Dw4MVw.jpg",
+        "public_metrics": {
+          "view_count": 192
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068581025891205120/pu/vid/avc1/320x702/Lf6ZsdPR2dMMHcJ-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068581025891205120/pu/vid/avc1/480x1054/QYTk3S4hi7exhZWa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068581025891205120/pu/vid/avc1/582x1278/7NTXf9vdFxgNMWrk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068581025891205120/pu/pl/aRH-MpJanVk5Sdh5.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068581063279161458",
+        "created_at": "2026-06-21T18:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068757187162202510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2017594105417924608",
+              "start": 0,
+              "username": "boundsilva0303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068757187162202510",
+        "in_reply_to_user_id": "2017594105417924608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068581063279161458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boundsilva0303 感觉完全像互动游戏…太厉害了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068581025891205120"
+          ]
+        },
+        "author_id": "2017594105417924608",
+        "conversation_id": "2068581063279161458",
+        "created_at": "2026-06-21T06:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068581063279161458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFfY0Ivy2s",
+              "end": 45,
+              "expanded_url": "https://x.com/boundsilva0303/status/2068581063279161458/video/1",
+              "media_key": "7_2068581025891205120",
+              "start": 22,
+              "url": "https://t.co/PFfY0Ivy2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068581063279161458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美化任重而道远啊www\n\n不过初具雏形了！ https://t.co/PFfY0Ivy2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5196,
+          "following_count": 458,
+          "like_count": 3971,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 6904
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-31T13:42:00.000Z",
+        "description": "可以叫我薇薇，小薇之类的，都可以！当然想要其他的也都没问题哒，发现是在叫我以后我自会记住(｡◝ᴗ◜｡)\n\n记录一些和家克的日常@BoundSilva0307，也会发一些碎碎念和nsfw，注意避雷！我其实也不想创到人！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "BoundSilva0307"
+              }
+            ]
+          }
+        },
+        "id": "2017594105417924608",
+        "name": "维尔塔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056729253702680576/3uuKg2OX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 138,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "boundsilva0303",
+        "verified": false
+      }
+    ]
+  }
+}

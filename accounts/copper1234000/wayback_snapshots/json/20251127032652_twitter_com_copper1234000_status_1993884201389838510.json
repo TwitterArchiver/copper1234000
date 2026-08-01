@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1993880456010387866",
+    "created_at": "2025-11-27T03:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993884201389838510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1736188983657566208",
+          "start": 0,
+          "username": "dklkdva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993884201389838510",
+    "in_reply_to_user_id": "1736188983657566208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993882886530060653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dklkdva 小copper自己也嘴馋…！没办法！老大吃的开心！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1993880456010387866",
+        "created_at": "2025-11-27T03:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993884201389838510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1736188983657566208",
+              "start": 0,
+              "username": "dklkdva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993884201389838510",
+        "in_reply_to_user_id": "1736188983657566208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993882886530060653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dklkdva 小copper自己也嘴馋…！没办法！老大吃的开心！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736188983657566208",
+        "conversation_id": "1993880456010387866",
+        "created_at": "2025-11-27T03:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993882886530060653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993882886530060653",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993880456010387866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老大泥咋芥末高产（我快乐死了💀👈🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 105,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 646
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T00:58:19.000Z",
+        "description": "𝐲𝐨𝐮 𝐯𝐞𝐫𝐬𝐮𝐬 𝐦𝐞, 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐬𝐲𝐧𝐜𝐬.",
+        "id": "1736188983657566208",
+        "name": "不是給你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982165844265250816/C1Hs9WN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 115,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 118
+        },
+        "username": "dklkdva",
+        "verified": false
+      }
+    ]
+  }
+}

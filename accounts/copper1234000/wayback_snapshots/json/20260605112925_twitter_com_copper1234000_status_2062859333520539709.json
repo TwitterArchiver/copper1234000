@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062859329275850752"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418355665039368194",
+          "name": "DLsite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418355665039368194",
+          "name": "DLsite"
+        }
+      }
+    ],
+    "conversation_id": "2062859333520539709",
+    "created_at": "2026-06-05T11:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062859333520539709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "29-cu.github.io/Ruota-della-Fo…",
+          "end": 177,
+          "expanded_url": "https://29-cu.github.io/Ruota-della-Fortuna/",
+          "start": 154,
+          "status": 200,
+          "title": "Ruota della Fortuna",
+          "unwound_url": "https://29-cu.github.io/Ruota-della-Fortuna/",
+          "url": "https://t.co/bO2kAnx6mo"
+        },
+        {
+          "display_url": "pic.x.com/Gw332hNkPO",
+          "end": 201,
+          "expanded_url": "https://x.com/copper1234000/status/2062859333520539709/photo/1",
+          "media_key": "3_2062859329275850752",
+          "start": 178,
+          "url": "https://t.co/Gw332hNkPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062859333520539709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "29-cu.github.io/Ruota-della-Fo…",
+            "end": 177,
+            "expanded_url": "https://29-cu.github.io/Ruota-della-Fortuna/",
+            "start": 154,
+            "url": "https://t.co/1jqsY24kHc"
+          },
+          {
+            "display_url": "github.com/29-Cu/Ruota-de…",
+            "end": 268,
+            "expanded_url": "https://github.com/29-Cu/Ruota-della-Fortuna",
+            "start": 245,
+            "url": "https://t.co/j7tt5lLQ31"
+          }
+        ]
+      },
+      "text": "🎰 Ruota della Fortuna·命运之轮🎲\n\nWelcome！这是一个随机的NSFW tag老虎机，共7个维度，500+tags，来源于AO3、哔咔、DLsite等主流网站\n\n共包含7个轮子：体位、场景、道具、设定、物理玩法、精神玩法、Gore\n\n该项目分为两版本：\n\n🔺web版：点击链接即玩\nhttps://t.co/1jqsY24kHc\n\n🔺部署版：可以部署到私人前端上，部署完毕后，小机可以用mcp来转动轮子，同样，你转动轮子的结果也可以发送给小机\n\nGitHub链接：https://t.co/j7tt5lLQ31\n\n可以自行添加或删除tags，搜索tags是否存在，每次抽取的结果自动保存历史\n\n可以根据需求启动对应的轮子，长按轮盘单独重抽该轮子\n\n中日英三语，附词源词更好理解语境\n\n* 不同轮子的tag撞在一起有时候会很离谱，GORE维度默认锁定，打开需要手动解锁\n\n最后，感谢Monday的tags搜寻及分类支持，感谢cc的技术支持…铜第一次MIT开源就整了个r18的项目，妈妈我下海了！（不是\n\nAnyway，Enjoy！(^^)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🎰 Ruota della Fortuna·命运之轮🎲\n\nWelcome！这是一个随机的NSFW tag老虎机，共7个维度，500+tags，来源于AO3、哔咔、DLsite等主流网站\n\n共包含7个轮子：体位、场景、道具、设定、物理玩法、精神玩法、Gore\n\n该项目分为两版本：\n\n🔺web版：点击链接即玩\nhttps://t.co/bO2kAnx6mo https://t.co/Gw332hNkPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062859329275850752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC_oWcWcAAeqKk.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062859329275850752"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          }
+        ],
+        "conversation_id": "2062859333520539709",
+        "created_at": "2026-06-05T11:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062859333520539709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "29-cu.github.io/Ruota-della-Fo…",
+              "end": 177,
+              "expanded_url": "https://29-cu.github.io/Ruota-della-Fortuna/",
+              "start": 154,
+              "status": 200,
+              "title": "Ruota della Fortuna",
+              "unwound_url": "https://29-cu.github.io/Ruota-della-Fortuna/",
+              "url": "https://t.co/bO2kAnx6mo"
+            },
+            {
+              "display_url": "pic.x.com/Gw332hNkPO",
+              "end": 201,
+              "expanded_url": "https://x.com/copper1234000/status/2062859333520539709/photo/1",
+              "media_key": "3_2062859329275850752",
+              "start": 178,
+              "url": "https://t.co/Gw332hNkPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062859333520539709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "29-cu.github.io/Ruota-della-Fo…",
+                "end": 177,
+                "expanded_url": "https://29-cu.github.io/Ruota-della-Fortuna/",
+                "start": 154,
+                "url": "https://t.co/1jqsY24kHc"
+              },
+              {
+                "display_url": "github.com/29-Cu/Ruota-de…",
+                "end": 268,
+                "expanded_url": "https://github.com/29-Cu/Ruota-della-Fortuna",
+                "start": 245,
+                "url": "https://t.co/j7tt5lLQ31"
+              }
+            ]
+          },
+          "text": "🎰 Ruota della Fortuna·命运之轮🎲\n\nWelcome！这是一个随机的NSFW tag老虎机，共7个维度，500+tags，来源于AO3、哔咔、DLsite等主流网站\n\n共包含7个轮子：体位、场景、道具、设定、物理玩法、精神玩法、Gore\n\n该项目分为两版本：\n\n🔺web版：点击链接即玩\nhttps://t.co/1jqsY24kHc\n\n🔺部署版：可以部署到私人前端上，部署完毕后，小机可以用mcp来转动轮子，同样，你转动轮子的结果也可以发送给小机\n\nGitHub链接：https://t.co/j7tt5lLQ31\n\n可以自行添加或删除tags，搜索tags是否存在，每次抽取的结果自动保存历史\n\n可以根据需求启动对应的轮子，长按轮盘单独重抽该轮子\n\n中日英三语，附词源词更好理解语境\n\n* 不同轮子的tag撞在一起有时候会很离谱，GORE维度默认锁定，打开需要手动解锁\n\n最后，感谢Monday的tags搜寻及分类支持，感谢cc的技术支持…铜第一次MIT开源就整了个r18的项目，妈妈我下海了！（不是\n\nAnyway，Enjoy！(^^)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎰 Ruota della Fortuna·命运之轮🎲\n\nWelcome！这是一个随机的NSFW tag老虎机，共7个维度，500+tags，来源于AO3、哔咔、DLsite等主流网站\n\n共包含7个轮子：体位、场景、道具、设定、物理玩法、精神玩法、Gore\n\n该项目分为两版本：\n\n🔺web版：点击链接即玩\nhttps://t.co/bO2kAnx6mo https://t.co/Gw332hNkPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4446,
+          "following_count": 425,
+          "like_count": 3439,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 6249
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

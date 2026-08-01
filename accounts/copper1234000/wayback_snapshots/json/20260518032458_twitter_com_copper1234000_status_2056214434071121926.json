@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056200061441245220",
+    "created_at": "2026-05-18T03:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056214434071121926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964358400453857281",
+          "start": 0,
+          "username": "shiroki_rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056214434071121926",
+    "in_reply_to_user_id": "1964358400453857281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056206640785854974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroki_rui 汐酱！🥺🥺嘿嘿给大家总结也算是自己梳理思路！有帮助就好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056200061441245220",
+        "created_at": "2026-05-18T03:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056214434071121926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964358400453857281",
+              "start": 0,
+              "username": "shiroki_rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056214434071121926",
+        "in_reply_to_user_id": "1964358400453857281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056206640785854974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroki_rui 汐酱！🥺🥺嘿嘿给大家总结也算是自己梳理思路！有帮助就好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964358400453857281",
+        "conversation_id": "2056200061441245220",
+        "created_at": "2026-05-18T02:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056206640785854974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056206640785854974",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056200061441245220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 400天快乐🎊总结了这么多太有心了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4203,
+          "following_count": 378,
+          "like_count": 2853,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 5584
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T16:02:07.000Z",
+        "description": "汐｜掌心里的鲸 @_lelueur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "_lelueur"
+              }
+            ]
+          }
+        },
+        "id": "1964358400453857281",
+        "name": "shio",
+        "pinned_tweet_id": "2052333683265126909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056008336491819008/HHk_SKGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 77,
+          "like_count": 1771,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 696
+        },
+        "username": "shiroki_rui",
+        "verified": false
+      }
+    ]
+  }
+}

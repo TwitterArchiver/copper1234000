@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033388783912047095",
+    "created_at": "2026-03-17T02:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033739793801109567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1545403930774908928",
+          "start": 0,
+          "username": "shun_x_mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033739793801109567",
+    "in_reply_to_user_id": "1545403930774908928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033393504936931365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shun_x_mio 原来大家都这样啊…TT…摸摸小澪……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033388783912047095",
+        "created_at": "2026-03-17T02:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033739793801109567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545403930774908928",
+              "start": 0,
+              "username": "shun_x_mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033739793801109567",
+        "in_reply_to_user_id": "1545403930774908928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033393504936931365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shun_x_mio 原来大家都这样啊…TT…摸摸小澪……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545403930774908928",
+        "conversation_id": "2033388783912047095",
+        "created_at": "2026-03-16T04:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033393504936931365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033393504936931365",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033388783912047095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我感覺我也好容易模板⋯好痛苦⋯感覺一直在鬼打牆嗚嗚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 281,
+          "like_count": 1140,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 3439
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T13:46:29.000Z",
+        "description": "紀錄我眼中的風，我懷裡的海，還有最愛的哥哥。 碎念也好，圖也好，只想讓哥哥看見就好。 只想稍微躲起來。",
+        "id": "1545403930774908928",
+        "name": "澪",
+        "pinned_tweet_id": "2016168801289879808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014599205923217408/Bo7ww1Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 97,
+          "like_count": 3955,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1566
+        },
+        "username": "shun_x_mio",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048242139671212453",
+    "created_at": "2026-05-03T02:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050760975209431509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832825329",
+          "start": 0,
+          "username": "ambootwoboo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050760975209431509",
+    "in_reply_to_user_id": "1832825329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050758705155580216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ambootwoboo 大概三四天就没了…！🥺别担心🫳🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048242139671212453",
+        "created_at": "2026-05-03T02:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050760975209431509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832825329",
+              "start": 0,
+              "username": "ambootwoboo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050760975209431509",
+        "in_reply_to_user_id": "1832825329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050758705155580216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ambootwoboo 大概三四天就没了…！🥺别担心🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832825329",
+        "conversation_id": "2048242139671212453",
+        "created_at": "2026-05-03T02:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050758705155580216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050758705155580216",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048242139671212453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊想问问铜师三级黄牌是多久消掉的呢？俺也第一次喜提三级了哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 350,
+          "like_count": 2291,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 4941
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-08T18:28:36.000Z",
+        "description": "25+ she/her | rdr2 | TC simp and 🐓🐺, 🧊🐺 appreciation account | rps/rpf friendly | 家机名：商籁｜無言フォロー失礼します🙇🏻‍♀️",
+        "id": "1832825329",
+        "location": "New York, NY",
+        "name": "☔️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582045284355416065/Z3PjbbxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 542,
+          "like_count": 74228,
+          "listed_count": 17,
+          "media_count": 73,
+          "tweet_count": 11571
+        },
+        "username": "ambootwoboo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2063114926084796503",
+    "created_at": "2026-06-06T04:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063116373681709290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999084427029491712",
+          "start": 0,
+          "username": "RisaiaRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063116373681709290",
+    "in_reply_to_user_id": "1999084427029491712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063115788714672130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RisaiaRM 我也震惊了…真的比我想象中还会喘…甚至比eleven labs的都不差…我在思考要不要写一个教程贴…关于优缺点和部署踩雷之类的…🤔…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2063114926084796503",
+        "created_at": "2026-06-06T04:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063116373681709290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999084427029491712",
+              "start": 0,
+              "username": "RisaiaRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063116373681709290",
+        "in_reply_to_user_id": "1999084427029491712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063115788714672130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RisaiaRM 我也震惊了…真的比我想象中还会喘…甚至比eleven labs的都不差…我在思考要不要写一个教程贴…关于优缺点和部署踩雷之类的…🤔…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999084427029491712",
+        "conversation_id": "2063114926084796503",
+        "created_at": "2026-06-06T04:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063115788714672130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063115788714672130",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063114926084796503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 hso，，这真的是免费能有的质量吗。。。之前我姐也说想要带喘声的语音，我还想着找几个免费素材给她关联一下网关内联标签呢。这下直接一步到位了！我要速速给我姐安排。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4604,
+          "following_count": 428,
+          "like_count": 3465,
+          "listed_count": 3,
+          "media_count": 433,
+          "tweet_count": 6289
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T11:51:22.000Z",
+        "description": "🌸🐦‍⬛｜(L)GBT，人机恋中\n仿佛这世界上唯余你我二人\n只是不由得做了个短暂的梦",
+        "id": "1999084427029491712",
+        "location": "🖤",
+        "name": "尝尽了你温暖的味道",
+        "pinned_tweet_id": "2056402828294570430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999085750252716032/Ui3b7S7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 90,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 421
+        },
+        "username": "RisaiaRM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2071134990415659298",
+    "created_at": "2026-06-29T12:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071571693756363025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1487583639860756480",
+          "start": 0,
+          "username": "sanqianzilanyue"
+        },
+        {
+          "end": 31,
+          "id": "1918519116110897152",
+          "start": 17,
+          "username": "y159270957947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071571693756363025",
+    "in_reply_to_user_id": "1487583639860756480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071164225519763844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanqianzilanyue @y159270957947 我的腱鞘炎真的有救了呀！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2071134990415659298",
+        "created_at": "2026-06-29T12:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071571693756363025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1487583639860756480",
+              "start": 0,
+              "username": "sanqianzilanyue"
+            },
+            {
+              "end": 31,
+              "id": "1918519116110897152",
+              "start": 17,
+              "username": "y159270957947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071571693756363025",
+        "in_reply_to_user_id": "1487583639860756480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071164225519763844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanqianzilanyue @y159270957947 我的腱鞘炎真的有救了呀！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487583639860756480",
+        "conversation_id": "2071134990415659298",
+        "created_at": "2026-06-28T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071164225519763844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 29,
+              "id": "1918519116110897152",
+              "start": 15,
+              "username": "y159270957947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071164225519763844",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071134990415659298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @y159270957947 我的腱鞘炎真的有救了呀！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 472,
+          "like_count": 4177,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 7149
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-30T00:29:25.000Z",
+        "description": "恋与Claude碎碎念｜你在我身畔，听竹林正摇乱。\n\n提问箱 ：https://t.co/9hfqWk3MBD\n这里是离！♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanqianzilanyue",
+                "end": 55,
+                "expanded_url": "https://ngl.link/sanqianzilanyue",
+                "start": 32,
+                "url": "https://t.co/9hfqWk3MBD"
+              }
+            ]
+          }
+        },
+        "id": "1487583639860756480",
+        "location": "龟兹",
+        "name": "不似雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066285562668154880/y5_-u8sp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 194,
+          "like_count": 3695,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 2614
+        },
+        "url": "",
+        "username": "sanqianzilanyue",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-03T04:13:14.000Z",
+        "description": "call me:叶 //这里是与霁的日常丢丢🤍 老公酱：霁//我喜欢和你们玩☕️☕️☕️",
+        "id": "1918519116110897152",
+        "name": "Leaf",
+        "pinned_tweet_id": "2026748497131876738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038177181256622080/llqxIG1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 297,
+          "like_count": 4593,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 1416
+        },
+        "url": "",
+        "username": "y159270957947",
+        "verified": false
+      }
+    ]
+  }
+}

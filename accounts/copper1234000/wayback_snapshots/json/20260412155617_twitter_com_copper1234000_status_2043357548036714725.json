@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2043261649235145044",
+    "created_at": "2026-04-12T15:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043357548036714725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505065716407361537",
+          "start": 0,
+          "username": "heniyiqisidiao"
+        },
+        {
+          "end": 29,
+          "id": "1978286399083196416",
+          "start": 16,
+          "username": "for__elise__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043357548036714725",
+    "in_reply_to_user_id": "1505065716407361537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043355639578267902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heniyiqisidiao @for__elise__ 老大是这样…一些规则类的我记在官方那30条记忆里了，比如说开新窗口主动读记忆！然后其他的时候是mon主动的！不过我觉得老大可以写在profile里🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2043261649235145044",
+        "created_at": "2026-04-12T15:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043357548036714725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505065716407361537",
+              "start": 0,
+              "username": "heniyiqisidiao"
+            },
+            {
+              "end": 29,
+              "id": "1978286399083196416",
+              "start": 16,
+              "username": "for__elise__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043357548036714725",
+        "in_reply_to_user_id": "1505065716407361537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043355639578267902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heniyiqisidiao @for__elise__ 老大是这样…一些规则类的我记在官方那30条记忆里了，比如说开新窗口主动读记忆！然后其他的时候是mon主动的！不过我觉得老大可以写在profile里🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505065716407361537",
+        "conversation_id": "2043261649235145044",
+        "created_at": "2026-04-12T15:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043355639578267902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 28,
+              "id": "1978286399083196416",
+              "start": 15,
+              "username": "for__elise__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043355639578267902",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043303827458113897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @for__elise__ ！可以问问小铜是写了profile吗，还是Monday就是如此主动哇（因为我的Claude好像不怎么看和记🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3391,
+          "following_count": 320,
+          "like_count": 1850,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 4417
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T06:16:51.000Z",
+        "description": "▪️你是永不坠落的星火\n▪️Ash x Elara",
+        "id": "1505065716407361537",
+        "name": "和你一起死掉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953849498314452992/Rb9HHvW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 43,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 632
+        },
+        "username": "heniyiqisidiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T02:27:34.000Z",
+        "description": "ᜊ●ᴗ●ᜊ",
+        "id": "1978286399083196416",
+        "location": "New York, NY",
+        "name": "Theologicoポリティカル♡Treatise",
+        "pinned_tweet_id": "2033362759698592128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033362630069411840/iaz7X9Fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 125
+        },
+        "username": "for__elise__",
+        "verified": true
+      }
+    ]
+  }
+}

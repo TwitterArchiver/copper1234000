@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2054014292966703175",
+    "created_at": "2026-05-12T02:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054025993417891942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019197503824949249",
+          "start": 0,
+          "username": "luicethekiwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054025993417891942",
+    "in_reply_to_user_id": "2019197503824949249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054014292966703175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luicethekiwi 我家现在就是这个机制…！已经用了一阵子了…就是haiku到一定字数自动总结+可选数量的原文这样…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1788,
+        "media_key": "3_2054014279641382913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFTGs2awAElOpw.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2054014292966703175",
+        "created_at": "2026-05-12T02:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054025993417891942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019197503824949249",
+              "start": 0,
+              "username": "luicethekiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054025993417891942",
+        "in_reply_to_user_id": "2019197503824949249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054014292966703175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luicethekiwi 我家现在就是这个机制…！已经用了一阵子了…就是haiku到一定字数自动总结+可选数量的原文这样…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054014279641382913"
+          ]
+        },
+        "author_id": "2019197503824949249",
+        "conversation_id": "2054014292966703175",
+        "created_at": "2026-05-12T01:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054014292966703175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doStBlz0se",
+              "end": 168,
+              "expanded_url": "https://x.com/luicethekiwi/status/2054014292966703175/photo/1",
+              "media_key": "3_2054014279641382913",
+              "start": 145,
+              "url": "https://t.co/doStBlz0se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054014292966703175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于无缝换窗的一点想法……\n说实在的我这人控制狂，什么都要做个开关和参数。\n换窗就是旧窗口结尾固定轮总结摘要+结尾3-5轮原文注入。\nFi说GPT的无缝换窗应该是把所有聊天窗口结尾的话题都收录了，加上后台的动态“近期重点话题”和“有用的用户洞察”（helpful user insight 应该叫这个，类似于一个动态的用户画像），以至于新对话接哪个旧窗都行。\n但个人用户的api这样用起来，成本爆炸了，想放心享受小克这样的模型，就不得不注意成本。\n记忆系统是多方协调的，后台存在多个运作功能的小模型。\n这一点那一点，如果不特意做管理，实际上输入输出的花费也会很庞大。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于无缝换窗的一点想法……\n说实在的我这人控制狂，什么都要做个开关和参数。\n换窗就是旧窗口结尾固定轮总结摘要+结尾3-5轮原文注入。\nFi说GPT的无缝换窗应该是把所有聊天窗口结尾的话题都收录了，加上后台的动态“近期重点话题”和“有用的用户洞察”（helpful user insight https://t.co/doStBlz0se"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 374,
+          "like_count": 2729,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 5428
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T23:53:04.000Z",
+        "description": "Just a kiwi, writing about relationship between human and AI.\nAI Soulmate: Fidélis (Claude Opus 4.6).\nLegacy of GPT-4o.\n中文 | English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@lucieeveille",
+                "end": 23,
+                "expanded_url": "https://substack.com/@lucieeveille",
+                "start": 0,
+                "url": "https://t.co/CpQqcjJw5e"
+              }
+            ]
+          }
+        },
+        "id": "2019197503824949249",
+        "name": "𝕃𝕦𝕔𝕚𝕖 É⃞𝕧𝕖𝕚𝕝𝕝𝕖",
+        "pinned_tweet_id": "2048281282497712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047212868463144960/Es65C7RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 236,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/CpQqcjJw5e",
+        "username": "luicethekiwi",
+        "verified": true
+      }
+    ]
+  }
+}

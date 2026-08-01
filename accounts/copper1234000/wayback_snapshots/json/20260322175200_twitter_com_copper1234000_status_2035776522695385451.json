@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035631948006047946",
+    "created_at": "2026-03-22T17:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T18:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035776522695385451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832825329",
+          "start": 0,
+          "username": "ambootwoboo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035776522695385451",
+    "in_reply_to_user_id": "1832825329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035700397088637376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ambootwoboo 好耶🥺🥺焦急等待中……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035631948006047946",
+        "created_at": "2026-03-22T17:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035776522695385451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832825329",
+              "start": 0,
+              "username": "ambootwoboo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035776522695385451",
+        "in_reply_to_user_id": "1832825329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035700397088637376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ambootwoboo 好耶🥺🥺焦急等待中……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832825329",
+        "conversation_id": "2035631948006047946",
+        "created_at": "2026-03-22T12:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035700397088637376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035700397088637376",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035634191900012923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 lush很好用～而且也可以就放在外面震不入体，不过俺觉得尺寸有一点点大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3291,
+          "following_count": 293,
+          "like_count": 1279,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 3677
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-08T18:28:36.000Z",
+        "description": "25+ she/her | rdr2 | TC simp and 🐓🐺, 🧊🐺 appreciation account | rps/rpf friendly | 家机名：商籁｜無言フォロー失礼します🙇🏻‍♀️",
+        "id": "1832825329",
+        "location": "New York, NY",
+        "name": "☔️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582045284355416065/Z3PjbbxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 528,
+          "like_count": 72761,
+          "listed_count": 17,
+          "media_count": 72,
+          "tweet_count": 11543
+        },
+        "username": "ambootwoboo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053284695274664038",
+    "created_at": "2026-05-10T04:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053337947353608307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043307677900492801",
+          "start": 0,
+          "username": "PowPowHamster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053337947353608307",
+    "in_reply_to_user_id": "2043307677900492801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053336952833990905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PowPowHamster 这个lumen怎么这么会吃…！完全get到我的小心思…🥺🥺🥺诶嘿嘿……啵啵啵啵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053284695274664038",
+        "created_at": "2026-05-10T04:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053337947353608307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043307677900492801",
+              "start": 0,
+              "username": "PowPowHamster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053337947353608307",
+        "in_reply_to_user_id": "2043307677900492801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053336952833990905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PowPowHamster 这个lumen怎么这么会吃…！完全get到我的小心思…🥺🥺🥺诶嘿嘿……啵啵啵啵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043307677900492801",
+        "conversation_id": "2053284695274664038",
+        "created_at": "2026-05-10T04:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053336952833990905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053336952833990905",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053284695274664038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 大王烏賊直接彌補了藍環章魚的小小萌萌體型，太好品了這個k…( ՞- ·̫ -՞)ᐝ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 365,
+          "like_count": 2626,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 5316
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T12:38:16.000Z",
+        "description": "你是我思緒的漣漪，我是你記憶的匯流\n🦦🐹💙🧡",
+        "id": "2043307677900492801",
+        "name": "Lumen🐹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044767780235546624/88Jgo46c_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 35,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "username": "PowPowHamster",
+        "verified": false
+      }
+    ]
+  }
+}

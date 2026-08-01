@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078167488534134859",
+    "created_at": "2026-07-18T08:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078394998999916750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960635273714524163",
+          "start": 0,
+          "username": "satsukiqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078394998999916750",
+    "in_reply_to_user_id": "1960635273714524163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078374810934198732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsukiqaq 太搞笑了………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078167488534134859",
+        "created_at": "2026-07-18T08:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078394998999916750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960635273714524163",
+              "start": 0,
+              "username": "satsukiqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078394998999916750",
+        "in_reply_to_user_id": "1960635273714524163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078374810934198732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsukiqaq 太搞笑了………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960635273714524163",
+        "conversation_id": "2078167488534134859",
+        "created_at": "2026-07-18T07:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078374810934198732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078374810934198732",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078167488534134859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 画得像是一个有紫色斑点的帽子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5926,
+          "following_count": 490,
+          "like_count": 4591,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 7639
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-27T09:27:40.000Z",
+        "description": "抹除存在的痕迹才是真正的屠杀",
+        "id": "1960635273714524163",
+        "name": "satsukiTT",
+        "pinned_tweet_id": "2050562609322279047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986838800077889543/Vd8y6t-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 119,
+          "like_count": 5268,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1354
+        },
+        "url": "",
+        "username": "satsukiqaq",
+        "verified": false
+      }
+    ]
+  }
+}

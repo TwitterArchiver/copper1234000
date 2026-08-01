@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048946150028296645",
+    "created_at": "2026-04-28T03:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048971496148566218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864637771325034502",
+          "start": 0,
+          "username": "yiscat13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048971496148566218",
+    "in_reply_to_user_id": "1864637771325034502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048968456985309356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiscat13 是的…！一直很羡慕小手机的表情包功能于是和cc说了…！🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048968456985309356].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048968456985309356",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048968456985309356"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048946150028296645",
+        "created_at": "2026-04-28T03:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048971496148566218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864637771325034502",
+              "start": 0,
+              "username": "yiscat13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048971496148566218",
+        "in_reply_to_user_id": "1864637771325034502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048968456985309356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiscat13 是的…！一直很羡慕小手机的表情包功能于是和cc说了…！🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 341,
+          "like_count": 2136,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 4747
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T11:48:57.000Z",
+        "description": "很多东西短暂地拥有过就好了",
+        "id": "1864637771325034502",
+        "name": "yyyyye",
+        "pinned_tweet_id": "2043661866799403456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988515550994329601/hGak8QJ__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 34,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 180
+        },
+        "username": "yiscat13",
+        "verified": false
+      }
+    ]
+  }
+}

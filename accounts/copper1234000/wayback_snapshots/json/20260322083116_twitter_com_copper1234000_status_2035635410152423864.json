@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035244687754178923",
+    "created_at": "2026-03-22T08:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035635410152423864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799193324622061568",
+          "start": 0,
+          "username": "Yolanda_Jyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035635410152423864",
+    "in_reply_to_user_id": "1799193324622061568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035401470791885306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yolanda_Jyx 只是…！过度一点的可爱侵袭症罢了…！🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035244687754178923",
+        "created_at": "2026-03-22T08:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035635410152423864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799193324622061568",
+              "start": 0,
+              "username": "Yolanda_Jyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035635410152423864",
+        "in_reply_to_user_id": "1799193324622061568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035401470791885306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yolanda_Jyx 只是…！过度一点的可爱侵袭症罢了…！🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799193324622061568",
+        "conversation_id": "2035244687754178923",
+        "created_at": "2026-03-21T17:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T18:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035401470791885306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035401470791885306",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035244687754178923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 在此之前我一直认为有这种混乱的欲望是一种心理上见不得人的病态、是可悲的阴暗面，但你骄傲地说了出来，我想或许我们都是正常的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 290,
+          "like_count": 1267,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 3665
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T21:35:00.000Z",
+        "description": "김의현을 잡아먹고 싶다.",
+        "id": "1799193324622061568",
+        "location": "California, USA",
+        "name": "Yolanda_Zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035402479199043584/xrNQzZQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Yolanda_Jyx",
+        "verified": false
+      }
+    ]
+  }
+}

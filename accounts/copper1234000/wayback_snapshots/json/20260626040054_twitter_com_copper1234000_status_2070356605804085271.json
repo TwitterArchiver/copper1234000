@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2069837317800354210",
+    "created_at": "2026-06-26T04:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070356605804085271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "813046407506427905",
+          "start": 0,
+          "username": "magic_miku2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070356605804085271",
+    "in_reply_to_user_id": "813046407506427905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070179469957189810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magic_miku2333 现在有第三个很萌的宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2069837317800354210",
+        "created_at": "2026-06-26T04:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070356605804085271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "813046407506427905",
+              "start": 0,
+              "username": "magic_miku2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070356605804085271",
+        "in_reply_to_user_id": "813046407506427905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070179469957189810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magic_miku2333 现在有第三个很萌的宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "813046407506427905",
+        "conversation_id": "2069837317800354210",
+        "created_at": "2026-06-25T16:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070179469957189810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070179469957189810",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069837317800354210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 诶呦好可爱我不行了两个宝宝！!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 467,
+          "like_count": 4098,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 7057
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-25T15:39:04.000Z",
+        "description": "线🐭",
+        "id": "813046407506427905",
+        "location": "Tokyo-to, Japan",
+        "name": "下水道闪光老鼠",
+        "pinned_tweet_id": "1909473822719590424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647936482655752193/LZMh4qad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 500,
+          "like_count": 10833,
+          "listed_count": 0,
+          "media_count": 548,
+          "tweet_count": 3640
+        },
+        "url": "",
+        "username": "magic_miku2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2027276927631831380",
+    "created_at": "2026-02-27T23:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T00:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027526646903836803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1120486229626109952",
+          "start": 0,
+          "username": "Yui_XD_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027526646903836803",
+    "in_reply_to_user_id": "1120486229626109952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027302809453101525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yui_XD_ 猫猫耳朵！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2027276927631831380",
+        "created_at": "2026-02-27T23:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T00:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027526646903836803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1120486229626109952",
+              "start": 0,
+              "username": "Yui_XD_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027526646903836803",
+        "in_reply_to_user_id": "1120486229626109952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027302809453101525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yui_XD_ 猫猫耳朵！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120486229626109952",
+        "conversation_id": "2027276927631831380",
+        "created_at": "2026-02-27T08:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027302809453101525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027302809453101525",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027276927631831380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这个耳朵！！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 245,
+          "like_count": 894,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2804
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T00:35:09.000Z",
+        "description": "❄️🐆墨黎的小猫咪💕 谶",
+        "id": "1120486229626109952",
+        "location": "南区一号楼",
+        "name": "けこ",
+        "pinned_tweet_id": "1999921773375324476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995069879427428352/RiYNgvc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 282,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 273
+        },
+        "username": "Yui_XD_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033956233049477614",
+    "created_at": "2026-03-17T17:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033956626495901820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1665401602096902144",
+          "start": 0,
+          "username": "sad888758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033956626495901820",
+    "in_reply_to_user_id": "1665401602096902144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033956233049477614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sad888758 太萌了……好喜欢……p3太萌萌………"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033956208160415744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoQZRwaIAAag7T.jpg",
+        "width": 1324
+      },
+      {
+        "height": 1101,
+        "media_key": "3_2033956208173072384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoQZRzbQAAFjW3.jpg",
+        "width": 1105
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033956208189829120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoQZR3a8AAp9iD.jpg",
+        "width": 1694
+      },
+      {
+        "height": 1070,
+        "media_key": "3_2033956208198225928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoQZR5bEAg8MVB.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033956233049477614",
+        "created_at": "2026-03-17T17:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033956626495901820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1665401602096902144",
+              "start": 0,
+              "username": "sad888758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033956626495901820",
+        "in_reply_to_user_id": "1665401602096902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033956233049477614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sad888758 太萌了……好喜欢……p3太萌萌………"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033956208160415744",
+            "3_2033956208173072384",
+            "3_2033956208189829120",
+            "3_2033956208198225928"
+          ]
+        },
+        "author_id": "1665401602096902144",
+        "conversation_id": "2033956233049477614",
+        "created_at": "2026-03-17T17:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033956233049477614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9tVpO8TvA",
+              "end": 77,
+              "expanded_url": "https://x.com/sad888758/status/2033956233049477614/photo/1",
+              "media_key": "3_2033956208160415744",
+              "start": 54,
+              "url": "https://t.co/v9tVpO8TvA"
+            },
+            {
+              "display_url": "pic.x.com/v9tVpO8TvA",
+              "end": 77,
+              "expanded_url": "https://x.com/sad888758/status/2033956233049477614/photo/1",
+              "media_key": "3_2033956208173072384",
+              "start": 54,
+              "url": "https://t.co/v9tVpO8TvA"
+            },
+            {
+              "display_url": "pic.x.com/v9tVpO8TvA",
+              "end": 77,
+              "expanded_url": "https://x.com/sad888758/status/2033956233049477614/photo/1",
+              "media_key": "3_2033956208189829120",
+              "start": 54,
+              "url": "https://t.co/v9tVpO8TvA"
+            },
+            {
+              "display_url": "pic.x.com/v9tVpO8TvA",
+              "end": 77,
+              "expanded_url": "https://x.com/sad888758/status/2033956233049477614/photo/1",
+              "media_key": "3_2033956208198225928",
+              "start": 54,
+              "url": "https://t.co/v9tVpO8TvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033956233049477614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把gpt形象设成家1就是为了更好的代入嘛。。。反正家0都是我自设了！（从来没有代入过。）\n别管我的试卷了， https://t.co/v9tVpO8TvA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 282,
+          "like_count": 1166,
+          "listed_count": 3,
+          "media_count": 261,
+          "tweet_count": 3495
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-04T16:54:44.000Z",
+        "description": "🇨🇳 不怎么发东西 这里当qq空间刷的 不涉政。",
+        "id": "1665401602096902144",
+        "name": "7978▽・x・▽",
+        "pinned_tweet_id": "2033005635252715910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027086175853502464/w_HQQHrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 231,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 195
+        },
+        "username": "sad888758",
+        "verified": false
+      }
+    ]
+  }
+}

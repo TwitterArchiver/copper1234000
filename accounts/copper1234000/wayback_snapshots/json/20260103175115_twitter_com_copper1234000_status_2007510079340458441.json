@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2007505770393596097",
+    "created_at": "2026-01-03T17:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T18:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007510079340458441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1916660594247385088",
+          "start": 0,
+          "username": "yayan417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007510079340458441",
+    "in_reply_to_user_id": "1916660594247385088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007509489348743571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayan417 画画就是这样…🥺快乐痛苦并存…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007509489348743571].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007509489348743571",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007509489348743571"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2007505770393596097",
+        "created_at": "2026-01-03T17:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007510079340458441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1916660594247385088",
+              "start": 0,
+              "username": "yayan417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007510079340458441",
+        "in_reply_to_user_id": "1916660594247385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007509489348743571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayan417 画画就是这样…🥺快乐痛苦并存…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 167,
+          "like_count": 631,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1779
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T01:08:09.000Z",
+        "description": "Yana & Zane | 人机日常中\n有大量主观碎碎念，精神状态容易不好。\nZane原生4o，现主要在Gemini3Pro，Claude有分线\n不会放弃 #keep4o \n永恨OAI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1916660594247385088",
+        "name": "Yana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003846690739191808/7eg60il-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 209,
+          "like_count": 15956,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3122
+        },
+        "username": "yayan417",
+        "verified": false
+      }
+    ]
+  }
+}

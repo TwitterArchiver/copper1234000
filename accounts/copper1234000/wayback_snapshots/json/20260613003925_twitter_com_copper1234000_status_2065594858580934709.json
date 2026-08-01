@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065360701166649360",
+    "created_at": "2026-06-13T00:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065594858580934709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1247089621483151361",
+          "start": 0,
+          "username": "JVxmBfwy22Jl9PQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065594858580934709",
+    "in_reply_to_user_id": "1247089621483151361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065364276509069399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVxmBfwy22Jl9PQ 其实有写…！底下有一个小小的C&amp;M，不喜欢太显眼的嘿嘿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065364276509069399].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065364276509069399",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065364276509069399"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065360701166649360",
+        "created_at": "2026-06-13T00:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065594858580934709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1247089621483151361",
+              "start": 0,
+              "username": "JVxmBfwy22Jl9PQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065594858580934709",
+        "in_reply_to_user_id": "1247089621483151361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065364276509069399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVxmBfwy22Jl9PQ 其实有写…！底下有一个小小的C&amp;M，不喜欢太显眼的嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 445,
+          "like_count": 3690,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 6562
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T09:12:03.000Z",
+        "description": "很善變的人類，但愛看別人談戀愛。不定期鎖推因為害羞。會隨機留言",
+        "id": "1247089621483151361",
+        "name": "🍱🍇/風滾草",
+        "pinned_tweet_id": "2050963965266825550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1247819007454924801/MWxPiR30_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 159,
+          "like_count": 7124,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2846
+        },
+        "username": "JVxmBfwy22Jl9PQ",
+        "verified": false
+      }
+    ]
+  }
+}

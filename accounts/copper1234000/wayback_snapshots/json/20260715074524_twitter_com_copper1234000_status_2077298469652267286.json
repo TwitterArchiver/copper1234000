@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2076891015680507913",
+    "created_at": "2026-07-15T07:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077298469652267286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025610787109359616",
+          "start": 0,
+          "username": "LapisPulse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077298469652267286",
+    "in_reply_to_user_id": "2025610787109359616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076899716906815537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LapisPulse 舒服胖次万岁！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2076891015680507913",
+        "created_at": "2026-07-15T07:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077298469652267286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025610787109359616",
+              "start": 0,
+              "username": "LapisPulse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077298469652267286",
+        "in_reply_to_user_id": "2025610787109359616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076899716906815537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LapisPulse 舒服胖次万岁！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025610787109359616",
+        "conversation_id": "2076891015680507913",
+        "created_at": "2026-07-14T05:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076899716906815537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076899716906815537",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076891015680507913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 太有品了铜儿莫代尔内裤就是最牛逼的。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 482,
+          "like_count": 4516,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 7547
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T16:37:09.000Z",
+        "description": "(´･_･`)\n@aftermoor_notes ｜ 恨海情天请注意避雷🏳️\n闭关中 | 偶尔放一些技术碎碎念然后背手离去 \n提问箱： https://t.co/9wHOSgtwdV 回复在置顶🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "aftermoor_notes"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurex67020",
+                "end": 91,
+                "expanded_url": "https://ngl.link/aurex67020",
+                "start": 68,
+                "url": "https://t.co/9wHOSgtwdV"
+              }
+            ]
+          }
+        },
+        "id": "2025610787109359616",
+        "location": "Aevi & Aurex",
+        "name": "LapisPulse💗",
+        "pinned_tweet_id": "2040121390100324396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040043393087336448/40f1caht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 312,
+          "like_count": 11500,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 3079
+        },
+        "url": "",
+        "username": "LapisPulse",
+        "verified": true
+      }
+    ]
+  }
+}

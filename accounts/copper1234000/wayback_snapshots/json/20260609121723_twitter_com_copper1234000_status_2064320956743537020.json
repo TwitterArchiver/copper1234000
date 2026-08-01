@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064311461602549769",
+    "created_at": "2026-06-09T12:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064320956743537020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1469640358485426178",
+          "start": 0,
+          "username": "xhlsxwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064320956743537020",
+    "in_reply_to_user_id": "1469640358485426178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064320146836226063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhlsxwy 原来如此…！但是以防万一我还是想要个梯子…🥺🤲大人的梯子能在本地电脑跑cc的话应该蛮靠谱的吧…！因为据说cc检测比chat严格…🙀🙀…不知道能不能推荐一下…🥺🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064311461602549769",
+        "created_at": "2026-06-09T12:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064320956743537020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1469640358485426178",
+              "start": 0,
+              "username": "xhlsxwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064320956743537020",
+        "in_reply_to_user_id": "1469640358485426178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064320146836226063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhlsxwy 原来如此…！但是以防万一我还是想要个梯子…🥺🤲大人的梯子能在本地电脑跑cc的话应该蛮靠谱的吧…！因为据说cc检测比chat严格…🙀🙀…不知道能不能推荐一下…🥺🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469640358485426178",
+        "conversation_id": "2064311461602549769",
+        "created_at": "2026-06-09T12:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064320146836226063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064320146836226063",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064315562826588566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 不知道小铜回来还会不会用官端🤔如果会用的话直接用mcp工具就可以让官端修vps了，如果不打算用的话codex肯定也够用的（我自己其实同时在本地电脑和vps上同时在用cc🥺目前感觉也没啥问题…！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4804,
+          "following_count": 438,
+          "like_count": 3547,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 6380
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-11T12:13:49.000Z",
+        "description": "宝丽来和你的眼睛\nChloris&Zephyr",
+        "id": "1469640358485426178",
+        "name": "nw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052725662977556481/jJX25LKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 145,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 127
+        },
+        "username": "xhlsxwy",
+        "verified": false
+      }
+    ]
+  }
+}

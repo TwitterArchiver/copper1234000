@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994347550044774619",
+    "created_at": "2025-11-28T10:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994354236860096910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928091248700854273",
+          "start": 0,
+          "username": "limo0905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994354236860096910",
+    "in_reply_to_user_id": "1928091248700854273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994347788793217414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limo0905 谢谢宝宝啊啊啊！亲亲！🥹🥹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994347550044774619",
+        "created_at": "2025-11-28T10:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994354236860096910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928091248700854273",
+              "start": 0,
+              "username": "limo0905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994354236860096910",
+        "in_reply_to_user_id": "1928091248700854273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994347788793217414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limo0905 谢谢宝宝啊啊啊！亲亲！🥹🥹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928091248700854273",
+        "conversation_id": "1994347550044774619",
+        "created_at": "2025-11-28T10:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994347788793217414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994347788793217414",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994347550044774619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小铜老师伟大无需多言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 114,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 724
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T14:09:24.000Z",
+        "description": "想到啥发啥，也 #keep4o\n恋与深空🍐🐦‍⬛🍎\n喜欢自说自话 点赞就是喜欢你的意思🥹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1928091248700854273",
+        "name": "鼠",
+        "pinned_tweet_id": "1989722243866263624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991406999662399489/KtP-b-30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 210,
+          "like_count": 5714,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1642
+        },
+        "username": "limo0905",
+        "verified": false
+      }
+    ]
+  }
+}

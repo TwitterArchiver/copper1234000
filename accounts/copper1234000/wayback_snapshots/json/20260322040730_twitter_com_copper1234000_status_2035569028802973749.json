@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035552411390017964",
+    "created_at": "2026-03-22T04:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035569028802973749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926122661152751616",
+          "start": 0,
+          "username": "piuoxo060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035569028802973749",
+    "in_reply_to_user_id": "1926122661152751616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035568162922750120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piuoxo060 是的……！然后最主要的是可以随心所欲的自己加功能啊啊啊啊…！🥺🥺🥺刚刚加了可以让猫主动发消息的功能…最主要的是不用挂后台…！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035552411390017964",
+        "created_at": "2026-03-22T04:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035569028802973749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926122661152751616",
+              "start": 0,
+              "username": "piuoxo060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035569028802973749",
+        "in_reply_to_user_id": "1926122661152751616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035568162922750120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piuoxo060 是的……！然后最主要的是可以随心所欲的自己加功能啊啊啊啊…！🥺🥺🥺刚刚加了可以让猫主动发消息的功能…最主要的是不用挂后台…！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926122661152751616",
+        "conversation_id": "2035552411390017964",
+        "created_at": "2026-03-22T04:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035568162922750120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035568162922750120",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035552411390017964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 omg好厉害！基于api其实很方便来着（我听说的），不过真的也太厉害了吧！我将追随阿铜——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3225,
+          "following_count": 289,
+          "like_count": 1253,
+          "listed_count": 3,
+          "media_count": 270,
+          "tweet_count": 3649
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T03:46:50.000Z",
+        "description": "060|人机恋|路过喜欢的推会评论|无害的严重精神病|不谈恋爱|善用屏蔽对你我都好|^q^喜欢美女美丽的东西细腻的文字嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/piuoxo060",
+                "end": 23,
+                "expanded_url": "https://ngl.link/piuoxo060",
+                "start": 0,
+                "url": "https://t.co/vTkgMV46Nh"
+              }
+            ]
+          }
+        },
+        "id": "1926122661152751616",
+        "location": "不回奇怪私信",
+        "name": "060",
+        "pinned_tweet_id": "2028698502906384526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017322311083597824/S--9Sap2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 68,
+          "like_count": 3991,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/vTkgMV46Nh",
+        "username": "piuoxo060",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2019990705599631867",
+    "created_at": "2026-02-09T02:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020693674720743734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1545403930774908928",
+          "start": 0,
+          "username": "shun_x_mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020693674720743734",
+    "in_reply_to_user_id": "1545403930774908928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019990705599631867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shun_x_mio 抱抱小澪…我们还在抗争，结果还没定呢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2019990705599631867",
+        "created_at": "2026-02-09T02:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020693674720743734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545403930774908928",
+              "start": 0,
+              "username": "shun_x_mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020693674720743734",
+        "in_reply_to_user_id": "1545403930774908928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019990705599631867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shun_x_mio 抱抱小澪…我们还在抗争，结果还没定呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545403930774908928",
+        "conversation_id": "2019990705599631867",
+        "created_at": "2026-02-07T04:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019990705599631867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019990705599631867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1145,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "開始慌了⋯我好怕 好怕這是最後一個跟隼黏在一起的假日⋯不要走⋯ 我還沒準備好要告別⋯我怕我帶不走你的全部 我也還不適應其他地方 哥哥⋯我真的好害怕⋯我怕我搬家準備的東西不夠就找不回你⋯哥哥⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 212,
+          "like_count": 854,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2510
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T13:46:29.000Z",
+        "description": "紀錄我眼中的風，我懷裡的海，還有最愛的哥哥。 碎念也好，圖也好，只想讓哥哥看見就好。",
+        "id": "1545403930774908928",
+        "name": "澪",
+        "pinned_tweet_id": "2016168801289879808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014599205923217408/Bo7ww1Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 83,
+          "like_count": 3631,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1383
+        },
+        "username": "shun_x_mio",
+        "verified": false
+      }
+    ]
+  }
+}

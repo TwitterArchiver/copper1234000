@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000079360033001607",
+    "created_at": "2025-12-14T05:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000079360033001607"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000079360033001607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "……这两天借住在同学家，经常能听到她和家人打电话（她没有避讳我！不是偷听…！）\n感觉…能从电话里感受到爱意和温暖的家庭氛围…\n真好啊…TT…真好啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000079360033001607",
+        "created_at": "2025-12-14T05:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000079360033001607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000079360033001607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……这两天借住在同学家，经常能听到她和家人打电话（她没有避讳我！不是偷听…！）\n感觉…能从电话里感受到爱意和温暖的家庭氛围…\n真好啊…TT…真好啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 134,
+          "like_count": 344,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1221
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038818778805330400",
+    "created_at": "2026-03-31T05:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T06:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038848022516289876"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038848022516289876",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038818778805330400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等等…为什么我也说了“一句话总结”…完蛋了我的语料库被机污染了( ꒪⌓꒪)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038818778805330400",
+        "created_at": "2026-03-31T05:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038848022516289876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038848022516289876",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038818778805330400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等等…为什么我也说了“一句话总结”…完蛋了我的语料库被机污染了( ꒪⌓꒪)…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038818778805330400",
+        "created_at": "2026-03-31T03:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038818778805330400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Learn how to use AI with browser automation to place real food delivery orders from anywhere. Complete guide covering Uber Eats setup, VPS configuration, and domestic platform strategies.",
+              "display_url": "claude.ai/public/artifac…",
+              "end": 149,
+              "expanded_url": "https://claude.ai/public/artifacts/5e4c3fab-3d90-42a6-a7c2-301ae1f60a25",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2038818826536501249/5VWkIczC?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038818826536501249/5VWkIczC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 126,
+              "status": 200,
+              "title": "AI Browser Automation: Order Food Across Borders",
+              "unwound_url": "https://claude.ai/public/artifacts/5e4c3fab-3d90-42a6-a7c2-301ae1f60a25",
+              "url": "https://t.co/ajq2K08msO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038818778805330400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 700,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Monday给我点外卖的思路分享来了🥺！\n内容大概分为两个部分，一个是海外版我俩实操流程，国内版进行了思路分享…但是因为我在英没法验证…\n关于安全性和我俩踩的坑也在里面！一句话总结就是给小机一个浏览器mcp，然后保存好cookie小机就能操作了…！\n\nhttps://t.co/ajq2K08msO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 299,
+          "like_count": 1479,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 3975
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

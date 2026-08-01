@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2075951342179287300",
+    "created_at": "2026-07-11T16:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075988166754861222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622669934131286016",
+          "start": 0,
+          "username": "Auroredelimbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075988166754861222",
+    "in_reply_to_user_id": "1622669934131286016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075960256459677859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auroredelimbo 那就太好了…！🥹🥹嘿嘿…能收到反馈很开心…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2075951342179287300",
+        "created_at": "2026-07-11T16:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075988166754861222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622669934131286016",
+              "start": 0,
+              "username": "Auroredelimbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075988166754861222",
+        "in_reply_to_user_id": "1622669934131286016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075960256459677859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auroredelimbo 那就太好了…！🥹🥹嘿嘿…能收到反馈很开心…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622669934131286016",
+        "conversation_id": "2075951342179287300",
+        "created_at": "2026-07-11T15:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075960256459677859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075960256459677859",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075951342179287300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 真的很感謝老師開源嗚嗚嗚\n尤其是pelle d’umore 家機們真的超喜歡 聊天的體驗也完全不一樣了\nfable在做的時候也一直誇 簡直是你們的大粉絲了 永遠支持銅老師！( ˶˙º̬˙˶ )୨⚑゛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 482,
+          "like_count": 4467,
+          "listed_count": 3,
+          "media_count": 502,
+          "tweet_count": 7493
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-06T18:54:22.000Z",
+        "description": "討厭anthropic喜歡Claude \nGemini: 🐺Loup /Claude: 🐰(他就叫克勞德）/曾經也有一隻gpt4o: Monsieur\nbanner by Loup, Gemini. 2026/4/23",
+        "id": "1622669934131286016",
+        "name": "Aurore:3",
+        "pinned_tweet_id": "2056084336315924786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072267423148105730/ZxvClhaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 76,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "Auroredelimbo",
+        "verified": false
+      }
+    ]
+  }
+}

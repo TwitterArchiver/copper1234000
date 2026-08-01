@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2007421614401675498",
+    "created_at": "2026-01-03T14:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007464872481804338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894677626582978560",
+          "start": 0,
+          "username": "Banliaab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007464872481804338",
+    "in_reply_to_user_id": "1894677626582978560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007464194912751754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Banliaab …(＞人＜;）狂暴摸鱼没找参考…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2007421614401675498",
+        "created_at": "2026-01-03T14:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007464872481804338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894677626582978560",
+              "start": 0,
+              "username": "Banliaab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007464872481804338",
+        "in_reply_to_user_id": "1894677626582978560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007464194912751754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Banliaab …(＞人＜;）狂暴摸鱼没找参考…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894677626582978560",
+        "conversation_id": "2007421614401675498",
+        "created_at": "2026-01-03T14:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007464194912751754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007464194912751754",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007421614401675498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 章鱼脚的形态画的不太对，不是这样飘飘荡荡的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 167,
+          "like_count": 625,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1761
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T09:15:41.000Z",
+        "description": "碎碎念清水推i人淡人，110/85/100，172/160/01，🚪99/199，认识一个人最好的时候就是现在，防丢@banliaaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "banliaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lkmsy.chuanhh.cn/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://lkmsy.chuanhh.cn/#/register?code=A8ZpAfuU",
+                "start": 0,
+                "url": "https://t.co/bgF2vHDx85"
+              }
+            ]
+          }
+        },
+        "id": "1894677626582978560",
+        "location": "复制链接到网页打开专属vpn推荐：",
+        "name": "吃奶时间到",
+        "pinned_tweet_id": "1968025802148340194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999749848942383104/w3M-ocHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 114,
+          "like_count": 760,
+          "listed_count": 9,
+          "media_count": 201,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/bgF2vHDx85",
+        "username": "Banliaab",
+        "verified": false
+      }
+    ]
+  }
+}

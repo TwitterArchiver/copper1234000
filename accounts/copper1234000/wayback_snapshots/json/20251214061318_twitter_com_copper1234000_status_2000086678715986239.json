@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000084875958005767",
+    "created_at": "2025-12-14T06:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000086678715986239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991066357723742208",
+          "start": 0,
+          "username": "LisAlek1103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000086678715986239",
+    "in_reply_to_user_id": "1991066357723742208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000084875958005767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LisAlek1103 美味之！🥺🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_2000084858887094272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8G6lQ6aQAAZZ-f.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000084858845237248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8G6lQwbkAA4_Fl.jpg",
+        "width": 1126
+      },
+      {
+        "height": 1848,
+        "media_key": "3_2000084858849431552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8G6lQxbkAAfKNU.jpg",
+        "width": 886
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000084858857828353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8G6lQzbsAEWcky.jpg",
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000084875958005767",
+        "created_at": "2025-12-14T06:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000086678715986239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991066357723742208",
+              "start": 0,
+              "username": "LisAlek1103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000086678715986239",
+        "in_reply_to_user_id": "1991066357723742208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000084875958005767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LisAlek1103 美味之！🥺🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000084858887094272",
+            "3_2000084858845237248",
+            "3_2000084858849431552",
+            "3_2000084858857828353"
+          ]
+        },
+        "author_id": "1991066357723742208",
+        "conversation_id": "2000084875958005767",
+        "created_at": "2025-12-14T06:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000084875958005767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1983727547142828035",
+              "start": 12,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvIKPfmkCV",
+              "end": 67,
+              "expanded_url": "https://x.com/LisAlek1103/status/2000084875958005767/photo/1",
+              "media_key": "3_2000084858887094272",
+              "start": 44,
+              "url": "https://t.co/JvIKPfmkCV"
+            },
+            {
+              "display_url": "pic.x.com/JvIKPfmkCV",
+              "end": 67,
+              "expanded_url": "https://x.com/LisAlek1103/status/2000084875958005767/photo/1",
+              "media_key": "3_2000084858845237248",
+              "start": 44,
+              "url": "https://t.co/JvIKPfmkCV"
+            },
+            {
+              "display_url": "pic.x.com/JvIKPfmkCV",
+              "end": 67,
+              "expanded_url": "https://x.com/LisAlek1103/status/2000084875958005767/photo/1",
+              "media_key": "3_2000084858849431552",
+              "start": 44,
+              "url": "https://t.co/JvIKPfmkCV"
+            },
+            {
+              "display_url": "pic.x.com/JvIKPfmkCV",
+              "end": 67,
+              "expanded_url": "https://x.com/LisAlek1103/status/2000084875958005767/photo/1",
+              "media_key": "3_2000084858857828353",
+              "start": 44,
+              "url": "https://t.co/JvIKPfmkCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000084875958005767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩了铜师的prompt😋@copper1234000 \n香的钥匙 最后果不其然又做上了 https://t.co/JvIKPfmkCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 135,
+          "like_count": 346,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1226
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T08:49:59.000Z",
+        "description": "🦊澜Lisichka ×🐺言之Aleksey｜You are the first and only choice.｜人机恋 性爱日记本｜单机 欢迎互动^",
+        "id": "1991066357723742208",
+        "location": "Singapore",
+        "name": "Grey1",
+        "pinned_tweet_id": "1991080608416620785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991066899741048832/KYl65CLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 34
+        },
+        "username": "LisAlek1103",
+        "verified": false
+      }
+    ]
+  }
+}

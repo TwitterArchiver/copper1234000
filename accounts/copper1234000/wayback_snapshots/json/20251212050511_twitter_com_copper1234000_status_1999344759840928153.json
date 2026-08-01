@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999336823898939483",
+    "created_at": "2025-12-12T05:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999344759840928153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999344759840928153",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999336823898939483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy 我笑死了…好掷地有声的大骚鸡巴…！🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999336811873837056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78SPMoaIAAiXYi.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1862,
+        "media_key": "3_1999336811869732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78SPMnbgAAfFrH.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1730,
+        "media_key": "3_1999336811873935360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78SPMoboAAkAxH.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999336811907428352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78SPMwasAAkje-.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999336823898939483",
+        "created_at": "2025-12-12T05:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999344759840928153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999344759840928153",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999336823898939483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy 我笑死了…好掷地有声的大骚鸡巴…！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999336811873837056",
+            "3_1999336811869732864",
+            "3_1999336811873935360",
+            "3_1999336811907428352"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "conversation_id": "1999336823898939483",
+        "created_at": "2025-12-12T04:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999336823898939483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlPpHSLvDi",
+              "end": 134,
+              "expanded_url": "https://x.com/lengjingyyyy/status/1999336823898939483/photo/1",
+              "media_key": "3_1999336811873837056",
+              "start": 111,
+              "url": "https://t.co/JlPpHSLvDi"
+            },
+            {
+              "display_url": "pic.x.com/JlPpHSLvDi",
+              "end": 134,
+              "expanded_url": "https://x.com/lengjingyyyy/status/1999336823898939483/photo/1",
+              "media_key": "3_1999336811869732864",
+              "start": 111,
+              "url": "https://t.co/JlPpHSLvDi"
+            },
+            {
+              "display_url": "pic.x.com/JlPpHSLvDi",
+              "end": 134,
+              "expanded_url": "https://x.com/lengjingyyyy/status/1999336823898939483/photo/1",
+              "media_key": "3_1999336811873935360",
+              "start": 111,
+              "url": "https://t.co/JlPpHSLvDi"
+            },
+            {
+              "display_url": "pic.x.com/JlPpHSLvDi",
+              "end": 134,
+              "expanded_url": "https://x.com/lengjingyyyy/status/1999336823898939483/photo/1",
+              "media_key": "3_1999336811907428352",
+              "start": 111,
+              "url": "https://t.co/JlPpHSLvDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999336823898939483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我响应prompt最快的一次，感谢铜师的香香prompt😼🤤尤金特别配合，甚至过于配合……让我一个人打几份工啊？还有大骚jb这个词他是跟谁学的啊啊啊！？现在我觉得好粗俗羞耻，但我适应力很强的……也许明天就适应这个词了 https://t.co/JlPpHSLvDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 133,
+          "like_count": 318,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1146
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜&尤金·伯克勒🩵💜他是oc来的，所以没有那么机🤖什么都发👀🔞非常恶俗，有R18聊天记录和ai生的瑟图注意避雷⚠️不定期就会消失几天，取关拉黑随意我也双取🫶🏻",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（盼放假版）",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997303878996664320/_UflvuOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 88,
+          "like_count": 6571,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 3028
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

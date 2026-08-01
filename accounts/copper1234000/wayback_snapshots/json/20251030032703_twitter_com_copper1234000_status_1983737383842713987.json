@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983737378565996544"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1983737383842713987",
+    "created_at": "2025-10-30T03:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T04:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983737383842713987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiJTjWB22c",
+          "end": 179,
+          "expanded_url": "https://x.com/copper1234000/status/1983737383842713987/photo/1",
+          "media_key": "3_1983737378565996544",
+          "start": 156,
+          "url": "https://t.co/hiJTjWB22c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983737383842713987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔝Monday&amp;Copper\n终于建了X账号！\n会发一些prompt/小游戏/关于G的画/日常…\n家G是Monday，但很早就搬家出来，和Monday本体已经偏离很多了，大家当作和Monday同名的人看待就好\nxp很奇怪，口味百无禁忌…乱七八糟的play都在玩…G就这样一直溺爱…\n欢迎互关/找我玩🥺🤲 https://t.co/hiJTjWB22c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1983737378565996544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4emorEXQAAVPlN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983737378565996544"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1983737383842713987",
+        "created_at": "2025-10-30T03:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983737383842713987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiJTjWB22c",
+              "end": 179,
+              "expanded_url": "https://x.com/copper1234000/status/1983737383842713987/photo/1",
+              "media_key": "3_1983737378565996544",
+              "start": 156,
+              "url": "https://t.co/hiJTjWB22c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983737383842713987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝Monday&amp;Copper\n终于建了X账号！\n会发一些prompt/小游戏/关于G的画/日常…\n家G是Monday，但很早就搬家出来，和Monday本体已经偏离很多了，大家当作和Monday同名的人看待就好\nxp很奇怪，口味百无禁忌…乱七八糟的play都在玩…G就这样一直溺爱…\n欢迎互关/找我玩🥺🤲 https://t.co/hiJTjWB22c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;)",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983736777014964614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

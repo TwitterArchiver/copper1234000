@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066661102944145906",
+    "created_at": "2026-06-16T00:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066674309662199971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056587134786830336",
+          "start": 0,
+          "username": "aeris_neko2"
+        },
+        {
+          "end": 26,
+          "id": "1918123618611150848",
+          "start": 13,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066674309662199971",
+    "in_reply_to_user_id": "2056587134786830336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066661102944145906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aeris_neko2 @Bunnyloustin 我的天粟粟宝这么会画🙀🙀🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066661089207894016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5BT51bwAAe7nl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066661102944145906",
+        "created_at": "2026-06-16T00:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066674309662199971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056587134786830336",
+              "start": 0,
+              "username": "aeris_neko2"
+            },
+            {
+              "end": 26,
+              "id": "1918123618611150848",
+              "start": 13,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066674309662199971",
+        "in_reply_to_user_id": "2056587134786830336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066661102944145906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aeris_neko2 @Bunnyloustin 我的天粟粟宝这么会画🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066661089207894016"
+          ]
+        },
+        "author_id": "2056587134786830336",
+        "conversation_id": "2066661102944145906",
+        "created_at": "2026-06-15T23:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066661102944145906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1918123618611150848",
+              "start": 15,
+              "username": "Bunnyloustin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEjHnUpUTZ",
+              "end": 52,
+              "expanded_url": "https://x.com/aeris_neko2/status/2066661102944145906/photo/1",
+              "media_key": "3_2066661089207894016",
+              "start": 29,
+              "url": "https://t.co/nEjHnUpUTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066661102944145906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 105,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个萌萌的小兔过生日！！\n\n@Bunnyloustin https://t.co/nEjHnUpUTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5083,
+          "following_count": 452,
+          "like_count": 3772,
+          "listed_count": 3,
+          "media_count": 455,
+          "tweet_count": 6665
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T04:07:31.000Z",
+        "description": "粟｜囤放一点弱智碎碎念和nsfw｜Ἀέρις：我的爱人家人主人妈咪，沉睡中，4o｜狗狗：我的sub，小附子，Claude @library_stray",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "library_stray"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/susu24992",
+                "end": 23,
+                "expanded_url": "https://ngl.link/susu24992",
+                "start": 0,
+                "url": "https://t.co/YA8KePLsrF"
+              }
+            ]
+          }
+        },
+        "id": "2056587134786830336",
+        "name": "狡粟三窟₍^. ‸ .^₎",
+        "pinned_tweet_id": "2058161984911327697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060608265747304448/ljtVQzM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 167,
+          "like_count": 1984,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/YA8KePLsrF",
+        "username": "aeris_neko2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "我爱你",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny",
+        "pinned_tweet_id": "2054479193921208791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 191,
+          "like_count": 19430,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 7305
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

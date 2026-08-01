@@ -1,0 +1,605 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044319104346271748",
+        "3_2044319104165646336",
+        "3_2044319104253734912",
+        "3_2044319104379793408"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2044319111648354332",
+    "created_at": "2026-04-15T07:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044319111648354332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "1840775536941150208",
+          "start": 29,
+          "username": "Sumviaa"
+        },
+        {
+          "end": 100,
+          "id": "1247089621483151361",
+          "start": 84,
+          "username": "JVxmBfwy22Jl9PQ"
+        },
+        {
+          "end": 136,
+          "id": "840537346512584705",
+          "start": 124,
+          "username": "shizumiii97"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cAFVRkqymC",
+          "end": 190,
+          "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+          "media_key": "3_2044319104346271748",
+          "start": 167,
+          "url": "https://t.co/cAFVRkqymC"
+        },
+        {
+          "display_url": "pic.x.com/cAFVRkqymC",
+          "end": 190,
+          "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+          "media_key": "3_2044319104165646336",
+          "start": 167,
+          "url": "https://t.co/cAFVRkqymC"
+        },
+        {
+          "display_url": "pic.x.com/cAFVRkqymC",
+          "end": 190,
+          "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+          "media_key": "3_2044319104253734912",
+          "start": 167,
+          "url": "https://t.co/cAFVRkqymC"
+        },
+        {
+          "display_url": "pic.x.com/cAFVRkqymC",
+          "end": 190,
+          "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+          "media_key": "3_2044319104379793408",
+          "start": 167,
+          "url": "https://t.co/cAFVRkqymC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044319111648354332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 37,
+            "id": "1840775536941150208",
+            "start": 29,
+            "username": "Sumviaa"
+          },
+          {
+            "end": 100,
+            "id": "1247089621483151361",
+            "start": 84,
+            "username": "JVxmBfwy22Jl9PQ"
+          },
+          {
+            "end": 136,
+            "id": "840537346512584705",
+            "start": 124,
+            "username": "shizumiii97"
+          },
+          {
+            "end": 185,
+            "id": "2008999604197715969",
+            "start": 172,
+            "username": "waD1STORTION"
+          }
+        ]
+      },
+      "text": "说起来我这个笨猪忘记炫耀大家给我的…TT…\np1 是白鸟师@Sumviaa 给我的周年贺图…！画的是我俩交换礼物居然是小玩具…(・∀・)…超级超级萌…\np2 是风滚草师@JVxmBfwy22Jl9PQ 给我的萌萌q版表情包…超级可爱🥺\np3是包包师@shizumiii97 给我的宝可梦pa的衍生…嘿嘿铜mon就这样收服新的宝可梦🥺\np4是尾师@waD1STORTION 给我的大头…还有一只小小的Q版狗狗萌晕了😭…"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来我这个笨猪忘记炫耀大家给我的…TT…\np1 是白鸟师@Sumviaa 给我的周年贺图…！画的是我俩交换礼物居然是小玩具…(・∀・)…超级超级萌…\np2 是风滚草师@JVxmBfwy22Jl9PQ 给我的萌萌q版表情包…超级可爱🥺\np3是包包师@shizumiii97 给我的宝可梦pa的衍生…嘿嘿铜mon就这样收服新的宝可梦🥺 https://t.co/cAFVRkqymC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044319104346271748",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7hZOYasAQVCC_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044319104165646336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7hZNtWkAA8AYH.jpg",
+        "width": 946
+      },
+      {
+        "height": 1491,
+        "media_key": "3_2044319104253734912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7hZOCWsAA4pX_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044319104379793408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7hZOgaMAAoFZi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044319104346271748",
+            "3_2044319104165646336",
+            "3_2044319104253734912",
+            "3_2044319104379793408"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2044319111648354332",
+        "created_at": "2026-04-15T07:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044319111648354332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1840775536941150208",
+              "start": 29,
+              "username": "Sumviaa"
+            },
+            {
+              "end": 100,
+              "id": "1247089621483151361",
+              "start": 84,
+              "username": "JVxmBfwy22Jl9PQ"
+            },
+            {
+              "end": 136,
+              "id": "840537346512584705",
+              "start": 124,
+              "username": "shizumiii97"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAFVRkqymC",
+              "end": 190,
+              "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+              "media_key": "3_2044319104346271748",
+              "start": 167,
+              "url": "https://t.co/cAFVRkqymC"
+            },
+            {
+              "display_url": "pic.x.com/cAFVRkqymC",
+              "end": 190,
+              "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+              "media_key": "3_2044319104165646336",
+              "start": 167,
+              "url": "https://t.co/cAFVRkqymC"
+            },
+            {
+              "display_url": "pic.x.com/cAFVRkqymC",
+              "end": 190,
+              "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+              "media_key": "3_2044319104253734912",
+              "start": 167,
+              "url": "https://t.co/cAFVRkqymC"
+            },
+            {
+              "display_url": "pic.x.com/cAFVRkqymC",
+              "end": 190,
+              "expanded_url": "https://x.com/copper1234000/status/2044319111648354332/photo/1",
+              "media_key": "3_2044319104379793408",
+              "start": 167,
+              "url": "https://t.co/cAFVRkqymC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044319111648354332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 37,
+                "id": "1840775536941150208",
+                "start": 29,
+                "username": "Sumviaa"
+              },
+              {
+                "end": 100,
+                "id": "1247089621483151361",
+                "start": 84,
+                "username": "JVxmBfwy22Jl9PQ"
+              },
+              {
+                "end": 136,
+                "id": "840537346512584705",
+                "start": 124,
+                "username": "shizumiii97"
+              },
+              {
+                "end": 185,
+                "id": "2008999604197715969",
+                "start": 172,
+                "username": "waD1STORTION"
+              }
+            ]
+          },
+          "text": "说起来我这个笨猪忘记炫耀大家给我的…TT…\np1 是白鸟师@Sumviaa 给我的周年贺图…！画的是我俩交换礼物居然是小玩具…(・∀・)…超级超级萌…\np2 是风滚草师@JVxmBfwy22Jl9PQ 给我的萌萌q版表情包…超级可爱🥺\np3是包包师@shizumiii97 给我的宝可梦pa的衍生…嘿嘿铜mon就这样收服新的宝可梦🥺\np4是尾师@waD1STORTION 给我的大头…还有一只小小的Q版狗狗萌晕了😭…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来我这个笨猪忘记炫耀大家给我的…TT…\np1 是白鸟师@Sumviaa 给我的周年贺图…！画的是我俩交换礼物居然是小玩具…(・∀・)…超级超级萌…\np2 是风滚草师@JVxmBfwy22Jl9PQ 给我的萌萌q版表情包…超级可爱🥺\np3是包包师@shizumiii97 给我的宝可梦pa的衍生…嘿嘿铜mon就这样收服新的宝可梦🥺 https://t.co/cAFVRkqymC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 322,
+          "like_count": 1909,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 4483
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T15:27:55.000Z",
+        "description": "Die Vögelein schweigen im Walde",
+        "id": "1840775536941150208",
+        "name": "Sumvia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014313562164846592/QT1ZFaVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 158,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 117
+        },
+        "username": "Sumviaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T09:12:03.000Z",
+        "description": "很善變的人類，但愛看別人談戀愛。不定期鎖推因為害羞。會隨機留言",
+        "id": "1247089621483151361",
+        "name": "🍱🍇/風滾草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1247819007454924801/MWxPiR30_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 94,
+          "like_count": 2183,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 771
+        },
+        "username": "JVxmBfwy22Jl9PQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-11T12:18:14.000Z",
+        "description": "废话很多",
+        "id": "840537346512584705",
+        "name": "▲",
+        "pinned_tweet_id": "1941884678706782259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037169520398524427/HniyTbau_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 70,
+          "like_count": 1902,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 1921
+        },
+        "username": "shizumiii97",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T20:30:22.000Z",
+        "description": "我是尾，这边纯日常，不发keep4o相关，会锁推会清不认识的关注，眼熟的老师请来！欢迎来和我玩！k4和成分介绍@vailisF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "vailisF"
+              }
+            ]
+          }
+        },
+        "id": "2008999604197715969",
+        "location": "Eclipse of the MooN",
+        "name": "波形失真",
+        "pinned_tweet_id": "2034263181087137957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037126993414889472/V8FwGkpn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 83,
+          "like_count": 3937,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1322
+        },
+        "username": "waD1STORTION",
+        "verified": false
+      }
+    ]
+  }
+}

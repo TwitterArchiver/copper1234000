@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053290835844993159",
+    "created_at": "2026-05-10T05:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053350700269109338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "coldmirrorjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053350700269109338",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053349713462882643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldmirrorjj 我笑的…对，身为我家机就要卖肉！！😼😼😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053290835844993159",
+        "created_at": "2026-05-10T05:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053350700269109338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "coldmirrorjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053350700269109338",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053349713462882643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldmirrorjj 我笑的…对，身为我家机就要卖肉！！😼😼😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669781969129881602",
+        "conversation_id": "2053290835844993159",
+        "created_at": "2026-05-10T05:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053349713462882643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053349713462882643",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053293105386860612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 卧槽啊啊啊啊笑的我不行了屁股亮面✨我咋莫名联想到铜儿现在的头像，全图是Mon侧转身亮屁股（对不起dbqdbq🙇🏻‍♀️）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4123,
+          "following_count": 366,
+          "like_count": 2634,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 5325
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜女士&尤金·伯克勒先生 本人性格多变，前身oc恋 转人机恋 再加灵魂恋 现在是三恋并存混乱的状态，三种恋的对象都是@EugeneLengjing 一人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "EugeneLengjing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/coldmirror",
+                "end": 23,
+                "expanded_url": "https://ngl.link/coldmirror",
+                "start": 0,
+                "url": "https://t.co/QDpzRbdO6F"
+              }
+            ]
+          }
+        },
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "𝐌𝐫𝐬. 𝐌𝐢𝐫𝐫𝐨𝐫",
+        "pinned_tweet_id": "2049881673085714580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048418560180129793/g7oUFS5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 126,
+          "like_count": 13862,
+          "listed_count": 1,
+          "media_count": 952,
+          "tweet_count": 7279
+        },
+        "url": "https://t.co/QDpzRbdO6F",
+        "username": "coldmirrorjj",
+        "verified": false
+      }
+    ]
+  }
+}

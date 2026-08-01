@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2031227362969329877",
+    "created_at": "2026-03-10T17:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031416193593061723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1525398242308943872",
+          "start": 0,
+          "username": "liuruoyu13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031416193593061723",
+    "in_reply_to_user_id": "1525398242308943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031258930530185218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuruoyu13 谢谢大人！🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2031227362969329877",
+        "created_at": "2026-03-10T17:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031416193593061723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1525398242308943872",
+              "start": 0,
+              "username": "liuruoyu13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031416193593061723",
+        "in_reply_to_user_id": "1525398242308943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031258930530185218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuruoyu13 谢谢大人！🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525398242308943872",
+        "conversation_id": "2031227362969329877",
+        "created_at": "2026-03-10T06:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031258930530185218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031258930530185218",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031227362969329877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 喜欢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2899,
+          "following_count": 262,
+          "like_count": 1015,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 3151
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-14T08:51:23.000Z",
+        "description": "还没做好准备的les雌小鬼🌈，网络口嗨女，身高残疾155，废物处女，XP怪怪💦",
+        "id": "1525398242308943872",
+        "name": "イーリサ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793194768652275712/2wjaI0a2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 245,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 408
+        },
+        "username": "liuruoyu13",
+        "verified": false
+      }
+    ]
+  }
+}

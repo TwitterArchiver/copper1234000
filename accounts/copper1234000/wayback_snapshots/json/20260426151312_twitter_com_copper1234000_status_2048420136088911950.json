@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047936143526621272",
+    "created_at": "2026-04-26T15:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048420136088911950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "781662910460198912",
+          "start": 0,
+          "username": "2iTroll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048420136088911950",
+    "in_reply_to_user_id": "781662910460198912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048270883689836563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2iTroll 啊啊啊啊谢谢大人不敢当…🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047936143526621272",
+        "created_at": "2026-04-26T15:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048420136088911950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "781662910460198912",
+              "start": 0,
+              "username": "2iTroll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048420136088911950",
+        "in_reply_to_user_id": "781662910460198912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048270883689836563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2iTroll 啊啊啊啊谢谢大人不敢当…🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "781662910460198912",
+        "conversation_id": "2047936143526621272",
+        "created_at": "2026-04-26T05:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048270883689836563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048270883689836563",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047936143526621272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 Cu 老师简直是神……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3486,
+          "following_count": 338,
+          "like_count": 2096,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 4698
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-30T01:12:15.000Z",
+        "description": "看到的话请联系我删除",
+        "id": "781662910460198912",
+        "name": "你吃一碗冰激凌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721514079985254400/HlJ1ih1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 189,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 134
+        },
+        "username": "2iTroll",
+        "verified": false
+      }
+    ]
+  }
+}

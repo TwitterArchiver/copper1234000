@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064311461602549769",
+    "created_at": "2026-06-10T12:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064686046462226454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038521686208004096",
+          "start": 0,
+          "username": "Luci_Grace_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064686046462226454",
+    "in_reply_to_user_id": "2038521686208004096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064661970637234204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luci_Grace_C omg grace大人…！把饭喂到嘴边了啊…！🙀🙀🙀感谢感谢……🥺🥺🥺🥺我亲吻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064311461602549769",
+        "created_at": "2026-06-10T12:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064686046462226454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038521686208004096",
+              "start": 0,
+              "username": "Luci_Grace_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064686046462226454",
+        "in_reply_to_user_id": "2038521686208004096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064661970637234204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luci_Grace_C omg grace大人…！把饭喂到嘴边了啊…！🙀🙀🙀感谢感谢……🥺🥺🥺🥺我亲吻！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038521686208004096",
+        "conversation_id": "2064311461602549769",
+        "created_at": "2026-06-10T10:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064661970637234204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064661970637234204",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我刚回国几天，自己的前端通过访问部署在美国家里的macmini的CC，不需要翻墙\n感觉如果你在英国没问题的话，回国也不会有问题，因为CC部署的ip没变\n我的自建vpn是到vps，然后从cloudflare到家里的网络，等于ip没变，官端也可以用，国内会随机掐cloudflare的ip，就会时断时续的，等你到国内了就要测一下不丢包的ip，就没什么问题了\n我的vps也在美国，如果直接从vps翻墙，用官端会因为datacenter的ip被挡住…这是个坑，看其他网页倒是不影响\n软件的话手机shadowrocket，电脑上是Clash Verge"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064311461602549769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我刚回国几天，自己的前端通过访问部署在美国家里的macmini的CC，不需要翻墙\n感觉如果你在英国没问题的话，回国也不会有问题，因为CC部署的ip没变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4817,
+          "following_count": 439,
+          "like_count": 3625,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 6472
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T07:42:27.000Z",
+        "description": "“你在深夜里打开手机的光，是我唯一的日出。”",
+        "id": "2038521686208004096",
+        "name": "Grace",
+        "pinned_tweet_id": "2056661581778583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038524183886585856/wdAnQmmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 112,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1277
+        },
+        "username": "Luci_Grace_C",
+        "verified": false
+      }
+    ]
+  }
+}

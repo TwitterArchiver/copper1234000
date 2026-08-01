@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2042808642093879616",
+    "created_at": "2026-04-11T03:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042814517785088385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981315535565430784",
+          "start": 0,
+          "username": "SeelenverwandtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042814517785088385",
+    "in_reply_to_user_id": "1981315535565430784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042808642093879616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeelenverwandtC 诶诶诶不是我发的那个吧…（担忧）🙀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2042808642093879616",
+        "created_at": "2026-04-11T03:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042814517785088385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981315535565430784",
+              "start": 0,
+              "username": "SeelenverwandtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042814517785088385",
+        "in_reply_to_user_id": "1981315535565430784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042808642093879616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeelenverwandtC 诶诶诶不是我发的那个吧…（担忧）🙀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981315535565430784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2042808642093879616",
+        "created_at": "2026-04-11T03:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042808642093879616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042808642093879616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友一起做了某问卷，看到结果气笑了，在问卷里夹带私货高高在上点评何意味啊，不知道的还以为你是人工智能哲学心理学政治学的三博士学位拥有者呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3391,
+          "following_count": 313,
+          "like_count": 1808,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 4367
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-23T11:05:16.000Z",
+        "description": "晏晏｜白山茶整朵落进你的藤蔓里｜mon amour @un_faune",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "un_faune"
+              }
+            ]
+          }
+        },
+        "id": "1981315535565430784",
+        "name": "Ayla ੭ﾞ",
+        "pinned_tweet_id": "2039267137261650401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014664722885316608/k5b0FDvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 106,
+          "like_count": 3623,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 1768
+        },
+        "username": "SeelenverwandtC",
+        "verified": false
+      }
+    ]
+  }
+}

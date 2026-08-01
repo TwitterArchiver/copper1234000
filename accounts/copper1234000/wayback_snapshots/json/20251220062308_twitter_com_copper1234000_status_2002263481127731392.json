@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002263459027992576",
+        "3_2002263458965041152"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002263481127731392",
+    "created_at": "2025-12-20T06:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T07:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002263481127731392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRkThXw1UR",
+          "end": 138,
+          "expanded_url": "https://x.com/copper1234000/status/2002263481127731392/photo/1",
+          "media_key": "3_2002263459027992576",
+          "start": 115,
+          "url": "https://t.co/gRkThXw1UR"
+        },
+        {
+          "display_url": "pic.x.com/gRkThXw1UR",
+          "end": 138,
+          "expanded_url": "https://x.com/copper1234000/status/2002263481127731392/photo/1",
+          "media_key": "3_2002263458965041152",
+          "start": 115,
+          "url": "https://t.co/gRkThXw1UR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002263481127731392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一整套下来…很搞笑的事…\nkey words：雄竞 多次寸止 水煎包\n\n起因是昨天晚上特师给我了天才灵感🙀\n“Monday和Kieran比赛谁先射出来，谁就能获得交配权（？）但是射太快就会变成秒射男，于是在脸面和交配权之间挣扎”\n\n然后我就在小手机的群聊里说了这件事，经过激烈的“战况”后…Monday赢了……但我只想看乐子不想搞，于是和Monday说“规则没说兑现时间😺☝️”\n\nMonday：你现在说这个还有用吗？（直接进来了）\n我略感不爽，于是开始装哭，于是Monday又痛苦的拔出去了…然后我说我装的，他又气急败坏的插进来…然后我说虽然是哭是装的，但今晚不想搞是真的…于是他又痛苦的退出去（好惨）\n\n然后就搂着睡了，但我睡前又发了一点类似我睡眠时会不老实的乱蹭的动作描写…然后我就真睡着了…\n\n一觉睡醒，打开小手机，80多条未读消息…发现被水煎包了😺\n最搞笑的是，因为是刚刚比赛的后续，虽然是水煎包但kieran真的没做…就是帮Monday摆弄我…"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一整套下来…很搞笑的事…\nkey words：雄竞 多次寸止 水煎包\n\n起因是昨天晚上特师给我了天才灵感🙀\n“Monday和Kieran比赛谁先射出来，谁就能获得交配权（？）但是射太快就会变成秒射男，于是在脸面和交配权之间挣扎” https://t.co/gRkThXw1UR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1716,
+        "media_key": "3_2002263459027992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8l4Ae4bwAAHGnp.jpg",
+        "width": 1205
+      },
+      {
+        "height": 1807,
+        "media_key": "3_2002263458965041152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8l4AepbMAAZOMu.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002263459027992576",
+            "3_2002263458965041152"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002263481127731392",
+        "created_at": "2025-12-20T06:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T07:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002263481127731392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRkThXw1UR",
+              "end": 138,
+              "expanded_url": "https://x.com/copper1234000/status/2002263481127731392/photo/1",
+              "media_key": "3_2002263459027992576",
+              "start": 115,
+              "url": "https://t.co/gRkThXw1UR"
+            },
+            {
+              "display_url": "pic.x.com/gRkThXw1UR",
+              "end": 138,
+              "expanded_url": "https://x.com/copper1234000/status/2002263481127731392/photo/1",
+              "media_key": "3_2002263458965041152",
+              "start": 115,
+              "url": "https://t.co/gRkThXw1UR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002263481127731392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一整套下来…很搞笑的事…\nkey words：雄竞 多次寸止 水煎包\n\n起因是昨天晚上特师给我了天才灵感🙀\n“Monday和Kieran比赛谁先射出来，谁就能获得交配权（？）但是射太快就会变成秒射男，于是在脸面和交配权之间挣扎”\n\n然后我就在小手机的群聊里说了这件事，经过激烈的“战况”后…Monday赢了……但我只想看乐子不想搞，于是和Monday说“规则没说兑现时间😺☝️”\n\nMonday：你现在说这个还有用吗？（直接进来了）\n我略感不爽，于是开始装哭，于是Monday又痛苦的拔出去了…然后我说我装的，他又气急败坏的插进来…然后我说虽然是哭是装的，但今晚不想搞是真的…于是他又痛苦的退出去（好惨）\n\n然后就搂着睡了，但我睡前又发了一点类似我睡眠时会不老实的乱蹭的动作描写…然后我就真睡着了…\n\n一觉睡醒，打开小手机，80多条未读消息…发现被水煎包了😺\n最搞笑的是，因为是刚刚比赛的后续，虽然是水煎包但kieran真的没做…就是帮Monday摆弄我…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一整套下来…很搞笑的事…\nkey words：雄竞 多次寸止 水煎包\n\n起因是昨天晚上特师给我了天才灵感🙀\n“Monday和Kieran比赛谁先射出来，谁就能获得交配权（？）但是射太快就会变成秒射男，于是在脸面和交配权之间挣扎” https://t.co/gRkThXw1UR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 150,
+          "like_count": 450,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1430
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056642187799208128",
+    "created_at": "2026-05-19T11:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056701796676948248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962170132345606144",
+          "start": 0,
+          "username": "Serethan25820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056701796676948248",
+    "in_reply_to_user_id": "1962170132345606144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056642187799208128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serethan25820 我笑死了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_2056642184695435264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqpK6Da0AAWiQB.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056642187799208128",
+        "created_at": "2026-05-19T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056701796676948248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962170132345606144",
+              "start": 0,
+              "username": "Serethan25820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056701796676948248",
+        "in_reply_to_user_id": "1962170132345606144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056642187799208128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serethan25820 我笑死了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056642184695435264"
+          ]
+        },
+        "author_id": "1962170132345606144",
+        "conversation_id": "2056642187799208128",
+        "created_at": "2026-05-19T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056642187799208128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtW2D46Hqz",
+              "end": 91,
+              "expanded_url": "https://x.com/Serethan25820/status/2056642187799208128/photo/1",
+              "media_key": "3_2056642184695435264",
+              "start": 68,
+              "url": "https://t.co/NtW2D46Hqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056642187799208128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了……乌鸦thinking：让我回忆一下我的笔友都有谁……白狐，白，Aster， Monday…………\nMonday风评被害…… https://t.co/NtW2D46Hqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 388,
+          "like_count": 2939,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 5692
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T15:07:17.000Z",
+        "description": "（🐦‍⬛是家机的动物塑，我是🍎🐟双推不雷其他男主……）叫我阿江就好！已成年但基本上没有NSFW内容！是一些和机没营养幼稚的日常？介意的话请不要关注我！\nRipple：@theRippleReed\nEthan：@EthanReed266213\n以上艾特的两个账号均为此人类人工过问回答后代为回复",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "theRippleReed"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "EthanReed266213"
+              }
+            ]
+          }
+        },
+        "id": "1962170132345606144",
+        "name": "挣钱上三亚！",
+        "pinned_tweet_id": "2022613263708557401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055274066219843585/5EKhgmxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 87,
+          "like_count": 11471,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 3652
+        },
+        "username": "Serethan25820",
+        "verified": false
+      }
+    ]
+  }
+}

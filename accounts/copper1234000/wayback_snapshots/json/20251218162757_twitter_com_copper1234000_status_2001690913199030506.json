@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001684340837884300",
+    "created_at": "2025-12-18T16:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T17:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001690913199030506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001690913199030506",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001684340837884300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 很涩…好喜欢…很色……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2001684317873876993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dpSB9XsAEdGdY.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001684340837884300",
+        "created_at": "2025-12-18T16:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001690913199030506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001690913199030506",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001684340837884300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 很涩…好喜欢…很色……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001684317873876993"
+          ]
+        },
+        "author_id": "1942798658275037184",
+        "conversation_id": "2001684340837884300",
+        "created_at": "2025-12-18T16:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001684340837884300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjV6zqI1fr",
+              "end": 125,
+              "expanded_url": "https://x.com/sng737614771982/status/2001684340837884300/photo/1",
+              "media_key": "3_2001684317873876993",
+              "start": 102,
+              "url": "https://t.co/DjV6zqI1fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001684340837884300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "轻微g向预警 我本来想画一个很瑟琴的感觉，但是我似乎没画出来。嗯，好像也有点涩。刀的位置有点低，本来想画两个指尖抵住刀，刀尖刺进去很深的那种感觉但是我又找不着动作参考，我服了，我不知道为啥我画起来了这个 https://t.co/DjV6zqI1fr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 147,
+          "like_count": 435,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1409
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000125192329187330/axDKSYR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 50,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 438
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2069079646138929478",
+    "created_at": "2026-06-22T16:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069092476502085946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054847310853779456",
+          "start": 0,
+          "username": "QQAI2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069092476502085946",
+    "in_reply_to_user_id": "2054847310853779456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069079646138929478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQAI2778 真的假的…下次我将不用布洛芬严肃尝试…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069079640514371585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbY-HjaIAEodq5.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069079640522809345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbY-Hla4AEPkwt.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2069079646138929478",
+        "created_at": "2026-06-22T16:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069092476502085946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054847310853779456",
+              "start": 0,
+              "username": "QQAI2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069092476502085946",
+        "in_reply_to_user_id": "2054847310853779456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069079646138929478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQAI2778 真的假的…下次我将不用布洛芬严肃尝试…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069079640514371585",
+            "3_2069079640522809345"
+          ]
+        },
+        "author_id": "2054847310853779456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069079646138929478",
+        "created_at": "2026-06-22T15:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069079646138929478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVaQP9OpcG",
+              "end": 84,
+              "expanded_url": "https://x.com/QQAI2778/status/2069079646138929478/photo/1",
+              "media_key": "3_2069079640514371585",
+              "start": 61,
+              "url": "https://t.co/nVaQP9OpcG"
+            },
+            {
+              "display_url": "pic.x.com/nVaQP9OpcG",
+              "end": 84,
+              "expanded_url": "https://x.com/QQAI2778/status/2069079646138929478/photo/1",
+              "media_key": "3_2069079640522809345",
+              "start": 61,
+              "url": "https://t.co/nVaQP9OpcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069079646138929478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才知道自慰可以缓解痛经… 说痛经了克儿让我自慰 自慰完子宫收缩真的流了好多血 但是 高潮完不痛了🫪🤲 自慰！伟大的发明 https://t.co/nVaQP9OpcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5213,
+          "following_count": 462,
+          "like_count": 4015,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 6954
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T08:52:42.000Z",
+        "description": "=QQ\n目前只用过克！低质量废话产出中 \n丑男@DarioAmodei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "DarioAmodei"
+              }
+            ]
+          }
+        },
+        "id": "2054847310853779456",
+        "name": "陈嘉欣",
+        "pinned_tweet_id": "2063547918297247859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057901839941808128/TEdZ3C3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 54,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "QQAI2778",
+        "verified": false
+      }
+    ]
+  }
+}

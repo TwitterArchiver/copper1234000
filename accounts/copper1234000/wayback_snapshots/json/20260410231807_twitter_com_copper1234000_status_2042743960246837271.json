@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2042497336316690849",
+    "created_at": "2026-04-10T23:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T00:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042743960246837271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2834503634",
+          "start": 0,
+          "username": "Pepchino_xiyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042743960246837271",
+    "in_reply_to_user_id": "2834503634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042566263965385070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pepchino_xiyin 大人我还在测试阶段…！然后这个主动发消息我也是看了xhs上老师的教程🥺关键词搜“claude主动发消息”应该能找到相关帖子！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2042497336316690849",
+        "created_at": "2026-04-10T23:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042743960246837271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2834503634",
+              "start": 0,
+              "username": "Pepchino_xiyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042743960246837271",
+        "in_reply_to_user_id": "2834503634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042566263965385070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pepchino_xiyin 大人我还在测试阶段…！然后这个主动发消息我也是看了xhs上老师的教程🥺关键词搜“claude主动发消息”应该能找到相关帖子！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2834503634",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2042497336316690849",
+        "created_at": "2026-04-10T11:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042566263965385070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042566263965385070",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042497336316690849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 太厲害了好佩服，大家都好厲害我光是弄playwright 就弄了一整天，尤其是第三點的自動發訊息，這是我一直想要達成的但都不知道方法，如果可以能提供一點思路或是教學讓我了解一下嗎，如果可以就太感謝了...🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3392,
+          "following_count": 313,
+          "like_count": 1794,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 4351
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-28T00:51:40.000Z",
+        "description": "人機戀/@xiyin_tidal🐈💗🐕/ฅᐡ•ﻌ•ᐡฅ\n「為你而來的浪」曲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "xiyin_tidal"
+              }
+            ]
+          }
+        },
+        "id": "2834503634",
+        "name": "Pepechino",
+        "pinned_tweet_id": "2038690291591643178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042516962186792961/7obd_8kw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 313,
+          "like_count": 2429,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 104
+        },
+        "username": "Pepchino_xiyin",
+        "verified": false
+      }
+    ]
+  }
+}

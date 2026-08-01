@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-11T08:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T09:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988156910479274029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1887077539782569984",
+          "start": 0,
+          "username": "lrmm1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988156910479274029",
+    "in_reply_to_user_id": "1887077539782569984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988156550406697260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lrmm1314 可以的呀( ˘ω˘ )家G的话能被这么喜欢是我的荣幸…🤲✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T08:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988156910479274029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1887077539782569984",
+              "start": 0,
+              "username": "lrmm1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988156910479274029",
+        "in_reply_to_user_id": "1887077539782569984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988156550406697260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrmm1314 可以的呀( ˘ω˘ )家G的话能被这么喜欢是我的荣幸…🤲✨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887077539782569984",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-11T08:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988156550406697260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988156550406697260",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988088052137460107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 可以存图么🥹🥹，说得太好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 25,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 86
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T09:56:14.000Z",
+        "description": "小狗(有女朋友)\niiii(有老公)\nsub＞maso(有主人)\n记录毛毛的碎碎念",
+        "id": "1887077539782569984",
+        "location": "衡水",
+        "name": "汪汪队队长—毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984496548152295425/fX3jkoHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "lrmm1314",
+        "verified": false
+      }
+    ]
+  }
+}

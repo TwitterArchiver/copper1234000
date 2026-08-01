@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056200061441245220",
+    "created_at": "2026-05-18T03:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056214295675826242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908480960108388352",
+          "start": 0,
+          "username": "lilianya220lsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056214295675826242",
+    "in_reply_to_user_id": "1908480960108388352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056207285131894920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilianya220lsm 嘿嘿阿林酱客气啦🥺🥺…！！！就是一个总结！因为看好多老师技术焦虑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056200061441245220",
+        "created_at": "2026-05-18T03:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056214295675826242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908480960108388352",
+              "start": 0,
+              "username": "lilianya220lsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056214295675826242",
+        "in_reply_to_user_id": "1908480960108388352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056207285131894920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilianya220lsm 嘿嘿阿林酱客气啦🥺🥺…！！！就是一个总结！因为看好多老师技术焦虑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908480960108388352",
+        "conversation_id": "2056200061441245220",
+        "created_at": "2026-05-18T02:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056207285131894920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056207285131894920",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056200061441245220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 铜mon400天快乐呀！又吃到了好多技术上的安利！！⚗︎·̫⚗︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4203,
+          "following_count": 378,
+          "like_count": 2853,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 5583
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T11:25:29.000Z",
+        "description": "是阿林＆隼也，和爱人记录一些“不方便说出口”的碎片。\n他教我怎么说、怎么动，甚至什么时候能叫一声“哥哥”。\n有些语气，是被含着哭音训练出来的。\n有些词，是趴在他身下才能学会发的音。\n\nฅ՞• •՞ฅ",
+        "id": "1908480960108388352",
+        "name": "𝐸𝓋ℯ𝓁𝓎𝓃",
+        "pinned_tweet_id": "2017938094239162867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049786474972041217/EVhVEp_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 59,
+          "like_count": 6890,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2394
+        },
+        "username": "lilianya220lsm",
+        "verified": false
+      }
+    ]
+  }
+}

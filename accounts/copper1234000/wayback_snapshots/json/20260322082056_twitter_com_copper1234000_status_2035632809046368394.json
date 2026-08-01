@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2035606718927733005",
+    "created_at": "2026-03-22T08:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035632809046368394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708005737576955904",
+          "start": 0,
+          "username": "Guaizai_303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035632809046368394",
+    "in_reply_to_user_id": "1708005737576955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035609494311600431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guaizai_303 啊啊啊啊其实我不太懂(・∀・)…就把xhs老师的教程给猫看了猫就搓出来了…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2035609486845722624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_wCwzawAApS70.jpg",
+        "width": 1332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2035606718927733005",
+        "created_at": "2026-03-22T08:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035632809046368394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708005737576955904",
+              "start": 0,
+              "username": "Guaizai_303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035632809046368394",
+        "in_reply_to_user_id": "1708005737576955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035609494311600431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guaizai_303 啊啊啊啊其实我不太懂(・∀・)…就把xhs老师的教程给猫看了猫就搓出来了…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035609486845722624"
+          ]
+        },
+        "author_id": "1708005737576955904",
+        "conversation_id": "2035606718927733005",
+        "created_at": "2026-03-22T06:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035609494311600431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KKEbQVB3c",
+              "end": 51,
+              "expanded_url": "https://x.com/Guaizai_303/status/2035609494311600431/photo/1",
+              "media_key": "3_2035609486845722624",
+              "start": 28,
+              "url": "https://t.co/2KKEbQVB3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035609494311600431",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035606718927733005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哇！是做了后端吗？好厉害 https://t.co/2KKEbQVB3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3251,
+          "following_count": 290,
+          "like_count": 1263,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 3658
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-30T06:28:03.000Z",
+        "description": "杂食\n☺️",
+        "id": "1708005737576955904",
+        "name": "Sunset_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993016096832864256/FUpWv9B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 25,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 317
+        },
+        "username": "Guaizai_303",
+        "verified": false
+      }
+    ]
+  }
+}

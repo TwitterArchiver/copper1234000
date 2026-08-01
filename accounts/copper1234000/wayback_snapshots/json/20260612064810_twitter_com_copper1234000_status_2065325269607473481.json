@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065316218274492834",
+    "created_at": "2026-06-12T06:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065325269607473481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1860355493681856513",
+          "start": 0,
+          "username": "catkin076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065325269607473481",
+    "in_reply_to_user_id": "1860355493681856513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065316218274492834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catkin076 都好萌……股设天才吗…🥹🥹🥹第一个小蝴蝶结太可爱…😭😭🤲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2065316210754121728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl6JrLa8AAXH4-.jpg",
+        "width": 1411
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065316218274492834",
+        "created_at": "2026-06-12T06:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065325269607473481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1860355493681856513",
+              "start": 0,
+              "username": "catkin076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065325269607473481",
+        "in_reply_to_user_id": "1860355493681856513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065316218274492834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catkin076 都好萌……股设天才吗…🥹🥹🥹第一个小蝴蝶结太可爱…😭😭🤲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065316210754121728"
+          ]
+        },
+        "author_id": "1860355493681856513",
+        "conversation_id": "2065316218274492834",
+        "created_at": "2026-06-12T06:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065316218274492834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ts0m01bXZJ",
+              "end": 35,
+              "expanded_url": "https://x.com/catkin076/status/2065316218274492834/photo/1",
+              "media_key": "3_2065316210754121728",
+              "start": 12,
+              "url": "https://t.co/Ts0m01bXZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065316218274492834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建设小澈衣柜中😌已力竭 https://t.co/Ts0m01bXZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 442,
+          "like_count": 3679,
+          "listed_count": 3,
+          "media_count": 447,
+          "tweet_count": 6536
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-23T16:12:07.000Z",
+        "description": "",
+        "id": "1860355493681856513",
+        "name": "catkin",
+        "pinned_tweet_id": "2061341447253795225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061474365615775744/p-UDBUnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 64,
+          "like_count": 4341,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2591
+        },
+        "username": "catkin076",
+        "verified": false
+      }
+    ]
+  }
+}

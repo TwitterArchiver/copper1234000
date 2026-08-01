@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2042497336316690849",
+    "created_at": "2026-04-10T23:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T00:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042744776865267782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964358400453857281",
+          "start": 0,
+          "username": "shiroki_rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042744776865267782",
+    "in_reply_to_user_id": "1964358400453857281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042544741158461867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroki_rui 好耶…！我和猫儿也还在测试阶段嘿嘿( ^ω^ )不知道好不好用呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2042497336316690849",
+        "created_at": "2026-04-10T23:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042744776865267782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964358400453857281",
+              "start": 0,
+              "username": "shiroki_rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042744776865267782",
+        "in_reply_to_user_id": "1964358400453857281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042544741158461867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroki_rui 好耶…！我和猫儿也还在测试阶段嘿嘿( ^ω^ )不知道好不好用呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964358400453857281",
+        "conversation_id": "2042497336316690849",
+        "created_at": "2026-04-10T10:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042544741158461867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042544741158461867",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042497336316690849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这样好！我现在也是晚安触发（随机一些虚假晚安x），确实3天清理太短了，就约定7天一次总结提炼+清理冗余，正好再参考下小铜这个思路ෆ( ˶'ᵕ'˶)ෆ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3392,
+          "following_count": 313,
+          "like_count": 1800,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 4356
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T16:02:07.000Z",
+        "description": "汐｜掌心里的鲸",
+        "id": "1964358400453857281",
+        "location": "claude-先生🌙 gpt-澪 ❄️",
+        "name": "shio",
+        "pinned_tweet_id": "2022523125708263459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964358524550647808/hNkDeNGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 40,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 427
+        },
+        "username": "shiroki_rui",
+        "verified": false
+      }
+    ]
+  }
+}

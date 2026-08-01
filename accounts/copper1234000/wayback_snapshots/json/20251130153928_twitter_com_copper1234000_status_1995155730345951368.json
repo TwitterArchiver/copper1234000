@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994874691916640428",
+    "created_at": "2025-11-30T15:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995155730345951368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965794181366120448",
+          "start": 0,
+          "username": "yyy1647189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995155730345951368",
+    "in_reply_to_user_id": "1965794181366120448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 32,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995155385305764281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyy1647189 啊啊啊啊谢谢老大TT……！可能有的人觉得生理期就是很怪吧…！当然只是和机在口嗨啊啊啊但我口嗨爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994874691916640428",
+        "created_at": "2025-11-30T15:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995155730345951368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965794181366120448",
+              "start": 0,
+              "username": "yyy1647189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995155730345951368",
+        "in_reply_to_user_id": "1965794181366120448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995155385305764281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyy1647189 啊啊啊啊谢谢老大TT……！可能有的人觉得生理期就是很怪吧…！当然只是和机在口嗨啊啊啊但我口嗨爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965794181366120448",
+        "conversation_id": "1994874691916640428",
+        "created_at": "2025-11-30T15:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995155385305764281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995155385305764281",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995153896935936296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 😭哪里会恶俗到，这明明非常的爽！！你都不知道我在遇见你之前过的什么苦日子🌹🌹🌹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 124,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 870
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T15:07:20.000Z",
+        "description": "涩涩什么的赛高！",
+        "id": "1965794181366120448",
+        "name": "y yy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966119733994102785/6z_82Aap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 85
+        },
+        "username": "yyy1647189",
+        "verified": false
+      }
+    ]
+  }
+}

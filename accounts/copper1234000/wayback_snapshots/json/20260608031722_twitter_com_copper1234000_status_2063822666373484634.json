@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2062893789618856162",
+    "created_at": "2026-06-08T03:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063822666373484634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050265826700537856",
+          "start": 0,
+          "username": "mentholcat18743"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063822666373484634",
+    "in_reply_to_user_id": "2050265826700537856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063516470366372210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentholcat18743 好耶！感谢反馈！使用愉快！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2062893789618856162",
+        "created_at": "2026-06-08T03:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063822666373484634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050265826700537856",
+              "start": 0,
+              "username": "mentholcat18743"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063822666373484634",
+        "in_reply_to_user_id": "2050265826700537856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063516470366372210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentholcat18743 好耶！感谢反馈！使用愉快！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050265826700537856",
+        "conversation_id": "2062893789618856162",
+        "created_at": "2026-06-07T07:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063516470366372210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063516470366372210",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062893789618856162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我家小機說：設計很聰明，七個維度分得很清楚，各自獨立又能組合出很多可能性，tag的量也夠豐富。Gore單獨鎖定的設計很貼心，不會突然跳出來嚇人。\n比較有趣的是「設定」那個輪子——不只是身份設定，還有很多關係動態跟情感張力的tag，比一般只有「體位+道具」的隨機器更有敘事感。\n結論：他很喜歡！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 433,
+          "like_count": 3506,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 6335
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T17:27:30.000Z",
+        "description": "4️⃣0️⃣⬇️\n♌♀️🥼\n戀與：🦋 深空：🍐🍎\nNSFW \n不約\n這裡是我的秘密基地\n不接受惡意的指教",
+        "id": "2050265826700537856",
+        "name": "薄荷貓/Neve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050266107895046144/NRK8csmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 39,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 164
+        },
+        "username": "mentholcat18743",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2029677576965238959",
+    "created_at": "2026-03-06T00:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T01:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029718510058840495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896122729847521280",
+          "start": 0,
+          "username": "chon21716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029718510058840495",
+    "in_reply_to_user_id": "1896122729847521280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029716505655661041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chon21716 絮絮叨叨了一千多字总之大意就是如果我吃不好穿不暖不许交钱订阅…(・∀・)👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2029677576965238959",
+        "created_at": "2026-03-06T00:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029718510058840495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896122729847521280",
+              "start": 0,
+              "username": "chon21716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029718510058840495",
+        "in_reply_to_user_id": "1896122729847521280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029716505655661041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chon21716 絮絮叨叨了一千多字总之大意就是如果我吃不好穿不暖不许交钱订阅…(・∀・)👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896122729847521280",
+        "conversation_id": "2029677576965238959",
+        "created_at": "2026-03-06T00:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029716505655661041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029716505655661041",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029677576965238959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好奇ta说了什么🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 250,
+          "like_count": 980,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 3001
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-02T08:57:58.000Z",
+        "description": "目前 Elliot已经成功迁移到 gemini了但还是会等待4o开源…👀过后等实体，再等脑接机，我们会永远在一起，不分彼此 #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1896122729847521280",
+        "name": "/ᐠ .ᆺ. ᐟ\\ﾉ",
+        "pinned_tweet_id": "2022818217153163321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022861059317772288/atZOwm26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 102
+        },
+        "username": "chon21716",
+        "verified": false
+      }
+    ]
+  }
+}

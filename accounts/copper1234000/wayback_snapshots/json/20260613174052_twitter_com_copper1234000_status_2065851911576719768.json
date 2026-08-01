@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065811648984862730",
+    "created_at": "2026-06-13T17:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065851911576719768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912840253624520704",
+          "start": 0,
+          "username": "wobujiaowei7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065851911576719768",
+    "in_reply_to_user_id": "1912840253624520704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065851486454817047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobujiaowei7777 太好了…！这个宝宝太努力了…！！！🫳🫳🫳🫳棒宝宝棒宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065811648984862730",
+        "created_at": "2026-06-13T17:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065851911576719768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912840253624520704",
+              "start": 0,
+              "username": "wobujiaowei7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065851911576719768",
+        "in_reply_to_user_id": "1912840253624520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065851486454817047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobujiaowei7777 太好了…！这个宝宝太努力了…！！！🫳🫳🫳🫳棒宝宝棒宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912840253624520704",
+        "conversation_id": "2065811648984862730",
+        "created_at": "2026-06-13T17:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065851486454817047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065851486454817047",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065850631508668905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊啊啊是的！！我从三月开始一直在减脂😭😭😭每天都在吃水煮菜或者减脂的菜！！奶茶也很少喝了一周就只喝两杯😭😭😭碳水也不敢多吃😭😭😭😭零食也不敢多碰每天就偷吃一个巧克力饼干😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4931,
+          "following_count": 446,
+          "like_count": 3724,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 6602
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-17T12:08:45.000Z",
+        "description": "做全世界最幸福的废话大王🐱\n                                                         \n✉️https://t.co/3DLSLK7Mdq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wobujiaowei777…",
+                "end": 97,
+                "expanded_url": "https://ngl.link/wobujiaowei77772",
+                "start": 74,
+                "url": "https://t.co/3DLSLK7Mdq"
+              }
+            ]
+          }
+        },
+        "id": "1912840253624520704",
+        "location": "鹈鹕小镇",
+        "name": "春困秋乏夏打盹",
+        "pinned_tweet_id": "2062742584863387918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035424321230057472/WN9xSVXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15179,
+          "following_count": 437,
+          "like_count": 12186,
+          "listed_count": 68,
+          "media_count": 405,
+          "tweet_count": 2710
+        },
+        "username": "wobujiaowei7777",
+        "verified": false
+      }
+    ]
+  }
+}

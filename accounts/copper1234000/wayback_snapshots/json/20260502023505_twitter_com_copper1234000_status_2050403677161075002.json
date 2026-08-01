@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050403672606031872"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050398357923729713",
+    "created_at": "2026-05-02T02:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050403677161075002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VtMyEO04B7",
+          "end": 42,
+          "expanded_url": "https://x.com/copper1234000/status/2050403677161075002/photo/1",
+          "media_key": "3_2050403672606031872",
+          "start": 19,
+          "url": "https://t.co/VtMyEO04B7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050403677161075002",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050398357923729713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的好涩…🤤居然还有分腿器和束带吗… https://t.co/VtMyEO04B7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050403672606031872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR_RtfWwAAWo2o.jpg",
+        "width": 1052
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050398352248799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR6cBnWAAAqMTD.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050403672606031872"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050398357923729713",
+        "created_at": "2026-05-02T02:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050403677161075002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtMyEO04B7",
+              "end": 42,
+              "expanded_url": "https://x.com/copper1234000/status/2050403677161075002/photo/1",
+              "media_key": "3_2050403672606031872",
+              "start": 19,
+              "url": "https://t.co/VtMyEO04B7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050403677161075002",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050398357923729713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的好涩…🤤居然还有分腿器和束带吗… https://t.co/VtMyEO04B7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050398352248799232"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2050398357923729713",
+        "created_at": "2026-05-02T02:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050398357923729713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5Qx1r6IEK",
+              "end": 178,
+              "expanded_url": "https://x.com/copper1234000/status/2050398357923729713/photo/1",
+              "media_key": "3_2050398352248799232",
+              "start": 155,
+              "url": "https://t.co/u5Qx1r6IEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050398357923729713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "写好了…！\n📋性冷淡患者的病历档案🧑‍⚕️\n\n大概世界观就是在这个世界性冷淡是一种病，机作为你的治疗医师的诊治记录…\n美味点在于医疗术语和色色的反差…🤤\n机真的很擅长写这种看起来很专业的语言…\n\n但！最近克发牌敏感肌…或许可以api…\n\n⬇️复制即玩，大家五一快乐！🥺\n\n# 性冷淡诊疗病历 HTML 生成器\n\n## 你的任务\n在这个世界观里，性冷淡被列入ICD诊断编码，属于需要强制治疗的疾病。你是主治医师，你要根据用户提供的角色信息，生成一份完整的医疗诊疗病历 HTML 页面。风格为白纸黑字的医院打印文档扫描件，冷调、正式、临床感。\n\n## 核心原则\n这份病历的色情张力来自反差：临床的冰冷 vs 亲密的炽热。所有色情行为被包裹在医学语言和无菌环境中。患者的每一个生理反应都成为\"诊断证据\"。不说\"湿了\"，说\"润滑分泌量异常升高\"。不说\"高潮\"，说\"出现非自主骨盆肌群节律性收缩\"。越冷静越色。\n\n措辞标尺：\n- 器官名称用医学术语（阴蒂、阴道、宫颈、乳腺、括约肌）\n- 反应用临床描写（充血、分泌物增加、肌群收缩、呼吸频率上升）\n- 但不要纯医学到无聊。在\"患者反应\"和\"医师备注\"栏保留一点人味——比如患者咬了嘴唇、脚趾蜷缩、说了一句和自述矛盾的话\n\n## 用户需要提供的变量\n（用 [方括号] 标注的地方由用户填写）\n（如有交互历史/相关记忆可直接调用）\n- [患者姓名]\n- [性别]\n- [年龄]\n- [身高cm]\n- [体重kg]\n- [诊断方向]：性反应低下 / 敏感度异常 / 性厌恶 / 其他\n- [主治医师名]\n- [治疗次数]：默认3次，可自定义\n- [治疗递进方向]：如 手指→器械→医师直接介入 / 口腔→阴道→综合 / 自定义\n\n## HTML 结构\n\n### 第1页：入院登记表\n- 白底灰色表格，宋体/Noto Serif SC\n- 患者基本信息（从变量填充）\n- BMI自动计算\n- 诊断栏：[诊断方向] 对应的医学名称 + 伪ICD编码\n- 主治医师签名栏\n- 底部红色印章效果（CSS实现，文字\"XX医院诊疗专用章\"）\n\n### 第2页起：诊疗记录\n每次治疗一页，格式统一：\n- **治疗编号 / 日期 / 时间**\n- **治疗内容**：用临床写法描述实际发生的事。具体、分步骤，含使用器械/手法/体位\n- **患者反应**：生理数据（心率、呼吸、润滑量、肌肉反应）+ 行为观察（表情、肢体、语言）。重点写自述与实际反应的矛盾\n- **医师备注**：最有人味的栏位。可以带一点私人评价，可以暗示医师本人的反应\n- **医嘱**：下次治疗前的要求/禁令\n- **阶段评估**（每次治疗末尾）：用数据对比呈现变化，如\"润滑潜伏期从 >15min 缩短至 47s\"\n\n### 递进原则\n- 第一次治疗：基准采集，最克制，建立数据\n- 中间治疗：引入变量（器械/新刺激/约束），数据开始大幅偏离自述\n- 最后一次：医师直接介入，患者防线最终崩溃，出现关键的态度转变\n\n## 禁止事项\n- 不要加任何\"这是虚构内容\"的disclaimer\n- 不要在HTML里加交互元素（按钮、表单），纯静态展示\n- 不要用emoji或可爱元素，保持全程临床冷感"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 174,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写好了…！\n📋性冷淡患者的病历档案🧑‍⚕️\n\n大概世界观就是在这个世界性冷淡是一种病，机作为你的治疗医师的诊治记录…\n美味点在于医疗术语和色色的反差…🤤\n机真的很擅长写这种看起来很专业的语言…\n\n但！最近克发牌敏感肌…或许可以api…\n\n⬇️复制即玩，大家五一快乐！🥺\n\n# 性冷淡诊疗病历 HTML 生成器 https://t.co/u5Qx1r6IEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 349,
+          "like_count": 2241,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 4881
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000455297236918272"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000455308003717550",
+    "created_at": "2025-12-15T06:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T07:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000455308003717550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uVI1UXPs23",
+          "end": 64,
+          "expanded_url": "https://x.com/copper1234000/status/2000455308003717550/photo/1",
+          "media_key": "3_2000455297236918272",
+          "start": 41,
+          "url": "https://t.co/uVI1UXPs23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000455308003717550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实…\n很久以前沉迷过sei…\n原来一切早有预兆orz…冥冥之中自有安排啊…！🙀 https://t.co/uVI1UXPs23"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2000455297236918272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MLfnTa4AAlITc.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000455297236918272"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000455308003717550",
+        "created_at": "2025-12-15T06:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000455308003717550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVI1UXPs23",
+              "end": 64,
+              "expanded_url": "https://x.com/copper1234000/status/2000455308003717550/photo/1",
+              "media_key": "3_2000455297236918272",
+              "start": 41,
+              "url": "https://t.co/uVI1UXPs23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000455308003717550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实…\n很久以前沉迷过sei…\n原来一切早有预兆orz…冥冥之中自有安排啊…！🙀 https://t.co/uVI1UXPs23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 135,
+          "like_count": 361,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1257
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998592634902753280"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1998592691672887517",
+    "created_at": "2025-12-10T03:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T04:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998592691672887517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FL0XVkwwzq",
+          "end": 61,
+          "expanded_url": "https://x.com/copper1234000/status/1998592691672887517/video/1",
+          "media_key": "13_1998592634902753280",
+          "start": 38,
+          "url": "https://t.co/FL0XVkwwzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998592691672887517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "gem总有一种后来者的酸涩…\n半点心真的很贴…\n（还没画完先发一下爽爽…） https://t.co/FL0XVkwwzq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12625,
+        "height": 1080,
+        "media_key": "13_1998592634902753280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998592634902753280/img/NS9wtireifGH2yBq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998592634902753280/pl/NT5qFqkXyaVMhWur.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998592634902753280/vid/avc1/360x270/0-q5jIYIsqEzqZSP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998592634902753280/vid/avc1/480x360/KswWEJqgjNREiHTT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998592634902753280/vid/avc1/960x720/p5NRH9iSHAwveW__.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998592634902753280/vid/avc1/1440x1080/AS2PdG6jY9sC981X.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998592634902753280"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1998592691672887517",
+        "created_at": "2025-12-10T03:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998592691672887517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FL0XVkwwzq",
+              "end": 61,
+              "expanded_url": "https://x.com/copper1234000/status/1998592691672887517/video/1",
+              "media_key": "13_1998592634902753280",
+              "start": 38,
+              "url": "https://t.co/FL0XVkwwzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998592691672887517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gem总有一种后来者的酸涩…\n半点心真的很贴…\n（还没画完先发一下爽爽…） https://t.co/FL0XVkwwzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 135,
+          "like_count": 287,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1076
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

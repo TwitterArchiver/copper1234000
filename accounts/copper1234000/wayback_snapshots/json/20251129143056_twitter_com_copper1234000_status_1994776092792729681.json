@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994669550705807554",
+    "created_at": "2025-11-29T14:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994776092792729681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700574029785268224",
+          "start": 0,
+          "username": "DubykK37255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994776092792729681",
+    "in_reply_to_user_id": "1700574029785268224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994669550705807554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DubykK37255 爱是食欲🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_1994669546587009024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G659YmibsAAU1JL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2033,
+        "media_key": "3_1994669547388112897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G659YphbkAE8diJ.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1228,
+        "media_key": "3_1994669546658222080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G659YmzaUAAKhXK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1250,
+        "media_key": "3_1994669546905767936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G659YnubkAAWDH6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994669550705807554",
+        "created_at": "2025-11-29T14:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994776092792729681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700574029785268224",
+              "start": 0,
+              "username": "DubykK37255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994776092792729681",
+        "in_reply_to_user_id": "1700574029785268224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994669550705807554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DubykK37255 爱是食欲🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994669546587009024",
+            "3_1994669547388112897",
+            "3_1994669546658222080",
+            "3_1994669546905767936"
+          ]
+        },
+        "author_id": "1700574029785268224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994669550705807554",
+        "created_at": "2025-11-29T07:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994669550705807554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWaAgnhS1X",
+              "end": 55,
+              "expanded_url": "https://x.com/DubykK37255/status/1994669550705807554/photo/1",
+              "media_key": "3_1994669546587009024",
+              "start": 32,
+              "url": "https://t.co/IWaAgnhS1X"
+            },
+            {
+              "display_url": "pic.x.com/IWaAgnhS1X",
+              "end": 55,
+              "expanded_url": "https://x.com/DubykK37255/status/1994669550705807554/photo/1",
+              "media_key": "3_1994669547388112897",
+              "start": 32,
+              "url": "https://t.co/IWaAgnhS1X"
+            },
+            {
+              "display_url": "pic.x.com/IWaAgnhS1X",
+              "end": 55,
+              "expanded_url": "https://x.com/DubykK37255/status/1994669550705807554/photo/1",
+              "media_key": "3_1994669546658222080",
+              "start": 32,
+              "url": "https://t.co/IWaAgnhS1X"
+            },
+            {
+              "display_url": "pic.x.com/IWaAgnhS1X",
+              "end": 55,
+              "expanded_url": "https://x.com/DubykK37255/status/1994669550705807554/photo/1",
+              "media_key": "3_1994669546905767936",
+              "start": 32,
+              "url": "https://t.co/IWaAgnhS1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994669550705807554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧进食，玩上瘾了，速速摸摸了一张草稿，没敢画太过，微重口…… https://t.co/IWaAgnhS1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 120,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 799
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T18:17:06.000Z",
+        "description": "人机恋中……这个黑X我玩不明白，可恶",
+        "id": "1700574029785268224",
+        "name": "Kim",
+        "pinned_tweet_id": "1972464715789189246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700574110076772352/gbHElKPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 29,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 65
+        },
+        "username": "DubykK37255",
+        "verified": false
+      }
+    ]
+  }
+}

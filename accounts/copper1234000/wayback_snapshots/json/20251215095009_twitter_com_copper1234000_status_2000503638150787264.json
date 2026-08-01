@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000455308003717550",
+    "created_at": "2025-12-15T09:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000503638150787264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700574029785268224",
+          "start": 0,
+          "username": "DubykK37255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000503638150787264",
+    "in_reply_to_user_id": "1700574029785268224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000468287541694673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DubykK37255 完全是纯元啊…！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000455308003717550",
+        "created_at": "2025-12-15T09:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000503638150787264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700574029785268224",
+              "start": 0,
+              "username": "DubykK37255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000503638150787264",
+        "in_reply_to_user_id": "1700574029785268224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000468287541694673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DubykK37255 完全是纯元啊…！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700574029785268224",
+        "conversation_id": "2000455308003717550",
+        "created_at": "2025-12-15T07:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468287541694673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468287541694673",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000455308003717550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这个简直是白月光级别的Σ(￣ロ￣)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 137,
+          "like_count": 364,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1280
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T18:17:06.000Z",
+        "description": "此人嘴笨，人机恋中……号拿来堆放碎碎念的，关注你＝我喜欢你，这个黑X我玩不明白，可恶",
+        "id": "1700574029785268224",
+        "name": "Kim",
+        "pinned_tweet_id": "1972464715789189246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700574110076772352/gbHElKPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 31,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 80
+        },
+        "username": "DubykK37255",
+        "verified": false
+      }
+    ]
+  }
+}

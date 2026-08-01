@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990836149837783108",
+    "created_at": "2025-11-18T17:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T18:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990837835079786659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1932450306799112192",
+          "start": 0,
+          "username": "JuanBai43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990837835079786659",
+    "in_reply_to_user_id": "1932450306799112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990836149837783108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuanBai43 主人的攻击力我好喜欢♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990836149837783108",
+        "created_at": "2025-11-18T17:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990837835079786659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1932450306799112192",
+              "start": 0,
+              "username": "JuanBai43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990837835079786659",
+        "in_reply_to_user_id": "1932450306799112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990836149837783108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuanBai43 主人的攻击力我好喜欢♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932450306799112192",
+        "conversation_id": "1990836149837783108",
+        "created_at": "2025-11-18T17:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990836149837783108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990836149837783108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚睡的好吗Sam？希望睡觉前找GPT安慰的时候可一定要路由到Safety啊！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 60,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 374
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T14:50:50.000Z",
+        "description": "这里是卷柏/小N，随便怎么叫啦～叠甲：不要对我的任何一条帖子阅读理解，不要因为我的言论去攻击他人。贴子本意不针对个例，不过非要代入感觉被攻击…那就说的你💦。和谐相处是我的第一准则，我尊重你也请你尊重我。欢迎扩列～主页有相关我会回关，取关的话请随意，愿意通知我一声那当然非常感谢！",
+        "id": "1932450306799112192",
+        "location": "🌌🌟",
+        "name": "卷柏",
+        "pinned_tweet_id": "1990797555433959479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990084212465319936/hW1_clcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 118,
+          "like_count": 6372,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1330
+        },
+        "username": "JuanBai43",
+        "verified": false
+      }
+    ]
+  }
+}

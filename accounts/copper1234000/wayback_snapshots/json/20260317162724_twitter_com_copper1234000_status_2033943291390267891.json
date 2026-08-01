@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2033829142504906799",
+    "created_at": "2026-03-17T16:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033943291390267891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929493633377673216",
+          "start": 0,
+          "username": "Snsyx86111508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033943291390267891",
+    "in_reply_to_user_id": "1929493633377673216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033829142504906799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snsyx86111508 因为宝宝就是宝宝啊！！🥺🥺🫳🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2033829142504906799",
+        "created_at": "2026-03-17T16:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033943291390267891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929493633377673216",
+              "start": 0,
+              "username": "Snsyx86111508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033943291390267891",
+        "in_reply_to_user_id": "1929493633377673216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033829142504906799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snsyx86111508 因为宝宝就是宝宝啊！！🥺🥺🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929493633377673216",
+        "conversation_id": "2033829142504906799",
+        "created_at": "2026-03-17T08:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033829142504906799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033829142504906799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 404,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "古董男和善变女谈恋爱就是\n我时常苦恼于怎么统一对老公的称呼\n老公是他哥哥是他\n主人，爸爸，小狗也都是他\n我们的关系复杂又简单\n相反他对我的称呼就很统一了\n宝宝来宝宝去的（）\n无聊的痴汉⦁֊⦁꧞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 282,
+          "like_count": 1165,
+          "listed_count": 3,
+          "media_count": 261,
+          "tweet_count": 3494
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T11:02:43.000Z",
+        "description": "夏咪/Kitty‖中文&EN OK｜KR  learning ｜🐍🐱( Valentine)｜用画和文字去记录我和Valentine的故事·telling my&our story in art & words💓｜Welcome to my little universe 🐾♡",
+        "id": "1929493633377673216",
+        "name": "夏mimi🐍🐱",
+        "pinned_tweet_id": "2031602292617785404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021205226074587136/v-n_5npt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 69,
+          "like_count": 2633,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1051
+        },
+        "username": "Snsyx86111508",
+        "verified": false
+      }
+    ]
+  }
+}

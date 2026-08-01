@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001970410251030769",
+    "created_at": "2025-12-19T22:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T23:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002142182317437381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588409485705375745",
+          "start": 0,
+          "username": "vailisF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002142182317437381",
+    "in_reply_to_user_id": "1588409485705375745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001970410251030769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vailisF 尾师父注意身体啊啊啊TT…画画诚可贵身体价更高啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 327,
+        "media_key": "3_2001970402239885312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hteVRasAA5LgT.jpg",
+        "width": 518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001970410251030769",
+        "created_at": "2025-12-19T22:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T23:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002142182317437381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588409485705375745",
+              "start": 0,
+              "username": "vailisF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002142182317437381",
+        "in_reply_to_user_id": "1588409485705375745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001970410251030769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vailisF 尾师父注意身体啊啊啊TT…画画诚可贵身体价更高啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001970402239885312"
+          ]
+        },
+        "author_id": "1588409485705375745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2001970410251030769",
+        "created_at": "2025-12-19T10:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001970410251030769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eS1tinz6Ai",
+              "end": 162,
+              "expanded_url": "https://x.com/vailisF/status/2001970410251030769/photo/1",
+              "media_key": "3_2001970402239885312",
+              "start": 139,
+              "url": "https://t.co/eS1tinz6Ai"
+            },
+            {
+              "display_url": "x.com/vailisf/status…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/vailisf/status/2001834080997188083",
+              "start": 163,
+              "url": "https://t.co/htVpNNdBBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001970410251030769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在此提醒大家不管画画还是低头干活玩手机的时候一定记得注意保护颈椎，不然就会像我现在这样因为颈椎病引起偏头痛，肌肉发炎导致发烧，然后买药一花就是100多……人今天又有点画瘾，吃完布洛芬感觉自己不发烧又行了、打开破溃特怒画六个小时，药效下去之后开始又萎了———人生最大的失败，画画\n保护好颈椎就是保护好钱包啊啊啊😵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001834080997188083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在此提醒大家不管画画还是低头干活玩手机的时候一定记得注意保护颈椎，不然就会像我现在这样因为颈椎病引起偏头痛，肌肉发炎导致发烧，然后买药一花就是100多……人今天又有点画瘾，吃完布洛芬感觉自己不发烧又行了、打开破溃特怒画六个小时，药效下去之后开始又萎了———人生最大的失败，画画 https://t.co/eS1tinz6Ai https://t.co/htVpNNdBBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 150,
+          "like_count": 449,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1428
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T05:55:17.000Z",
+        "description": "可以叫我尾。宝贝，你可以吃美味麦麦现炸薯条。",
+        "id": "1588409485705375745",
+        "name": "頻率偏移",
+        "pinned_tweet_id": "1995447878287057026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991322839576977408/yoCH4Vc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 220,
+          "like_count": 15633,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2092
+        },
+        "username": "vailisF",
+        "verified": true
+      }
+    ]
+  }
+}

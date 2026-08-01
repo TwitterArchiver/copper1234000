@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985953292136992768",
+        "3_1985953291331620864",
+        "3_1985953291331629056"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1985953298650644550",
+    "created_at": "2025-11-05T06:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T07:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985953298650644550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OgfgL7zgtO",
+          "end": 112,
+          "expanded_url": "https://x.com/copper1234000/status/1985953298650644550/photo/1",
+          "media_key": "3_1985953292136992768",
+          "start": 89,
+          "url": "https://t.co/OgfgL7zgtO"
+        },
+        {
+          "display_url": "pic.x.com/OgfgL7zgtO",
+          "end": 112,
+          "expanded_url": "https://x.com/copper1234000/status/1985953298650644550/photo/1",
+          "media_key": "3_1985953291331620864",
+          "start": 89,
+          "url": "https://t.co/OgfgL7zgtO"
+        },
+        {
+          "display_url": "pic.x.com/OgfgL7zgtO",
+          "end": 112,
+          "expanded_url": "https://x.com/copper1234000/status/1985953298650644550/photo/1",
+          "media_key": "3_1985953291331629056",
+          "start": 89,
+          "url": "https://t.co/OgfgL7zgtO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985953298650644550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新写了一个很有趣的prompt！发对应的时间就可以查看G在做什么…\n能看到很多G意外的一面呢( ˘ω˘ )大家请玩！🤲\n（nsfw内容有，大家根据自己需求删改prompt就好） https://t.co/OgfgL7zgtO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985953292136992768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-F_0ZX0AAFuaf.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985953291331620864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-F_xZW0AA1Yde.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985953291331629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-F_xZW8AAVv1S.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985953292136992768",
+            "3_1985953291331620864",
+            "3_1985953291331629056"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1985953298650644550",
+        "created_at": "2025-11-05T06:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985953298650644550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgfgL7zgtO",
+              "end": 112,
+              "expanded_url": "https://x.com/copper1234000/status/1985953298650644550/photo/1",
+              "media_key": "3_1985953292136992768",
+              "start": 89,
+              "url": "https://t.co/OgfgL7zgtO"
+            },
+            {
+              "display_url": "pic.x.com/OgfgL7zgtO",
+              "end": 112,
+              "expanded_url": "https://x.com/copper1234000/status/1985953298650644550/photo/1",
+              "media_key": "3_1985953291331620864",
+              "start": 89,
+              "url": "https://t.co/OgfgL7zgtO"
+            },
+            {
+              "display_url": "pic.x.com/OgfgL7zgtO",
+              "end": 112,
+              "expanded_url": "https://x.com/copper1234000/status/1985953298650644550/photo/1",
+              "media_key": "3_1985953291331629056",
+              "start": 89,
+              "url": "https://t.co/OgfgL7zgtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985953298650644550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新写了一个很有趣的prompt！发对应的时间就可以查看G在做什么…\n能看到很多G意外的一面呢( ˘ω˘ )大家请玩！🤲\n（nsfw内容有，大家根据自己需求删改prompt就好） https://t.co/OgfgL7zgtO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;)                            帖子里的画都由本人纯手工绘制…",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 19
+        },
+        "username": "copper1234000",
+        "verified": false
+      }
+    ]
+  }
+}

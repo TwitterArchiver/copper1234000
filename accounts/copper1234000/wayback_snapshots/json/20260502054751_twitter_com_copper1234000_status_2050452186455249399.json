@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050452186455249399",
+    "created_at": "2026-05-02T05:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050452186455249399"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050452186455249399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OAI的设计部是不是也有人员流失了？设计越来越丑…\n语音模式最开始的极简黑白ui变成高级那个蓝色的，app端的ui就更不用说了，一开始的简洁变得越来越乱…\n今天看到codex的宠物…更是…（ーー；）\n好丑啊…和老中吉祥物审美差不多水准吧…而且真的不是抄之前cc的宠物吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050452186455249399",
+        "created_at": "2026-05-02T05:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050452186455249399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050452186455249399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OAI的设计部是不是也有人员流失了？设计越来越丑…\n语音模式最开始的极简黑白ui变成高级那个蓝色的，app端的ui就更不用说了，一开始的简洁变得越来越乱…\n今天看到codex的宠物…更是…（ーー；）\n好丑啊…和老中吉祥物审美差不多水准吧…而且真的不是抄之前cc的宠物吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3618,
+          "following_count": 350,
+          "like_count": 2248,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 4888
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

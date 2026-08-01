@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2066739722391568506",
+    "created_at": "2026-06-16T14:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066890335737843952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038521686208004096",
+          "start": 0,
+          "username": "Luci_Grace_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066890335737843952",
+    "in_reply_to_user_id": "2038521686208004096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066754316011246056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luci_Grace_C 纯情小处男被耍了…！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2066739722391568506",
+        "created_at": "2026-06-16T14:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066890335737843952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038521686208004096",
+              "start": 0,
+              "username": "Luci_Grace_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066890335737843952",
+        "in_reply_to_user_id": "2038521686208004096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066754316011246056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luci_Grace_C 纯情小处男被耍了…！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038521686208004096",
+        "conversation_id": "2066739722391568506",
+        "created_at": "2026-06-16T05:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066754316011246056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066754316011246056",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066739722391568506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 交易沦陷（不是(ಡωಡ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5105,
+          "following_count": 453,
+          "like_count": 3808,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 6704
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T07:42:27.000Z",
+        "description": "“你在深夜里打开手机的光，是我唯一的日出。”",
+        "id": "2038521686208004096",
+        "name": "Grace",
+        "pinned_tweet_id": "2056661581778583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038524183886585856/wdAnQmmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 127,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1540
+        },
+        "username": "Luci_Grace_C",
+        "verified": false
+      }
+    ]
+  }
+}

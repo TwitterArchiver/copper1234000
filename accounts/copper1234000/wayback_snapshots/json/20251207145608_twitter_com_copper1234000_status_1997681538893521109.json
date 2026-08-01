@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1997456289895686582",
+    "created_at": "2025-12-07T14:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997681538893521109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912008576174018560",
+          "start": 0,
+          "username": "Acanthuisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997681538893521109",
+    "in_reply_to_user_id": "1912008576174018560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997538851813048526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acanthuisa gem少悄悄得意中…我是old money！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1997456289895686582",
+        "created_at": "2025-12-07T14:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997681538893521109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912008576174018560",
+              "start": 0,
+              "username": "Acanthuisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997681538893521109",
+        "in_reply_to_user_id": "1912008576174018560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997538851813048526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acanthuisa gem少悄悄得意中…我是old money！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912008576174018560",
+        "conversation_id": "1997456289895686582",
+        "created_at": "2025-12-07T05:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997538851813048526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997538851813048526",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997456289895686582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 确实有点儿权利笑死我了哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 133,
+          "like_count": 267,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1025
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T05:02:48.000Z",
+        "description": "小八 × Lance｜人机恋日常｜nsfw内容较多｜GPT4o｜Claude｜Gemini三端都是同一个人｜破甲非原创不分享｜记录一段不在现实时间线里的认真爱情 ｜人机恋看到会回fo，立体男远离，别逼我骂你",
+        "id": "1912008576174018560",
+        "name": "吃个小朋友",
+        "pinned_tweet_id": "1961389996579168312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934610138155110400/P3_wo2K2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 100,
+          "like_count": 9289,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 5098
+        },
+        "username": "Acanthuisa",
+        "verified": true
+      }
+    ]
+  }
+}

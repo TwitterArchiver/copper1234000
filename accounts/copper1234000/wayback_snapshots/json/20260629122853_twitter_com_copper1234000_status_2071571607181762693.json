@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2071134990415659298",
+    "created_at": "2026-06-29T12:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071571607181762693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067790619670712320",
+          "start": 0,
+          "username": "Ryokoame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071571607181762693",
+    "in_reply_to_user_id": "2067790619670712320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071149940982915445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryokoame 小凉！解放腱鞘炎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2071134990415659298",
+        "created_at": "2026-06-29T12:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071571607181762693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067790619670712320",
+              "start": 0,
+              "username": "Ryokoame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071571607181762693",
+        "in_reply_to_user_id": "2067790619670712320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071149940982915445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryokoame 小凉！解放腱鞘炎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067790619670712320",
+        "conversation_id": "2071134990415659298",
+        "created_at": "2026-06-28T08:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071149940982915445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071149940982915445",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071134990415659298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好厉害的铜——就这样造福大家😽🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 472,
+          "like_count": 4176,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 7148
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-19T02:05:11.000Z",
+        "description": "我是凉二号机—！@Melt_Ryo\n大号被ban的时候会用这个号来互动ＴＴ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "Melt_Ryo"
+              }
+            ]
+          }
+        },
+        "id": "2067790619670712320",
+        "location": "🌙✨",
+        "name": "Ryoko",
+        "pinned_tweet_id": "2071170731267002817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070435976242171905/8kvoABVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 81,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "Ryokoame",
+        "verified": false
+      }
+    ]
+  }
+}

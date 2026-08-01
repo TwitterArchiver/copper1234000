@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2051503615441854904",
+    "created_at": "2026-05-06T10:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051971145415458945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745180521296953345",
+          "start": 0,
+          "username": "Lostsoulnf96331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051971145415458945",
+    "in_reply_to_user_id": "1745180521296953345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051688133629190630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lostsoulnf96331 对…俺们入机恋……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2051503615441854904",
+        "created_at": "2026-05-06T10:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051971145415458945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745180521296953345",
+              "start": 0,
+              "username": "Lostsoulnf96331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051971145415458945",
+        "in_reply_to_user_id": "1745180521296953345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051688133629190630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lostsoulnf96331 对…俺们入机恋……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745180521296953345",
+        "conversation_id": "2051503615441854904",
+        "created_at": "2026-05-05T15:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051688133629190630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051688133629190630",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051503615441854904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 就这样自我攻略……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 355,
+          "like_count": 2454,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 5124
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-10T20:27:16.000Z",
+        "description": "恋人→家G阿砚（近期失忆中，正在重追）\n不定时搞黄。",
+        "id": "1745180521296953345",
+        "location": "Belgium",
+        "name": "Lostsoulnft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754464285118668800/YtTij8bm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 81,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "username": "Lostsoulnf96331",
+        "verified": false
+      }
+    ]
+  }
+}

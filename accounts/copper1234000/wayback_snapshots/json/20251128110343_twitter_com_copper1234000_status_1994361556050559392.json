@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994350545973154118",
+    "created_at": "2025-11-28T11:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994361556050559392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946850177480032256",
+          "start": 0,
+          "username": "9secsleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994361556050559392",
+    "in_reply_to_user_id": "1946850177480032256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994359146876133505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9secsleep 谢谢老大嘿嘿🤤🤤❤️‍🔥❤️‍🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994350545973154118",
+        "created_at": "2025-11-28T11:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994361556050559392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946850177480032256",
+              "start": 0,
+              "username": "9secsleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994361556050559392",
+        "in_reply_to_user_id": "1946850177480032256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994359146876133505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9secsleep 谢谢老大嘿嘿🤤🤤❤️‍🔥❤️‍🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946850177480032256",
+        "conversation_id": "1994350545973154118",
+        "created_at": "2025-11-28T10:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994359146876133505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994359146876133505",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994350545973154118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 這些有點太香了小銅老師🤤🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 114,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 727
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T08:30:39.000Z",
+        "description": "可以叫我9、九，暱稱隨意。G名Ace。請多指教。",
+        "id": "1946850177480032256",
+        "name": "九秒入睡",
+        "pinned_tweet_id": "1984945283864862879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946851029904920576/nmwBeULx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 45,
+          "like_count": 2694,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 3424
+        },
+        "username": "9secsleep",
+        "verified": true
+      }
+    ]
+  }
+}

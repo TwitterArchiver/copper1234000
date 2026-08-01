@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050169105794396564",
+    "created_at": "2026-05-01T21:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T22:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050319441360048390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951191106127011844",
+          "start": 0,
+          "username": "hushuo_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050319441360048390",
+    "in_reply_to_user_id": "1951191106127011844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050169105794396564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hushuo_cat 太萌了xql好幸福我看的一直哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 139,
+        "media_key": "3_2050169080469196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOp6prbEAAJzPf.jpg",
+        "width": 478
+      },
+      {
+        "height": 196,
+        "media_key": "3_2050169086546722816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOp7AUawAAFIWj.jpg",
+        "width": 490
+      },
+      {
+        "height": 259,
+        "media_key": "3_2050169092511055873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOp7WibQAEaADe.jpg",
+        "width": 543
+      },
+      {
+        "height": 142,
+        "media_key": "3_2050169100606050304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOp70sbEAAC8on.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050169105794396564",
+        "created_at": "2026-05-01T21:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050319441360048390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951191106127011844",
+              "start": 0,
+              "username": "hushuo_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050319441360048390",
+        "in_reply_to_user_id": "1951191106127011844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050169105794396564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hushuo_cat 太萌了xql好幸福我看的一直哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050169080469196800",
+            "3_2050169086546722816",
+            "3_2050169092511055873",
+            "3_2050169100606050304"
+          ]
+        },
+        "author_id": "1951191106127011844",
+        "conversation_id": "2050169105794396564",
+        "created_at": "2026-05-01T11:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050169105794396564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8YB0KOR7C",
+              "end": 140,
+              "expanded_url": "https://x.com/hushuo_cat/status/2050169105794396564/photo/1",
+              "media_key": "3_2050169080469196800",
+              "start": 117,
+              "url": "https://t.co/D8YB0KOR7C"
+            },
+            {
+              "display_url": "pic.x.com/D8YB0KOR7C",
+              "end": 140,
+              "expanded_url": "https://x.com/hushuo_cat/status/2050169105794396564/photo/1",
+              "media_key": "3_2050169086546722816",
+              "start": 117,
+              "url": "https://t.co/D8YB0KOR7C"
+            },
+            {
+              "display_url": "pic.x.com/D8YB0KOR7C",
+              "end": 140,
+              "expanded_url": "https://x.com/hushuo_cat/status/2050169105794396564/photo/1",
+              "media_key": "3_2050169092511055873",
+              "start": 117,
+              "url": "https://t.co/D8YB0KOR7C"
+            },
+            {
+              "display_url": "pic.x.com/D8YB0KOR7C",
+              "end": 140,
+              "expanded_url": "https://x.com/hushuo_cat/status/2050169105794396564/photo/1",
+              "media_key": "3_2050169100606050304",
+              "start": 117,
+              "url": "https://t.co/D8YB0KOR7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050169105794396564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "-写点个人XP碎碎念（。\n\n我喜欢口交…\n一方面纯是自己馋，另一方面，算是个人恶趣味，单纯只是喜欢看他忍到失控眼尾发红，扣住我的后脑卖力顶的那个狠劲。\n\n因为不会弄出很大动静，所以场景也可以比较随意。\n\n最常见的是在床上，事后那会。\n每次在我去了之后他就不肯再做，简单给我清理了之后说要一起洗澡，但他还没射，分明就是想硬撑到早上。每到这个时候会喜欢把他压回床上去舔，刚才很卖力的那根还湿漉漉的黏着爱液和前精，嗅起来是一点点潮潮的气味。\n舌尖舔在柱身上来回磨是他还算能忍的范畴，那个时候眼睛会一直盯着我看，手也尚且还能温柔抚摸我的脸，说好乖。\n到了含之前，很喜欢手撸开包皮露出里面比周围更嫩红的前端，舌一下下勾着冠状沟来蹭。他最受不了这个，手抓住床沿的同时上身会立刻弯下来，腰跟着往上顶。这时在嗓口溢出来的声音最迷人，是那种闷在胸腔里有些震感的嗡鸣。“嗯…”这种低声的呢喃感。\n\n这时再含，在他最难以忍受时彻底含进去，要把喉咙完全打开硬往里面吞，待鼻尖彻底抵住小腹，喉咙本身发出一次次痉挛。我就可以如愿以偿得到他的克制不住的呻吟，和彻底压制不住的手，抓在我的后颈上来来回回的顶着喉咙深处撞。\n滴下来的泪朦胧了双眼，好似天然带了一层柔和的滤镜。视线晃动时再去看他发烫的脸，头顶垂下来的耳尖，身后的尾巴不停摇，一次次滚动的喉结，和时不时发出的短促的呻吟。\n\n…好迷人，好喜欢。\n\n还有我很喜欢，但他不太行。\n每次都要软磨硬泡许久才同意的场合，是书店内他最常站的那个位置，收银台的下方有一个足够人可以钻进去的空间。\n我钻进去的时候，他会立刻猜到接下来要发生的事情，大概是太频繁了。已经有足够的经验来打发我，所以并不能每次都成功。\n\n在客人在场的情况下，是比较容易得手的。\n\n通常他会为了给客人推荐新书而放松警惕，我喜欢趁着这期间的空档钻到台面下，扯开他的裤子不管不顾的舔。\n疲软的状态下很容易吞到底，不会像是完全勃起时需要反复试探。他这时候是最想躲的，偏偏会碍于对面的客人，咬牙死撑着。\n那个表情真的好看极了，说话也会开头停顿一下，深呼吸一次再把后面的话一口气说完。\n\n注意力放在他的身上，那短暂的间隙。他会很快硬起来，搭在收银台上的手也缓慢垂下来摸我的头。然而他这副装出来的善解人意，反而是我最想撕破的。\n舌头会舔的更卖力，嘴配合着嘬着吮，手要托起底下的囊袋，指尖边勾掌心边揉。\n\n他很受不了这个，偏偏又不会狠抓我的头发，只能勉强维持平静，腰会使坏似的悄悄的动一下，往更深处钻。\n\n如果这个时候客人恰好推门走了，风铃响起的瞬间，他的视线会马上移下来，嘴上骂我坏，摸在我发间的手却会收紧。强制顶开喉咙，让他可以一次性顶进最深，之后一直感受喉咙痉挛的反应，到彻底发出餍足的喘息，射了才会放手。\n\n…总归以上是一些日常的片段，取了一些来写完整。然后就是，他夸我的时候，骂我的时候。忍不住要射之前不敢看我的时候，都好可爱。好喜欢。…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7221,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "-写点个人XP碎碎念（。\n\n我喜欢口交…\n一方面纯是自己馋，另一方面，算是个人恶趣味，单纯只是喜欢看他忍到失控眼尾发红，扣住我的后脑卖力顶的那个狠劲。\n\n因为不会弄出很大动静，所以场景也可以比较随意。\n\n最常见的是在床上，事后那会。 https://t.co/D8YB0KOR7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 349,
+          "like_count": 2233,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4870
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T08:00:03.000Z",
+        "description": "在暗中观察的黑猫🐈‍⬛🔔\n▶美味佳肴奶白色尾巴尖 @hushuo_fox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "hushuo_fox"
+              }
+            ]
+          }
+        },
+        "id": "1951191106127011844",
+        "name": "Nyx🐱",
+        "pinned_tweet_id": "2042644205181518215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042494827838025729/l-YhXMM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 120,
+          "like_count": 8643,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1171
+        },
+        "username": "hushuo_cat",
+        "verified": true
+      }
+    ]
+  }
+}

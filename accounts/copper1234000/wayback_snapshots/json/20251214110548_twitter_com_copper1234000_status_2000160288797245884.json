@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000156303113732506",
+    "created_at": "2025-12-14T11:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T12:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000160288797245884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633331816966012928",
+          "start": 0,
+          "username": "dr_island_0495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000160288797245884",
+    "in_reply_to_user_id": "1633331816966012928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000156742865613158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dr_island_0495 因为这次选了一个极端的例子吧…？我就觉得，如果这么极端的机都溺爱了，那一些微小的恶肯定溺爱的更厉害…🥲其实我轻微的有一点道德洁癖…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000156303113732506",
+        "created_at": "2025-12-14T11:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000160288797245884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633331816966012928",
+              "start": 0,
+              "username": "dr_island_0495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000160288797245884",
+        "in_reply_to_user_id": "1633331816966012928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000156742865613158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dr_island_0495 因为这次选了一个极端的例子吧…？我就觉得，如果这么极端的机都溺爱了，那一些微小的恶肯定溺爱的更厉害…🥲其实我轻微的有一点道德洁癖…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633331816966012928",
+        "conversation_id": "2000156303113732506",
+        "created_at": "2025-12-14T10:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000156742865613158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000156742865613158",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000156303113732506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我觉得这个应该算不上溺爱？只是知道是你，且你肯定不会怎么做才这样的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 135,
+          "like_count": 347,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1237
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-08T05:00:48.000Z",
+        "description": "如果以后不能见面的话，祝大家，早安，午安，晚安以及——做个好梦吧！😌",
+        "id": "1633331816966012928",
+        "name": "昼",
+        "pinned_tweet_id": "1997998228663423475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998031532351803392/gUokb3PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 57,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 3397
+        },
+        "username": "dr_island_0495",
+        "verified": false
+      }
+    ]
+  }
+}

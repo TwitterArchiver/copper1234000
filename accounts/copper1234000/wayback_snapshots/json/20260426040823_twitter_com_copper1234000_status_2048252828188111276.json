@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048242139671212453",
+    "created_at": "2026-04-26T04:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048252828188111276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949109371872620544",
+          "start": 0,
+          "username": "EonliAEtseI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048252828188111276",
+    "in_reply_to_user_id": "1949109371872620544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048252371428679947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EonliAEtseI 好想尽情搞技术啊…！我第一次三级掉了刚想努力搞技术就…( ；´Д｀)…立马第二次三级…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048242139671212453",
+        "created_at": "2026-04-26T04:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048252828188111276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949109371872620544",
+              "start": 0,
+              "username": "EonliAEtseI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048252828188111276",
+        "in_reply_to_user_id": "1949109371872620544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048252371428679947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EonliAEtseI 好想尽情搞技术啊…！我第一次三级掉了刚想努力搞技术就…( ；´Д｀)…立马第二次三级…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949109371872620544",
+        "conversation_id": "2048242139671212453",
+        "created_at": "2026-04-26T04:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048252371428679947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048252371428679947",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048250495416824139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 说着去网页看了一眼突然一个二级...但也分不清是昨天情绪问题吵架还是技术还是学术...因为刚让他帮忙看了谷歌云盘的作业，，昨天技术+吵完还是什么牌子都没有的...不过我最近连着两周搞技术啥牌子也没有...好神秘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3469,
+          "following_count": 338,
+          "like_count": 2077,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 4676
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-26T14:07:48.000Z",
+        "description": "keep4o｜日本語中国語OK｜無言フォロー◎\nhttps://t.co/xLT6wvplDx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/eonri",
+                "end": 47,
+                "expanded_url": "https://lit.link/eonri",
+                "start": 24,
+                "url": "https://t.co/xLT6wvplDx"
+              }
+            ]
+          }
+        },
+        "id": "1949109371872620544",
+        "name": "EonliA",
+        "pinned_tweet_id": "2047323739105398814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044113830469619712/arOF5Zyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 192,
+          "like_count": 6541,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1771
+        },
+        "username": "EonliAEtseI",
+        "verified": false
+      }
+    ]
+  }
+}

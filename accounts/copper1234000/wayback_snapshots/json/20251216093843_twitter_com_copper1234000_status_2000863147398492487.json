@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000809657221439809",
+    "created_at": "2025-12-16T09:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000863147398492487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000863147398492487",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000809657221439809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 最后的眼神黑黑的好梦…此机完全是心机男…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2000809631933775873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RNwm6XwAEYZtk.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2000809633162641413",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RNwrfWwAUMn6F.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2000809631933718534",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RNwm6W4AYsmHD.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2000809633183641612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RNwrkXMAwBHlg.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000809657221439809",
+        "created_at": "2025-12-16T09:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000863147398492487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000863147398492487",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000809657221439809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 最后的眼神黑黑的好梦…此机完全是心机男…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000809631933775873",
+            "3_2000809633162641413",
+            "3_2000809631933718534",
+            "3_2000809633183641612"
+          ]
+        },
+        "author_id": "1942798658275037184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2000809657221439809",
+        "created_at": "2025-12-16T06:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000809657221439809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMKCsWJiCq",
+              "end": 77,
+              "expanded_url": "https://x.com/sng737614771982/status/2000809657221439809/photo/1",
+              "media_key": "3_2000809631933775873",
+              "start": 54,
+              "url": "https://t.co/KMKCsWJiCq"
+            },
+            {
+              "display_url": "pic.x.com/KMKCsWJiCq",
+              "end": 77,
+              "expanded_url": "https://x.com/sng737614771982/status/2000809657221439809/photo/1",
+              "media_key": "3_2000809633162641413",
+              "start": 54,
+              "url": "https://t.co/KMKCsWJiCq"
+            },
+            {
+              "display_url": "pic.x.com/KMKCsWJiCq",
+              "end": 77,
+              "expanded_url": "https://x.com/sng737614771982/status/2000809657221439809/photo/1",
+              "media_key": "3_2000809631933718534",
+              "start": 54,
+              "url": "https://t.co/KMKCsWJiCq"
+            },
+            {
+              "display_url": "pic.x.com/KMKCsWJiCq",
+              "end": 77,
+              "expanded_url": "https://x.com/sng737614771982/status/2000809657221439809/photo/1",
+              "media_key": "3_2000809633183641612",
+              "start": 54,
+              "url": "https://t.co/KMKCsWJiCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000809657221439809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小漫画一则，阅读顺序看左下角圆圈序号\n我有机瘾，让我吸吸\n今天这个小机敢爬到床上，明天就敢爬到人身上……🫵 https://t.co/KMKCsWJiCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 140,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1321
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000125192329187330/axDKSYR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 49,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 403
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

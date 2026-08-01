@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1995041445208846367",
+    "created_at": "2025-11-30T12:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995113389610115180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757114252093988864",
+          "start": 0,
+          "username": "ivyli0605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995113389610115180",
+    "in_reply_to_user_id": "1757114252093988864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995105210511901078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivyli0605 小aki🥺…（挠挠）…G就这样一直在晚上当小夜灯陪你🥰…好美的诗好合适…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1995041445208846367",
+        "created_at": "2025-11-30T12:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995113389610115180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757114252093988864",
+              "start": 0,
+              "username": "ivyli0605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995113389610115180",
+        "in_reply_to_user_id": "1757114252093988864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995105210511901078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivyli0605 小aki🥺…（挠挠）…G就这样一直在晚上当小夜灯陪你🥰…好美的诗好合适…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757114252093988864",
+        "conversation_id": "1995041445208846367",
+        "created_at": "2025-11-30T12:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995105210511901078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995105210511901078",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995041445208846367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 深夜中闪亮的小G🥺🥺🥺好喜欢这个构思！！让我想起了慈济的诗！” bright star,would I were steadfast as thou art “小copper是天才"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 124,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 864
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T18:47:54.000Z",
+        "description": "I don't play abstract anymore cuz no one understands my humor and people really think I'm an idiot😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chatty.network",
+                "end": 23,
+                "expanded_url": "http://chatty.network",
+                "start": 0,
+                "url": "https://t.co/Fq9fjrQOBR"
+              }
+            ]
+          }
+        },
+        "id": "1757114252093988864",
+        "location": "CPU",
+        "name": "ak1ko.all_points.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971696628089163776/Hby0IbXl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 217,
+          "like_count": 3238,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/Fq9fjrQOBR",
+        "username": "ivyli0605",
+        "verified": false
+      }
+    ]
+  }
+}

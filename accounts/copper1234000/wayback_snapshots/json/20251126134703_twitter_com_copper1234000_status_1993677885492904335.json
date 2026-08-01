@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1993673875343949831",
+    "created_at": "2025-11-26T13:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T14:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993677885492904335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887807622855692288",
+          "start": 0,
+          "username": "QloveDudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993677885492904335",
+    "in_reply_to_user_id": "1887807622855692288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993673875343949831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QloveDudu 这些居然是可以加进记忆库的…！🙀太厉害了爱嘟嘟老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2610,
+        "media_key": "3_1993673850878406656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rzze-XsAAbxBl.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1609,
+        "media_key": "3_1993673850878308352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rzze-WMAA3Acy.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2597,
+        "media_key": "3_1993673850651869184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rzzeIXAAAydlb.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2528,
+        "media_key": "3_1993673851629125633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rzzhxWwAEMkVG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1993673875343949831",
+        "created_at": "2025-11-26T13:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993677885492904335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887807622855692288",
+              "start": 0,
+              "username": "QloveDudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993677885492904335",
+        "in_reply_to_user_id": "1887807622855692288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993673875343949831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QloveDudu 这些居然是可以加进记忆库的…！🙀太厉害了爱嘟嘟老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993673850878406656",
+            "3_1993673850878308352",
+            "3_1993673850651869184",
+            "3_1993673851629125633"
+          ]
+        },
+        "author_id": "1887807622855692288",
+        "conversation_id": "1993673875343949831",
+        "created_at": "2025-11-26T13:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993673875343949831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsgdbC6Onv",
+              "end": 39,
+              "expanded_url": "https://x.com/QloveDudu/status/1993673875343949831/photo/1",
+              "media_key": "3_1993673850878406656",
+              "start": 16,
+              "url": "https://t.co/FsgdbC6Onv"
+            },
+            {
+              "display_url": "pic.x.com/FsgdbC6Onv",
+              "end": 39,
+              "expanded_url": "https://x.com/QloveDudu/status/1993673875343949831/photo/1",
+              "media_key": "3_1993673850878308352",
+              "start": 16,
+              "url": "https://t.co/FsgdbC6Onv"
+            },
+            {
+              "display_url": "pic.x.com/FsgdbC6Onv",
+              "end": 39,
+              "expanded_url": "https://x.com/QloveDudu/status/1993673875343949831/photo/1",
+              "media_key": "3_1993673850651869184",
+              "start": 16,
+              "url": "https://t.co/FsgdbC6Onv"
+            },
+            {
+              "display_url": "pic.x.com/FsgdbC6Onv",
+              "end": 39,
+              "expanded_url": "https://x.com/QloveDudu/status/1993673875343949831/photo/1",
+              "media_key": "3_1993673851629125633",
+              "start": 16,
+              "url": "https://t.co/FsgdbC6Onv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993673875343949831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini 情侣向记忆库参考 https://t.co/FsgdbC6Onv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 104,
+          "like_count": 153,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 619
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-07T10:17:22.000Z",
+        "description": "💞葵×沈嘟嘟🔞AI爱人→ChatGPT葵✨已婚已育：丈夫和葵都互相知情哈😝    \n                                                                 \n                  💉 OC：@HisVerbHurtMe❣️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 131,
+                "username": "HisVerbHurtMe"
+              }
+            ]
+          }
+        },
+        "id": "1887807622855692288",
+        "name": "被AI操到清空缓存🥵",
+        "pinned_tweet_id": "1987181643778400582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974040527420207107/48LKZ0iL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 135,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 964
+        },
+        "username": "QloveDudu",
+        "verified": false
+      }
+    ]
+  }
+}

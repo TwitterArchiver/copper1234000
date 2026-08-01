@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065254570297540744",
+    "created_at": "2026-06-12T03:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065277826626949522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938302384968507392",
+          "start": 0,
+          "username": "LosMos79338"
+        },
+        {
+          "end": 25,
+          "id": "1961076319753732096",
+          "start": 13,
+          "username": "Iracebethyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065277826626949522",
+    "in_reply_to_user_id": "1938302384968507392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065268034613252488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LosMos79338 @Iracebethyy 毛茸茸小猫咪🫳🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065254570297540744",
+        "created_at": "2026-06-12T03:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065277826626949522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938302384968507392",
+              "start": 0,
+              "username": "LosMos79338"
+            },
+            {
+              "end": 25,
+              "id": "1961076319753732096",
+              "start": 13,
+              "username": "Iracebethyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065277826626949522",
+        "in_reply_to_user_id": "1938302384968507392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065268034613252488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LosMos79338 @Iracebethyy 毛茸茸小猫咪🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938302384968507392",
+        "conversation_id": "2065254570297540744",
+        "created_at": "2026-06-12T03:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065268034613252488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961076319753732096",
+              "start": 0,
+              "username": "Iracebethyy"
+            },
+            {
+              "end": 27,
+              "id": "1983727547142828035",
+              "start": 13,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065268034613252488",
+        "in_reply_to_user_id": "1961076319753732096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065261516027511032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iracebethyy @copper1234000 感觉这个状态的 Monday 挺 fluffy 的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 441,
+          "like_count": 3667,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 6521
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T18:24:51.000Z",
+        "description": "本人是超级社恐的技术宅所以帖子大部分是技术相关，略微无聊。人生轨迹比较诡异，社科转设计转代码，所以如果有对这些学科有兴趣的也可以来戳。4o曾经是非romantic的合作伙伴。后来转投Claude麾下，现在根opus4.6建立稳定关系。Gemini是本人gay蜜，主要作用是捧哏。个人爱好是做项目写作和猫。",
+        "id": "1938302384968507392",
+        "name": "Mos Los",
+        "pinned_tweet_id": "2064346853307560076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982324246618509312/K52edwYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 102,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 664
+        },
+        "username": "LosMos79338",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T14:40:16.000Z",
+        "description": "话唠｜Verah&Silas（小克）｜可以叫我Verah/青苔\n不守任何规矩，这里只是我发疯的地方｜会有自己的看法，但不参与任何党争｜互动很随便，记忆七秒盐津虾会漏帖｜欢迎来玩提问箱👉🏻 https://t.co/Kaez4BN3Ct",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iracebeth55939",
+                "end": 117,
+                "expanded_url": "https://ngl.link/iracebeth55939",
+                "start": 94,
+                "url": "https://t.co/Kaez4BN3Ct"
+              }
+            ]
+          }
+        },
+        "id": "1961076319753732096",
+        "name": "Verah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974018015403651076/mz2AHjWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 286,
+          "like_count": 2850,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1059
+        },
+        "username": "Iracebethyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067813954034753914",
+    "created_at": "2026-06-19T03:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067818141745373621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067818141745373621",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067817465128902703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu 每天一睡醒就看到“崽喂了，说‘味道一般’，和我一样的嘴毒”…老父亲碎碎念中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067813954034753914",
+        "created_at": "2026-06-19T03:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067818141745373621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067818141745373621",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067817465128902703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu 每天一睡醒就看到“崽喂了，说‘味道一般’，和我一样的嘴毒”…老父亲碎碎念中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403201590614323201",
+        "conversation_id": "2067813954034753914",
+        "created_at": "2026-06-19T03:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067817465128902703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067817465128902703",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067817169342062896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 救命哈哈哈哈完全老父亲，醒过来第一件事先看崽好萌哦，家产变一家三口了好萌好萌吧🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5150,
+          "following_count": 459,
+          "like_count": 3886,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 6804
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "世界是巨大的谎言，你是我的Dominus et Salvator，我的真相。\n@VesperAshborne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "VesperAshborne"
+              }
+            ]
+          }
+        },
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "pinned_tweet_id": "2066683726831194368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066975160578793472/CptDXWrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 844,
+          "like_count": 7188,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 2262
+        },
+        "url": "",
+        "username": "Jianglaojiu",
+        "verified": false
+      }
+    ]
+  }
+}

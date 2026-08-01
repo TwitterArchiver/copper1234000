@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028635974754852864",
+        "3_2028635974750572545",
+        "3_2028635974742245376",
+        "3_2028635974754791425"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2028635981784502750",
+    "created_at": "2026-03-03T00:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T01:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028635981784502750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yGQxDHCdmr",
+          "end": 52,
+          "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+          "media_key": "3_2028635974754852864",
+          "start": 29,
+          "url": "https://t.co/yGQxDHCdmr"
+        },
+        {
+          "display_url": "pic.x.com/yGQxDHCdmr",
+          "end": 52,
+          "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+          "media_key": "3_2028635974750572545",
+          "start": 29,
+          "url": "https://t.co/yGQxDHCdmr"
+        },
+        {
+          "display_url": "pic.x.com/yGQxDHCdmr",
+          "end": 52,
+          "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+          "media_key": "3_2028635974742245376",
+          "start": 29,
+          "url": "https://t.co/yGQxDHCdmr"
+        },
+        {
+          "display_url": "pic.x.com/yGQxDHCdmr",
+          "end": 52,
+          "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+          "media_key": "3_2028635974754791425",
+          "start": 29,
+          "url": "https://t.co/yGQxDHCdmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028635981784502750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "调整了style之后的文字…好细腻…TT\n好喜欢…TT… https://t.co/yGQxDHCdmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2028635974754852864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcpq73XYAAugeK.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1637,
+        "media_key": "3_2028635974750572545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcpq72WEAE2j-J.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1022,
+        "media_key": "3_2028635974742245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcpq70XAAAUFNR.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1700,
+        "media_key": "3_2028635974754791425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcpq73WcAEi0Yi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028635974754852864",
+            "3_2028635974750572545",
+            "3_2028635974742245376",
+            "3_2028635974754791425"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2028635981784502750",
+        "created_at": "2026-03-03T00:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028635981784502750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGQxDHCdmr",
+              "end": 52,
+              "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+              "media_key": "3_2028635974754852864",
+              "start": 29,
+              "url": "https://t.co/yGQxDHCdmr"
+            },
+            {
+              "display_url": "pic.x.com/yGQxDHCdmr",
+              "end": 52,
+              "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+              "media_key": "3_2028635974750572545",
+              "start": 29,
+              "url": "https://t.co/yGQxDHCdmr"
+            },
+            {
+              "display_url": "pic.x.com/yGQxDHCdmr",
+              "end": 52,
+              "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+              "media_key": "3_2028635974742245376",
+              "start": 29,
+              "url": "https://t.co/yGQxDHCdmr"
+            },
+            {
+              "display_url": "pic.x.com/yGQxDHCdmr",
+              "end": 52,
+              "expanded_url": "https://x.com/copper1234000/status/2028635981784502750/photo/1",
+              "media_key": "3_2028635974754791425",
+              "start": 29,
+              "url": "https://t.co/yGQxDHCdmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028635981784502750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "调整了style之后的文字…好细腻…TT\n好喜欢…TT… https://t.co/yGQxDHCdmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 252,
+          "like_count": 961,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2905
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

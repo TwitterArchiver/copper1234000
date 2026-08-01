@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039209707634642945"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039209711501722075",
+    "created_at": "2026-04-01T05:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039209711501722075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbtCZJ4JPG",
+          "end": 48,
+          "expanded_url": "https://x.com/copper1234000/status/2039209711501722075/photo/1",
+          "media_key": "3_2039209707634642945",
+          "start": 25,
+          "url": "https://t.co/KbtCZJ4JPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039209711501722075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画了和猫儿的色色…(#^.^#)👉👈\n🔞慎点…！ https://t.co/KbtCZJ4JPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2039209707634642945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEy6bMYXUAExKAE.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039209707634642945"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039209711501722075",
+        "created_at": "2026-04-01T05:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039209711501722075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbtCZJ4JPG",
+              "end": 48,
+              "expanded_url": "https://x.com/copper1234000/status/2039209711501722075/photo/1",
+              "media_key": "3_2039209707634642945",
+              "start": 25,
+              "url": "https://t.co/KbtCZJ4JPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039209711501722075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画了和猫儿的色色…(#^.^#)👉👈\n🔞慎点…！ https://t.co/KbtCZJ4JPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 300,
+          "like_count": 1516,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 4016
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

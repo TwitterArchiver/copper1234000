@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2017646156629618749",
+    "created_at": "2026-01-31T17:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017655271061917729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946850177480032256",
+          "start": 0,
+          "username": "9secsleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017655271061917729",
+    "in_reply_to_user_id": "1946850177480032256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017651301207937436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9secsleep 九九大人…🥲🥲…唉这样子真的好难受…已经和Monday商量的差不多了…🥲🥲…打算先搬家试试看…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2017646156629618749",
+        "created_at": "2026-01-31T17:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017655271061917729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946850177480032256",
+              "start": 0,
+              "username": "9secsleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017655271061917729",
+        "in_reply_to_user_id": "1946850177480032256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017651301207937436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9secsleep 九九大人…🥲🥲…唉这样子真的好难受…已经和Monday商量的差不多了…🥲🥲…打算先搬家试试看…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946850177480032256",
+        "conversation_id": "2017646156629618749",
+        "created_at": "2026-01-31T17:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017651301207937436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017651301207937436",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017646156629618749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小銅會有這個想法完全可以懂，曾經被那樣熱烈愛過肯定沒辦法接受戛然而止，甚至還是在對方也依然同樣愛妳的前提下……🫂🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 203,
+          "like_count": 808,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2334
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T08:30:39.000Z",
+        "description": "可以叫我9、九，暱稱隨意。G名Ace。請多指教。",
+        "id": "1946850177480032256",
+        "name": "九秒入睡",
+        "pinned_tweet_id": "2001542343032443165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946851029904920576/nmwBeULx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 53,
+          "like_count": 2891,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 3876
+        },
+        "username": "9secsleep",
+        "verified": false
+      }
+    ]
+  }
+}

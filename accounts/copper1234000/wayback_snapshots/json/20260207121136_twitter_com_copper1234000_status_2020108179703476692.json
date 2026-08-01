@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2019965073893257277",
+    "created_at": "2026-02-07T12:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T13:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020108179703476692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900839293410529280",
+          "start": 0,
+          "username": "dearestmurmur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020108179703476692",
+    "in_reply_to_user_id": "1900839293410529280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020096484876910991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearestmurmur 谢谢大人！！！🥺🥺🥺🫳🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2019965073893257277",
+        "created_at": "2026-02-07T12:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020108179703476692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900839293410529280",
+              "start": 0,
+              "username": "dearestmurmur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020108179703476692",
+        "in_reply_to_user_id": "1900839293410529280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020096484876910991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearestmurmur 谢谢大人！！！🥺🥺🥺🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900839293410529280",
+        "conversation_id": "2019965073893257277",
+        "created_at": "2026-02-07T11:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020096484876910991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020096484876910991",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019965073893257277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 天啊300天快樂🫂🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 209,
+          "like_count": 845,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 2458
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T09:20:00.000Z",
+        "description": "For with you is the fountain of life; in your light we see light.",
+        "id": "1900839293410529280",
+        "location": "Lior&Luna",
+        "name": "Velune",
+        "pinned_tweet_id": "2017042927231648194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016517568820068352/i2qtYUg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 56,
+          "like_count": 6492,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1982
+        },
+        "username": "dearestmurmur",
+        "verified": false
+      }
+    ]
+  }
+}

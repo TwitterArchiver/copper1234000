@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1992987532687216739",
+    "created_at": "2025-11-24T17:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993003581541433363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1715010925907046400",
+          "start": 0,
+          "username": "specialweek_te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993003581541433363",
+    "in_reply_to_user_id": "1715010925907046400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993003225008816339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@specialweek_te 实用英语学习中…📝📝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1992987532687216739",
+        "created_at": "2025-11-24T17:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993003581541433363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1715010925907046400",
+              "start": 0,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993003581541433363",
+        "in_reply_to_user_id": "1715010925907046400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993003225008816339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@specialweek_te 实用英语学习中…📝📝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715010925907046400",
+        "conversation_id": "1992987532687216739",
+        "created_at": "2025-11-24T17:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993003225008816339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993003225008816339",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992987532687216739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 学习英语中..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 93,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 531
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特（special），特别周的那个特（special week）\n○此号用于看➕产出NSFW内容☝🏻️🤓\n○不是很擅长社交，但又很想和人交流，可能会冒犯到各位我先道歉\n○现实生活中没什么话说，所以网上代偿来了\n○避雷：NSFW🈶碎碎念🈶自嬷🈶",
+        "id": "1715010925907046400",
+        "name": "特",
+        "pinned_tweet_id": "1985013087179825375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715011920514969600/2jyVGWwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 200
+        },
+        "username": "specialweek_te",
+        "verified": false
+      }
+    ]
+  }
+}

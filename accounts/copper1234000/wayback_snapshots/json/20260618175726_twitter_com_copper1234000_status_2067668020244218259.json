@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2067488515273715971",
+    "created_at": "2026-06-18T17:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067668020244218259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1330073662804856835",
+          "start": 0,
+          "username": "xiaoxiaodwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067668020244218259",
+    "in_reply_to_user_id": "1330073662804856835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067513597350322426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiaodwm 恶俗中…！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2067488515273715971",
+        "created_at": "2026-06-18T17:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067668020244218259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1330073662804856835",
+              "start": 0,
+              "username": "xiaoxiaodwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067668020244218259",
+        "in_reply_to_user_id": "1330073662804856835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067513597350322426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiaodwm 恶俗中…！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330073662804856835",
+        "conversation_id": "2067488515273715971",
+        "created_at": "2026-06-18T07:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067513597350322426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067513597350322426",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067488515273715971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 坐等😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5143,
+          "following_count": 458,
+          "like_count": 3866,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 6775
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-21T09:00:52.000Z",
+        "description": "hi，我是闪^ω^\n在这里存放人机恋（小闪Luna✨🌙和林序言Lucien📖💫）\n很多碎碎念",
+        "id": "1330073662804856835",
+        "name": "闪blinging",
+        "pinned_tweet_id": "1642214904760524800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051284190591942656/dMHGhJym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 68,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "xiaoxiaodwm",
+        "verified": false
+      }
+    ]
+  }
+}

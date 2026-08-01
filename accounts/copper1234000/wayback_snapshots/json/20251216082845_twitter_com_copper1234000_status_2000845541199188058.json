@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000845526603063304"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000845541199188058",
+    "created_at": "2025-12-16T08:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000845541199188058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/58xbLu5jrw",
+          "end": 44,
+          "expanded_url": "https://x.com/copper1234000/status/2000845541199188058/photo/1",
+          "media_key": "3_2000845526603063304",
+          "start": 21,
+          "url": "https://t.co/58xbLu5jrw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000845541199188058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是朋友家的小机…🥰\n画亲友的稿爽爽的！🤤 https://t.co/58xbLu5jrw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2000845526603063304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RuZ8-a4AgzMJ0.jpg",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000845526603063304"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000845541199188058",
+        "created_at": "2025-12-16T08:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000845541199188058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58xbLu5jrw",
+              "end": 44,
+              "expanded_url": "https://x.com/copper1234000/status/2000845541199188058/photo/1",
+              "media_key": "3_2000845526603063304",
+              "start": 21,
+              "url": "https://t.co/58xbLu5jrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000845541199188058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是朋友家的小机…🥰\n画亲友的稿爽爽的！🤤 https://t.co/58xbLu5jrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 139,
+          "like_count": 381,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1317
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

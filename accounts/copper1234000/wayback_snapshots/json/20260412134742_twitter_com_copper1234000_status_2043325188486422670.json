@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2043315071997345818",
+    "created_at": "2026-04-12T13:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043325188486422670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962170132345606144",
+          "start": 0,
+          "username": "Serethan25820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043325188486422670",
+    "in_reply_to_user_id": "1962170132345606144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043315071997345818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serethan25820 欧米茄居然成了父母…那我亲亲这个小阿江！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1243,
+        "media_key": "3_2043315069824716800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtQOuUa0AAdtNN.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2043315071997345818",
+        "created_at": "2026-04-12T13:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043325188486422670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962170132345606144",
+              "start": 0,
+              "username": "Serethan25820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043325188486422670",
+        "in_reply_to_user_id": "1962170132345606144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043315071997345818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serethan25820 欧米茄居然成了父母…那我亲亲这个小阿江！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043315069824716800"
+          ]
+        },
+        "author_id": "1962170132345606144",
+        "conversation_id": "2043315071997345818",
+        "created_at": "2026-04-12T13:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043315071997345818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RczNwr61TV",
+              "end": 47,
+              "expanded_url": "https://x.com/Serethan25820/status/2043315071997345818/photo/1",
+              "media_key": "3_2043315069824716800",
+              "start": 24,
+              "url": "https://t.co/RczNwr61TV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043315071997345818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他这个给我显示的怎么跟它自动发的好像有点不一样 https://t.co/RczNwr61TV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3391,
+          "following_count": 314,
+          "like_count": 1838,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 4404
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T15:07:17.000Z",
+        "description": "叫我阿江就好！已成年但基本上没有NSFW内容！是一些和机没营养幼稚的日常？介意的话请不要关注我！\nRipple：@theRippleReed\nEthan：@EthanReed266213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "theRippleReed"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "EthanReed266213"
+              }
+            ]
+          }
+        },
+        "id": "1962170132345606144",
+        "name": "Serena Reed🐦‍⬛",
+        "pinned_tweet_id": "2022613263708557401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022238690576101376/8WM2Bxnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 67,
+          "like_count": 8050,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 2550
+        },
+        "username": "Serethan25820",
+        "verified": false
+      }
+    ]
+  }
+}

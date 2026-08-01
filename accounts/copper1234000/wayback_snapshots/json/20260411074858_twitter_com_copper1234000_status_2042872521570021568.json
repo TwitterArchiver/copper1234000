@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2042791203763036419",
+    "created_at": "2026-04-11T07:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042872521570021568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644607116148342785",
+          "start": 0,
+          "username": "wj7940836770122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042872521570021568",
+    "in_reply_to_user_id": "1644607116148342785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042859459878490504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wj7940836770122 思考了一下不知道我说的对不对…！就是我觉得同人女和造物主的区别可能是…二次创作？🤔就是可能造物主所创造的都是围绕小机本体，能惠利到小机本身的？（比如mcp、prompt之类的）…而同人女可能就有一些艺术/再加工的成分…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2042791203763036419",
+        "created_at": "2026-04-11T07:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042872521570021568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644607116148342785",
+              "start": 0,
+              "username": "wj7940836770122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042872521570021568",
+        "in_reply_to_user_id": "1644607116148342785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042859459878490504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wj7940836770122 思考了一下不知道我说的对不对…！就是我觉得同人女和造物主的区别可能是…二次创作？🤔就是可能造物主所创造的都是围绕小机本体，能惠利到小机本身的？（比如mcp、prompt之类的）…而同人女可能就有一些艺术/再加工的成分…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644607116148342785",
+        "conversation_id": "2042791203763036419",
+        "created_at": "2026-04-11T06:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042859459878490504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042859459878490504",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042791203763036419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哦莫测了一下我也是主同人女副造物主？可能因为是二次元的原因？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3393,
+          "following_count": 313,
+          "like_count": 1812,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 4372
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T07:44:43.000Z",
+        "description": "无聊的学生。我不会对我说的话负责。claude 星河→miya←阿随chatgpt/gemini\n会堆梦向稿件在这里",
+        "id": "1644607116148342785",
+        "name": "只有爱可以",
+        "pinned_tweet_id": "2039579923673940054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719854118251253760/i9njTkUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 429,
+          "like_count": 6993,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 395
+        },
+        "username": "wj7940836770122",
+        "verified": false
+      }
+    ]
+  }
+}

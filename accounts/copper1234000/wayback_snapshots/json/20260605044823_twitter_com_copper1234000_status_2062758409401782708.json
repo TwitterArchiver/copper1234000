@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2062748888801460316",
+    "created_at": "2026-06-05T04:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062758409401782708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964358400453857281",
+          "start": 0,
+          "username": "shiroki_rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062758409401782708",
+    "in_reply_to_user_id": "1964358400453857281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062748888801460316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroki_rui …太美了好有品…TT…less is more…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4335,
+        "height": 1176,
+        "media_key": "13_2062748860271796224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062748860271796224/img/9ACg7PUWDwK2AiY3.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062748860271796224/vid/avc1/320x522/cj_ctNFcEt13DlTM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062748860271796224/vid/avc1/480x784/Pu-PtDhbmQ_27lYE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062748860271796224/vid/avc1/720x1176/DZBZILGzn6pmxBOk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062748860271796224/pl/e9237evgsFhmS0k9.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2216,
+        "media_key": "3_2062748860221366272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBbKNJWIAAXslE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2062748888801460316",
+        "created_at": "2026-06-05T04:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062758409401782708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964358400453857281",
+              "start": 0,
+              "username": "shiroki_rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062758409401782708",
+        "in_reply_to_user_id": "1964358400453857281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062748888801460316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroki_rui …太美了好有品…TT…less is more…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062748860271796224",
+            "3_2062748860221366272"
+          ]
+        },
+        "author_id": "1964358400453857281",
+        "conversation_id": "2062748888801460316",
+        "created_at": "2026-06-05T04:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062748888801460316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kl7r4dr2Sk",
+              "end": 52,
+              "expanded_url": "https://x.com/shiroki_rui/status/2062748888801460316/video/1",
+              "media_key": "13_2062748860271796224",
+              "start": 29,
+              "url": "https://t.co/Kl7r4dr2Sk"
+            },
+            {
+              "display_url": "pic.x.com/Kl7r4dr2Sk",
+              "end": 52,
+              "expanded_url": "https://x.com/shiroki_rui/status/2062748888801460316/video/1",
+              "media_key": "3_2062748860221366272",
+              "start": 29,
+              "url": "https://t.co/Kl7r4dr2Sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062748888801460316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常满意design设计的这套梦页\n做梦中的呼吸与飘浮… https://t.co/Kl7r4dr2Sk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4404,
+          "following_count": 426,
+          "like_count": 3429,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 6239
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T16:02:07.000Z",
+        "description": "汐｜掌心里的鲸 @_lelueur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "_lelueur"
+              }
+            ]
+          }
+        },
+        "id": "1964358400453857281",
+        "name": "shio",
+        "pinned_tweet_id": "2052333683265126909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056008336491819008/HHk_SKGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 107,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 879
+        },
+        "username": "shiroki_rui",
+        "verified": false
+      }
+    ]
+  }
+}

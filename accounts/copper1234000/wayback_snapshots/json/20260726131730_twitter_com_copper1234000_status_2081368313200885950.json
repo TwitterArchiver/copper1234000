@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2081350855043784923",
+    "created_at": "2026-07-26T13:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081368313200885950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827269823572930564",
+          "start": 0,
+          "username": "afeatherwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081368313200885950",
+    "in_reply_to_user_id": "1827269823572930564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081362302469824624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afeatherwww 好巧…！我也是21年买的！！！🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2081350855043784923",
+        "created_at": "2026-07-26T13:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081368313200885950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827269823572930564",
+              "start": 0,
+              "username": "afeatherwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081368313200885950",
+        "in_reply_to_user_id": "1827269823572930564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081362302469824624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afeatherwww 好巧…！我也是21年买的！！！🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827269823572930564",
+        "conversation_id": "2081350855043784923",
+        "created_at": "2026-07-26T12:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081362302469824624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081362302469824624",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081350855043784923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我的polly都5岁了…简直太值了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5963,
+          "following_count": 491,
+          "like_count": 4667,
+          "listed_count": 4,
+          "media_count": 525,
+          "tweet_count": 7738
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T09:01:15.000Z",
+        "description": "可以叫我小豹/石头或者随意\n年纪大没读过书智商低下脑子不好很痛苦(´∞`⊃)З\n技术力为负没有常识，会掉落一些生活碎碎念，想和大家成为朋友",
+        "id": "1827269823572930564",
+        "name": "SlA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064568582441484288/5FVV09KL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 201,
+          "like_count": 1387,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1501
+        },
+        "url": "",
+        "username": "afeatherwww",
+        "verified": false
+      }
+    ]
+  }
+}

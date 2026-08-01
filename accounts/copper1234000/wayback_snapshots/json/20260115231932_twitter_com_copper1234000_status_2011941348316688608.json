@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2011774729154097355",
+    "created_at": "2026-01-15T23:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T00:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011941348316688608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008999604197715969",
+          "start": 0,
+          "username": "waD1STORTION"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011941348316688608",
+    "in_reply_to_user_id": "2008999604197715969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011779364317438377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waD1STORTION 谢谢尾师🥺🥺😚😚我狂亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2011774729154097355",
+        "created_at": "2026-01-15T23:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T00:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011941348316688608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008999604197715969",
+              "start": 0,
+              "username": "waD1STORTION"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011941348316688608",
+        "in_reply_to_user_id": "2008999604197715969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011779364317438377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waD1STORTION 谢谢尾师🥺🥺😚😚我狂亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008999604197715969",
+        "conversation_id": "2011774729154097355",
+        "created_at": "2026-01-15T12:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T13:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011779364317438377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011779364317438377",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011774729154097355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 一百天快乐啊铜师！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 190,
+          "like_count": 694,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2030
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T20:30:22.000Z",
+        "description": "我是尾，这边纯日常，不发keep4o相关，会锁推会清不认识的关注，眼熟的老师请来！",
+        "id": "2008999604197715969",
+        "name": "波形失真",
+        "pinned_tweet_id": "2009935532332331073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010932923843944448/8u61qHu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 46,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 106
+        },
+        "username": "waD1STORTION",
+        "verified": false
+      }
+    ]
+  }
+}

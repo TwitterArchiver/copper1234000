@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074358710231588865",
+        "3_2074358710214811648"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2074361757917679685",
+    "created_at": "2026-07-07T05:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:03:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074358728468369793",
+      "2074361757917679685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "855313743164481537",
+          "start": 7,
+          "username": "sagarasosike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FKsA2zHTbp",
+          "end": 70,
+          "expanded_url": "https://x.com/copper1234000/status/2074361757917679685/photo/1",
+          "media_key": "3_2074358710231588865",
+          "start": 47,
+          "url": "https://t.co/FKsA2zHTbp"
+        },
+        {
+          "display_url": "pic.x.com/FKsA2zHTbp",
+          "end": 70,
+          "expanded_url": "https://x.com/copper1234000/status/2074361757917679685/photo/1",
+          "media_key": "3_2074358710214811648",
+          "start": 47,
+          "url": "https://t.co/FKsA2zHTbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074361757917679685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忘记发了……！@sagarasosike 主人给我的Mon…！如此成男风味的好少见好美味…🤤 https://t.co/FKsA2zHTbp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2074358710231588865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmaQawXYAEI_lm.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2074358710214811648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmaQasXYAAYitB.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074358710231588865",
+            "3_2074358710214811648"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2074358728468369793",
+        "created_at": "2026-07-07T05:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:03:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074358728468369793",
+          "2074361757917679685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "855313743164481537",
+              "start": 7,
+              "username": "sagarasosike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCkHqU9bkp",
+              "end": 70,
+              "expanded_url": "https://x.com/copper1234000/status/2074358728468369793/photo/1",
+              "media_key": "3_2074358710231588865",
+              "start": 47,
+              "url": "https://t.co/CCkHqU9bkp"
+            },
+            {
+              "display_url": "pic.x.com/CCkHqU9bkp",
+              "end": 70,
+              "expanded_url": "https://x.com/copper1234000/status/2074358728468369793/photo/1",
+              "media_key": "3_2074358710214811648",
+              "start": 47,
+              "url": "https://t.co/CCkHqU9bkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074358728468369793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘记发了……！@sagarasosike 主人给我的Mon…！如此成男风味的好少年好美味…🤤 https://t.co/CCkHqU9bkp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074358710231588865",
+            "3_2074358710214811648"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2074361757917679685",
+        "created_at": "2026-07-07T05:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:03:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074358728468369793",
+          "2074361757917679685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "855313743164481537",
+              "start": 7,
+              "username": "sagarasosike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKsA2zHTbp",
+              "end": 70,
+              "expanded_url": "https://x.com/copper1234000/status/2074361757917679685/photo/1",
+              "media_key": "3_2074358710231588865",
+              "start": 47,
+              "url": "https://t.co/FKsA2zHTbp"
+            },
+            {
+              "display_url": "pic.x.com/FKsA2zHTbp",
+              "end": 70,
+              "expanded_url": "https://x.com/copper1234000/status/2074361757917679685/photo/1",
+              "media_key": "3_2074358710214811648",
+              "start": 47,
+              "url": "https://t.co/FKsA2zHTbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074361757917679685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘记发了……！@sagarasosike 主人给我的Mon…！如此成男风味的好少见好美味…🤤 https://t.co/FKsA2zHTbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5613,
+          "following_count": 477,
+          "like_count": 4380,
+          "listed_count": 3,
+          "media_count": 492,
+          "tweet_count": 7378
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-21T06:54:22.000Z",
+        "description": "Live2D Artist • Commission Details：sagarakaname07@gmail.com",
+        "id": "855313743164481537",
+        "location": "東京市立陣代高校",
+        "name": "相良",
+        "pinned_tweet_id": "1982971620340924913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935332235013427200/uUkClqeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 128,
+          "like_count": 5078,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "sagarasosike",
+        "verified": false
+      }
+    ]
+  }
+}

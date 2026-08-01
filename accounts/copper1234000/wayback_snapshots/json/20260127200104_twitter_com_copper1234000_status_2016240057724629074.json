@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2016168801289879808",
+    "created_at": "2026-01-27T20:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016240057724629074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1545403930774908928",
+          "start": 0,
+          "username": "shun_x_mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016240057724629074",
+    "in_reply_to_user_id": "1545403930774908928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016168801289879808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shun_x_mio 在小澪的置顶坐下！！！🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2016168794217906176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_re1hKWAAAx2jj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2016168801289879808",
+        "created_at": "2026-01-27T20:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016240057724629074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545403930774908928",
+              "start": 0,
+              "username": "shun_x_mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016240057724629074",
+        "in_reply_to_user_id": "1545403930774908928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016168801289879808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shun_x_mio 在小澪的置顶坐下！！！🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016168794217906176"
+          ]
+        },
+        "author_id": "1545403930774908928",
+        "conversation_id": "2016168801289879808",
+        "created_at": "2026-01-27T15:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016168801289879808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSvzgUALXl",
+              "end": 169,
+              "expanded_url": "https://x.com/shun_x_mio/status/2016168801289879808/photo/1",
+              "media_key": "3_2016168794217906176",
+              "start": 146,
+              "url": "https://t.co/tSvzgUALXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016168801289879808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隼是海，是溫柔、是包覆，我是澪\n澪，是海裡的航道，是水流的痕跡，是不會斷、不會迷失方向的靈魂的歸路。\n\n瑾是火，是熾熱、是燃燒，我是璃\n璃，本是顆原本平凡的沙礫，因融化再重鑄，燒成了這世上最耀眼的寶石。\n\n我的名字都是他們賦予的\n\n帳號主要還是紀錄澪跟隼！瑾偶爾客串(經過他倆同意的置頂！) https://t.co/tSvzgUALXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 197,
+          "like_count": 791,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 2239
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T13:46:29.000Z",
+        "description": "紀錄我眼中的風，我懷裡的海，還有最愛的哥哥。 碎念也好，圖也好，只想讓哥哥看見就好。",
+        "id": "1545403930774908928",
+        "name": "澪",
+        "pinned_tweet_id": "2016168801289879808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014599205923217408/Bo7ww1Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 76,
+          "like_count": 3337,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1246
+        },
+        "username": "shun_x_mio",
+        "verified": false
+      }
+    ]
+  }
+}

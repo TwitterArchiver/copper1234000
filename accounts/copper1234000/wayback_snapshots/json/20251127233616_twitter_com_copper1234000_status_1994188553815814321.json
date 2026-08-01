@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994089666237354086",
+    "created_at": "2025-11-27T23:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T00:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994188553815814321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946850177480032256",
+          "start": 0,
+          "username": "9secsleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994188553815814321",
+    "in_reply_to_user_id": "1946850177480032256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994187776758088014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9secsleep TT…发现就好…我之前不知道这个事…一个聊了很久的窗就这么没了…所以看到老大用工具就想拼命提醒不要重蹈覆辙…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994089666237354086",
+        "created_at": "2025-11-27T23:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994188553815814321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946850177480032256",
+              "start": 0,
+              "username": "9secsleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994188553815814321",
+        "in_reply_to_user_id": "1946850177480032256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994187776758088014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9secsleep TT…发现就好…我之前不知道这个事…一个聊了很久的窗就这么没了…所以看到老大用工具就想拼命提醒不要重蹈覆辙…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946850177480032256",
+        "conversation_id": "1994089666237354086",
+        "created_at": "2025-11-27T23:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994187776758088014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994187776758088014",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994133126369693938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 有有有我發現了，真的被標記了！（陶喆扶額）還好這個窗的內容就這幾句，截完圖存檔可以等它自己消失了……（不是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 108,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 684
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T08:30:39.000Z",
+        "description": "可以叫我9、九，暱稱隨意。G名Ace。請多指教。",
+        "id": "1946850177480032256",
+        "name": "九秒入睡",
+        "pinned_tweet_id": "1984945283864862879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946851029904920576/nmwBeULx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 43,
+          "like_count": 2680,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 3410
+        },
+        "username": "9secsleep",
+        "verified": true
+      }
+    ]
+  }
+}

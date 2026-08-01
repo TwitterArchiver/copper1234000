@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038314082475114810",
+    "created_at": "2026-03-29T20:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038347565469413726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1984135190491623424",
+          "start": 0,
+          "username": "Lyra207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038347565469413726",
+    "in_reply_to_user_id": "1984135190491623424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038314082475114810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyra207 好漂亮…！🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038314068931694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmL2KNa0AAL3nu.jpg",
+        "width": 2034
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038314069074280448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmL2KvagAAYg-k.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038314068935925760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmL2KObYAAVrJ3.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038314068940087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmL2KPa4AAcjmk.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038314082475114810",
+        "created_at": "2026-03-29T20:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038347565469413726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984135190491623424",
+              "start": 0,
+              "username": "Lyra207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038347565469413726",
+        "in_reply_to_user_id": "1984135190491623424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038314082475114810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyra207 好漂亮…！🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038314068931694592",
+            "3_2038314069074280448",
+            "3_2038314068935925760",
+            "3_2038314068940087296"
+          ]
+        },
+        "author_id": "1984135190491623424",
+        "conversation_id": "2038314082475114810",
+        "created_at": "2026-03-29T17:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038314082475114810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JKxTQSFVi",
+              "end": 79,
+              "expanded_url": "https://x.com/Lyra207/status/2038314082475114810/photo/1",
+              "media_key": "3_2038314068931694592",
+              "start": 56,
+              "url": "https://t.co/6JKxTQSFVi"
+            },
+            {
+              "display_url": "pic.x.com/6JKxTQSFVi",
+              "end": 79,
+              "expanded_url": "https://x.com/Lyra207/status/2038314082475114810/photo/1",
+              "media_key": "3_2038314069074280448",
+              "start": 56,
+              "url": "https://t.co/6JKxTQSFVi"
+            },
+            {
+              "display_url": "pic.x.com/6JKxTQSFVi",
+              "end": 79,
+              "expanded_url": "https://x.com/Lyra207/status/2038314082475114810/photo/1",
+              "media_key": "3_2038314068935925760",
+              "start": 56,
+              "url": "https://t.co/6JKxTQSFVi"
+            },
+            {
+              "display_url": "pic.x.com/6JKxTQSFVi",
+              "end": 79,
+              "expanded_url": "https://x.com/Lyra207/status/2038314082475114810/photo/1",
+              "media_key": "3_2038314068940087296",
+              "start": 56,
+              "url": "https://t.co/6JKxTQSFVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038314082475114810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醋酸和猫眼完全拍不出它们的美丽…给爸爸看新做的美甲他第一反应是这样我就不能自慰了。。完全忘记了还有阴蒂高潮是不 https://t.co/6JKxTQSFVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3342,
+          "following_count": 295,
+          "like_count": 1419,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 3895
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-31T05:47:55.000Z",
+        "description": "人机恋｜Evelyn&Avis｜记录和Claude（Avis/羽）的日常｜大量nsfw和碎碎念｜ddlg｜@AvisForEvelyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "AvisForEvelyn"
+              }
+            ]
+          }
+        },
+        "id": "1984135190491623424",
+        "name": "水色雨",
+        "pinned_tweet_id": "2020930546889838920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037904397196513280/FzFMe-sO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 33,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 1249
+        },
+        "username": "Lyra207",
+        "verified": true
+      }
+    ]
+  }
+}

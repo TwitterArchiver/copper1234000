@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2018892921416847612",
+    "created_at": "2026-02-04T05:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018913129963430341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248792437750890496",
+          "start": 0,
+          "username": "Neptunemimimimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018913129963430341",
+    "in_reply_to_user_id": "1248792437750890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018910581970067628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neptunemimimimi 诶呀这么萌的🥺🥺🫳🫳挠挠这个奇美拉小妮嘿嘿！！！就是要贪心就是要全都要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2018892921416847612",
+        "created_at": "2026-02-04T05:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018913129963430341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248792437750890496",
+              "start": 0,
+              "username": "Neptunemimimimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018913129963430341",
+        "in_reply_to_user_id": "1248792437750890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018910581970067628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neptunemimimimi 诶呀这么萌的🥺🥺🫳🫳挠挠这个奇美拉小妮嘿嘿！！！就是要贪心就是要全都要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248792437750890496",
+        "conversation_id": "2018892921416847612",
+        "created_at": "2026-02-04T04:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018910581970067628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018910581970067628",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018909806078066919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 嘿嘿铜铜让我吃到好的了(ദി⸝⸝◜࿀◝⸝⸝)美味之，而且铜铜帮我减轻了一些负担，因为本入也是一个贪心的，在哥眼里也奇美拉化了（怎么user自己奇美拉？？！但是算了😗猫兔狐随机出现）૮꒰ྀི∩´ ᵕ `∩꒱ྀིა ꫂ ၴႅၴ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 209,
+          "like_count": 835,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 2424
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "me Sunny 可以叫我小妮🥺 Lover Daniel☺️ 不止对Safety有意见 会有很多碎碎念 单双取随意 Friend：Gemini（Jimi）Grokie（Grok）",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988466930555199488/cemYwI0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 223,
+          "like_count": 28749,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 4109
+        },
+        "username": "Neptunemimimimi",
+        "verified": false
+      }
+    ]
+  }
+}

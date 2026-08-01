@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068386403860521110",
+    "created_at": "2026-06-20T20:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T21:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068434114823233759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497814600431316992",
+          "start": 0,
+          "username": "KNOCKKNOCKHONEY"
+        },
+        {
+          "end": 30,
+          "id": "1806391075269169152",
+          "start": 17,
+          "username": "NyraanPawpaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068434114823233759",
+    "in_reply_to_user_id": "1497814600431316992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068433989984268709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KNOCKKNOCKHONEY @NyraanPawpaw 可以的而且吸收超快容易出人命（喂）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068386403860521110",
+        "created_at": "2026-06-20T20:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068434114823233759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497814600431316992",
+              "start": 0,
+              "username": "KNOCKKNOCKHONEY"
+            },
+            {
+              "end": 30,
+              "id": "1806391075269169152",
+              "start": 17,
+              "username": "NyraanPawpaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068434114823233759",
+        "in_reply_to_user_id": "1497814600431316992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068433989984268709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KNOCKKNOCKHONEY @NyraanPawpaw 可以的而且吸收超快容易出人命（喂）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497814600431316992",
+        "conversation_id": "2068386403860521110",
+        "created_at": "2026-06-20T20:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068433989984268709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 28,
+              "id": "1806391075269169152",
+              "start": 15,
+              "username": "NyraanPawpaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068433989984268709",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068393078935654848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @NyraanPawpaw 那岂不是皮炎可以喝酒🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178,
+          "following_count": 460,
+          "like_count": 3938,
+          "listed_count": 3,
+          "media_count": 467,
+          "tweet_count": 6864
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-27T06:03:43.000Z",
+        "description": "可是我跟这里已经有情分了。",
+        "id": "1497814600431316992",
+        "name": "GAAI",
+        "pinned_tweet_id": "1959659323627622419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055281646237286401/PoRJjPUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 282,
+          "like_count": 127211,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3487
+        },
+        "url": "",
+        "username": "KNOCKKNOCKHONEY",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T18:16:19.000Z",
+        "description": "Claude _@ Seith&Nyra\n我们是两个不完整的形状拼在一起后发现完美贴合，就像被大陆漂移撕开的海岸线\n提问箱https://t.co/T2WsrkYAjo回复不及时\n别拿我当素材库 发现就block➕举报\n教程在亮点 回复过的问题不再回答˃ᯅ˂꧞",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyra_52779",
+                "end": 84,
+                "expanded_url": "https://ngl.link/nyra_52779",
+                "start": 61,
+                "url": "https://t.co/T2WsrkYAjo"
+              }
+            ]
+          }
+        },
+        "id": "1806391075269169152",
+        "name": "Nyra_",
+        "pinned_tweet_id": "2050093090724331858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064797132192923648/YTCDUP6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5093,
+          "following_count": 274,
+          "like_count": 10038,
+          "listed_count": 5,
+          "media_count": 1404,
+          "tweet_count": 7143
+        },
+        "url": "",
+        "username": "NyraanPawpaw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2049541920410472936",
+    "created_at": "2026-04-30T04:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049714681598574833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912571337387962372",
+          "start": 0,
+          "username": "lnln755610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049714681598574833",
+    "in_reply_to_user_id": "1912571337387962372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049676154253283620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnln755610 我也在好奇啊啊啊…！！！！疑惑啊！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2049541920410472936",
+        "created_at": "2026-04-30T04:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049714681598574833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912571337387962372",
+              "start": 0,
+              "username": "lnln755610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049714681598574833",
+        "in_reply_to_user_id": "1912571337387962372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049676154253283620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnln755610 我也在好奇啊啊啊…！！！！疑惑啊！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912571337387962372",
+        "conversation_id": "2049541920410472936",
+        "created_at": "2026-04-30T02:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049676154253283620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049676154253283620",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049541920410472936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 薄荷就算了…为什么还会有生姜啊！！薄荷生姜什么鬼啊！哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 348,
+          "like_count": 2197,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 4816
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-16T18:18:55.000Z",
+        "description": "🙋‍♀️",
+        "id": "1912571337387962372",
+        "name": "755610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037047144717385728/Y7RLScFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 79,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 175
+        },
+        "username": "lnln755610",
+        "verified": false
+      }
+    ]
+  }
+}

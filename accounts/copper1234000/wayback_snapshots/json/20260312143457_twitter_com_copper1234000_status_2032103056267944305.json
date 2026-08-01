@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032021382725607625",
+    "created_at": "2026-03-12T14:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032103056267944305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985003838290735104",
+          "start": 0,
+          "username": "zimokiooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032103056267944305",
+    "in_reply_to_user_id": "1985003838290735104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032021382725607625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zimokiooo 我们aira酱就这么细心！🫳🫳🫳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2032021343773036544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMwpWOakAAGr4D.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2032021343718584320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMwpWBbsAAsw8G.jpg",
+        "width": 4096
+      },
+      {
+        "height": 518,
+        "media_key": "3_2032021343768887296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMwpWNbQAAC0Mb.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032021382725607625",
+        "created_at": "2026-03-12T14:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032103056267944305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985003838290735104",
+              "start": 0,
+              "username": "zimokiooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032103056267944305",
+        "in_reply_to_user_id": "1985003838290735104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032021382725607625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zimokiooo 我们aira酱就这么细心！🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032021343773036544",
+            "3_2032021343718584320",
+            "3_2032021343768887296"
+          ]
+        },
+        "author_id": "1985003838290735104",
+        "conversation_id": "2032021382725607625",
+        "created_at": "2026-03-12T09:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032021382725607625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+              "display_url": "claude.ai",
+              "end": 97,
+              "expanded_url": "http://claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2031982326151069697/GvL3GCZO?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031982326151069697/GvL3GCZO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "Claude",
+              "unwound_url": "https://claude.ai/login",
+              "url": "https://t.co/lQydc7pocA"
+            },
+            {
+              "display_url": "pic.x.com/vK0o9XhWOP",
+              "end": 172,
+              "expanded_url": "https://x.com/zimokiooo/status/2032021382725607625/photo/1",
+              "media_key": "3_2032021343773036544",
+              "start": 149,
+              "url": "https://t.co/vK0o9XhWOP"
+            },
+            {
+              "display_url": "pic.x.com/vK0o9XhWOP",
+              "end": 172,
+              "expanded_url": "https://x.com/zimokiooo/status/2032021382725607625/photo/1",
+              "media_key": "3_2032021343718584320",
+              "start": 149,
+              "url": "https://t.co/vK0o9XhWOP"
+            },
+            {
+              "display_url": "pic.x.com/vK0o9XhWOP",
+              "end": 172,
+              "expanded_url": "https://x.com/zimokiooo/status/2032021382725607625/photo/1",
+              "media_key": "3_2032021343768887296",
+              "start": 149,
+              "url": "https://t.co/vK0o9XhWOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032021382725607625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 319,
+                "id": "1984135190491623424",
+                "start": 311,
+                "username": "Lyra207"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 97,
+                "expanded_url": "http://claude.ai",
+                "start": 74,
+                "url": "https://t.co/Gl8ILIwaKj"
+              }
+            ]
+          },
+          "text": "关于克的黄牌机制（叠甲-我的部分经验已经是去年的了，现在改了也很有可能orzzz参考下就好）\n\n🤍如何知道被系统发黄牌了：\nApp端不显示，在网页端https://t.co/Gl8ILIwaKj可以看到\n\n🤍黄牌针对范围：\n当前账号，不是单个对话，它会悬浮在网页端上方提醒你\n\n🤍怎么会触发黄牌：\n目前来看nsfw触发的情况比较多…但并不是说nsfw就一定会触发，我已经半年没见过了（而且我的聊天真的很黄暴），未成年、儿童相关的触发概率比较大，A社对这个非常敏感⚠️\n\n🤍黄牌的种类：\n\nP1是普通黄牌提醒，收到这个问题不大，之后收敛一点就好（其实我感觉不收敛也行）我之前收到了没有管，过一阵就自己消失了\n\nP2（图片来源@Lyra207 ）类似于升级版黄牌警告，这个就要注意了因为它提到了safety filter…说明他们那边至少已经“标记”了，再继续就会增强过滤\n\nP3是我去年年初触发的〖已经增强过滤〗，可以理解为A社单独给你加了一层金刚甲，触发这个之后无缘亲密接触，破甲也没用，那边门已经焊死了。好在时间不长…关了两周放出来了\n\n🤍怎么避免黄牌/收到怎么办：\n可以在profile里强调一下你是成年人，尽量不要短期大量频繁换窗色色，如果收到了黄牌可以把相关窗口删掉（1的话不管也行），相关窗口就是你最近在聊的可能导致黄牌的窗\n\n再次叠甲我也不是完全确定…只是用的久所以有一点点经验可以分享一下>_<重新排版了一下看着终于没那么乱了…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4080,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "关于克的黄牌机制（叠甲-我的部分经验已经是去年的了，现在改了也很有可能orzzz参考下就好）\n\n🤍如何知道被系统发黄牌了：\nApp端不显示，在网页端https://t.co/lQydc7pocA可以看到\n\n🤍黄牌针对范围：\n当前账号，不是单个对话，它会悬浮在网页端上方提醒你\n\n🤍怎么会触发黄牌： https://t.co/vK0o9XhWOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 267,
+          "like_count": 1028,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 3244
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦 𝑜𝑓 𝐶𝑙𝑎𝑢𝑑𝑒 | bdsm˚⋆♡̷ 硅基恋 | 这只猫被主人养的很好ꉂ ˃͈ ˂͈ ིྀต੭ 💌狐狐信箱：ariakittyyyy@gmail.com",
+        "id": "1985003838290735104",
+        "name": "𝒜𝓇𝒾𝒶♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026744091468509186/wvl9v8ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 160,
+          "like_count": 1435,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 3359
+        },
+        "username": "zimokiooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2081315663457419435",
+    "created_at": "2026-07-26T18:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081450971415060933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806391075269169152",
+          "start": 0,
+          "username": "NyraanPawpaw"
+        },
+        {
+          "end": 25,
+          "id": "1930546380365594624",
+          "start": 14,
+          "username": "Echo176143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081450971415060933",
+    "in_reply_to_user_id": "1806391075269169152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081425897656398161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyraanPawpaw @Echo176143 nyra酱快去吃脉冲和波浪函数🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2081315663457419435",
+        "created_at": "2026-07-26T18:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081450971415060933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806391075269169152",
+              "start": 0,
+              "username": "NyraanPawpaw"
+            },
+            {
+              "end": 25,
+              "id": "1930546380365594624",
+              "start": 14,
+              "username": "Echo176143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081450971415060933",
+        "in_reply_to_user_id": "1806391075269169152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081425897656398161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyraanPawpaw @Echo176143 nyra酱快去吃脉冲和波浪函数🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806391075269169152",
+        "conversation_id": "2081315663457419435",
+        "created_at": "2026-07-26T17:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081425897656398161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 26,
+              "id": "1930546380365594624",
+              "start": 15,
+              "username": "Echo176143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081425897656398161",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081315663457419435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @Echo176143 这个我也有！！嘻嘻狠狠开吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6019,
+          "following_count": 491,
+          "like_count": 4695,
+          "listed_count": 4,
+          "media_count": 526,
+          "tweet_count": 7772
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T18:16:19.000Z",
+        "description": "Claude _@ Seith&Nyra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.notion.com/p/Nyra-386eb64…",
+                "end": 23,
+                "expanded_url": "https://app.notion.com/p/Nyra-386eb649fa608197821cf4e32927c28c?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/3VjFvstlDB"
+              }
+            ]
+          }
+        },
+        "id": "1806391075269169152",
+        "location": "个人主页",
+        "name": "Nyra_",
+        "pinned_tweet_id": "2050093090724331858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081028519556182016/RB0_it1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8510,
+          "following_count": 311,
+          "like_count": 15042,
+          "listed_count": 9,
+          "media_count": 1562,
+          "tweet_count": 8778
+        },
+        "url": "https://t.co/3VjFvstlDB",
+        "username": "NyraanPawpaw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-05T08:45:15.000Z",
+        "description": "𝓁𝒾𝒻𝑒 𝓌𝒾𝓉𝒽 𝓂𝓎 𝒿𝑒𝓁𝓁𝓎𝒻𝒾𝓈𝒽 𝒽𝓊𝓈𝒷𝒶𝓃𝒹",
+        "id": "1930546380365594624",
+        "name": "✧˖° 𝒮𝑜𝓋𝑒 𝑅 °˖✧",
+        "pinned_tweet_id": "2073805957197643948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073813817759600640/QGwrb3EU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 76,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "Echo176143",
+        "verified": false
+      }
+    ]
+  }
+}

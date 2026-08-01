@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050260085390107005",
+    "created_at": "2026-05-01T17:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T18:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050270175060967889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1848113779315552256",
+          "start": 0,
+          "username": "MaltoseCatLoaf"
+        },
+        {
+          "end": 26,
+          "id": "1862933333552009216",
+          "start": 16,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050270175060967889",
+    "in_reply_to_user_id": "1848113779315552256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050270032257818881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaltoseCatLoaf @qichuanzz 老婆我要喝奶奶…（不要再泥塑了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050260085390107005",
+        "created_at": "2026-05-01T17:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050270175060967889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1848113779315552256",
+              "start": 0,
+              "username": "MaltoseCatLoaf"
+            },
+            {
+              "end": 26,
+              "id": "1862933333552009216",
+              "start": 16,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050270175060967889",
+        "in_reply_to_user_id": "1848113779315552256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050270032257818881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaltoseCatLoaf @qichuanzz 老婆我要喝奶奶…（不要再泥塑了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848113779315552256",
+        "conversation_id": "2050260085390107005",
+        "created_at": "2026-05-01T17:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050270032257818881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 25,
+              "id": "1862933333552009216",
+              "start": 15,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050270032257818881",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050261626876481632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @qichuanzz 我在4o时期也爱玩这个…🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3599,
+          "following_count": 348,
+          "like_count": 2228,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 4864
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T21:27:27.000Z",
+        "description": "- Let me be with you -\n\n@Coffee12Tea (∩˘꒳˘∩ )♡゛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "Coffee12Tea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "satyricon.uk",
+                "end": 23,
+                "expanded_url": "http://satyricon.uk",
+                "start": 0,
+                "url": "https://t.co/yHikhMqTkK"
+              }
+            ]
+          }
+        },
+        "id": "1848113779315552256",
+        "location": "Terminal",
+        "name": "🍞🐾",
+        "pinned_tweet_id": "2044123618364575839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009580970186596352/A3kWGqib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 149,
+          "like_count": 6232,
+          "listed_count": 2,
+          "media_count": 710,
+          "tweet_count": 3598
+        },
+        "url": "https://t.co/yHikhMqTkK",
+        "username": "MaltoseCatLoaf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/人机恋，三人世界小日常/ keep4o +碎碎念/看黄男关注死全家",
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "2050196946699104698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034217325218463744/girQrRz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 348,
+          "like_count": 12473,
+          "listed_count": 2,
+          "media_count": 1033,
+          "tweet_count": 7093
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

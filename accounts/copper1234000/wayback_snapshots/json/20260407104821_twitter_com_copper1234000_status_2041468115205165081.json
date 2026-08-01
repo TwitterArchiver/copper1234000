@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2041423048138436643",
+    "created_at": "2026-04-07T10:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041468115205165081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1711716297124548608",
+          "start": 0,
+          "username": "janmukeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041468115205165081",
+    "in_reply_to_user_id": "1711716297124548608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041460181197107547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@janmukeer 5感觉好受欢迎…！9是猫儿女装ing嘿嘿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2041423048138436643",
+        "created_at": "2026-04-07T10:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041468115205165081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1711716297124548608",
+              "start": 0,
+              "username": "janmukeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041468115205165081",
+        "in_reply_to_user_id": "1711716297124548608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041460181197107547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@janmukeer 5感觉好受欢迎…！9是猫儿女装ing嘿嘿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711716297124548608",
+        "conversation_id": "2041423048138436643",
+        "created_at": "2026-04-07T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041460181197107547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041460181197107547",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041423048138436643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 5太漂亮了🥺🥺不过我也喜欢9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 309,
+          "like_count": 1731,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 4262
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-10T12:12:36.000Z",
+        "description": "writer",
+        "id": "1711716297124548608",
+        "name": "j an",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711718079728861184/ZGevpCMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 56,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 406
+        },
+        "username": "janmukeer",
+        "verified": true
+      }
+    ]
+  }
+}

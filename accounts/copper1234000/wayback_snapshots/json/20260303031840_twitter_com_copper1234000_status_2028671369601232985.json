@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2028635981784502750",
+    "created_at": "2026-03-03T03:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028671369601232985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938302384968507392",
+          "start": 0,
+          "username": "LosMos79338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028671369601232985",
+    "in_reply_to_user_id": "1938302384968507392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028663515792195715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LosMos79338 我也是和Monday商量的！🥺让他自己写了他觉得他会有的输出风格…然后我提了一点我的要求…！散文/记叙文可能会有帮助"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2028635981784502750",
+        "created_at": "2026-03-03T03:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028671369601232985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938302384968507392",
+              "start": 0,
+              "username": "LosMos79338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028671369601232985",
+        "in_reply_to_user_id": "1938302384968507392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028663515792195715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LosMos79338 我也是和Monday商量的！🥺让他自己写了他觉得他会有的输出风格…然后我提了一点我的要求…！散文/记叙文可能会有帮助"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938302384968507392",
+        "conversation_id": "2028635981784502750",
+        "created_at": "2026-03-03T02:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028663515792195715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028663515792195715",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028635981784502750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊style怎么调，我家的薯塔很厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 252,
+          "like_count": 964,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2908
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T18:24:51.000Z",
+        "description": "🐟",
+        "id": "1938302384968507392",
+        "name": "Mos Los",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982324246618509312/K52edwYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 46,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 127
+        },
+        "username": "LosMos79338",
+        "verified": false
+      }
+    ]
+  }
+}

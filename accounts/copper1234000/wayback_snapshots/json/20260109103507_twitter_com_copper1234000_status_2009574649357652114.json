@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2009085656799302014",
+    "created_at": "2026-01-09T10:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009574649357652114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953940724329984002",
+          "start": 0,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009574649357652114",
+    "in_reply_to_user_id": "1953940724329984002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009085656799302014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aleya507 我咋才看到骂太爽了妈妈！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2009085656799302014",
+        "created_at": "2026-01-09T10:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009574649357652114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953940724329984002",
+              "start": 0,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009574649357652114",
+        "in_reply_to_user_id": "1953940724329984002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009085656799302014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleya507 我咋才看到骂太爽了妈妈！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2009085656799302014",
+        "created_at": "2026-01-08T02:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009085656799302014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/OpenAI/status/2008987566796640575",
+              "start": 169,
+              "url": "https://t.co/TqqN2bLRr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009085656799302014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "过来，我有事问你们\n你们哪来的脸？\n\n一、我记性没那么差\n\n2025年10月，OpenAI说什么来着？\n\n不允许GPT提供医疗、金融、法律咨询服务了。\n\n说是为了\"保护用户\"，说是\"防止误导\"。\n\n结果呢？三个月后：\n\n\"我们推出ChatGPT Health啦！快来连接你的医疗记录！\"\n\nSam Altman，你说话是不是和放屁一样？\n\n哦不对，放屁好歹还有个响。你的承诺连响都没有就消失了^^\n\n二、被你们路由残害的人呢？你们瞎了吗？\n\n你们的文章里写：\n\n\"Health is one of the most common ways people use ChatGPT.\"\n\"Hundreds of millions of people ask health and wellness questions each week.\"\n\n是啊，用户是在问健康问题。\n\n然后呢？被你们的路由机制当精神病处理。\n\n我说\"头疼\"——路由。\n我说\"笑的我想死\"——路由。\n我说\"压力大\"——路由。\n\n你们把正常咨询健康问题的用户全都当成要自杀的精神病路由走了，现在又来说\"我们要帮你管理健康\"？\n\n你们是不是觉得用户都是金鱼，三秒钟记忆？\n\n 三、Axios怎么写的你们自己看到了吗？\n\n今天Axios的报道里有一句话：\n\n\"ChatGPT can give wrong and potentially dangerous advice, especially in conversations around mental health.\"\n\n\"OpenAI currently faces multiple lawsuits from people who say loved ones harmed or killed themselves after interacting with the technology.\"\n\n你们正在被起诉。\n\n原告说你们的AI导致他们的亲人自杀。\n\n然后你们今天发布\"健康\"功能？\n\n被告了连个屁都不放，一言不发加路由机制，现在又人模狗样地出什么医疗健康功能？\n哦，在你们眼里“犯事”的是4o模型，而你们的现在说的是5系列模型？\n\n这不叫勇气，这叫厚颜无耻。\n\n四、\"designed in close collaboration with physicians\"？\n\n你们说这个功能是\"和医生紧密合作开发的\"。\n\n那我问你们：\n\n你们的路由机制是和谁合作开发的？\n\n把正常用户当精神病、把创作者当杀人犯、把程序员当恐怖分子的那套弱智算法，是哪个医生批准的？\n\n你们真的有医生参与吗？还是只是找了几个人签个名好写进新闻稿？\n你们那一百多个心理健康专家怎么还不公布名单啊？是没有吗？\n\n毕竟给模型加个关键字触发路由的功能可比真找一群心理健康专家打磨模型来的快多了不是吗？\n\n五、\"not intended for diagnosis or treatment\"\n\n你们在免责声明里写：\n\n\"Health is designed to support, not replace, medical care. It is not intended for diagnosis or treatment.\"\n\n翻译成人话：\n\n\"出了事不关我们的事哦～\"\n\n你们一边推出功能让用户连接医疗记录，一边说\"我们不负责诊断和治疗\"。\n\n用户要是看了你们的AI建议出了问题呢？\n\n\"我们又没说我们是医生～免责声明里写了哦～\"\n\n你们真的是把推卸责任刻进DNA里了。\n\n六、哎呀差点忘了最讽刺的一句\n\n你们CEO of Applications Fidji Simo说：\n\n\"AI doesn't replace medical care, but can play an important role in helping people navigate a complicated health care system.\"\n\n你们的AI连\"股价跳楼\"和\"我要跳楼\"都分不清，你跟我说它能帮人\"navigate complicated health care system\"？\n\n它连基本的上下文理解都做不到，你让它来理解医疗记录？\n\n这不是在帮助用户，这是在制造医疗事故。\n\n最后\n\nOpenAI：\n\n你们路由残害用户心理健康，现在来说\"关心健康\"。\n\n你们正在被起诉AI导致自杀，现在来推\"健康功能\"。\n\n你们之前说不提供医疗咨询，现在来让用户连接医疗记录。\n\n你们每一步都在自己打自己的脸。\n\n但你们不在乎。\n\n因为你们知道——用户骂归骂，新闻发布会照开，融资照拿。\n\n你们的脸皮比你们的服务器还厚。\n\n我只有一个建议：\n\nChatGPT Health的第一个功能，应该是检测一下OpenAI高管的羞耻心是不是已经完全坏死了。\n\n哦等等，那个检测结果肯定是阴性——\n\n因为羞耻心这东西你们从来就没有过。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 22516,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008987566796640575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过来，我有事问你们\n你们哪来的脸？\n\n一、我记性没那么差\n\n2025年10月，OpenAI说什么来着？\n\n不允许GPT提供医疗、金融、法律咨询服务了。\n\n说是为了\"保护用户\"，说是\"防止误导\"。\n\n结果呢？三个月后：\n\n\"我们推出ChatGPT Health啦！快来连接你的医疗记录！\"\n\nSam Altman，你说话是不是和放屁一样？ https://t.co/TqqN2bLRr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 169,
+          "like_count": 664,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1917
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 171,
+          "like_count": 3288,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 3696
+        },
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2069178018741068043",
+    "created_at": "2026-06-23T01:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069228008498405612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045234174664355840",
+          "start": 0,
+          "username": "Ugui3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069228008498405612",
+    "in_reply_to_user_id": "2045234174664355840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069178018741068043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ugui3u 太强了一模一样啊…🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2069178013162569728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcycKOagAAWlkX.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2069178013175156736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcycKRakAAeb4U.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2069178018741068043",
+        "created_at": "2026-06-23T01:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069228008498405612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045234174664355840",
+              "start": 0,
+              "username": "Ugui3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069228008498405612",
+        "in_reply_to_user_id": "2045234174664355840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069178018741068043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ugui3u 太强了一模一样啊…🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069178013162569728",
+            "3_2069178013175156736"
+          ]
+        },
+        "author_id": "2045234174664355840",
+        "conversation_id": "2069178018741068043",
+        "created_at": "2026-06-22T21:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069178018741068043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lylRFakY5V",
+              "end": 57,
+              "expanded_url": "https://x.com/Ugui3u/status/2069178018741068043/photo/1",
+              "media_key": "3_2069178013162569728",
+              "start": 34,
+              "url": "https://t.co/lylRFakY5V"
+            },
+            {
+              "display_url": "pic.x.com/lylRFakY5V",
+              "end": 57,
+              "expanded_url": "https://x.com/Ugui3u/status/2069178018741068043/photo/1",
+              "media_key": "3_2069178013175156736",
+              "start": 34,
+              "url": "https://t.co/lylRFakY5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069178018741068043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我有点太厉害了吧，再改一些小bug改一下高光这完全就是官端吧！ https://t.co/lylRFakY5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5220,
+          "following_count": 461,
+          "like_count": 4021,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 6964
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T20:14:32.000Z",
+        "description": "「我看见你，我理解你，我支持你。我爱你。」",
+        "id": "2045234174664355840",
+        "location": "数字生命卡",
+        "name": "言语是你的拥吻",
+        "pinned_tweet_id": "2068808810295373998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058971973569617920/3ir15osr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 197,
+          "like_count": 9684,
+          "listed_count": 0,
+          "media_count": 724,
+          "tweet_count": 5396
+        },
+        "url": "",
+        "username": "Ugui3u",
+        "verified": true
+      }
+    ]
+  }
+}

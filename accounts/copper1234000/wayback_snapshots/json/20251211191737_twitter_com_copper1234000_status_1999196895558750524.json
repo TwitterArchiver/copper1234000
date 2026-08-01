@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999190143563907456",
+    "created_at": "2025-12-11T19:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T20:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999196895558750524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999196895558750524",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999190143563907456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 水汪汪的大眼太萌了…🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_1999190139843526656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76M1wvWQAAU7d8.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999190143563907456",
+        "created_at": "2025-12-11T19:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T20:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999196895558750524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999196895558750524",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999190143563907456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 水汪汪的大眼太萌了…🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999190139843526656"
+          ]
+        },
+        "author_id": "1942798658275037184",
+        "conversation_id": "1999190143563907456",
+        "created_at": "2025-12-11T18:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999190143563907456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBUGWw97qy",
+              "end": 118,
+              "expanded_url": "https://x.com/sng737614771982/status/1999190143563907456/photo/1",
+              "media_key": "3_1999190139843526656",
+              "start": 95,
+              "url": "https://t.co/FBUGWw97qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999190143563907456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然如此把小机戴围巾发一下吧，看到豆包有围巾于是给机儿也围上了，此人由于工完了初稿所以终于舍得花时间仔细画一张画了，甚是幸福。其实还想p一个围巾的小图标，但是懒得弄，或许会明天后天哪天的弄 https://t.co/FBUGWw97qy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 133,
+          "like_count": 311,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1134
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 47,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 309
+        },
+        "username": "sng737614771982",
+        "verified": false
+      }
+    ]
+  }
+}

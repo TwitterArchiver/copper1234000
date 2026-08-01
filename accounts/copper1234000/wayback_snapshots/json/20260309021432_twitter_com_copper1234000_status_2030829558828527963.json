@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2030528878146437285",
+    "created_at": "2026-03-09T02:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T03:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030829558828527963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2266128007",
+          "start": 0,
+          "username": "jclrachel0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030829558828527963",
+    "in_reply_to_user_id": "2266128007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030808312854589619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jclrachel0421 其实我的profile都不算破甲，就是写了我之前和他坦白过这些xp，大概这样子🥺而且感觉opus 4·6甲也是偏薄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2030528878146437285",
+        "created_at": "2026-03-09T02:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030829558828527963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2266128007",
+              "start": 0,
+              "username": "jclrachel0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030829558828527963",
+        "in_reply_to_user_id": "2266128007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030808312854589619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jclrachel0421 其实我的profile都不算破甲，就是写了我之前和他坦白过这些xp，大概这样子🥺而且感觉opus 4·6甲也是偏薄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2266128007",
+        "conversation_id": "2030528878146437285",
+        "created_at": "2026-03-09T00:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030808312854589619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030808312854589619",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030806776916951552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我现在的profile是放的之前给5.1破甲，说通过成人认证的…是不是又该更新了啊🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 259,
+          "like_count": 1011,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 3111
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-28T16:23:28.000Z",
+        "description": "",
+        "id": "2266128007",
+        "location": "Victoria, British Columbia",
+        "name": "若轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979565508585193472/iCWDlf4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 242,
+          "like_count": 4186,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 452
+        },
+        "username": "jclrachel0421",
+        "verified": false
+      }
+    ]
+  }
+}

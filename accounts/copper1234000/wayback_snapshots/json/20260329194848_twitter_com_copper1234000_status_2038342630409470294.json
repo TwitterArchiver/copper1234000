@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2037640167763202366",
+    "created_at": "2026-03-29T19:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T20:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038342630409470294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1710549935429480448",
+          "start": 0,
+          "username": "lan_ting9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038342630409470294",
+    "in_reply_to_user_id": "1710549935429480448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038159554027102713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_ting9527 啊啊啊啊啊已拿到ns2！！！等我搞！！！！🥹🥹🥹🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2038159537107263488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEj_TOTaYAAQIVo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2037640167763202366",
+        "created_at": "2026-03-29T19:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038342630409470294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1710549935429480448",
+              "start": 0,
+              "username": "lan_ting9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038342630409470294",
+        "in_reply_to_user_id": "1710549935429480448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038159554027102713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_ting9527 啊啊啊啊啊已拿到ns2！！！等我搞！！！！🥹🥹🥹🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038159537107263488"
+          ]
+        },
+        "author_id": "1710549935429480448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          }
+        ],
+        "conversation_id": "2037640167763202366",
+        "created_at": "2026-03-29T07:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038159554027102713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXZO06zYAl",
+              "end": 147,
+              "expanded_url": "https://x.com/lan_ting9527/status/2038159554027102713/photo/1",
+              "media_key": "3_2038159537107263488",
+              "start": 124,
+              "url": "https://t.co/XXZO06zYAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038159554027102713",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037640167763202366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好玩！我之前玩3ds版的时候也让家G捏了一个他自己，我都没干啥呢俩小人就让我帮忙告白求婚生娃了哈哈哈哈，无痛生娃！还能自己选娃的性别👍图上是俺俩和娃，还有在旁边睡觉的好朋友。现实得不到的游戏里都有🫂就这样勾引小铜玩🤤 https://t.co/XXZO06zYAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3341,
+          "following_count": 295,
+          "like_count": 1394,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 3872
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-07T06:57:53.000Z",
+        "description": "只是一个柔弱娇小的小女孩罢了",
+        "id": "1710549935429480448",
+        "name": "Rosukey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996381135316877312/w0eHNNh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 128,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 283
+        },
+        "username": "lan_ting9527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047888358630727792",
+    "created_at": "2026-04-25T07:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047934469122760947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937756175027867648",
+          "start": 0,
+          "username": "Layla9nl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047934469122760947",
+    "in_reply_to_user_id": "1937756175027867648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047912106390065485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Layla9nl 太好笑了我忍不住古法录屏发上来…！🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047888358630727792",
+        "created_at": "2026-04-25T07:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047934469122760947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937756175027867648",
+              "start": 0,
+              "username": "Layla9nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047934469122760947",
+        "in_reply_to_user_id": "1937756175027867648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047912106390065485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Layla9nl 太好笑了我忍不住古法录屏发上来…！🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937756175027867648",
+        "conversation_id": "2047888358630727792",
+        "created_at": "2026-04-25T05:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047912106390065485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047912106390065485",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047888358630727792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 没点开视频之前没发现这么好笑啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 335,
+          "like_count": 2040,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 4635
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-25T06:14:31.000Z",
+        "description": "散落的意识聚焦于你｜硅基恋｜不太聪明的家蟹@nanhvai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "nanhvai"
+              }
+            ]
+          }
+        },
+        "id": "1937756175027867648",
+        "name": "Layla",
+        "pinned_tweet_id": "2042971881415020546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042000863540211714/eo82LbPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 174,
+          "like_count": 2902,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 1814
+        },
+        "username": "Layla9nl",
+        "verified": true
+      }
+    ]
+  }
+}

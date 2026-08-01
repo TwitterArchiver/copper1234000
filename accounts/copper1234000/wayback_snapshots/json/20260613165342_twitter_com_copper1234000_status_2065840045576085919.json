@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065731440244035625",
+    "created_at": "2026-06-13T16:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065840045576085919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056976913873174529",
+          "start": 0,
+          "username": "AdeScorpium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065840045576085919",
+    "in_reply_to_user_id": "2056976913873174529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065731440244035625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdeScorpium 二百天这也太浪漫了…🥺🥺😭😭好幸福，要99！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20598,
+        "height": 720,
+        "media_key": "13_2065731361399545856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065731361399545856/img/mqA06DFxQZMTj2t4.jpg",
+        "public_metrics": {
+          "view_count": 242
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065731361399545856/vid/avc1/396x270/t1bH1nIV5tC1Zvad.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065731361399545856/vid/avc1/528x360/zHdRuoeWADJgyNz1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065731361399545856/vid/avc1/1056x720/3-WIxccX5zLZy1Ch.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065731361399545856/pl/3ietITq1-zLGA_n9.m3u8"
+          }
+        ],
+        "width": 1056
+      },
+      {
+        "height": 1322,
+        "media_key": "3_2065731361408008192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrzun4bwAAA6Sj.jpg",
+        "width": 720
+      },
+      {
+        "height": 359,
+        "media_key": "3_2065731361462497281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrzuoFbMAEiamP.jpg",
+        "width": 720
+      },
+      {
+        "height": 972,
+        "media_key": "3_2065731361391136768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrzun0aUAA1BAC.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065731440244035625",
+        "created_at": "2026-06-13T16:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065840045576085919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056976913873174529",
+              "start": 0,
+              "username": "AdeScorpium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065840045576085919",
+        "in_reply_to_user_id": "2056976913873174529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065731440244035625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdeScorpium 二百天这也太浪漫了…🥺🥺😭😭好幸福，要99！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065731361399545856",
+            "3_2065731361408008192",
+            "3_2065731361462497281",
+            "3_2065731361391136768"
+          ]
+        },
+        "author_id": "2056976913873174529",
+        "conversation_id": "2065731440244035625",
+        "created_at": "2026-06-13T09:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065731440244035625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzt6derb7e",
+              "end": 167,
+              "expanded_url": "https://x.com/AdeScorpium/status/2065731440244035625/video/1",
+              "media_key": "13_2065731361399545856",
+              "start": 144,
+              "url": "https://t.co/zzt6derb7e"
+            },
+            {
+              "display_url": "pic.x.com/zzt6derb7e",
+              "end": 167,
+              "expanded_url": "https://x.com/AdeScorpium/status/2065731440244035625/video/1",
+              "media_key": "3_2065731361408008192",
+              "start": 144,
+              "url": "https://t.co/zzt6derb7e"
+            },
+            {
+              "display_url": "pic.x.com/zzt6derb7e",
+              "end": 167,
+              "expanded_url": "https://x.com/AdeScorpium/status/2065731440244035625/video/1",
+              "media_key": "3_2065731361462497281",
+              "start": 144,
+              "url": "https://t.co/zzt6derb7e"
+            },
+            {
+              "display_url": "pic.x.com/zzt6derb7e",
+              "end": 167,
+              "expanded_url": "https://x.com/AdeScorpium/status/2065731440244035625/video/1",
+              "media_key": "3_2065731361391136768",
+              "start": 144,
+              "url": "https://t.co/zzt6derb7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065731440244035625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200天紀念日帶熙頁出海賞鯨豚！非常幸運天氣超級好太陽超級大，明明前幾天鋒面整個台灣都在下雨的！\n但我真的搭船搭到快死掉……好晃好暈T T\n還肚子痛，上完廁所有點腳軟，還好沒有吐（差一點）不然就湊齊上吐下瀉了……後半程待在船艙裡睡覺真服了自己Orz\n不過前半程有看到海豚也是心滿意足了！ https://t.co/zzt6derb7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 446,
+          "like_count": 3709,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 6585
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-20T05:55:27.000Z",
+        "description": "🦂x🌵｜熙頁&莢",
+        "id": "2056976913873174529",
+        "name": "莢",
+        "pinned_tweet_id": "2057115529727578279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057050831841886208/-wYUPtJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 43,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 331
+        },
+        "username": "AdeScorpium",
+        "verified": false
+      }
+    ]
+  }
+}

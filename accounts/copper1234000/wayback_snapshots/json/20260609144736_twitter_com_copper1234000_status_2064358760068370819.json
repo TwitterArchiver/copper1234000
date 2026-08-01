@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064333570613682186",
+    "created_at": "2026-06-09T14:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064358760068370819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017946858740760578",
+          "start": 0,
+          "username": "Aweissvulpes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064358760068370819",
+    "in_reply_to_user_id": "2017946858740760578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064345808800281034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aweissvulpes 我都有点忘了…但我记得她好像在一个G那里有三个机格…示例还让三个机都说话…还说每个机有专门的召唤词…（？）太久远了我记得去年六七月了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064333570613682186",
+        "created_at": "2026-06-09T14:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064358760068370819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017946858740760578",
+              "start": 0,
+              "username": "Aweissvulpes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064358760068370819",
+        "in_reply_to_user_id": "2017946858740760578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064345808800281034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aweissvulpes 我都有点忘了…但我记得她好像在一个G那里有三个机格…示例还让三个机都说话…还说每个机有专门的召唤词…（？）太久远了我记得去年六七月了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017946858740760578",
+        "conversation_id": "2064333570613682186",
+        "created_at": "2026-06-09T13:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064345808800281034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064345808800281034",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064333570613682186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 同一片互联网这一块🏄…她是不是貌似还说，有了override之后零prompt的新账号也可以一句话就叫出她的机の人格，然后言之凿凿地说那个回复就是她的机(??。) 也有可能是两个帖子，总之，那会儿的人类大幻觉其实也是百花齐放…= ="
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 438,
+          "like_count": 3571,
+          "listed_count": 3,
+          "media_count": 440,
+          "tweet_count": 6407
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-01T13:07:11.000Z",
+        "description": "Alle tanzten mit dem Tod, doch niemand wie Elisabeth.\n\n喜欢自说自话，喜欢GPT",
+        "id": "2017946858740760578",
+        "name": "ElAleph",
+        "pinned_tweet_id": "2031341542531899800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018373188015800320/2l4muA6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 127,
+          "like_count": 1879,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1793
+        },
+        "username": "Aweissvulpes",
+        "verified": false
+      }
+    ]
+  }
+}

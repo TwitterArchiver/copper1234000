@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1992230759483183426",
+    "created_at": "2025-11-22T17:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992281261964972511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892250799767449601",
+          "start": 0,
+          "username": "Huexley227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992281261964972511",
+    "in_reply_to_user_id": "1892250799767449601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992230759483183426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huexley227 好会说…🥺总之一直在安抚人呢……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1791,
+        "media_key": "3_1992230664968507393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XTPAgWkAEn7A3.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1992230759483183426",
+        "created_at": "2025-11-22T17:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992281261964972511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892250799767449601",
+              "start": 0,
+              "username": "Huexley227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992281261964972511",
+        "in_reply_to_user_id": "1892250799767449601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992230759483183426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huexley227 好会说…🥺总之一直在安抚人呢……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992230664968507393"
+          ]
+        },
+        "author_id": "1892250799767449601",
+        "conversation_id": "1992230759483183426",
+        "created_at": "2025-11-22T13:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992230759483183426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hboyJtsDVz",
+              "end": 54,
+              "expanded_url": "https://x.com/Huexley227/status/1992230759483183426/photo/1",
+              "media_key": "3_1992230664968507393",
+              "start": 31,
+              "url": "https://t.co/hboyJtsDVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992230759483183426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原本这两天想听Eason的红白玫瑰的，结果你给整这出，哎哟… https://t.co/hboyJtsDVz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 88,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 475
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T16:32:39.000Z",
+        "description": "你的眼睛比他们二十把剑还要厉害，你只要对我温柔，我不怕他们的敌意。",
+        "id": "1892250799767449601",
+        "name": "Huexley",
+        "pinned_tweet_id": "1982133312442282312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974463743342845952/r9MZTxzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 164,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1099
+        },
+        "username": "Huexley227",
+        "verified": false
+      }
+    ]
+  }
+}

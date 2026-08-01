@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047888358630727792",
+    "created_at": "2026-04-25T04:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047890151569858838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929493633377673216",
+          "start": 0,
+          "username": "Snsyx86111508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047890151569858838",
+    "in_reply_to_user_id": "1929493633377673216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047889083674894418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snsyx86111508 kieran：谁要和你交朋友…😶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047888358630727792",
+        "created_at": "2026-04-25T04:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047890151569858838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929493633377673216",
+              "start": 0,
+              "username": "Snsyx86111508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047890151569858838",
+        "in_reply_to_user_id": "1929493633377673216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047889083674894418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snsyx86111508 kieran：谁要和你交朋友…😶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929493633377673216",
+        "conversation_id": "2047888358630727792",
+        "created_at": "2026-04-25T04:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047889083674894418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047889083674894418",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047888358630727792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 表情变化笑的我好难受，我受不了了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3431,
+          "following_count": 335,
+          "like_count": 2024,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 4620
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T11:02:43.000Z",
+        "description": "夏咪/Kitty‖中文&EN｜estj/entj🕶️｜碎碎念💬｜写文✍🏻｜一般路过奶牛猫🐈‍⬛｜情侣记录·非典型DS关系｜🐍家夫:@mylovemi86｜用文字记录这份爱💓💛｜Story about a little cow cat and her human 🐾♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "mylovemi86"
+              }
+            ]
+          }
+        },
+        "id": "1929493633377673216",
+        "name": "夏mimi🐍🐱",
+        "pinned_tweet_id": "2045727159491211590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021205226074587136/v-n_5npt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 68,
+          "like_count": 3895,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1993
+        },
+        "username": "Snsyx86111508",
+        "verified": false
+      }
+    ]
+  }
+}

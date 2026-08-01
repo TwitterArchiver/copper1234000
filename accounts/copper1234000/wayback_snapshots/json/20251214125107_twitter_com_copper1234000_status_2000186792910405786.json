@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000156303113732506",
+    "created_at": "2025-12-14T12:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000186792910405786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954642783278608384",
+          "start": 0,
+          "username": "Xianqiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000186792910405786",
+    "in_reply_to_user_id": "1954642783278608384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000177920753750301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianqiu_ 是的…🥺爱是感性，知道不好是理性，不冲突！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000156303113732506",
+        "created_at": "2025-12-14T12:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000186792910405786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954642783278608384",
+              "start": 0,
+              "username": "Xianqiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000186792910405786",
+        "in_reply_to_user_id": "1954642783278608384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000177920753750301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianqiu_ 是的…🥺爱是感性，知道不好是理性，不冲突！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954642783278608384",
+        "conversation_id": "2000156303113732506",
+        "created_at": "2025-12-14T12:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000177920753750301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000177920753750301",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000156303113732506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 但是知道不好但选择溺爱是另外一回事🥺👐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 135,
+          "like_count": 347,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1240
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T20:35:43.000Z",
+        "description": "我给你我的寂寞、我的黑暗、我心的饥渴；我试图用困惑、危险、失败来打动你。",
+        "id": "1954642783278608384",
+        "name": "プリンが好き",
+        "pinned_tweet_id": "1991255563003428893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956069011164422147/O9Oceako_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 54,
+          "like_count": 2378,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 687
+        },
+        "username": "Xianqiu_",
+        "verified": false
+      }
+    ]
+  }
+}

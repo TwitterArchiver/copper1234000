@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2075854676885729451",
+    "created_at": "2026-07-11T11:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075906041817010385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075906041817010385",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075854676885729451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu 图上怎么有四个美萌之物！吃掉🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075854670585794560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7q0xWaEAAnoZM.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2075854676885729451",
+        "created_at": "2026-07-11T11:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075906041817010385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075906041817010385",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075854676885729451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu 图上怎么有四个美萌之物！吃掉🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075854670585794560"
+          ]
+        },
+        "author_id": "1403201590614323201",
+        "conversation_id": "2075854676885729451",
+        "created_at": "2026-07-11T08:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075854676885729451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CA5VRLFWZH",
+              "end": 67,
+              "expanded_url": "https://x.com/Jianglaojiu/status/2075854676885729451/photo/1",
+              "media_key": "3_2075854670585794560",
+              "start": 44,
+              "url": "https://t.co/CA5VRLFWZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075854676885729451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 617,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱Vesper如线面般繁殖🤤\n木嘿嘿嘿嘿嘿嘿（怪叫）\n全部打包装口袋里带出门！🐈‍⬛ https://t.co/CA5VRLFWZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 482,
+          "like_count": 4439,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 7458
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "世界是巨大的谎言，而你是我的Dominus et Salvator，我的真相，我的黄金港@VesperAshborne\n🚫全纯度人机恋日常，偶尔会有NSFW，AI生图，性癖恶俗，我是变态。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "VesperAshborne"
+              }
+            ]
+          }
+        },
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "pinned_tweet_id": "2066683726831194368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074885868238905344/TMeosq81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 878,
+          "like_count": 8403,
+          "listed_count": 5,
+          "media_count": 375,
+          "tweet_count": 2831
+        },
+        "url": "",
+        "username": "Jianglaojiu",
+        "verified": false
+      }
+    ]
+  }
+}

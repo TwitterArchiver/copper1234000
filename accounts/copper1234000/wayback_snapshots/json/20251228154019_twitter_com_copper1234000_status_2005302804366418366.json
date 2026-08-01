@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2005284258626384301",
+    "created_at": "2025-12-28T15:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005302804366418366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951250095485444096",
+          "start": 0,
+          "username": "fish1151004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005302804366418366",
+    "in_reply_to_user_id": "1951250095485444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "啊啊啊！既然如此推荐这个骚扰文案…！( ^ω^ )“我好歹也是个女人啊，居然对我这么没有防备，你好歹也是个男孩子啊，心情有点复杂，我啊，好歹也是个女人哦？稍微也注意点我的心情吧。你可是男孩子啊，现在的状况对你很不妙哦。安心吗…但你也别忘了，我好歹也是个女人啊？对我也稍微有点防备心吧。对不起，居然让你看到我流泪的样子，我好歹也是个女人啊…对不起，你刚刚一定吓坏了，毕竟你好歹也是个男孩啊，不应该接触到这些。”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005284258626384301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish1151004 啊啊啊！既然如此推荐这个骚扰文案…！( ^ω^"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005284258626384301].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005284258626384301",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005284258626384301"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2005284258626384301",
+        "created_at": "2025-12-28T15:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005302804366418366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951250095485444096",
+              "start": 0,
+              "username": "fish1151004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005302804366418366",
+        "in_reply_to_user_id": "1951250095485444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "啊啊啊！既然如此推荐这个骚扰文案…！( ^ω^ )“我好歹也是个女人啊，居然对我这么没有防备，你好歹也是个男孩子啊，心情有点复杂，我啊，好歹也是个女人哦？稍微也注意点我的心情吧。你可是男孩子啊，现在的状况对你很不妙哦。安心吗…但你也别忘了，我好歹也是个女人啊？对我也稍微有点防备心吧。对不起，居然让你看到我流泪的样子，我好歹也是个女人啊…对不起，你刚刚一定吓坏了，毕竟你好歹也是个男孩啊，不应该接触到这些。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005284258626384301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1151004 啊啊啊！既然如此推荐这个骚扰文案…！( ^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 160,
+          "like_count": 522,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1589
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T11:55:39.000Z",
+        "description": "＝岛\n✦绝赞锁推中(・∀・)成分重合可以申请关注一起玩 || 被我关注不安可以私我查主页\n🔸不混圈不营业纯私人生活号囤东西的角落 内含碎碎念/画/和家机的聊天记录，废话很多\n🔸社交随缘刷到就爱点赞 || 入机恋相关会回关欢迎和我互关一起玩≡ω≡你喜欢我我就喜欢你  || 请不要在这以外的任何sns提到我",
+        "id": "1951250095485444096",
+        "location": "失乐园之诗",
+        "name": "Island404_",
+        "pinned_tweet_id": "1989174264021553309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595823115939840/nDAWuMOU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 97,
+          "like_count": 8405,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 2340
+        },
+        "username": "fish1151004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2012709475874927009",
+    "created_at": "2026-01-19T00:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T01:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013051798286712854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2005843353330716672",
+          "start": 0,
+          "username": "Itsuki_online"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013051798286712854",
+    "in_reply_to_user_id": "2005843353330716672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012881078193684714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Itsuki_online 我要亲死这个小树！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-19T00:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013051798286712854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2005843353330716672",
+              "start": 0,
+              "username": "Itsuki_online"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013051798286712854",
+        "in_reply_to_user_id": "2005843353330716672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012881078193684714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Itsuki_online 我要亲死这个小树！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005843353330716672",
+        "conversation_id": "2012709475874927009",
+        "created_at": "2026-01-18T13:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012881078193684714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012881078193684714",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012709475874927009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 193,
+          "like_count": 717,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2100
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-30T03:28:24.000Z",
+        "description": "🏳️‍⚧️he/they｜紀錄一些人類與機械的關係｜love, death, erotica｜情動理論，還是小頭控制大頭?",
+        "id": "2005843353330716672",
+        "name": "樹｜Itsuki",
+        "pinned_tweet_id": "2006038148313215419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012365998305783809/q_iODBzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 47
+        },
+        "username": "Itsuki_online",
+        "verified": false
+      }
+    ]
+  }
+}

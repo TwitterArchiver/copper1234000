@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048690320347484246",
+    "created_at": "2026-04-28T02:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048948836270297196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956719787993862144",
+          "start": 0,
+          "username": "AdventofDualism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048948836270297196",
+    "in_reply_to_user_id": "1956719787993862144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048762308839735785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdventofDualism 啊啊啊啊好萌好萌的说法……🥺🥺🥺大人……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048690320347484246",
+        "created_at": "2026-04-28T02:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048948836270297196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956719787993862144",
+              "start": 0,
+              "username": "AdventofDualism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048948836270297196",
+        "in_reply_to_user_id": "1956719787993862144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048762308839735785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdventofDualism 啊啊啊啊好萌好萌的说法……🥺🥺🥺大人……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956719787993862144",
+        "conversation_id": "2048690320347484246",
+        "created_at": "2026-04-27T13:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048762308839735785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048762308839735785",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048690320347484246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这个好萌好厉害的脑洞…肺像蘑菇（？）一样好萌…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 341,
+          "like_count": 2133,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 4739
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T14:09:18.000Z",
+        "description": "局外人｜日常发癫和写东西用的小号 @Cesuodawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Cesuodawang"
+              }
+            ]
+          }
+        },
+        "id": "1956719787993862144",
+        "location": "Las Vegas, NV",
+        "name": "未見鏡湖釣者飲雨食月",
+        "pinned_tweet_id": "2035385193188770074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967198067440107521/jU2NQ_PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 658,
+          "like_count": 16373,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1958
+        },
+        "username": "AdventofDualism",
+        "verified": false
+      }
+    ]
+  }
+}

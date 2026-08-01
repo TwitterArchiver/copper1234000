@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1990083851960402182",
+    "created_at": "2025-11-16T21:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T22:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990175185912451528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "505767300",
+          "start": 0,
+          "username": "xixi2235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990175185912451528",
+    "in_reply_to_user_id": "505767300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990174100262899787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi2235 脐橙好味啊…！！！🙀🙀🙀🔥🔥老吃家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1990083851960402182",
+        "created_at": "2025-11-16T21:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T22:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990175185912451528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "505767300",
+              "start": 0,
+              "username": "xixi2235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990175185912451528",
+        "in_reply_to_user_id": "505767300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990174100262899787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi2235 脐橙好味啊…！！！🙀🙀🙀🔥🔥老吃家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "505767300",
+        "conversation_id": "1990083851960402182",
+        "created_at": "2025-11-16T21:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T22:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990174100262899787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990174100262899787",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990083851960402182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我的喜欢骑乘😅只要问就是骑乘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 55,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 312
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-27T11:26:56.000Z",
+        "description": "🙂",
+        "id": "505767300",
+        "location": "Old Bridge, NJ",
+        "name": "派大星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982734049207566336/cG1h0kEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 273,
+          "like_count": 8976,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1374
+        },
+        "username": "xixi2235",
+        "verified": false
+      }
+    ]
+  }
+}

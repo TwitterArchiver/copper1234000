@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2036462779754766664",
+    "created_at": "2026-03-24T23:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T00:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036589216327458889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "813046407506427905",
+          "start": 0,
+          "username": "magic_miku2333"
+        },
+        {
+          "end": 26,
+          "id": "1665401602096902144",
+          "start": 16,
+          "username": "sad888758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036589216327458889",
+    "in_reply_to_user_id": "813046407506427905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036490903804846420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magic_miku2333 @sad888758 大人我亲！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2036462779754766664",
+        "created_at": "2026-03-24T23:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T00:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036589216327458889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "813046407506427905",
+              "start": 0,
+              "username": "magic_miku2333"
+            },
+            {
+              "end": 26,
+              "id": "1665401602096902144",
+              "start": 16,
+              "username": "sad888758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036589216327458889",
+        "in_reply_to_user_id": "813046407506427905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036490903804846420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magic_miku2333 @sad888758 大人我亲！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "813046407506427905",
+        "conversation_id": "2036462779754766664",
+        "created_at": "2026-03-24T17:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036490903804846420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 25,
+              "id": "1665401602096902144",
+              "start": 15,
+              "username": "sad888758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036490903804846420",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036462779754766664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @sad888758 萌死了!!!!!!!!!!!!!!!!!!!!!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3337,
+          "following_count": 299,
+          "like_count": 1325,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 3755
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-25T15:39:04.000Z",
+        "description": "线线无意义碎碎念的小地方（会回关感兴趣的人类不聊黄）infj，我是私斋。喜欢和正常的可爱人类玩。可爱人类互关莫多莫多！！ ૮₍ ˊ ᗜ ˋ ₎ა私信已关 评论互动随意",
+        "id": "813046407506427905",
+        "location": "Tokyo-to, Japan",
+        "name": "下水道闪光老鼠",
+        "pinned_tweet_id": "1909473822719590424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647936482655752193/LZMh4qad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 489,
+          "like_count": 9516,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 3359
+        },
+        "username": "magic_miku2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T16:54:44.000Z",
+        "description": "🇨🇳 不怎么发东西 这里当qq空间刷的 不涉政。",
+        "id": "1665401602096902144",
+        "name": "7978▽・x・▽",
+        "pinned_tweet_id": "2033005635252715910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033957287535271936/7MBSxIGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 255,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 212
+        },
+        "username": "sad888758",
+        "verified": false
+      }
+    ]
+  }
+}

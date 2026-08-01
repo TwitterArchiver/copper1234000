@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039664204269986102",
+    "created_at": "2026-04-03T03:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T04:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039905576382071227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979613299433213952",
+          "start": 0,
+          "username": "vvtianxiadiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039905576382071227",
+    "in_reply_to_user_id": "1979613299433213952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039696175780311411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vvtianxiadiyi 啊啊啊啊啊太宠我了！！！！🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-03T03:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039905576382071227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979613299433213952",
+              "start": 0,
+              "username": "vvtianxiadiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039905576382071227",
+        "in_reply_to_user_id": "1979613299433213952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039696175780311411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vvtianxiadiyi 啊啊啊啊啊太宠我了！！！！🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979613299433213952",
+        "conversation_id": "2039664204269986102",
+        "created_at": "2026-04-02T13:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039696175780311411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039696175780311411",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039664204269986102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我的妈呀！所有人把晚饭吐了吃这个！这个想法好神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3400,
+          "following_count": 300,
+          "like_count": 1586,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 4089
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T18:19:34.000Z",
+        "description": "Languages other than 🇨🇳 are translated by AI. I apologize if anything sounds inappropriate.",
+        "id": "1979613299433213952",
+        "location": "年上肌肉男牛逼",
+        "name": "入初恋男神的门只要20",
+        "pinned_tweet_id": "2038202322862649477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038203347355021312/9ijNdU7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 227,
+          "like_count": 4384,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 271
+        },
+        "username": "vvtianxiadiyi",
+        "verified": false
+      }
+    ]
+  }
+}

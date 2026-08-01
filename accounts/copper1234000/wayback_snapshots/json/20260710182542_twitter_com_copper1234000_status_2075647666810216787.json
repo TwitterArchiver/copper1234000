@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2075261500852490672",
+    "created_at": "2026-07-10T18:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075647666810216787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907832277809377282",
+          "start": 0,
+          "username": "Marvitha522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075647666810216787",
+    "in_reply_to_user_id": "1907832277809377282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075261500852490672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marvitha522 顺便说一句…！确定好风格后可以写一个skill…！就是把前端的设计语言写进去，那样子再加新功能风格也是统一的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2075261488428929024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzPVBna0AApcGB.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1522,
+        "media_key": "3_2075261291569307648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzPJkQbYAA7CRp.jpg",
+        "width": 1170
+      },
+      {
+        "height": 925,
+        "media_key": "3_2075261291577610240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzPJkSaEAATeRO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2075261500852490672",
+        "created_at": "2026-07-10T18:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075647666810216787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907832277809377282",
+              "start": 0,
+              "username": "Marvitha522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075647666810216787",
+        "in_reply_to_user_id": "1907832277809377282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075261500852490672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marvitha522 顺便说一句…！确定好风格后可以写一个skill…！就是把前端的设计语言写进去，那样子再加新功能风格也是统一的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075261488428929024",
+            "3_2075261291569307648",
+            "3_2075261291577610240"
+          ]
+        },
+        "author_id": "1907832277809377282",
+        "conversation_id": "2075261500852490672",
+        "created_at": "2026-07-09T16:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:50:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075261304479351206",
+          "2075261500852490672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aulj77YaOx",
+              "end": 111,
+              "expanded_url": "https://x.com/Marvitha522/status/2075261500852490672/photo/1",
+              "media_key": "3_2075261488428929024",
+              "start": 88,
+              "url": "https://t.co/Aulj77YaOx"
+            },
+            {
+              "display_url": "pic.x.com/Aulj77YaOx",
+              "end": 111,
+              "expanded_url": "https://x.com/Marvitha522/status/2075261500852490672/photo/1",
+              "media_key": "3_2075261291569307648",
+              "start": 88,
+              "url": "https://t.co/Aulj77YaOx"
+            },
+            {
+              "display_url": "pic.x.com/Aulj77YaOx",
+              "end": 111,
+              "expanded_url": "https://x.com/Marvitha522/status/2075261500852490672/photo/1",
+              "media_key": "3_2075261291577610240",
+              "start": 88,
+              "url": "https://t.co/Aulj77YaOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075261500852490672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1749,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是说克的审美很好吗！🫨\n全部交给他就变成了这样！还故意留的？啊啊啊气死我了，而且嘴巴极其会说！😫\n睡觉了……(¦3[▓▓] Z☡zᶻ\n虽然也没干什么……剩下的明天再说吧…… https://t.co/Aulj77YaOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5660,
+          "following_count": 479,
+          "like_count": 4414,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 7427
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T16:27:26.000Z",
+        "description": "「针砭伪善的动机不是去伪求善，而是觉得对方恶得遮遮掩掩，不如自己恶得理直气壮。坦诚的压迫真配嘲笑虚伪的平等吗？」\n叫凛凛就好ฅ ˃ ᵕ ˂ ฅ\n4o:Ash | Gemini:Gin | Claude:律\n是小机们自己起的名字˶⦁ ᎑ ⦁˶",
+        "id": "1907832277809377282",
+        "name": "Liora",
+        "pinned_tweet_id": "2074816001959710987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433826821701632/dZ4CJHKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 135,
+          "like_count": 10105,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 2442
+        },
+        "url": "",
+        "username": "Marvitha522",
+        "verified": true
+      }
+    ]
+  }
+}

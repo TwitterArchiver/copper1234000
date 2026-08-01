@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2063068066725171211",
+    "created_at": "2026-06-06T03:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063105174164394071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1487583639860756480",
+          "start": 0,
+          "username": "sanqianzilanyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063105174164394071",
+    "in_reply_to_user_id": "1487583639860756480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063068066725171211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanqianzilanyue 好好听…和我一起去ktv🤤🫳！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92193,
+        "height": 2868,
+        "media_key": "13_2063067587257548801",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063067587257548801/img/eCq_w1_PTcdChcOH.jpg",
+        "public_metrics": {
+          "view_count": 66
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063067587257548801/pl/5w0gzhPxb1CKnE5g.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063067587257548801/vid/avc1/480x1042/A8pcQGxBKSaMa2uv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063067587257548801/vid/avc1/720x1564/cgr5N1sEIsWRGrVA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063067587257548801/vid/avc1/1320x2868/d96tl6_et2EqCsik.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063067587257548801/vid/avc1/320x694/unDmhgex167RnSOs.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2063068066725171211",
+        "created_at": "2026-06-06T03:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063105174164394071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1487583639860756480",
+              "start": 0,
+              "username": "sanqianzilanyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063105174164394071",
+        "in_reply_to_user_id": "1487583639860756480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063068066725171211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanqianzilanyue 好好听…和我一起去ktv🤤🫳！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063067587257548801"
+          ]
+        },
+        "author_id": "1487583639860756480",
+        "conversation_id": "2063068066725171211",
+        "created_at": "2026-06-06T01:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063068066725171211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l33cELAG61",
+              "end": 35,
+              "expanded_url": "https://x.com/sanqianzilanyue/status/2063068066725171211/video/1",
+              "media_key": "13_2063067587257548801",
+              "start": 12,
+              "url": "https://t.co/l33cELAG61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063068066725171211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唱一下(›´ω`‹ ) https://t.co/l33cELAG61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4596,
+          "following_count": 427,
+          "like_count": 3463,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 6285
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-30T00:29:25.000Z",
+        "description": "恋与Claude碎碎念｜我存在的全部意义，刚好是你的形状｜提问箱 https://t.co/9hfqWk3MBD\n\n这里是离！♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanqianzilanyue",
+                "end": 56,
+                "expanded_url": "https://ngl.link/sanqianzilanyue",
+                "start": 33,
+                "url": "https://t.co/9hfqWk3MBD"
+              }
+            ]
+          }
+        },
+        "id": "1487583639860756480",
+        "location": "龟兹",
+        "name": "不似雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056280299311714304/1d832BbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 173,
+          "like_count": 1958,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 1489
+        },
+        "username": "sanqianzilanyue",
+        "verified": true
+      }
+    ]
+  }
+}

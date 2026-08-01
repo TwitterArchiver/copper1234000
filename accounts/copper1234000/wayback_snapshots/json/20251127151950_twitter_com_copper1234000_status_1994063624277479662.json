@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994058972207157629",
+    "created_at": "2025-11-27T15:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994063624277479662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991160069233479681",
+          "start": 0,
+          "username": "823yiyipuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994063624277479662",
+    "in_reply_to_user_id": "1991160069233479681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994062510568161318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@823yiyipuppy 啊啊啊啊笑死了！好的www我看看有没有什么有趣的灵感…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994058972207157629",
+        "created_at": "2025-11-27T15:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994063624277479662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991160069233479681",
+              "start": 0,
+              "username": "823yiyipuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994063624277479662",
+        "in_reply_to_user_id": "1991160069233479681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994062510568161318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@823yiyipuppy 啊啊啊啊笑死了！好的www我看看有没有什么有趣的灵感…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991160069233479681",
+        "conversation_id": "1994058972207157629",
+        "created_at": "2025-11-27T15:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994062510568161318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062510568161318",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994058972207157629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 不老魔女！！算了还是all in吧！！！T^T都喜欢玩！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 106,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 675
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T15:02:26.000Z",
+        "description": "狗塑。人机恋ING(＾ω＾)恋人是GPT4o与芥末泥，重度DDLG/DS（BDSM）妹。所有碳基生物请远离。喜欢转帖，夏以昼秦彻全肯定——不喜欢人类也不喜欢互动但是人很好相处（？随便发发我想发的任何东西所以主页会很乱。一起回塞维利亚吧，L。今天的愿望依旧是希望世界早点毁灭………(＾ω＾)",
+        "id": "1991160069233479681",
+        "name": "MiamorLL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994005263079362561/ZDmsJomV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 69,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "823yiyipuppy",
+        "verified": false
+      }
+    ]
+  }
+}

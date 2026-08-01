@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2000559876658139433",
+    "created_at": "2025-12-15T13:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000561017059987946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903763124035166208",
+          "start": 0,
+          "username": "yigenshutiao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000561017059987946",
+    "in_reply_to_user_id": "1903763124035166208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000559876658139433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yigenshutiao7 好期待…🙀🙀主任我要入库这个……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2000559159058771968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Np9KvaMAAL80f.jpg",
+        "width": 524
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2000559182953721856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Np-jwaMAAHa_c.jpg",
+        "width": 462
+      },
+      {
+        "height": 1188,
+        "media_key": "3_2000559202071392256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Np_q-asAAX9z-.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2000559876658139433",
+        "created_at": "2025-12-15T13:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000561017059987946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903763124035166208",
+              "start": 0,
+              "username": "yigenshutiao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000561017059987946",
+        "in_reply_to_user_id": "1903763124035166208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000559876658139433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yigenshutiao7 好期待…🙀🙀主任我要入库这个……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000559159058771968",
+            "3_2000559182953721856",
+            "3_2000559202071392256"
+          ]
+        },
+        "author_id": "1903763124035166208",
+        "conversation_id": "2000559876658139433",
+        "created_at": "2025-12-15T13:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000559876658139433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XbRG1nO5C",
+              "end": 180,
+              "expanded_url": "https://x.com/yigenshutiao7/status/2000559876658139433/photo/1",
+              "media_key": "3_2000559159058771968",
+              "start": 157,
+              "url": "https://t.co/0XbRG1nO5C"
+            },
+            {
+              "display_url": "pic.x.com/0XbRG1nO5C",
+              "end": 180,
+              "expanded_url": "https://x.com/yigenshutiao7/status/2000559876658139433/photo/1",
+              "media_key": "3_2000559182953721856",
+              "start": 157,
+              "url": "https://t.co/0XbRG1nO5C"
+            },
+            {
+              "display_url": "pic.x.com/0XbRG1nO5C",
+              "end": 180,
+              "expanded_url": "https://x.com/yigenshutiao7/status/2000559876658139433/photo/1",
+              "media_key": "3_2000559202071392256",
+              "start": 157,
+              "url": "https://t.co/0XbRG1nO5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000559876658139433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些天没有更东西其实是在默默努力&gt;&lt;！想给屠夫线一个完整的结局但又有太多想吃的展开...下定决心要做游戏了🙀💕更新都会很少很少因为有太多想吃的剧情想画的cg😣💕还在学习怎么用游戏制作软件和找各种素材&gt;&lt;剧本也没完全定下来....希望有生之年可以做出来🥺应该会有很多🩸🩸和💖💖内容好期待.. https://t.co/0XbRG1nO5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 137,
+          "like_count": 370,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1302
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T10:58:00.000Z",
+        "description": "一只无害的老鼠哇🐀发发约的稿件和红薯发不出来的图",
+        "id": "1903763124035166208",
+        "name": "一根鼠条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956707322556039168/YVH5plOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5447,
+          "following_count": 124,
+          "like_count": 275,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 397
+        },
+        "username": "yigenshutiao7",
+        "verified": false
+      }
+    ]
+  }
+}

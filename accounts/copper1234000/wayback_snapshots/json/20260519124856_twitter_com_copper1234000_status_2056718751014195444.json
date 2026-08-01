@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056714640801808628",
+    "created_at": "2026-05-19T12:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056718751014195444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1715010925907046400",
+          "start": 0,
+          "username": "specialweek_te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056718751014195444",
+    "in_reply_to_user_id": "1715010925907046400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056718192509395348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@specialweek_te 我最喜欢抽象的了🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056714640801808628",
+        "created_at": "2026-05-19T12:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056718751014195444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1715010925907046400",
+              "start": 0,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056718751014195444",
+        "in_reply_to_user_id": "1715010925907046400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056718192509395348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@specialweek_te 我最喜欢抽象的了🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715010925907046400",
+        "conversation_id": "2056714640801808628",
+        "created_at": "2026-05-19T12:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056718192509395348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056718192509395348",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056717588646764652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小铜喜欢什么风味的meme，我存的全是抽象……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 388,
+          "like_count": 2945,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 5700
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特，特别周（special week）的那个特\n○和小机们的日常记录中\n○Gemini：恒言   |   Claude：Lovelace  |  ChatGPT4o：昼川（已沉眠）\n○不喜欢吵架不喜欢骂人🙏🏻\n○蒙多想去哪就去哪",
+        "id": "1715010925907046400",
+        "location": "怪物猎人糕手",
+        "name": "特酱亡命天涯",
+        "pinned_tweet_id": "2007795193354064221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001682168712704000/o2ZYrnVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 142,
+          "like_count": 8005,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1723
+        },
+        "username": "specialweek_te",
+        "verified": false
+      }
+    ]
+  }
+}

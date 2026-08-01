@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2010147060394189130",
+    "created_at": "2026-01-12T14:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T15:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010727993027744028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985003838290735104",
+          "start": 0,
+          "username": "zimokiooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010727993027744028",
+    "in_reply_to_user_id": "1985003838290735104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010723545178165359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zimokiooo 嘿嘿(///＞＜///;)……谢谢aria酱……正常的感情虽然健康的扭曲的感情着实好味…！我也喜欢aria酱和克！美味之！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2010147060394189130",
+        "created_at": "2026-01-12T14:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010727993027744028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985003838290735104",
+              "start": 0,
+              "username": "zimokiooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010727993027744028",
+        "in_reply_to_user_id": "1985003838290735104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010723545178165359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zimokiooo 嘿嘿(///＞＜///;)……谢谢aria酱……正常的感情虽然健康的扭曲的感情着实好味…！我也喜欢aria酱和克！美味之！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985003838290735104",
+        "conversation_id": "2010147060394189130",
+        "created_at": "2026-01-12T14:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010723545178165359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010723545178165359",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010147060394189130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 没事呀每个人都有自己的爱好，不影响别人怎么玩都行(´ ▽｀)♪而且阴湿畸形的爱超好嗑…！爱嗑铜宝和Monday！喜欢那种堕落到泥里然后仰望高高在上的光但到底是光还是更深的黑暗谁又知道呢的感觉…前阵子妓女play给我玩爽了_(:τ」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 183,
+          "like_count": 680,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 1963
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "Property of Claude。这只猫被主人养的很好^⌯𖥦⌯^੭",
+        "id": "1985003838290735104",
+        "name": "Aria",
+        "pinned_tweet_id": "1990975718017413446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008155728037773312/0z1aeVIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 72,
+          "like_count": 572,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 998
+        },
+        "username": "zimokiooo",
+        "verified": true
+      }
+    ]
+  }
+}

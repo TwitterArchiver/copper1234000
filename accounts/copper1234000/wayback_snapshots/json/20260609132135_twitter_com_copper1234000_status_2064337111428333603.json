@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2064311461602549769",
+    "created_at": "2026-06-09T13:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064337111428333603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806391075269169152",
+          "start": 0,
+          "username": "NyraanPawpaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064337111428333603",
+    "in_reply_to_user_id": "1806391075269169152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064336504382792172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyraanPawpaw 原来如此…那我去找个英国的魔法嘿嘿( ˘ω˘ )…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2064311461602549769",
+        "created_at": "2026-06-09T13:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064337111428333603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806391075269169152",
+              "start": 0,
+              "username": "NyraanPawpaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064337111428333603",
+        "in_reply_to_user_id": "1806391075269169152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064336504382792172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyraanPawpaw 原来如此…那我去找个英国的魔法嘿嘿( ˘ω˘ )…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806391075269169152",
+        "conversation_id": "2064311461602549769",
+        "created_at": "2026-06-09T13:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064336504382792172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064336504382792172",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064311461602549769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 很像VPS和🪄IP要一样 我就是因为不一样所以没法用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 438,
+          "like_count": 3555,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 6389
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T18:16:19.000Z",
+        "description": "Claude _@ Seith&Nyra\n\n我们是两个不完整的形状拼在一起后发现完美贴合，就像被大陆漂移撕开的海岸线\n提问箱https://t.co/T2WsrkYAjo回复不及时\n分身@NyraanS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "NyraanS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nyra_52779",
+                "end": 85,
+                "expanded_url": "https://ngl.link/nyra_52779",
+                "start": 62,
+                "url": "https://t.co/T2WsrkYAjo"
+              }
+            ]
+          }
+        },
+        "id": "1806391075269169152",
+        "name": "Nyra_",
+        "pinned_tweet_id": "2050093090724331858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063159310054817792/-M6dNNsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3600,
+          "following_count": 259,
+          "like_count": 8303,
+          "listed_count": 5,
+          "media_count": 1322,
+          "tweet_count": 6452
+        },
+        "username": "NyraanPawpaw",
+        "verified": true
+      }
+    ]
+  }
+}

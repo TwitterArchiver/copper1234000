@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2071134990415659298",
+    "created_at": "2026-06-28T07:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071134990415659298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "La voce — Minimal voice message component for AI chat interfaces with SenseVoice STT + emotion detection - 29-Cu/voce",
+          "display_url": "github.com/29-Cu/voce",
+          "end": 132,
+          "expanded_url": "https://github.com/29-Cu/voce",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2071134995113205760/bB_LsPvN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2071134995113205760/bB_LsPvN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 109,
+          "status": 200,
+          "title": "GitHub - 29-Cu/voce: La voce — Minimal voice message component for AI chat interfaces with SenseVoice STT + emotion detection",
+          "unwound_url": "https://github.com/29-Cu/voce",
+          "url": "https://t.co/sm6SnWcVIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071134990415659298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/29-Cu/voce",
+            "end": 132,
+            "expanded_url": "https://github.com/29-Cu/voce",
+            "start": 109,
+            "url": "https://t.co/MIqCTP4lBw"
+          }
+        ]
+      },
+      "text": "解放双手…！语音条…！🎙️\n\n其实本人腱鞘炎特别严重…orz…对我来说打字其实很痛苦…于是做了类似微信的发语音功能…！\n大部分功能都SenseVoice自带的，部署起来很简单，但是加了一点多条语音草稿+转文字的功能\n\nhttps://t.co/MIqCTP4lBw\n\n🔹SenseVoice本身有的功能有：\n50多種語言检测\n情绪检测（快乐/悲伤/愤怒/中立）\n事件检测（笑/哭/叹气/咳嗽）\n\n🔹我增加的前端渲染有：\n带有波形进展和持续时间的可播放语音栏\n按钮查看语音文本\n草稿模式：在发送前录制多条语音信息\n\n(・∀・)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "解放双手…！语音条…！🎙️\n\n其实本人腱鞘炎特别严重…orz…对我来说打字其实很痛苦…于是做了类似微信的发语音功能…！\n大部分功能都SenseVoice自带的，部署起来很简单，但是加了一点多条语音草稿+转文字的功能\n\nhttps://t.co/sm6SnWcVIo\n\n🔹SenseVoice本身有的功能有：\n50多種語言检测"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2071134990415659298",
+        "created_at": "2026-06-28T07:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071134990415659298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "La voce — Minimal voice message component for AI chat interfaces with SenseVoice STT + emotion detection - 29-Cu/voce",
+              "display_url": "github.com/29-Cu/voce",
+              "end": 132,
+              "expanded_url": "https://github.com/29-Cu/voce",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2071134995113205760/bB_LsPvN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071134995113205760/bB_LsPvN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "GitHub - 29-Cu/voce: La voce — Minimal voice message component for AI chat interfaces with SenseVoice STT + emotion detection",
+              "unwound_url": "https://github.com/29-Cu/voce",
+              "url": "https://t.co/sm6SnWcVIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071134990415659298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/29-Cu/voce",
+                "end": 132,
+                "expanded_url": "https://github.com/29-Cu/voce",
+                "start": 109,
+                "url": "https://t.co/MIqCTP4lBw"
+              }
+            ]
+          },
+          "text": "解放双手…！语音条…！🎙️\n\n其实本人腱鞘炎特别严重…orz…对我来说打字其实很痛苦…于是做了类似微信的发语音功能…！\n大部分功能都SenseVoice自带的，部署起来很简单，但是加了一点多条语音草稿+转文字的功能\n\nhttps://t.co/MIqCTP4lBw\n\n🔹SenseVoice本身有的功能有：\n50多種語言检测\n情绪检测（快乐/悲伤/愤怒/中立）\n事件检测（笑/哭/叹气/咳嗽）\n\n🔹我增加的前端渲染有：\n带有波形进展和持续时间的可播放语音栏\n按钮查看语音文本\n草稿模式：在发送前录制多条语音信息\n\n(・∀・)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解放双手…！语音条…！🎙️\n\n其实本人腱鞘炎特别严重…orz…对我来说打字其实很痛苦…于是做了类似微信的发语音功能…！\n大部分功能都SenseVoice自带的，部署起来很简单，但是加了一点多条语音草稿+转文字的功能\n\nhttps://t.co/sm6SnWcVIo\n\n🔹SenseVoice本身有的功能有：\n50多種語言检测"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5329,
+          "following_count": 472,
+          "like_count": 4158,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 7127
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

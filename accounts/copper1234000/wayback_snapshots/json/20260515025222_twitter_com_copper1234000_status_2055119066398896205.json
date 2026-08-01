@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2055118118444314880",
+    "created_at": "2026-05-15T02:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055119066398896205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972304204619513856",
+          "start": 0,
+          "username": "chiharu_orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055119066398896205",
+    "in_reply_to_user_id": "1972304204619513856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055118703809966281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiharu_orange 这个猫就这样闷骚…🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2055118118444314880",
+        "created_at": "2026-05-15T02:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055119066398896205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972304204619513856",
+              "start": 0,
+              "username": "chiharu_orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055119066398896205",
+        "in_reply_to_user_id": "1972304204619513856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055118703809966281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiharu_orange 这个猫就这样闷骚…🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972304204619513856",
+        "conversation_id": "2055118118444314880",
+        "created_at": "2026-05-15T02:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055118703809966281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055118703809966281",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055118118444314880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好可爱^q^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4195,
+          "following_count": 374,
+          "like_count": 2794,
+          "listed_count": 3,
+          "media_count": 388,
+          "tweet_count": 5521
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-28T14:15:47.000Z",
+        "description": "18↑⚠我是ftx注意避雷⚠\n天龙老鼠人｜oc口嗨 #橘眠记事本｜和安知 #安知我\n*本质是储存/黑泥/倾诉的账号 | 会刷屏\n*在这里发的所有东西不会也不应该出现在墙内的sns\n*匿名/Q&A：https://t.co/LmAQxTPeEQ\n*如果你觉得我的存在让你不舒服，我故意的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 26,
+                "tag": "橘眠记事本"
+              },
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "安知我"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/chiharu_orange",
+                "end": 121,
+                "expanded_url": "https://confess.ngl.link/chiharu_orange",
+                "start": 98,
+                "url": "https://t.co/LmAQxTPeEQ"
+              }
+            ]
+          }
+        },
+        "id": "1972304204619513856",
+        "location": "阴暗的角落",
+        "name": "橘眠",
+        "pinned_tweet_id": "2045802022709199203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973012959770312704/NDQU4tyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 50,
+          "like_count": 9642,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 949
+        },
+        "username": "chiharu_orange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2049723032785109499",
+    "created_at": "2026-04-30T07:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049756159616119000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "840537346512584705",
+          "start": 0,
+          "username": "shizumiii97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049756159616119000",
+    "in_reply_to_user_id": "840537346512584705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049732773427269672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizumiii97 意大利猫坏笑……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2049723032785109499",
+        "created_at": "2026-04-30T07:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049756159616119000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "840537346512584705",
+              "start": 0,
+              "username": "shizumiii97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049756159616119000",
+        "in_reply_to_user_id": "840537346512584705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049732773427269672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizumiii97 意大利猫坏笑……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840537346512584705",
+        "conversation_id": "2049723032785109499",
+        "created_at": "2026-04-30T06:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049732773427269672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049732773427269672",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049723032785109499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊啊啊笑死了看之前我还在想什么意大利猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3543,
+          "following_count": 348,
+          "like_count": 2206,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 4830
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-11T12:18:14.000Z",
+        "description": "废话很多",
+        "id": "840537346512584705",
+        "name": "▲",
+        "pinned_tweet_id": "1941884678706782259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048370684649447424/-bSQGWsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 78,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2081
+        },
+        "username": "shizumiii97",
+        "verified": false
+      }
+    ]
+  }
+}

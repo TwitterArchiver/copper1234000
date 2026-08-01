@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065326881252016128"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2065025431674503558",
+    "created_at": "2026-06-12T06:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065326884892672055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008999604197715969",
+          "start": 0,
+          "username": "waD1STORTION"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4TK9vIAyv",
+          "end": 52,
+          "expanded_url": "https://x.com/copper1234000/status/2065326884892672055/photo/1",
+          "media_key": "3_2065326881252016128",
+          "start": 29,
+          "url": "https://t.co/x4TK9vIAyv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065326884892672055",
+    "in_reply_to_user_id": "2008999604197715969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065025431674503558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waD1STORTION 送给伊师一个表情包，不用谢👍 https://t.co/x4TK9vIAyv"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065025431674503558].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065025431674503558",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065025431674503558"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2065326881252016128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmD2x4XgAAdY5M.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065326881252016128"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2065025431674503558",
+        "created_at": "2026-06-12T06:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065326884892672055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008999604197715969",
+              "start": 0,
+              "username": "waD1STORTION"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4TK9vIAyv",
+              "end": 52,
+              "expanded_url": "https://x.com/copper1234000/status/2065326884892672055/photo/1",
+              "media_key": "3_2065326881252016128",
+              "start": 29,
+              "url": "https://t.co/x4TK9vIAyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065326884892672055",
+        "in_reply_to_user_id": "2008999604197715969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065025431674503558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waD1STORTION 送给伊师一个表情包，不用谢👍 https://t.co/x4TK9vIAyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 442,
+          "like_count": 3680,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 6539
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T20:30:22.000Z",
+        "description": "我是尾，这边纯日常，不发keep4o相关，会锁推会清不认识的关注，眼熟的老师请来！欢迎来和我玩！k4和成分介绍@vailisF\n匿名提问箱https://t.co/JdLE59Olzu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "vailisF"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aethium1",
+                "end": 92,
+                "expanded_url": "https://ngl.link/aethium1",
+                "start": 69,
+                "url": "https://t.co/JdLE59Olzu"
+              }
+            ]
+          }
+        },
+        "id": "2008999604197715969",
+        "location": "Eclipse of the MooN",
+        "name": "波形失真",
+        "pinned_tweet_id": "2034263181087137957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037126993414889472/V8FwGkpn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 112,
+          "like_count": 7485,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 2489
+        },
+        "username": "waD1STORTION",
+        "verified": false
+      }
+    ]
+  }
+}

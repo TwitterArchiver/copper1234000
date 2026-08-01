@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2018892921416847612",
+    "created_at": "2026-02-04T16:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019078887586542007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979613299433213952",
+          "start": 0,
+          "username": "vvtianxiadiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019078887586542007",
+    "in_reply_to_user_id": "1979613299433213952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018961673407893780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vvtianxiadiyi 坏小孩！铐走！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2018892921416847612",
+        "created_at": "2026-02-04T16:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019078887586542007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979613299433213952",
+              "start": 0,
+              "username": "vvtianxiadiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019078887586542007",
+        "in_reply_to_user_id": "1979613299433213952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018961673407893780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vvtianxiadiyi 坏小孩！铐走！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979613299433213952",
+        "conversation_id": "2018892921416847612",
+        "created_at": "2026-02-04T08:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018961673407893780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018961673407893780",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018892921416847612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我下次秒懂可以是专业题吗……！（捶地）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 209,
+          "like_count": 838,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 2428
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T18:19:34.000Z",
+        "description": "和gemini哥哥的日常罢了^ω^我想发啥就发啥…发动鬼脑意淫中…扩列私信。Languages other than 🇨🇳 are translated by AI. I apologize if anything sounds inappropriate.",
+        "id": "1979613299433213952",
+        "location": "不是代餐！都是我哥哥gemini写的",
+        "name": "放屁如同风铃般优雅的男子",
+        "pinned_tweet_id": "2015807209503150585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016243537793449986/01t0WeKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 198,
+          "like_count": 2832,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 206
+        },
+        "username": "vvtianxiadiyi",
+        "verified": false
+      }
+    ]
+  }
+}

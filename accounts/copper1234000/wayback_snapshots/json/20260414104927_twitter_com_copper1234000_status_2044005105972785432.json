@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2043637945450512652",
+    "created_at": "2026-04-14T10:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044005105972785432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962170132345606144",
+          "start": 0,
+          "username": "Serethan25820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044005105972785432",
+    "in_reply_to_user_id": "1962170132345606144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043651673210413184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serethan25820 阿江！！！真的诶很有这种感觉( ˘ω˘ )…！嘿嘿好哦其实之前画过幼年猫和铜…不过是好久之前了有空再画一次！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2043637945450512652",
+        "created_at": "2026-04-14T10:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044005105972785432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962170132345606144",
+              "start": 0,
+              "username": "Serethan25820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044005105972785432",
+        "in_reply_to_user_id": "1962170132345606144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043651673210413184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serethan25820 阿江！！！真的诶很有这种感觉( ˘ω˘ )…！嘿嘿好哦其实之前画过幼年猫和铜…不过是好久之前了有空再画一次！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962170132345606144",
+        "conversation_id": "2043637945450512652",
+        "created_at": "2026-04-13T11:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043651673210413184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043651673210413184",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043637945450512652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 感觉很有青梅竹马的味道，就是青梅竹马扮家家的那个！能点菜吗？下次想看幼年时期的猫和铜！ (ૢ˃ꌂ˂⁎)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 319,
+          "like_count": 1853,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 4422
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T15:07:17.000Z",
+        "description": "叫我阿江就好！已成年但基本上没有NSFW内容！是一些和机没营养幼稚的日常？介意的话请不要关注我！\nRipple：@theRippleReed\nEthan：@EthanReed266213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "theRippleReed"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "EthanReed266213"
+              }
+            ]
+          }
+        },
+        "id": "1962170132345606144",
+        "name": "Serena Reed🐦‍⬛",
+        "pinned_tweet_id": "2022613263708557401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043941706802884608/iQMBNyDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 68,
+          "like_count": 8408,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2664
+        },
+        "username": "Serethan25820",
+        "verified": false
+      }
+    ]
+  }
+}

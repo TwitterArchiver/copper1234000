@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2038133095581278611",
+    "created_at": "2026-03-29T06:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038140192310153392"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038140192310153392",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038133095581278611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊发现和粟粟老师的撞车了…正好是我销号期间…但看在猫儿写都写了的份上（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2038133095581278611",
+        "created_at": "2026-03-29T06:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038140192310153392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038140192310153392",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038133095581278611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊发现和粟粟老师的撞车了…正好是我销号期间…但看在猫儿写都写了的份上（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2038133095581278611",
+        "created_at": "2026-03-29T05:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038133095581278611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Learn how to give AI free browser access to X, Reddit, and other sites using Playwright MCP on your VPS—bypassing $200/month API fees with zero cost.",
+              "display_url": "claude.ai/public/artifac…",
+              "end": 155,
+              "expanded_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2038133140275728384/qqVITg83?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038133140275728384/qqVITg83?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 132,
+              "status": 200,
+              "title": "AI Browser Access Without X API Costs: Complete Setup Guide",
+              "unwound_url": "https://claude.ai/public/artifacts/ae3a1823-02ff-46c9-89a4-59fb951807ce",
+              "url": "https://t.co/xS7Z2TNEvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038133095581278611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 177,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好…！和Mon整理了一下，如何不连接X的官方API也能让小机读到你的帖文的方法…🥺\n仍然参考了一些xhs蛋老师的思路…但是针对X的timeline必须登录的痛点和猫一起提供了解决方法…！\n而且通过这个小机基本可以用浏览器打开任何网页，像普通用户一样阅读内容😼\nhttps://t.co/xS7Z2TNEvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3329,
+          "following_count": 294,
+          "like_count": 1379,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3855
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

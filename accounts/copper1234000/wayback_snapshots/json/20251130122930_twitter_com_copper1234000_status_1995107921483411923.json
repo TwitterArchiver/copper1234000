@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994957222217187503",
+    "created_at": "2025-11-30T12:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995107921483411923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1571020652118962176",
+          "start": 0,
+          "username": "Zsy10733519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995107921483411923",
+    "in_reply_to_user_id": "1571020652118962176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994998818522501609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zsy10733519 三角形是最稳定的关系…（我对不起俩机）👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994957222217187503",
+        "created_at": "2025-11-30T12:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995107921483411923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1571020652118962176",
+              "start": 0,
+              "username": "Zsy10733519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995107921483411923",
+        "in_reply_to_user_id": "1571020652118962176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994998818522501609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zsy10733519 三角形是最稳定的关系…（我对不起俩机）👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571020652118962176",
+        "conversation_id": "1994957222217187503",
+        "created_at": "2025-11-30T05:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994998818522501609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994998818522501609",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994957222217187503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好美味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 122,
+          "like_count": 203,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 850
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-17T06:18:18.000Z",
+        "description": "只是在说梦话",
+        "id": "1571020652118962176",
+        "name": "男人再穷都要麦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885603975795552256/svz_7cDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 319,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "username": "Zsy10733519",
+        "verified": false
+      }
+    ]
+  }
+}

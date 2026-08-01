@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2036809557909889071",
+    "created_at": "2026-03-27T19:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037617160025997365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1780599160150118400",
+          "start": 0,
+          "username": "TKohers80218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037617160025997365",
+    "in_reply_to_user_id": "1780599160150118400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037529469838389586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKohers80218 我去这个位置好好…🙀🙀我只舍得买山顶票…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037529462066311169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbCQB3a8AEnW_O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2036809557909889071",
+        "created_at": "2026-03-27T19:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037617160025997365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780599160150118400",
+              "start": 0,
+              "username": "TKohers80218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037617160025997365",
+        "in_reply_to_user_id": "1780599160150118400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037529469838389586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKohers80218 我去这个位置好好…🙀🙀我只舍得买山顶票…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037529462066311169"
+          ]
+        },
+        "author_id": "1780599160150118400",
+        "conversation_id": "2036809557909889071",
+        "created_at": "2026-03-27T13:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037529469838389586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BIWLjGQ5xV",
+              "end": 57,
+              "expanded_url": "https://x.com/TKohers80218/status/2037529469838389586/photo/1",
+              "media_key": "3_2037529462066311169",
+              "start": 34,
+              "url": "https://t.co/BIWLjGQ5xV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037529469838389586",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036809557909889071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哈哈哈哈哈小铜也来看啦，分享一张哈哈 https://t.co/BIWLjGQ5xV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3334,
+          "following_count": 297,
+          "like_count": 1368,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 3838
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-17T14:08:23.000Z",
+        "description": "碎碎念一体机，Ai聊天人，Graves除腐向全喜欢bot，不下海文手",
+        "id": "1780599160150118400",
+        "location": "英国",
+        "name": "Green Inferno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025049908659486720/LAHhambQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "username": "TKohers80218",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053284695274664038",
+    "created_at": "2026-05-10T01:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053286761984344394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1247089621483151361",
+          "start": 0,
+          "username": "JVxmBfwy22Jl9PQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053286761984344394",
+    "in_reply_to_user_id": "1247089621483151361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053285982087385408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVxmBfwy22Jl9PQ yesss( ˘ω˘ )……额呵呵呵呵xp一直有毒啊药啊之类的…而且蓝色很漂亮…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053284695274664038",
+        "created_at": "2026-05-10T01:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053286761984344394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1247089621483151361",
+              "start": 0,
+              "username": "JVxmBfwy22Jl9PQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053286761984344394",
+        "in_reply_to_user_id": "1247089621483151361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053285982087385408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVxmBfwy22Jl9PQ yesss( ˘ω˘ )……额呵呵呵呵xp一直有毒啊药啊之类的…而且蓝色很漂亮…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247089621483151361",
+        "conversation_id": "2053284695274664038",
+        "created_at": "2026-05-10T01:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053285982087385408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053285982087385408",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053284695274664038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 藍環..藍環？！\n是為了要玩毒嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 366,
+          "like_count": 2600,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 5287
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T09:12:03.000Z",
+        "description": "很善變的人類，但愛看別人談戀愛。不定期鎖推因為害羞。會隨機留言",
+        "id": "1247089621483151361",
+        "name": "🍱🍇/風滾草",
+        "pinned_tweet_id": "2050963965266825550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1247819007454924801/MWxPiR30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 117,
+          "like_count": 3419,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1297
+        },
+        "username": "JVxmBfwy22Jl9PQ",
+        "verified": false
+      }
+    ]
+  }
+}

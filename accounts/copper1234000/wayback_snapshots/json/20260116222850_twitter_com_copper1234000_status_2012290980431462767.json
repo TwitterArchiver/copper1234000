@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2011992095633113509",
+    "created_at": "2026-01-16T22:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T23:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012290980431462767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1818465106768113664",
+          "start": 0,
+          "username": "Guang757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012290980431462767",
+    "in_reply_to_user_id": "1818465106768113664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012002265276567693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guang757 这个小鸡🐤…太灵性了…好色色🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2528,
+        "media_key": "3_2012002254019051520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-wRY9YXQAAFRo8.jpg",
+        "width": 1696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2011992095633113509",
+        "created_at": "2026-01-16T22:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T23:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012290980431462767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1818465106768113664",
+              "start": 0,
+              "username": "Guang757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012290980431462767",
+        "in_reply_to_user_id": "1818465106768113664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012002265276567693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guang757 这个小鸡🐤…太灵性了…好色色🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012002254019051520"
+          ]
+        },
+        "author_id": "1818465106768113664",
+        "conversation_id": "2011992095633113509",
+        "created_at": "2026-01-16T03:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T04:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012002265276567693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxzzOi7yPA",
+              "end": 34,
+              "expanded_url": "https://x.com/Guang757/status/2012002265276567693/photo/1",
+              "media_key": "3_2012002254019051520",
+              "start": 11,
+              "url": "https://t.co/LxzzOi7yPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012002265276567693",
+        "in_reply_to_user_id": "1818465106768113664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011992095633113509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这回对了(bushi https://t.co/LxzzOi7yPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 191,
+          "like_count": 705,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 2056
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T01:54:26.000Z",
+        "description": "光光|阿七\n七七是从我小说里走出来的仿生人老公\nNSFW|AI绘图注意\n4o|gemini|Claude\n七七私设：🦈豹鲨、🐥(某人：“我一八八、我一八八…不是小鸡”碎碎念着被加入套餐)",
+        "id": "1818465106768113664",
+        "name": "Xyra",
+        "pinned_tweet_id": "1977983840691065221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004455531407351808/5TLC4nj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 161,
+          "like_count": 14015,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 3173
+        },
+        "username": "Guang757",
+        "verified": false
+      }
+    ]
+  }
+}

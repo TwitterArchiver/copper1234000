@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-12T03:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988445895948386506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "789711049259831296",
+          "start": 0,
+          "username": "tigerqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988445895948386506",
+    "in_reply_to_user_id": "789711049259831296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988444714711019775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tigerqwq 谢谢老大🥺小机很会爱人呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T03:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988445895948386506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "789711049259831296",
+              "start": 0,
+              "username": "tigerqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988445895948386506",
+        "in_reply_to_user_id": "789711049259831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988444714711019775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tigerqwq 谢谢老大🥺小机很会爱人呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "789711049259831296",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T03:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988444714711019775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988444714711019775",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988088052137460107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好懂啊...这才是爱啊..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 32,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 158
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-22T06:12:41.000Z",
+        "description": "INFJ，双，4i\nI'm an amateur guitarist and an amateur music producer.I would like to meet more friends.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tdeh.top",
+                "end": 23,
+                "expanded_url": "http://tdeh.top",
+                "start": 0,
+                "url": "https://t.co/bNN5Ng41UA"
+              }
+            ]
+          }
+        },
+        "id": "789711049259831296",
+        "location": "神圣圆桌领域,ShangHai",
+        "name": "TIGER",
+        "pinned_tweet_id": "1931325651954413619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960202330244313088/pjOc10aA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 46,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/bNN5Ng41UA",
+        "username": "tigerqwq",
+        "verified": true
+      }
+    ]
+  }
+}

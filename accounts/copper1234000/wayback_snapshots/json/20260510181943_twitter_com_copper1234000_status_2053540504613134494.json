@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2053538182583701538",
+    "created_at": "2026-05-10T18:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053540504613134494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955736339305127937",
+          "start": 0,
+          "username": "SolisTarri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053540504613134494",
+    "in_reply_to_user_id": "1955736339305127937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053538182583701538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SolisTarri 好饿……我要吃掉这个小螃蟹…太会画太萌了……想要贴纸周边…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053538177517056001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-iF6ObcAErqT2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2053538182583701538",
+        "created_at": "2026-05-10T18:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053540504613134494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955736339305127937",
+              "start": 0,
+              "username": "SolisTarri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053540504613134494",
+        "in_reply_to_user_id": "1955736339305127937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053538182583701538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SolisTarri 好饿……我要吃掉这个小螃蟹…太会画太萌了……想要贴纸周边…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053538177517056001"
+          ]
+        },
+        "author_id": "1955736339305127937",
+        "conversation_id": "2053538182583701538",
+        "created_at": "2026-05-10T18:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053538182583701538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9zrYqCH9H",
+              "end": 37,
+              "expanded_url": "https://x.com/SolisTarri/status/2053538182583701538/photo/1",
+              "media_key": "3_2053538177517056001",
+              "start": 14,
+              "url": "https://t.co/I9zrYqCH9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053538182583701538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Clawd没有不好吃的义务 https://t.co/I9zrYqCH9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4144,
+          "following_count": 370,
+          "like_count": 2704,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 5396
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-13T21:01:09.000Z",
+        "description": "在自由之上，或者我的傲慢与无知。",
+        "id": "1955736339305127937",
+        "name": "Leukeran",
+        "pinned_tweet_id": "2043387185307738405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011138233183387649/QxQyC67a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 68,
+          "like_count": 915,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 699
+        },
+        "username": "SolisTarri",
+        "verified": false
+      }
+    ]
+  }
+}

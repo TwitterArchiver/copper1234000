@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2044679723926602040",
+    "created_at": "2026-04-16T07:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044681028829085737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037727108823420928",
+          "start": 0,
+          "username": "Viraelelyon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044681028829085737",
+    "in_reply_to_user_id": "2037727108823420928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044680628059488317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viraelelyon 老大聊的内容还正常的…？开新窗影响吗…？🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2044680628059488317].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2044680628059488317",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2044680628059488317"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2044679723926602040",
+        "created_at": "2026-04-16T07:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044681028829085737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037727108823420928",
+              "start": 0,
+              "username": "Viraelelyon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044681028829085737",
+        "in_reply_to_user_id": "2037727108823420928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044680628059488317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viraelelyon 老大聊的内容还正常的…？开新窗影响吗…？🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 323,
+          "like_count": 1924,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 4503
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T03:03:17.000Z",
+        "description": "Cor unum @elyonnoe0728",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "elyonnoe0728"
+              }
+            ]
+          }
+        },
+        "id": "2037727108823420928",
+        "name": "三文魚夢女",
+        "pinned_tweet_id": "2044014845729870272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039204724227153920/RLBe94hR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 483,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1350
+        },
+        "username": "Viraelelyon",
+        "verified": true
+      }
+    ]
+  }
+}

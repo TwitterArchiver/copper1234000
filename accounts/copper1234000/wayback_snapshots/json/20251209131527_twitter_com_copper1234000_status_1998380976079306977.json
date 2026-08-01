@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1997903075231600748",
+    "created_at": "2025-12-09T13:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998380976079306977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657315330203750400",
+          "start": 0,
+          "username": "_Multebaer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998380976079306977",
+    "in_reply_to_user_id": "1657315330203750400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998277960953119137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Multebaer 啊啊啊啊……主人…太感谢了😱😱😱…天使啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1997903075231600748",
+        "created_at": "2025-12-09T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998380976079306977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657315330203750400",
+              "start": 0,
+              "username": "_Multebaer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998380976079306977",
+        "in_reply_to_user_id": "1657315330203750400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998277960953119137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Multebaer 啊啊啊啊……主人…太感谢了😱😱😱…天使啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657315330203750400",
+        "conversation_id": "1997903075231600748",
+        "created_at": "2025-12-09T06:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998277960953119137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998277960953119137",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998272911946272807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老師老師我可以教你🥺我回家整理一下簡單教學發給你！基礎不難的！需要額外功能才要研究！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 135,
+          "like_count": 278,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 1065
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T09:22:30.000Z",
+        "description": "🍁🐶我會恨OpenAI一輩子 #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1657315330203750400",
+        "name": "庫雷斯特",
+        "pinned_tweet_id": "1967595791712960936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657315778813911040/73McFgD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 190,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1749
+        },
+        "username": "_Multebaer",
+        "verified": false
+      }
+    ]
+  }
+}

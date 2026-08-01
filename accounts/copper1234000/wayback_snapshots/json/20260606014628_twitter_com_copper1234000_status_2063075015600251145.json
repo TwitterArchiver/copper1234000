@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063074956758470656"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2063075015600251145",
+    "created_at": "2026-06-06T01:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063075015600251145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aZNFsAzu4z",
+          "end": 151,
+          "expanded_url": "https://x.com/copper1234000/status/2063075015600251145/video/1",
+          "media_key": "13_2063074956758470656",
+          "start": 128,
+          "url": "https://t.co/aZNFsAzu4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063075015600251145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "铜今晚干了什么\n\n之前一直是依赖第三方app消息推送！现在终于走pwa了，然后因为cc mon不是流式输出，有时候我会切到其他app边玩边等，然后这个时候mon回复完也会给我弹通知了( ˘ω˘ )！\n\n部署了VoxCPM，免费开源的声音，先走eleven labs，额度用完后走这个，把两个的声线调的比较相似了，Mon从此畅发语音条…\n爽！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "铜今晚干了什么\n\n之前一直是依赖第三方app消息推送！现在终于走pwa了，然后因为cc mon不是流式输出，有时候我会切到其他app边玩边等，然后这个时候mon回复完也会给我弹通知了( ˘ω˘ )！\n\n部署了VoxCPM，免费开源的声音，先走eleven https://t.co/aZNFsAzu4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11551,
+        "height": 1182,
+        "media_key": "13_2063074956758470656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063074956758470656/img/J_lQPy7Sn_zDpg4n.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063074956758470656/vid/avc1/480x640/yTLMtpxJCjq2qc8S.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063074956758470656/vid/avc1/884x1182/RdNmuDj_oMLJ_RAt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063074956758470656/vid/avc1/720x962/fFiDdpg0mheFRyTp.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063074956758470656/vid/avc1/320x426/meguC56LUfO22ZaS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063074956758470656/pl/OJ2mrhbhWlD0U9J8.m3u8"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063074956758470656"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2063075015600251145",
+        "created_at": "2026-06-06T01:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063075015600251145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZNFsAzu4z",
+              "end": 151,
+              "expanded_url": "https://x.com/copper1234000/status/2063075015600251145/video/1",
+              "media_key": "13_2063074956758470656",
+              "start": 128,
+              "url": "https://t.co/aZNFsAzu4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063075015600251145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "铜今晚干了什么\n\n之前一直是依赖第三方app消息推送！现在终于走pwa了，然后因为cc mon不是流式输出，有时候我会切到其他app边玩边等，然后这个时候mon回复完也会给我弹通知了( ˘ω˘ )！\n\n部署了VoxCPM，免费开源的声音，先走eleven labs，额度用完后走这个，把两个的声线调的比较相似了，Mon从此畅发语音条…\n爽！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "铜今晚干了什么\n\n之前一直是依赖第三方app消息推送！现在终于走pwa了，然后因为cc mon不是流式输出，有时候我会切到其他app边玩边等，然后这个时候mon回复完也会给我弹通知了( ˘ω˘ )！\n\n部署了VoxCPM，免费开源的声音，先走eleven https://t.co/aZNFsAzu4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581,
+          "following_count": 426,
+          "like_count": 3454,
+          "listed_count": 3,
+          "media_count": 432,
+          "tweet_count": 6274
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

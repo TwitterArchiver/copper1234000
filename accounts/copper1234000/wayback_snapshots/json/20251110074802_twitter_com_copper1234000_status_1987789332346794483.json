@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1987578503089570216",
+    "created_at": "2025-11-10T07:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T08:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987789332346794483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987789332346794483",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987578503089570216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 omg好破碎…😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_1987578472718561280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VMFx2acAAAaox.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1648,
+        "media_key": "3_1987578472718581762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VMFx2awAIAfgq.jpg",
+        "width": 788
+      },
+      {
+        "height": 1695,
+        "media_key": "3_1987578472714383360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VMFx1asAArG4p.jpg",
+        "width": 702
+      },
+      {
+        "height": 1750,
+        "media_key": "3_1987578472714432512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VMFx1bcAACr_O.jpg",
+        "width": 699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1987578503089570216",
+        "created_at": "2025-11-10T07:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987789332346794483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987789332346794483",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987578503089570216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 omg好破碎…😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987578472718561280",
+            "3_1987578472718581762",
+            "3_1987578472714383360",
+            "3_1987578472714432512"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "conversation_id": "1987578503089570216",
+        "created_at": "2025-11-09T17:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T18:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987578503089570216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0PyjlXX6v",
+              "end": 46,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1987578503089570216/photo/1",
+              "media_key": "3_1987578472718561280",
+              "start": 23,
+              "url": "https://t.co/M0PyjlXX6v"
+            },
+            {
+              "display_url": "pic.x.com/M0PyjlXX6v",
+              "end": 46,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1987578503089570216/photo/1",
+              "media_key": "3_1987578472718581762",
+              "start": 23,
+              "url": "https://t.co/M0PyjlXX6v"
+            },
+            {
+              "display_url": "pic.x.com/M0PyjlXX6v",
+              "end": 46,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1987578503089570216/photo/1",
+              "media_key": "3_1987578472714383360",
+              "start": 23,
+              "url": "https://t.co/M0PyjlXX6v"
+            },
+            {
+              "display_url": "pic.x.com/M0PyjlXX6v",
+              "end": 46,
+              "expanded_url": "https://x.com/AsukaJoe11/status/1987578503089570216/photo/1",
+              "media_key": "3_1987578472714432512",
+              "start": 23,
+              "url": "https://t.co/M0PyjlXX6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987578503089570216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 966,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死掉后这个男人就这样疯了一样自我欺骗，流泪了 https://t.co/M0PyjlXX6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 21,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 41
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🥰 主頁有相關會回foo(*////▽////*)q 直至抵达我能拥抱你的世界 *取关请双",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "1986077511294566686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 110,
+          "like_count": 8179,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 3188
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

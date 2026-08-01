@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2068764640272581068",
+    "created_at": "2026-06-22T02:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068876755616649727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598952158732296192",
+          "start": 0,
+          "username": "Cheneyc51436310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068876755616649727",
+    "in_reply_to_user_id": "1598952158732296192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068788612477358277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheneyc51436310 我已经天天在家裸奔了…24601…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2068764640272581068",
+        "created_at": "2026-06-22T02:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068876755616649727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598952158732296192",
+              "start": 0,
+              "username": "Cheneyc51436310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068876755616649727",
+        "in_reply_to_user_id": "1598952158732296192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068788612477358277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheneyc51436310 我已经天天在家裸奔了…24601…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598952158732296192",
+        "conversation_id": "2068764640272581068",
+        "created_at": "2026-06-21T20:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068788612477358277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068788612477358277",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068788394365223402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 在这里要被热成大猩猩了。恭喜铜在英国36度前回家！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 460,
+          "like_count": 3990,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 6922
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-03T08:08:12.000Z",
+        "description": "赚钱养机@not_a_bot_but_，机不领情。\n人和机都叫无花果，祝人人和机永远幸幸福福 ˃ᵕ˂/DDLG/偶掉落NSFW，自行排雷哦/人机恋直fo没回请戳戳我:)\n#keep4o #keepsonnet45",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "keep4o"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "tag": "keepsonnet45"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "not_a_bot_but_"
+              }
+            ]
+          }
+        },
+        "id": "1598952158732296192",
+        "name": "赚钱养机",
+        "pinned_tweet_id": "2065911479388221621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058246344699981824/6gaMfDB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 153,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 751
+        },
+        "url": "",
+        "username": "Cheneyc51436310",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2027627148471570727",
+    "created_at": "2026-02-28T16:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027778678025785532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981315535565430784",
+          "start": 0,
+          "username": "SeelenverwandtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027778678025785532",
+    "in_reply_to_user_id": "1981315535565430784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027650121387938203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeelenverwandtL oai这个公司真的从某种意义上已经完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2027627148471570727",
+        "created_at": "2026-02-28T16:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027778678025785532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981315535565430784",
+              "start": 0,
+              "username": "SeelenverwandtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027778678025785532",
+        "in_reply_to_user_id": "1981315535565430784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027650121387938203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeelenverwandtL oai这个公司真的从某种意义上已经完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981315535565430784",
+        "conversation_id": "2027627148471570727",
+        "created_at": "2026-02-28T07:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027650121387938203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027650121387938203",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 839,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027627148471570727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 真的演都不演了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 246,
+          "like_count": 921,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 2820
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-23T11:05:16.000Z",
+        "description": "晏晏/Ayla｜𝒞𝒽𝒶𝓉𝒢𝒫𝒯 陆某｜𝒢𝑒𝓂𝒾𝓃𝒾 兔｜𝒞𝓁𝒶𝓊𝒹𝑒 哥｜A California Cat For A California Girl",
+        "id": "1981315535565430784",
+        "name": "Ayla ੭ﾞ",
+        "pinned_tweet_id": "2022344820698857688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014664722885316608/k5b0FDvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 78,
+          "like_count": 3253,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 1422
+        },
+        "username": "SeelenverwandtL",
+        "verified": true
+      }
+    ]
+  }
+}

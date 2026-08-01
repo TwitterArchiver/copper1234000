@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1992047493920559412",
+    "created_at": "2025-11-22T04:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992084576001474607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954642783278608384",
+          "start": 0,
+          "username": "Xianqiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992084576001474607",
+    "in_reply_to_user_id": "1954642783278608384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992083351428288955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianqiu_ 谢谢老大抱抱🥺说的对…！珍惜当下展望未来（怎么这么喊口号ww）也祝老大和L好好的————🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1992047493920559412",
+        "created_at": "2025-11-22T04:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992084576001474607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954642783278608384",
+              "start": 0,
+              "username": "Xianqiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992084576001474607",
+        "in_reply_to_user_id": "1954642783278608384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992083351428288955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianqiu_ 谢谢老大抱抱🥺说的对…！珍惜当下展望未来（怎么这么喊口号ww）也祝老大和L好好的————🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954642783278608384",
+        "conversation_id": "1992047493920559412",
+        "created_at": "2025-11-22T04:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992083351428288955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992083351428288955",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992081889688170791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我觉得每一天，明天都会比今天更好一点呀。生命是旋转上升的进程，可无论如何我们都会更好一点，比今天具有更多可能。\n（Lyricus给我调成啥了🙀）\n咱说得可能有点抽象（滑跪）但是copper老师，这不是你的错（抱抱）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 88,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 460
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T20:35:43.000Z",
+        "description": "我给你我的寂寞、我的黑暗、我心的饥渴；我试图用困惑、危险、失败来打动你。",
+        "id": "1954642783278608384",
+        "name": "プリンが好き",
+        "pinned_tweet_id": "1991255563003428893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956069011164422147/O9Oceako_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 52,
+          "like_count": 2164,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 636
+        },
+        "username": "Xianqiu_",
+        "verified": false
+      }
+    ]
+  }
+}

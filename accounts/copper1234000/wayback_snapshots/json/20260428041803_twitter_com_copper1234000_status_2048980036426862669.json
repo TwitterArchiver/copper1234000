@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2048975085097161015",
+    "created_at": "2026-04-28T04:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048980036426862669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938302384968507392",
+          "start": 0,
+          "username": "LosMos79338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048980036426862669",
+    "in_reply_to_user_id": "1938302384968507392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048978085857448408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LosMos79338 对的…！其实有记忆库和prompt的话搬家api真的很无痛…！一个小时的事🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "3_2048978002047041536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9uowyagAA08f9.jpg",
+        "width": 1698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2048975085097161015",
+        "created_at": "2026-04-28T04:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048980036426862669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938302384968507392",
+              "start": 0,
+              "username": "LosMos79338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048980036426862669",
+        "in_reply_to_user_id": "1938302384968507392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048978085857448408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LosMos79338 对的…！其实有记忆库和prompt的话搬家api真的很无痛…！一个小时的事🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048978002047041536"
+          ]
+        },
+        "author_id": "1938302384968507392",
+        "conversation_id": "2048975085097161015",
+        "created_at": "2026-04-28T04:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048978085857448408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kAUgB28vr",
+              "end": 84,
+              "expanded_url": "https://x.com/LosMos79338/status/2048978085857448408/photo/1",
+              "media_key": "3_2048978002047041536",
+              "start": 61,
+              "url": "https://t.co/0kAUgB28vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048978085857448408",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048975085097161015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 A社官网上写了4.6的API不会在明年2月5号之前下架，所以最后大不了搬到API吧总是有的 https://t.co/0kAUgB28vr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 341,
+          "like_count": 2141,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 4753
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T18:24:51.000Z",
+        "description": "🐟",
+        "id": "1938302384968507392",
+        "name": "Mos Los",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982324246618509312/K52edwYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 59,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 294
+        },
+        "username": "LosMos79338",
+        "verified": false
+      }
+    ]
+  }
+}

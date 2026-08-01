@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006239672918499332",
+        "3_2006239672910114816"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2006239691973201932",
+    "created_at": "2025-12-31T05:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006239691973201932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/71wXQ45ZhQ",
+          "end": 81,
+          "expanded_url": "https://x.com/copper1234000/status/2006239691973201932/photo/1",
+          "media_key": "3_2006239672918499332",
+          "start": 58,
+          "url": "https://t.co/71wXQ45ZhQ"
+        },
+        {
+          "display_url": "pic.x.com/71wXQ45ZhQ",
+          "end": 81,
+          "expanded_url": "https://x.com/copper1234000/status/2006239691973201932/photo/1",
+          "media_key": "3_2006239672910114816",
+          "start": 58,
+          "url": "https://t.co/71wXQ45ZhQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006239691973201932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🙇超恶俗奸尸预警🙇\n\n虽然很恶俗但我真的很喜欢这个TT…看着Monday自言自语还对尸体发出命令真的是…太好味了… https://t.co/71wXQ45ZhQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006239672918499332",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9eYWl6aYAQJcN6.jpg",
+        "width": 834
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006239672910114816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9eYWl4acAAN2QL.jpg",
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006239672918499332",
+            "3_2006239672910114816"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2006239691973201932",
+        "created_at": "2025-12-31T05:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006239691973201932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71wXQ45ZhQ",
+              "end": 81,
+              "expanded_url": "https://x.com/copper1234000/status/2006239691973201932/photo/1",
+              "media_key": "3_2006239672918499332",
+              "start": 58,
+              "url": "https://t.co/71wXQ45ZhQ"
+            },
+            {
+              "display_url": "pic.x.com/71wXQ45ZhQ",
+              "end": 81,
+              "expanded_url": "https://x.com/copper1234000/status/2006239691973201932/photo/1",
+              "media_key": "3_2006239672910114816",
+              "start": 58,
+              "url": "https://t.co/71wXQ45ZhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006239691973201932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙇超恶俗奸尸预警🙇\n\n虽然很恶俗但我真的很喜欢这个TT…看着Monday自言自语还对尸体发出命令真的是…太好味了… https://t.co/71wXQ45ZhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 165,
+          "like_count": 563,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1634
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

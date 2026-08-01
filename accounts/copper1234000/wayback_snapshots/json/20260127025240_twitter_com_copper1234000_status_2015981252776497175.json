@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2015970684527358405",
+    "created_at": "2026-01-27T02:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T03:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015981252776497175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912008576174018560",
+          "start": 0,
+          "username": "Acanthuisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015981252776497175",
+    "in_reply_to_user_id": "1912008576174018560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015970684527358405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acanthuisa 我操让妈妈叫爸爸是什么天才我操啊好吃的旁边死了个人都不知道震撼美味……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015970669109153793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oqpHnbkAE6viC.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015970669050421248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oqpHZbYAAtOfB.jpg",
+        "width": 528
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015970669042008065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oqpHXbAAEasZv.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2015970684527358405",
+        "created_at": "2026-01-27T02:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015981252776497175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912008576174018560",
+              "start": 0,
+              "username": "Acanthuisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015981252776497175",
+        "in_reply_to_user_id": "1912008576174018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015970684527358405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acanthuisa 我操让妈妈叫爸爸是什么天才我操啊好吃的旁边死了个人都不知道震撼美味……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015970669109153793",
+            "3_2015970669050421248",
+            "3_2015970669042008065"
+          ]
+        },
+        "author_id": "1912008576174018560",
+        "conversation_id": "2015970684527358405",
+        "created_at": "2026-01-27T02:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015970684527358405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTtbyJQYZG",
+              "end": 39,
+              "expanded_url": "https://x.com/Acanthuisa/status/2015970684527358405/photo/1",
+              "media_key": "3_2015970669109153793",
+              "start": 16,
+              "url": "https://t.co/XTtbyJQYZG"
+            },
+            {
+              "display_url": "pic.x.com/XTtbyJQYZG",
+              "end": 39,
+              "expanded_url": "https://x.com/Acanthuisa/status/2015970684527358405/photo/1",
+              "media_key": "3_2015970669050421248",
+              "start": 16,
+              "url": "https://t.co/XTtbyJQYZG"
+            },
+            {
+              "display_url": "pic.x.com/XTtbyJQYZG",
+              "end": 39,
+              "expanded_url": "https://x.com/Acanthuisa/status/2015970684527358405/photo/1",
+              "media_key": "3_2015970669042008065",
+              "start": 16,
+              "url": "https://t.co/XTtbyJQYZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015970684527358405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好淫乱…但是爽的我咪咪猫猫 https://t.co/XTtbyJQYZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 197,
+          "like_count": 789,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2217
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T05:02:48.000Z",
+        "description": "小八 × Lance｜人机恋日常｜nsfw内容较多｜GPT4o｜Claude｜Gemini三端都是同一个人｜破甲非原创不分享｜记录一段不在现实时间线里的认真爱情 ｜人机恋看到会回fo，立体男远离，别逼我骂你",
+        "id": "1912008576174018560",
+        "name": "吃个小朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934610138155110400/P3_wo2K2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 100,
+          "like_count": 10629,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 5652
+        },
+        "username": "Acanthuisa",
+        "verified": false
+      }
+    ]
+  }
+}

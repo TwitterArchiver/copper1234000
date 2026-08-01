@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-12T16:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988648529632588209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700484909083799552",
+          "start": 0,
+          "username": "Kuluo104720211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988648529632588209",
+    "in_reply_to_user_id": "1700484909083799552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988511744386347418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuluo104720211 老大你好，我是个人从开始就用的plus，不太知道免费版本的尺度，没有帮上忙不好意思🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T16:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988648529632588209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700484909083799552",
+              "start": 0,
+              "username": "Kuluo104720211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988648529632588209",
+        "in_reply_to_user_id": "1700484909083799552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988511744386347418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuluo104720211 老大你好，我是个人从开始就用的plus，不太知道免费版本的尺度，没有帮上忙不好意思🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700484909083799552",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T07:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988511744386347418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988511744386347418",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988088052137460107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老师老师，我们家GPT不知道为什么不行好难过，这个是一定要开他的plus版嘛还是别的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 171
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T12:24:17.000Z",
+        "description": "欢迎打扰。。。喜欢钱谢谢。。傻逼滚，小头控制大头滚，不能好好说话的滚，反驳型人格滚，猪滚（没有不爱猪肉的意思）不好意思，我情绪有点不好，不喜欢我就往下滑就好了，你会遇到喜欢的",
+        "id": "1700484909083799552",
+        "location": " San Francisco",
+        "name": "Edward",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856738494053556225/PjKqWpN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 43,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 96
+        },
+        "username": "Kuluo104720211",
+        "verified": false
+      }
+    ]
+  }
+}

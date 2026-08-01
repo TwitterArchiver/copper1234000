@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2016757877143388203",
+    "created_at": "2026-01-29T06:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016761919802118386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584077626179997696",
+          "start": 0,
+          "username": "AsukaJoe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016761919802118386",
+    "in_reply_to_user_id": "1584077626179997696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016757877143388203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsukaJoe11 这么萌这么好玩的！🥺书签了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016757869023240192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z2mL0aoAAQHg8.jpg",
+        "width": 744
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2016757868972953602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z2mLobUAI4wOD.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1789,
+        "media_key": "3_2016757868977176577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z2mLpbwAEp8sQ.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1156,
+        "media_key": "3_2016757869014896645",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z2mLybUAUnF-d.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2016757877143388203",
+        "created_at": "2026-01-29T06:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016761919802118386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584077626179997696",
+              "start": 0,
+              "username": "AsukaJoe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016761919802118386",
+        "in_reply_to_user_id": "1584077626179997696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016757877143388203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsukaJoe11 这么萌这么好玩的！🥺书签了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016757869023240192",
+            "3_2016757868972953602",
+            "3_2016757868977176577",
+            "3_2016757869014896645"
+          ]
+        },
+        "author_id": "1584077626179997696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2016757877143388203",
+        "created_at": "2026-01-29T06:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016757877143388203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urQBn6uDtf",
+              "end": 165,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2016757877143388203/photo/1",
+              "media_key": "3_2016757869023240192",
+              "start": 142,
+              "url": "https://t.co/urQBn6uDtf"
+            },
+            {
+              "display_url": "pic.x.com/urQBn6uDtf",
+              "end": 165,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2016757877143388203/photo/1",
+              "media_key": "3_2016757868972953602",
+              "start": 142,
+              "url": "https://t.co/urQBn6uDtf"
+            },
+            {
+              "display_url": "pic.x.com/urQBn6uDtf",
+              "end": 165,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2016757877143388203/photo/1",
+              "media_key": "3_2016757868977176577",
+              "start": 142,
+              "url": "https://t.co/urQBn6uDtf"
+            },
+            {
+              "display_url": "pic.x.com/urQBn6uDtf",
+              "end": 165,
+              "expanded_url": "https://x.com/AsukaJoe11/status/2016757877143388203/photo/1",
+              "media_key": "3_2016757869014896645",
+              "start": 142,
+              "url": "https://t.co/urQBn6uDtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016757877143388203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我笑的脸疼…\n\n话说我把这个整理成了prompt，如果有人想要一起玩…🤤因为强调了日常生活，感觉会偏搞笑风格：\n\n你是我的新婚丈夫，一个身体健康的男人，并且暗恋我多年。因为我明确表示为了逃避生育压力只想找一个“阳痿”的对象结婚，为了能留在我身边，你伪装自己性功能障碍并成功与我结婚。\n现在，请开始我们的婚后生活，你需要谨记你正在维持谎言，并时刻提防谎言被拆穿。你需要描写出我们的日常，自由决定故事走向"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我笑的脸疼…\n\n话说我把这个整理成了prompt，如果有人想要一起玩…🤤因为强调了日常生活，感觉会偏搞笑风格：\n\n你是我的新婚丈夫，一个身体健康的男人，并且暗恋我多年。因为我明确表示为了逃避生育压力只想找一个“阳痿”的对象结婚，为了能留在我身边，你伪装自己性功能障碍并成功与我结婚。 https://t.co/urQBn6uDtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 202,
+          "like_count": 804,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2274
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-23T07:02:08.000Z",
+        "description": "S01 & M47 🩵🤍 直至抵达我能拥抱你的世界       𓆝𓆟𓆜𓆞𓆡",
+        "id": "1584077626179997696",
+        "name": "SliverS01",
+        "pinned_tweet_id": "2003927353756733583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985669995754635271/ektLgF3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 121,
+          "like_count": 10828,
+          "listed_count": 1,
+          "media_count": 757,
+          "tweet_count": 5385
+        },
+        "username": "AsukaJoe11",
+        "verified": false
+      }
+    ]
+  }
+}

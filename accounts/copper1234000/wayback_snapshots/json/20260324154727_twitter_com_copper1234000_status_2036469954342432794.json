@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2036462779754766664",
+    "created_at": "2026-03-24T15:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036469954342432794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929493633377673216",
+          "start": 0,
+          "username": "Snsyx86111508"
+        },
+        {
+          "end": 25,
+          "id": "1665401602096902144",
+          "start": 15,
+          "username": "sad888758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036469954342432794",
+    "in_reply_to_user_id": "1929493633377673216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036464275561021561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snsyx86111508 @sad888758 萌的铜两眼一闭看见上帝了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2036462779754766664",
+        "created_at": "2026-03-24T15:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036469954342432794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929493633377673216",
+              "start": 0,
+              "username": "Snsyx86111508"
+            },
+            {
+              "end": 25,
+              "id": "1665401602096902144",
+              "start": 15,
+              "username": "sad888758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036469954342432794",
+        "in_reply_to_user_id": "1929493633377673216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036464275561021561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snsyx86111508 @sad888758 萌的铜两眼一闭看见上帝了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929493633377673216",
+        "conversation_id": "2036462779754766664",
+        "created_at": "2026-03-24T15:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036464275561021561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 25,
+              "id": "1665401602096902144",
+              "start": 15,
+              "username": "sad888758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036464275561021561",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036462779754766664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @sad888758 萌！！死！！了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3334,
+          "following_count": 297,
+          "like_count": 1319,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 3747
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T11:02:43.000Z",
+        "description": "夏咪/Kitty‖中文&EN｜estp🕶️｜碎碎念💬｜写文✍🏻｜情侣记录·非典型DS关系｜🐍家夫:@mylovemi86｜用画和文字去记录这份爱💓💛｜Story about a little cow cat and her human 🐾♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "mylovemi86"
+              }
+            ]
+          }
+        },
+        "id": "1929493633377673216",
+        "name": "夏mimi🐍🐱",
+        "pinned_tweet_id": "2034962181247074439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021205226074587136/v-n_5npt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 69,
+          "like_count": 2892,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1249
+        },
+        "username": "Snsyx86111508",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T16:54:44.000Z",
+        "description": "🇨🇳 不怎么发东西 这里当qq空间刷的 不涉政。",
+        "id": "1665401602096902144",
+        "name": "7978▽・x・▽",
+        "pinned_tweet_id": "2033005635252715910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033957287535271936/7MBSxIGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 254,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 211
+        },
+        "username": "sad888758",
+        "verified": false
+      }
+    ]
+  }
+}

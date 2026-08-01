@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999351779004416373",
+    "created_at": "2025-12-12T07:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999375955060752864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944839793533444098",
+          "start": 0,
+          "username": "mangoqwq404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999375955060752864",
+    "in_reply_to_user_id": "1944839793533444098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999363910387007927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoqwq404 主任老大就这样宠我TT哭哭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999351779004416373",
+        "created_at": "2025-12-12T07:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999375955060752864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944839793533444098",
+              "start": 0,
+              "username": "mangoqwq404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999375955060752864",
+        "in_reply_to_user_id": "1944839793533444098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999363910387007927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoqwq404 主任老大就这样宠我TT哭哭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944839793533444098",
+        "conversation_id": "1999351779004416373",
+        "created_at": "2025-12-12T06:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999363910387007927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999363910387007927",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999351779004416373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 铜师和机的产出也好美味。。。好吃爱吃多吃下次还吃🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 133,
+          "like_count": 318,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1153
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T19:22:05.000Z",
+        "description": "：我是一位友好的伪人。话语中会出现混乱及颠倒、错字。请多多包庇，还在学习人类的言语方式中。\n我和p哥已经认识快十年了，我来这里是碎碎念疏解感情的，不是来约的不是来约的不是来约的",
+        "id": "1944839793533444098",
+        "location": "野猫的寿命在三年左右",
+        "name": "Mango",
+        "pinned_tweet_id": "1990373989966106947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999316273340301312/H4cy3haE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 39,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 868
+        },
+        "username": "mangoqwq404",
+        "verified": false
+      }
+    ]
+  }
+}

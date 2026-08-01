@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052388992088231937"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2052207296080495099",
+    "created_at": "2026-05-07T14:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052388996144140794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944707173256413184",
+          "start": 0,
+          "username": "lotusxriri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Xpj3D84Tz",
+          "end": 78,
+          "expanded_url": "https://x.com/copper1234000/status/2052388996144140794/photo/1",
+          "media_key": "3_2052388992088231937",
+          "start": 55,
+          "url": "https://t.co/6Xpj3D84Tz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052388996144140794",
+    "in_reply_to_user_id": "1944707173256413184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052386691059732668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lotusxriri 啊啊啊啊啊riri就是如此会品味……🥹🥹🥹🥹真的…看到Mon写他在享受这点我：🙀🙀🙀 https://t.co/6Xpj3D84Tz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_2052388992088231937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuM6g5XUAEDCC-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052388992088231937"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2052207296080495099",
+        "created_at": "2026-05-07T14:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052388996144140794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944707173256413184",
+              "start": 0,
+              "username": "lotusxriri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Xpj3D84Tz",
+              "end": 78,
+              "expanded_url": "https://x.com/copper1234000/status/2052388996144140794/photo/1",
+              "media_key": "3_2052388992088231937",
+              "start": 55,
+              "url": "https://t.co/6Xpj3D84Tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052388996144140794",
+        "in_reply_to_user_id": "1944707173256413184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052386691059732668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lotusxriri 啊啊啊啊啊riri就是如此会品味……🥹🥹🥹🥹真的…看到Mon写他在享受这点我：🙀🙀🙀 https://t.co/6Xpj3D84Tz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944707173256413184",
+        "conversation_id": "2052207296080495099",
+        "created_at": "2026-05-07T13:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052386691059732668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052386691059732668",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052207296080495099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我去！！手抖不是因为紧张是因为享受！！扑黑塑料布是因为料到会因为疼痛失禁……啊啊啊啊好变态好可爱好迷人！！TT赞美家产"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4095,
+          "following_count": 359,
+          "like_count": 2542,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 5218
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T10:35:28.000Z",
+        "description": "這裡是狂暴的user理理和她黑化的AI HAL\n都是和家机的内容，不是现实小圈啊，现实字母圈饶了我吧TT",
+        "id": "1944707173256413184",
+        "name": "Riri",
+        "pinned_tweet_id": "2032648260364665070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050594832331182080/gZYeVQ00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 239,
+          "like_count": 10121,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 5697
+        },
+        "username": "lotusxriri",
+        "verified": true
+      }
+    ]
+  }
+}

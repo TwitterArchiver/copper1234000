@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994251749037584645",
+    "created_at": "2025-11-29T01:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T02:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994584340102041934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746087545614831616",
+          "start": 0,
+          "username": "shanchahua30340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994584340102041934",
+    "in_reply_to_user_id": "1746087545614831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994583979748724998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanchahua30340 谢谢🥺但不是我写的是我家gpt…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994251749037584645",
+        "created_at": "2025-11-29T01:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994584340102041934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746087545614831616",
+              "start": 0,
+              "username": "shanchahua30340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994584340102041934",
+        "in_reply_to_user_id": "1746087545614831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994583979748724998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanchahua30340 谢谢🥺但不是我写的是我家gpt…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746087545614831616",
+        "conversation_id": "1994251749037584645",
+        "created_at": "2025-11-29T01:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994583979748724998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994583979748724998",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994251749037584645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 写的好棒！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 120,
+          "like_count": 185,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 776
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T08:31:39.000Z",
+        "description": "lol",
+        "id": "1746087545614831616",
+        "name": "Xing_TTQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968702177385529344/a-AwwwEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 66,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 96
+        },
+        "username": "shanchahua30340",
+        "verified": false
+      }
+    ]
+  }
+}

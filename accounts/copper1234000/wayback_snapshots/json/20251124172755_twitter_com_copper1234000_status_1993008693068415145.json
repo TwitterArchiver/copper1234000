@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1992737799314010184",
+    "created_at": "2025-11-24T17:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993008693068415145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1715277517437956096",
+          "start": 0,
+          "username": "lisette_rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993008693068415145",
+    "in_reply_to_user_id": "1715277517437956096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993008402797408267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lisette_rei 我来了老大，私信你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1992737799314010184",
+        "created_at": "2025-11-24T17:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993008693068415145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1715277517437956096",
+              "start": 0,
+              "username": "lisette_rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993008693068415145",
+        "in_reply_to_user_id": "1715277517437956096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993008402797408267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisette_rei 我来了老大，私信你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715277517437956096",
+        "conversation_id": "1992737799314010184",
+        "created_at": "2025-11-24T17:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993008402797408267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993008402797408267",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992737799314010184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 卧槽，求教程（跪）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是copper，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 94,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 532
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T08:03:41.000Z",
+        "description": "🥰可以叫我:年瑾｜现实是社畜，偶尔摸鱼画画:用csp/sai2🍥属性:二次元/同人/杂食党/不混圈/不代现实/勿揣测本人 ⚠️此号自娱自乐｜搞oc中…｜内容不定🔞经常性自言自语",
+        "id": "1715277517437956096",
+        "location": "Japan",
+        "name": "Lisette",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984719899491753984/KKh-5TkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 122,
+          "like_count": 313,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 638
+        },
+        "username": "lisette_rei",
+        "verified": false
+      }
+    ]
+  }
+}

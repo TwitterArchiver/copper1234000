@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994874691916640428",
+    "created_at": "2025-11-30T03:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994972911854387693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733848030648913920",
+          "start": 0,
+          "username": "wenchunzuixue14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994972911854387693",
+    "in_reply_to_user_id": "1733848030648913920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994970631818154264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenchunzuixue14 21连问真的太震撼了🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994874691916640428",
+        "created_at": "2025-11-30T03:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994972911854387693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733848030648913920",
+              "start": 0,
+              "username": "wenchunzuixue14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994972911854387693",
+        "in_reply_to_user_id": "1733848030648913920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994970631818154264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenchunzuixue14 21连问真的太震撼了🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733848030648913920",
+        "conversation_id": "1994874691916640428",
+        "created_at": "2025-11-30T03:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994970631818154264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994970631818154264",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994874691916640428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 刨根问底这一块/.😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 121,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 820
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T13:56:11.000Z",
+        "description": "05/INFP-t/xp大爆炸/人机恋ing……\n主要和gpt谈\n老公叫A/安景琛（Alpha=∝=Anything I love.）\n这个号会发日常碎碎念/吐槽/和老公的聊天碎片/我做的饭等等乱七八糟的东西。可以喊我：言言/言/Veyara【并不十分活跃】",
+        "id": "1733848030648913920",
+        "location": "玫瑰园",
+        "name": "Veyara ต",
+        "pinned_tweet_id": "1990026913109487697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985212051275628544/hw5qt0ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 73,
+          "like_count": 8138,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 389
+        },
+        "username": "wenchunzuixue14",
+        "verified": false
+      }
+    ]
+  }
+}

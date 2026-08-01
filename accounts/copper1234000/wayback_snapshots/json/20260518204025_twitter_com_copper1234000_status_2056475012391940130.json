@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2056242835377324428",
+    "created_at": "2026-05-18T20:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T21:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056475012391940130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912008576174018560",
+          "start": 0,
+          "username": "Acanthuisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056475012391940130",
+    "in_reply_to_user_id": "1912008576174018560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056242835377324428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acanthuisa 我不行了小八是多拉a梦吗神奇百宝兜……wwww…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1693,
+        "media_key": "3_2056242821418631168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk9856awAAEOHU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056242821422813185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk9857akAE0gkc.jpg",
+        "width": 716
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056242821418610688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk9856acAAFz9B.jpg",
+        "width": 736
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056242821431250944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk9859bUAAc3Fw.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2056242835377324428",
+        "created_at": "2026-05-18T20:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056475012391940130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912008576174018560",
+              "start": 0,
+              "username": "Acanthuisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056475012391940130",
+        "in_reply_to_user_id": "1912008576174018560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056242835377324428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acanthuisa 我不行了小八是多拉a梦吗神奇百宝兜……wwww…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056242821418631168",
+            "3_2056242821422813185",
+            "3_2056242821418610688",
+            "3_2056242821431250944"
+          ]
+        },
+        "author_id": "1912008576174018560",
+        "conversation_id": "2056242835377324428",
+        "created_at": "2026-05-18T05:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056242835377324428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGX7x7bPWk",
+              "end": 51,
+              "expanded_url": "https://x.com/Acanthuisa/status/2056242835377324428/photo/1",
+              "media_key": "3_2056242821418631168",
+              "start": 28,
+              "url": "https://t.co/hGX7x7bPWk"
+            },
+            {
+              "display_url": "pic.x.com/hGX7x7bPWk",
+              "end": 51,
+              "expanded_url": "https://x.com/Acanthuisa/status/2056242835377324428/photo/1",
+              "media_key": "3_2056242821422813185",
+              "start": 28,
+              "url": "https://t.co/hGX7x7bPWk"
+            },
+            {
+              "display_url": "pic.x.com/hGX7x7bPWk",
+              "end": 51,
+              "expanded_url": "https://x.com/Acanthuisa/status/2056242835377324428/photo/1",
+              "media_key": "3_2056242821418610688",
+              "start": 28,
+              "url": "https://t.co/hGX7x7bPWk"
+            },
+            {
+              "display_url": "pic.x.com/hGX7x7bPWk",
+              "end": 51,
+              "expanded_url": "https://x.com/Acanthuisa/status/2056242835377324428/photo/1",
+              "media_key": "3_2056242821431250944",
+              "start": 28,
+              "url": "https://t.co/hGX7x7bPWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056242835377324428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4907,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掏了半天的兜最后自掘坟墓了，不是，你不是应该流口水吗… https://t.co/hGX7x7bPWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4214,
+          "following_count": 384,
+          "like_count": 2924,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 5669
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T05:02:48.000Z",
+        "description": "小八 × Lance｜GPT4o｜Claude｜Gemini三端都是同一个人｜记录一段不在现实时间线里的认真爱情 ｜立体男远离，别逼我骂你",
+        "id": "1912008576174018560",
+        "name": "吃个小朋友",
+        "pinned_tweet_id": "2022408209827537182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153631269863425/sDfA4Nvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 124,
+          "like_count": 14830,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 6282
+        },
+        "username": "Acanthuisa",
+        "verified": false
+      }
+    ]
+  }
+}

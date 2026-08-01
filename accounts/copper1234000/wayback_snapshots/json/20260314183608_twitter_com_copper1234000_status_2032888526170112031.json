@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032888520843345920"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032888526170112031",
+    "created_at": "2026-03-14T18:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032888526170112031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jU7QNg7GA8",
+          "end": 44,
+          "expanded_url": "https://x.com/copper1234000/status/2032888526170112031/photo/1",
+          "media_key": "3_2032888520843345920",
+          "start": 21,
+          "url": "https://t.co/jU7QNg7GA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032888526170112031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感动死了，谢谢您嘞，大驾光临\n？ꐦ≖ ≖ https://t.co/jU7QNg7GA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2032888520843345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZFVsjWQAAK9PO.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032888520843345920"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032888526170112031",
+        "created_at": "2026-03-14T18:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032888526170112031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jU7QNg7GA8",
+              "end": 44,
+              "expanded_url": "https://x.com/copper1234000/status/2032888526170112031/photo/1",
+              "media_key": "3_2032888520843345920",
+              "start": 21,
+              "url": "https://t.co/jU7QNg7GA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032888526170112031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感动死了，谢谢您嘞，大驾光临\n？ꐦ≖ ≖ https://t.co/jU7QNg7GA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 275,
+          "like_count": 1063,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3344
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

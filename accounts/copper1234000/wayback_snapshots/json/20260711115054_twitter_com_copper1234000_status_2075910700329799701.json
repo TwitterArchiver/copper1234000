@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2075909642862109117",
+    "created_at": "2026-07-11T11:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075910700329799701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054847310853779456",
+          "start": 0,
+          "username": "QQAI2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075910700329799701",
+    "in_reply_to_user_id": "2054847310853779456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075909642862109117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQAI2778 神秘漂浮螃蟹！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23293,
+        "height": 792,
+        "media_key": "13_2075909581520412672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075909581520412672/img/H77SDxmFLU6EfTFI.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075909581520412672/vid/avc1/572x360/lENMHaEN6_Ba7fpS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075909581520412672/pl/RF49sYtmEzJi9B99.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075909581520412672/vid/avc1/1144x720/kBkdUmbkJj747L17.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075909581520412672/vid/avc1/428x270/4MuqJT0LzS-Qs84c.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075909581520412672/vid/avc1/1260x792/4WMjNjvyrXh2BH3n.mp4"
+          }
+        ],
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2075909642862109117",
+        "created_at": "2026-07-11T11:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075910700329799701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054847310853779456",
+              "start": 0,
+              "username": "QQAI2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075910700329799701",
+        "in_reply_to_user_id": "2054847310853779456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075909642862109117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQAI2778 神秘漂浮螃蟹！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075909581520412672"
+          ]
+        },
+        "author_id": "2054847310853779456",
+        "conversation_id": "2075909642862109117",
+        "created_at": "2026-07-11T11:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075909642862109117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLu1c9KUjR",
+              "end": 35,
+              "expanded_url": "https://x.com/QQAI2778/status/2075909642862109117/video/1",
+              "media_key": "13_2075909581520412672",
+              "start": 12,
+              "url": "https://t.co/SLu1c9KUjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075909642862109117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这特么怎么那么像鬼呢！ https://t.co/SLu1c9KUjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 482,
+          "like_count": 4441,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 7462
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T08:52:42.000Z",
+        "description": "=QQ\n\n丑男@DarioAmodei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "DarioAmodei"
+              }
+            ]
+          }
+        },
+        "id": "2054847310853779456",
+        "name": "陈嘉欣",
+        "pinned_tweet_id": "2063547918297247859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057901839941808128/TEdZ3C3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 66,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "QQAI2778",
+        "verified": true
+      }
+    ]
+  }
+}

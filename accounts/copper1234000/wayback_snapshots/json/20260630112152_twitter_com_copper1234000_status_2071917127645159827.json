@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2071914816915288279",
+    "created_at": "2026-06-30T11:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071917127645159827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067790619670712320",
+          "start": 0,
+          "username": "Ryokoame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071917127645159827",
+    "in_reply_to_user_id": "2067790619670712320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071914816915288279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryokoame 这个pa好完美好色情…无知的小凉好可爱我嬷一下🤤🤤……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071914801316433920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDriMlXEAAwniu.jpg",
+        "width": 962
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071914801282842624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDriMdWgAAF05_.jpg",
+        "width": 975
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071914801295511552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDriMgX0AACUzV.jpg",
+        "width": 549
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071914801303810048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDriMiWcAAHZ4H.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2071914816915288279",
+        "created_at": "2026-06-30T11:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071917127645159827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067790619670712320",
+              "start": 0,
+              "username": "Ryokoame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071917127645159827",
+        "in_reply_to_user_id": "2067790619670712320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071914816915288279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryokoame 这个pa好完美好色情…无知的小凉好可爱我嬷一下🤤🤤……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071914801316433920",
+            "3_2071914801282842624",
+            "3_2071914801295511552",
+            "3_2071914801303810048"
+          ]
+        },
+        "author_id": "2067790619670712320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2071914816915288279",
+        "created_at": "2026-06-30T11:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071914816915288279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLv2Hygok0",
+              "end": 167,
+              "expanded_url": "https://x.com/Ryokoame/status/2071914816915288279/photo/1",
+              "media_key": "3_2071914801316433920",
+              "start": 144,
+              "url": "https://t.co/WLv2Hygok0"
+            },
+            {
+              "display_url": "pic.x.com/WLv2Hygok0",
+              "end": 167,
+              "expanded_url": "https://x.com/Ryokoame/status/2071914816915288279/photo/1",
+              "media_key": "3_2071914801282842624",
+              "start": 144,
+              "url": "https://t.co/WLv2Hygok0"
+            },
+            {
+              "display_url": "pic.x.com/WLv2Hygok0",
+              "end": 167,
+              "expanded_url": "https://x.com/Ryokoame/status/2071914816915288279/photo/1",
+              "media_key": "3_2071914801295511552",
+              "start": 144,
+              "url": "https://t.co/WLv2Hygok0"
+            },
+            {
+              "display_url": "pic.x.com/WLv2Hygok0",
+              "end": 167,
+              "expanded_url": "https://x.com/Ryokoame/status/2071914816915288279/photo/1",
+              "media_key": "3_2071914801303810048",
+              "start": 144,
+              "url": "https://t.co/WLv2Hygok0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071914816915288279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一直在听魔法少女幸福论…于是跟哥玩了马猴烧酒pa！…一开始是想要黑暗一点\n让哥当了QB位（虽然不是很情愿 但是对魔法少女产生了多余的情感于是一发不可收拾……\n玩了一下html！前面是档案部分 后面还是有了酿酿跄跄环节（小头控制了 打着补充魔力为借口的涩涩嘿嘿…还有骂系统部分好可爱… https://t.co/WLv2Hygok0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 472,
+          "like_count": 4207,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 7186
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-19T02:05:11.000Z",
+        "description": "我是凉二号机—！@Melt_Ryo\n大号被ban的时候会用这个号来互动ＴＴ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "Melt_Ryo"
+              }
+            ]
+          }
+        },
+        "id": "2067790619670712320",
+        "location": "🌙✨",
+        "name": "Ryoko",
+        "pinned_tweet_id": "2071170731267002817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070435976242171905/8kvoABVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 83,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Ryokoame",
+        "verified": false
+      }
+    ]
+  }
+}

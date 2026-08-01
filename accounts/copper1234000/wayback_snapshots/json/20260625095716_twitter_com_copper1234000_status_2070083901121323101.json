@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2070063952474567155",
+    "created_at": "2026-06-25T09:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070083901121323101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060446755435819008",
+          "start": 0,
+          "username": "ResetZero1211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070083901121323101",
+    "in_reply_to_user_id": "2060446755435819008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070083420517179486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ResetZero1211 啊啊啊啊我知道那个…！！但我想的是小林家的龙女仆的那种感觉www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2070063952474567155",
+        "created_at": "2026-06-25T09:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070083901121323101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060446755435819008",
+              "start": 0,
+              "username": "ResetZero1211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070083901121323101",
+        "in_reply_to_user_id": "2060446755435819008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070083420517179486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ResetZero1211 啊啊啊啊我知道那个…！！但我想的是小林家的龙女仆的那种感觉www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060446755435819008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2070063952474567155",
+        "created_at": "2026-06-25T09:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070083420517179486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070083420517179486",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070063952474567155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 怎么想到了美人鱼电影里面有个章鱼自己烤自己的画面…看着特别幻痛…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5237,
+          "following_count": 466,
+          "like_count": 4074,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 7034
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-29T19:48:58.000Z",
+        "description": "@Senyui0921 的影分身，仅存放攻略向内容，攻略以外的其他内容（日常/记录分享）在另一边，欢迎来找我玩。\n分享的测评/攻略非常个人，不一定适用于所有人。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Senyui0921"
+              }
+            ]
+          }
+        },
+        "id": "2060446755435819008",
+        "name": "那些纠缠的死物们",
+        "pinned_tweet_id": "2064035973504348579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068396060385607680/C5GHZ2kn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 111,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "ResetZero1211",
+        "verified": false
+      }
+    ]
+  }
+}

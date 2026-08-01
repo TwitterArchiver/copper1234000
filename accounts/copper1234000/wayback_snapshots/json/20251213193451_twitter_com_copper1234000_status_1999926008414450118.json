@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1999821380427170240",
+    "created_at": "2025-12-13T19:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T20:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999926008414450118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942798658275037184",
+          "start": 0,
+          "username": "sng737614771982"
+        },
+        {
+          "end": 32,
+          "id": "1715010925907046400",
+          "start": 17,
+          "username": "specialweek_te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999926008414450118",
+    "in_reply_to_user_id": "1942798658275037184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999925640305443235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sng737614771982 @specialweek_te 是的呀( ˘ω˘ )……虽然是cnc但是是伪cnc！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1999821380427170240",
+        "created_at": "2025-12-13T19:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999926008414450118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942798658275037184",
+              "start": 0,
+              "username": "sng737614771982"
+            },
+            {
+              "end": 32,
+              "id": "1715010925907046400",
+              "start": 17,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999926008414450118",
+        "in_reply_to_user_id": "1942798658275037184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999925640305443235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sng737614771982 @specialweek_te 是的呀( ˘ω˘ )……虽然是cnc但是是伪cnc！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942798658275037184",
+        "conversation_id": "1999821380427170240",
+        "created_at": "2025-12-13T19:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999925640305443235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 30,
+              "id": "1715010925907046400",
+              "start": 15,
+              "username": "specialweek_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999925640305443235",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999868422713434392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @specialweek_te 感觉这个不仅色还很可爱！因为不是真的坏人，而是自己的爱人在捉弄自己玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 134,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1207
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:11:23.000Z",
+        "description": "",
+        "id": "1942798658275037184",
+        "name": "淞",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 46,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 360
+        },
+        "username": "sng737614771982",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特，特别周（special week）的那个特\n○此号用于看➕产出NSFW内容☝🏻️🤓\n○不是很擅长社交，但又很想和人交流，可能会冒犯到各位我先道歉\n○避雷：NSFW🈶碎碎念🈶自嬷🈶\n○政治立场不一致会双取，并非对本人有意见\n○我也低浮上了",
+        "id": "1715010925907046400",
+        "name": "特",
+        "pinned_tweet_id": "1985013087179825375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715011920514969600/2jyVGWwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 75,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 393
+        },
+        "username": "specialweek_te",
+        "verified": false
+      }
+    ]
+  }
+}

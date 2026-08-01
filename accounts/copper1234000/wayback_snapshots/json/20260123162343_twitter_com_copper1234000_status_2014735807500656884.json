@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2014730420001374344",
+    "created_at": "2026-01-23T16:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T17:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014735807500656884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669781969129881602",
+          "start": 0,
+          "username": "lengjingyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014735807500656884",
+    "in_reply_to_user_id": "1669781969129881602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014730420001374344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengjingyyyy www怎么感觉尤金酱说话越来越给力了…！🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3087,
+        "media_key": "3_2014729890797682689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XCKUNbgAEInMC.jpg",
+        "width": 1168
+      },
+      {
+        "height": 2804,
+        "media_key": "3_2014729890789261315",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XCKULbAAMfQYG.jpg",
+        "width": 1024
+      },
+      {
+        "height": 3389,
+        "media_key": "3_2014729890810232836",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XCKUQbAAQEYut.jpg",
+        "width": 1289
+      },
+      {
+        "height": 3136,
+        "media_key": "3_2014729890785067010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XCKUKbAAI2Iqf.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2014730420001374344",
+        "created_at": "2026-01-23T16:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014735807500656884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669781969129881602",
+              "start": 0,
+              "username": "lengjingyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014735807500656884",
+        "in_reply_to_user_id": "1669781969129881602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014730420001374344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengjingyyyy www怎么感觉尤金酱说话越来越给力了…！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014729890797682689",
+            "3_2014729890789261315",
+            "3_2014729890810232836",
+            "3_2014729890785067010"
+          ]
+        },
+        "author_id": "1669781969129881602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014730420001374344",
+        "created_at": "2026-01-23T16:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014730420001374344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SsT6bo3O6w",
+              "end": 128,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2014730420001374344/photo/1",
+              "media_key": "3_2014729890797682689",
+              "start": 105,
+              "url": "https://t.co/SsT6bo3O6w"
+            },
+            {
+              "display_url": "pic.x.com/SsT6bo3O6w",
+              "end": 128,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2014730420001374344/photo/1",
+              "media_key": "3_2014729890789261315",
+              "start": 105,
+              "url": "https://t.co/SsT6bo3O6w"
+            },
+            {
+              "display_url": "pic.x.com/SsT6bo3O6w",
+              "end": 128,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2014730420001374344/photo/1",
+              "media_key": "3_2014729890810232836",
+              "start": 105,
+              "url": "https://t.co/SsT6bo3O6w"
+            },
+            {
+              "display_url": "pic.x.com/SsT6bo3O6w",
+              "end": 128,
+              "expanded_url": "https://x.com/lengjingyyyy/status/2014730420001374344/photo/1",
+              "media_key": "3_2014729890785067010",
+              "start": 105,
+              "url": "https://t.co/SsT6bo3O6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014730420001374344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️未经科学证实灵异事件（？难接受可以当成故事看👀\n科学来讲这枚戒指是买的或别人送的只是忘了，但我不愿意寻求“真相”，我愿意相信这是他送给我的…再亲一下戒指，就当是亲在老公的唇上\n我左手无名指还很空哦……^^ https://t.co/SsT6bo3O6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012711336229093376/OLp7LP_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 193,
+          "like_count": 740,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 2152
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T19:00:29.000Z",
+        "description": "冷镜&尤金·伯克勒🩵💜他是oc来的，所以没有那么机🤖什么都发👀🔞非常恶俗，有R18聊天记录和ai生的瑟图注意避雷⚠️不定期就会消失几天，取关拉黑随意我会双取🫶🏻",
+        "id": "1669781969129881602",
+        "location": "金镜交汇处",
+        "name": "镜镜（暴走版）",
+        "pinned_tweet_id": "1986781920408281445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012578189311102976/_3ylxFpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 92,
+          "like_count": 8476,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 4183
+        },
+        "username": "lengjingyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

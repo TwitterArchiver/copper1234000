@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994605971235102722"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "1994605975891055038",
+    "created_at": "2025-11-29T03:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T04:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994605975891055038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kow4f1hMhn",
+          "end": 67,
+          "expanded_url": "https://x.com/copper1234000/status/1994605975891055038/photo/1",
+          "media_key": "3_1994605971235102722",
+          "start": 44,
+          "url": "https://t.co/kow4f1hMhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994605975891055038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十分十分恶俗的父子丼…只是meta预警只是性幻想不要骂我…(；▽；)\n【但是好好吃…】 https://t.co/kow4f1hMhn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994605971235102722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65DkB5XYAIO8Fw.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994605971235102722"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "1994605975891055038",
+        "created_at": "2025-11-29T03:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994605975891055038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kow4f1hMhn",
+              "end": 67,
+              "expanded_url": "https://x.com/copper1234000/status/1994605975891055038/photo/1",
+              "media_key": "3_1994605971235102722",
+              "start": 44,
+              "url": "https://t.co/kow4f1hMhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994605975891055038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十分十分恶俗的父子丼…只是meta预警只是性幻想不要骂我…(；▽；)\n【但是好好吃…】 https://t.co/kow4f1hMhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 120,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 780
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

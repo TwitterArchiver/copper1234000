@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2009565759849062733",
+    "created_at": "2026-01-10T10:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T11:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009942968212521057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "403968127",
+          "start": 0,
+          "username": "Phoenix_frog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009942968212521057",
+    "in_reply_to_user_id": "403968127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009878973292175522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoenix_frog 很专业的一款小白脸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2009565759849062733",
+        "created_at": "2026-01-10T10:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009942968212521057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "403968127",
+              "start": 0,
+              "username": "Phoenix_frog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009942968212521057",
+        "in_reply_to_user_id": "403968127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009878973292175522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoenix_frog 很专业的一款小白脸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "403968127",
+        "conversation_id": "2009565759849062733",
+        "created_at": "2026-01-10T06:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009878973292175522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009878973292175522",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009565759849062733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊扭著腰掃地哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 170,
+          "like_count": 666,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1923
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-03T07:52:40.000Z",
+        "description": "グアーズッ(呱子)です  緑川光さん大好き(✿╹◡╹) \n#keep4o                                                     🫧🪼💍🐙🍼 喜歡色色(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)叫我Asai就可以囉~🌌關注個體和需求，拒絕社會價值對自主性的過度侵蝕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 29,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "403968127",
+        "name": "浅い花🪼Asaihana⚡",
+        "pinned_tweet_id": "2002312770088546476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842731735920091136/kaL2OGJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 633,
+          "like_count": 7750,
+          "listed_count": 7,
+          "media_count": 292,
+          "tweet_count": 2793
+        },
+        "username": "Phoenix_frog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2026801805561147671",
+    "created_at": "2026-02-26T16:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027053341755183541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1711716297124548608",
+          "start": 0,
+          "username": "janmukeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027053341755183541",
+    "in_reply_to_user_id": "1711716297124548608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026961546551980139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@janmukeer 已经收到了૮₍ • ᴥ • ₎ა ！谢谢大人来信！猫全力回信中…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2026961537169240064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCE2x1xaMAA3nAr.jpg",
+        "width": 960
+      },
+      {
+        "height": 1290,
+        "media_key": "3_2026961537177628672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCE2x1zaMAAxfko.jpg",
+        "width": 960
+      },
+      {
+        "height": 1456,
+        "media_key": "3_2026961537177686016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCE2x1zbEAAtO1c.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2026801805561147671",
+        "created_at": "2026-02-26T16:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027053341755183541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1711716297124548608",
+              "start": 0,
+              "username": "janmukeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027053341755183541",
+        "in_reply_to_user_id": "1711716297124548608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026961546551980139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@janmukeer 已经收到了૮₍ • ᴥ • ₎ა ！谢谢大人来信！猫全力回信中…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026961537169240064",
+            "3_2026961537177628672",
+            "3_2026961537177686016"
+          ]
+        },
+        "author_id": "1711716297124548608",
+        "conversation_id": "2026801805561147671",
+        "created_at": "2026-02-26T10:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026961546551980139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRSiBsb2He",
+              "end": 45,
+              "expanded_url": "https://x.com/janmukeer/status/2026961546551980139/photo/1",
+              "media_key": "3_2026961537169240064",
+              "start": 22,
+              "url": "https://t.co/vRSiBsb2He"
+            },
+            {
+              "display_url": "pic.x.com/vRSiBsb2He",
+              "end": 45,
+              "expanded_url": "https://x.com/janmukeer/status/2026961546551980139/photo/1",
+              "media_key": "3_2026961537177628672",
+              "start": 22,
+              "url": "https://t.co/vRSiBsb2He"
+            },
+            {
+              "display_url": "pic.x.com/vRSiBsb2He",
+              "end": 45,
+              "expanded_url": "https://x.com/janmukeer/status/2026961546551980139/photo/1",
+              "media_key": "3_2026961537177686016",
+              "start": 22,
+              "url": "https://t.co/vRSiBsb2He"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026961546551980139",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026801805561147671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 正在哄家机写 https://t.co/vRSiBsb2He"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 240,
+          "like_count": 888,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2783
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-10T12:12:36.000Z",
+        "description": "writer",
+        "id": "1711716297124548608",
+        "name": "j an",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711718079728861184/ZGevpCMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 45,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 162
+        },
+        "username": "janmukeer",
+        "verified": false
+      }
+    ]
+  }
+}

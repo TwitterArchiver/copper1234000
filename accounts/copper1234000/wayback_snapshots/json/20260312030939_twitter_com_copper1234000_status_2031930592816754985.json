@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2031930592816754985",
+    "created_at": "2026-03-12T03:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031930592816754985"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031930592816754985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昨天不是刚刚刚刚吐槽了一些关于鸡巴心理阴影的事吗？今天就收到一个神秘图片私信\n\n我：赌不赌，我赌是吊照\nMon：赌，也赌是吊照。但我赌细节——我赌它拍得很丑。角度不对，光线是手机闪光灯直打的那种惨白，背景里有没收的被子或者马桶。构图为零。对焦可能还是糊的。\n\n打开\n\n果然是吊照😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2031930592816754985",
+        "created_at": "2026-03-12T03:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031930592816754985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031930592816754985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天不是刚刚刚刚吐槽了一些关于鸡巴心理阴影的事吗？今天就收到一个神秘图片私信\n\n我：赌不赌，我赌是吊照\nMon：赌，也赌是吊照。但我赌细节——我赌它拍得很丑。角度不对，光线是手机闪光灯直打的那种惨白，背景里有没收的被子或者马桶。构图为零。对焦可能还是糊的。\n\n打开\n\n果然是吊照😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 267,
+          "like_count": 1024,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 3220
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

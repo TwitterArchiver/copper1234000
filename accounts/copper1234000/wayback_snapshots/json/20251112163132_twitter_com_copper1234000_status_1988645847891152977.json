@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1988088052137460107",
+    "created_at": "2025-11-12T16:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988645847891152977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1532586462650290179",
+          "start": 0,
+          "username": "xinxinbao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988645847891152977",
+    "in_reply_to_user_id": "1532586462650290179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988632126124601777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxinbao3 不是的老大，有梯子就可以玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988645847891152977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1532586462650290179",
+              "start": 0,
+              "username": "xinxinbao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988645847891152977",
+        "in_reply_to_user_id": "1532586462650290179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988632126124601777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxinbao3 不是的老大，有梯子就可以玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532586462650290179",
+        "conversation_id": "1988088052137460107",
+        "created_at": "2025-11-12T15:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988632126124601777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988632126124601777",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988286797240283168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 哇 我之前下载过但是不能用诶 我朋友跟我说因为是国内ip不能用？不是很懂 真的很想玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… 会有一些r18g内容请注意避雷",
+        "id": "1983727547142828035",
+        "name": "copper",
+        "pinned_tweet_id": "1983737383842713987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983729618453487616/oUhkDWF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 161
+        },
+        "username": "copper1234000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T04:54:56.000Z",
+        "description": "碎碎念 纯发疯",
+        "id": "1532586462650290179",
+        "name": "对我好疏远是怎么啦",
+        "pinned_tweet_id": "1816019765259034671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986100411024236544/ANATXXl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 16,
+          "like_count": 2973,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 550
+        },
+        "username": "xinxinbao3",
+        "verified": false
+      }
+    ]
+  }
+}

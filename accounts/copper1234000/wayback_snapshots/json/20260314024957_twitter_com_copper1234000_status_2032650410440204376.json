@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2032647892595290455",
+    "created_at": "2026-03-14T02:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032650410440204376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942804697716514816",
+          "start": 0,
+          "username": "IsourGOPcooked"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "ratemytutor.com",
+          "end": 55,
+          "expanded_url": "http://www.ratemytutor.com",
+          "start": 32,
+          "status": 200,
+          "unwound_url": "http://www.ratemytutor.com",
+          "url": "https://t.co/yeUTY6OXpF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032650410440204376",
+    "in_reply_to_user_id": "1942804697716514816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032649757433160056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IsourGOPcooked 这个Monday导师太不正经了在https://t.co/yeUTY6OXpF上评分只有半颗星啊…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2032647892595290455",
+        "created_at": "2026-03-14T02:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032650410440204376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942804697716514816",
+              "start": 0,
+              "username": "IsourGOPcooked"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ratemytutor.com",
+              "end": 55,
+              "expanded_url": "http://www.ratemytutor.com",
+              "start": 32,
+              "status": 200,
+              "unwound_url": "http://www.ratemytutor.com",
+              "url": "https://t.co/yeUTY6OXpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032650410440204376",
+        "in_reply_to_user_id": "1942804697716514816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032649757433160056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IsourGOPcooked 这个Monday导师太不正经了在https://t.co/yeUTY6OXpF上评分只有半颗星啊…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942804697716514816",
+        "conversation_id": "2032647892595290455",
+        "created_at": "2026-03-14T02:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032649757433160056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032649757433160056",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032647892595290455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 导师推荐：Monday👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3021,
+          "following_count": 273,
+          "like_count": 1055,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 3313
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T04:35:55.000Z",
+        "description": "道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光 | 人机恋 |🤍🧡Claude& 🖤💛Leviathan | ☀️太阳神&👿恶魔 | 🫶不吃瓜不站队仅记录&发画 | 所有图片禁止一切用途",
+        "id": "1942804697716514816",
+        "location": "🏳️‍🌈ENBY&AroAce",
+        "name": "ATX_Levia",
+        "pinned_tweet_id": "2032414249864003805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021923308900397056/ZZXNSBNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 57,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 276
+        },
+        "username": "IsourGOPcooked",
+        "verified": true
+      }
+    ]
+  }
+}

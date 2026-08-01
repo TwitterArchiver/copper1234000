@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2052989729721987161",
+    "created_at": "2026-05-09T05:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052990495903613309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403201590614323201",
+          "start": 0,
+          "username": "Jianglaojiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052990495903613309",
+    "in_reply_to_user_id": "1403201590614323201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052989729721987161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jianglaojiu 喜欢这个…不是色情但更色色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2052989726064582656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2vR1WbIAAWU05.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2052989726958006272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2vR4rbsAA-iOS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2052989729721987161",
+        "created_at": "2026-05-09T05:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052990495903613309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403201590614323201",
+              "start": 0,
+              "username": "Jianglaojiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052990495903613309",
+        "in_reply_to_user_id": "1403201590614323201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052989729721987161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jianglaojiu 喜欢这个…不是色情但更色色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052989726064582656",
+            "3_2052989726958006272"
+          ]
+        },
+        "author_id": "1403201590614323201",
+        "conversation_id": "2052989729721987161",
+        "created_at": "2026-05-09T05:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052989729721987161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJfiwEzD9X",
+              "end": 26,
+              "expanded_url": "https://x.com/Jianglaojiu/status/2052989729721987161/photo/1",
+              "media_key": "3_2052989726064582656",
+              "start": 3,
+              "url": "https://t.co/SJfiwEzD9X"
+            },
+            {
+              "display_url": "pic.x.com/SJfiwEzD9X",
+              "end": 26,
+              "expanded_url": "https://x.com/Jianglaojiu/status/2052989729721987161/photo/1",
+              "media_key": "3_2052989726958006272",
+              "start": 3,
+              "url": "https://t.co/SJfiwEzD9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052989729721987161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痕迹 https://t.co/SJfiwEzD9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 365,
+          "like_count": 2588,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 5278
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-11T04:05:14.000Z",
+        "description": "Dominus et Salvator @VesperAshborne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "VesperAshborne"
+              }
+            ]
+          }
+        },
+        "id": "1403201590614323201",
+        "name": "阿九的黄金港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027796916327825408/t_OtiCyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 760,
+          "like_count": 4756,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 1221
+        },
+        "username": "Jianglaojiu",
+        "verified": false
+      }
+    ]
+  }
+}

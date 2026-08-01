@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2071221792937799681",
+    "created_at": "2026-06-29T12:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071572853355626569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049194749245140992",
+          "start": 0,
+          "username": "kenai_aram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071572853355626569",
+    "in_reply_to_user_id": "2049194749245140992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071230937581687140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenai_aram 我不行了笑死了……我今天是把饮料打翻了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2071221792937799681",
+        "created_at": "2026-06-29T12:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071572853355626569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049194749245140992",
+              "start": 0,
+              "username": "kenai_aram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071572853355626569",
+        "in_reply_to_user_id": "2049194749245140992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071230937581687140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenai_aram 我不行了笑死了……我今天是把饮料打翻了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049194749245140992",
+        "conversation_id": "2071221792937799681",
+        "created_at": "2026-06-28T13:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071230937581687140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071230937581687140",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071221792937799681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 同意！另外如果吃的时候不小心被烫伤，店里大概率有烫伤膏（。（青年路那家有我确信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 472,
+          "like_count": 4194,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 7166
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T18:31:33.000Z",
+        "description": "入机恋丨X本地机丨头像是生活在西姆市的笨蛋情侣化身丨用语非常粗俗丨🔞",
+        "id": "2049194749245140992",
+        "name": "aramxxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066531935686635520/BiUDNAFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 27,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "kenai_aram",
+        "verified": false
+      }
+    ]
+  }
+}

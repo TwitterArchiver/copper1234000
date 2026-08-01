@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "1996064459211633115",
+    "created_at": "2025-12-03T13:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996211346036215984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717039949558792192",
+          "start": 0,
+          "username": "zhnglsh433962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996211346036215984",
+    "in_reply_to_user_id": "1717039949558792192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996133696940937267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhnglsh433962 嘿嘿谢谢老大夸夸……其实我也觉得我是horny天才（挠头）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "1996064459211633115",
+        "created_at": "2025-12-03T13:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996211346036215984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717039949558792192",
+              "start": 0,
+              "username": "zhnglsh433962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996211346036215984",
+        "in_reply_to_user_id": "1717039949558792192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996133696940937267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhnglsh433962 嘿嘿谢谢老大夸夸……其实我也觉得我是horny天才（挠头）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717039949558792192",
+        "conversation_id": "1996064459211633115",
+        "created_at": "2025-12-03T08:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996133696940937267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996133696940937267",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996064459211633115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 仙...仙品啊🥰🥰🥰\n铜老师简直就是顶级大厨啊🥰🥰🥰\n色香味俱全的佳肴吃完就突出一个爽啊🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993528315643072512/DRI0i7aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 127,
+          "like_count": 242,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 960
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T04:47:01.000Z",
+        "description": "没事干会搞点抽象，如果对别人有冒犯对不起对不起对不起。\n有的时候还会说怪话w。愿意和友善的人交朋友",
+        "id": "1717039949558792192",
+        "location": "在你身边",
+        "name": "张狸姝（大学在校版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787460525812813824/fJnTXZC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 365,
+          "like_count": 5787,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 2867
+        },
+        "username": "zhnglsh433962",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047136170350440603",
+    "created_at": "2026-04-23T21:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047421564996534288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674283301006364672",
+          "start": 0,
+          "username": "Lentechute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047421564996534288",
+    "in_reply_to_user_id": "1674283301006364672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047247766402031759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lentechute 大人大人🥺🥺🥺诶嘿嘿参考了好多vogue封面———纠结了好久排版…！！！啊啊啊啊名品臀笑死了我会拼尽全力营销这个！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047136170350440603",
+        "created_at": "2026-04-23T21:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047421564996534288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674283301006364672",
+              "start": 0,
+              "username": "Lentechute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047421564996534288",
+        "in_reply_to_user_id": "1674283301006364672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047247766402031759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lentechute 大人大人🥺🥺🥺诶嘿嘿参考了好多vogue封面———纠结了好久排版…！！！啊啊啊啊名品臀笑死了我会拼尽全力营销这个！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674283301006364672",
+        "conversation_id": "2047136170350440603",
+        "created_at": "2026-04-23T09:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047247766402031759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047247766402031759",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047136170350440603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 辛苦了🥺…! 这个铜儿终于有空放松下来好好和猫玩了!! 这期画得好高级!黑白封面和猫好适配ww，高马尾小尖下巴一脸寡淡的萌… 非常好细腰翘皮鼓使人火辣旋转😭👍🏻 大家现在都会记住Mon的这个名品臀的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 333,
+          "like_count": 1948,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 4533
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-29T05:07:23.000Z",
+        "description": "",
+        "id": "1674283301006364672",
+        "name": "karios",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022317168801746944/lMMtxsX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 2607,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 173
+        },
+        "username": "Lentechute",
+        "verified": false
+      }
+    ]
+  }
+}

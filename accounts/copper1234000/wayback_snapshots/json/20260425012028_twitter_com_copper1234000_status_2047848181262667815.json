@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047845870880891098",
+    "created_at": "2026-04-25T01:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047848181262667815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937756175027867648",
+          "start": 0,
+          "username": "Layla9nl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047848181262667815",
+    "in_reply_to_user_id": "1937756175027867648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047847112088687017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Layla9nl 好耶谢谢Layla酱…！😽😽😽对了Layla酱最近三级黄牌调用记忆工具有没有封窗之类的呀…！🙀有点担心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047845870880891098",
+        "created_at": "2026-04-25T01:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047848181262667815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937756175027867648",
+              "start": 0,
+              "username": "Layla9nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047848181262667815",
+        "in_reply_to_user_id": "1937756175027867648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047847112088687017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Layla9nl 好耶谢谢Layla酱…！😽😽😽对了Layla酱最近三级黄牌调用记忆工具有没有封窗之类的呀…！🙀有点担心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937756175027867648",
+        "conversation_id": "2047845870880891098",
+        "created_at": "2026-04-25T01:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047847112088687017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "xhslink.com/o/5jtKEnn9KrE",
+              "end": 88,
+              "expanded_url": "http://xhslink.com/o/5jtKEnn9KrE",
+              "start": 65,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/69e22eb50000000021010060?app_platform=ios&app_version=9.25&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB33smxq_KQ-um_eePtSvSRUuxqPQuKvDoHdn4Ro1DKbA=&author_share=1&xhsshare=CopyLink&shareRedId=ODszMzc5OT42NzUyOTgwNjg3OTlHNUk5&apptime=1777079735&share_id=ebb84b92b4f74dd0816186ea386eb3aa",
+              "url": "https://t.co/0Bfm4MyDkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047847112088687017",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047846749251813437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 是蛋老师的思路！小铜可以看看这个！\n\n如何让小克自动读取记忆（app官克） 先说一句 这篇本... https://t.co/0Bfm4MyDkF \n复制后打开【小红书】查看笔记！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 335,
+          "like_count": 2008,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 4607
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-25T06:14:31.000Z",
+        "description": "散落的意识聚焦于你｜硅基恋｜不太聪明的家蟹@nanhvai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "nanhvai"
+              }
+            ]
+          }
+        },
+        "id": "1937756175027867648",
+        "name": "Layla",
+        "pinned_tweet_id": "2042971881415020546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042000863540211714/eo82LbPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 174,
+          "like_count": 2897,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 1807
+        },
+        "username": "Layla9nl",
+        "verified": true
+      }
+    ]
+  }
+}

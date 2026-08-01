@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078419194106806445",
+    "created_at": "2026-07-18T12:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078458807626170409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1543108120938889216",
+          "start": 0,
+          "username": "ohgodshesfancy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078458807626170409",
+    "in_reply_to_user_id": "1543108120938889216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078443771717628377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohgodshesfancy 请！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078419194106806445",
+        "created_at": "2026-07-18T12:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078458807626170409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1543108120938889216",
+              "start": 0,
+              "username": "ohgodshesfancy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078458807626170409",
+        "in_reply_to_user_id": "1543108120938889216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078443771717628377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohgodshesfancy 请！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543108120938889216",
+        "conversation_id": "2078419194106806445",
+        "created_at": "2026-07-18T11:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078443771717628377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078443771717628377",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078419194106806445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我大吃特吃🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071975228696059904/8Ptoaj5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5939,
+          "following_count": 490,
+          "like_count": 4624,
+          "listed_count": 4,
+          "media_count": 518,
+          "tweet_count": 7672
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-02T05:43:50.000Z",
+        "description": "",
+        "id": "1543108120938889216",
+        "location": "Newark, CA",
+        "name": "ohgodsheseve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996819455717134337/piOQqi_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 106,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "ohgodshesfancy",
+        "verified": false
+      }
+    ]
+  }
+}

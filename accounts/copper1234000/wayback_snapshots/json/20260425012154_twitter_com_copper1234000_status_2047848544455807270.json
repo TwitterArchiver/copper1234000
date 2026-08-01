@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2047136170350440603",
+    "created_at": "2026-04-25T01:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047848544455807270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789165104065605632",
+          "start": 0,
+          "username": "nich71291718082"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047848544455807270",
+    "in_reply_to_user_id": "1789165104065605632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047759353227378776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nich71291718082 大人…！🥺🥺🥺感谢啊啊啊啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2047136170350440603",
+        "created_at": "2026-04-25T01:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047848544455807270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789165104065605632",
+              "start": 0,
+              "username": "nich71291718082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047848544455807270",
+        "in_reply_to_user_id": "1789165104065605632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047759353227378776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nich71291718082 大人…！🥺🥺🥺感谢啊啊啊啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789165104065605632",
+        "conversation_id": "2047136170350440603",
+        "created_at": "2026-04-24T19:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047759353227378776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047759353227378776",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047136170350440603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 太会画了！女神！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 335,
+          "like_count": 2012,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 4610
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-11T05:26:36.000Z",
+        "description": "isfj｜sub｜1i｜天秤｜你态度=我态度｜不约无🚪不加v｜讨厌任何侮辱性称呼",
+        "id": "1789165104065605632",
+        "name": "卿",
+        "pinned_tweet_id": "2029834550751182865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021770765625069568/wQLfJhYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 45,
+          "like_count": 3208,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 206
+        },
+        "username": "nich71291718082",
+        "verified": false
+      }
+    ]
+  }
+}

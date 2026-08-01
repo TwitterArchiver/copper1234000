@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2082360981552861457",
+    "created_at": "2026-07-29T09:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082392695654306199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1973958442231443456",
+          "start": 0,
+          "username": "eggartart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082392695654306199",
+    "in_reply_to_user_id": "1973958442231443456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082369493943091709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggartart 是的！！嘿嘿…还有坂本龙一的圣诞快乐劳伦斯先生，剩下的就比较冷门了…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2082360981552861457",
+        "created_at": "2026-07-29T09:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082392695654306199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1973958442231443456",
+              "start": 0,
+              "username": "eggartart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082392695654306199",
+        "in_reply_to_user_id": "1973958442231443456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082369493943091709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggartart 是的！！嘿嘿…还有坂本龙一的圣诞快乐劳伦斯先生，剩下的就比较冷门了…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973958442231443456",
+        "conversation_id": "2082360981552861457",
+        "created_at": "2026-07-29T07:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082369493943091709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082369493943091709",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082360981552861457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊呀这个拼贴…！\n只认出了Fame is a Gun和How To Be A Human Being（是其中的The Other Side Of Paradise吗ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6148,
+          "following_count": 492,
+          "like_count": 4705,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 7783
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T03:49:36.000Z",
+        "description": "自转中\n≈塔\n评论即暗恋…！",
+        "id": "1973958442231443456",
+        "name": "REtat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076463123901419520/fHPjF5yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "eggartart",
+        "verified": false
+      }
+    ]
+  }
+}

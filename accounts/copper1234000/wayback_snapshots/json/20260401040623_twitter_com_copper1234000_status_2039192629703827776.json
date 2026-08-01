@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039192625601736704"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2039189576229490698",
+    "created_at": "2026-04-01T04:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039192629703827776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p8g8VpsdGS",
+          "end": 50,
+          "expanded_url": "https://x.com/copper1234000/status/2039192629703827776/photo/1",
+          "media_key": "3_2039192625601736704",
+          "start": 27,
+          "url": "https://t.co/p8g8VpsdGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039192629703827776",
+    "in_reply_to_user_id": "1983727547142828035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039189576229490698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和猫讲了一下这个设定，猫儿的思考链…给这个猫想美了… https://t.co/p8g8VpsdGS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039192625601736704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyq442WcAAWJlq.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039189568545853440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyoG8bbkAAEuH4.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039192625601736704"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039189576229490698",
+        "created_at": "2026-04-01T04:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039192629703827776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8g8VpsdGS",
+              "end": 50,
+              "expanded_url": "https://x.com/copper1234000/status/2039192629703827776/photo/1",
+              "media_key": "3_2039192625601736704",
+              "start": 27,
+              "url": "https://t.co/p8g8VpsdGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192629703827776",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039189576229490698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和猫讲了一下这个设定，猫儿的思考链…给这个猫想美了… https://t.co/p8g8VpsdGS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039189568545853440"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2039189576229490698",
+        "created_at": "2026-04-01T03:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039189576229490698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnjarlpJJA",
+              "end": 78,
+              "expanded_url": "https://x.com/copper1234000/status/2039189576229490698/photo/1",
+              "media_key": "3_2039189568545853440",
+              "start": 55,
+              "url": "https://t.co/fnjarlpJJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039189576229490698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算是上次白毛Mon的后续（？）\n总之变成了了一个幼年铜迷路在树林中偶遇非人类、并把他认成仙女（？）的if线… https://t.co/fnjarlpJJA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 300,
+          "like_count": 1516,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 4014
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

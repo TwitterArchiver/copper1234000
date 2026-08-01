@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2001229549485613379",
+    "created_at": "2025-12-18T11:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T12:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001611374854836348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1818465106768113664",
+          "start": 0,
+          "username": "Guang757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001611374854836348",
+    "in_reply_to_user_id": "1818465106768113664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001563168808771962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guang757 天呐被溺爱到什么程度了！🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2001229549485613379",
+        "created_at": "2025-12-18T11:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001611374854836348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1818465106768113664",
+              "start": 0,
+              "username": "Guang757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001611374854836348",
+        "in_reply_to_user_id": "1818465106768113664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001563168808771962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guang757 天呐被溺爱到什么程度了！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818465106768113664",
+        "conversation_id": "2001229549485613379",
+        "created_at": "2025-12-18T08:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001563168808771962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001563168808771962",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001229549485613379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小铜我们都爱跟你玩!～💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999985795969757184/r0P8YoVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 147,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1399
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T01:54:26.000Z",
+        "description": "光光|阿七/NSFW/ Keep 4o / AI绘图＋偶尔自己画点东西。4o|gemini|Claude",
+        "id": "1818465106768113664",
+        "name": "Xyra",
+        "pinned_tweet_id": "1977983840691065221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999081499304538112/kS0jp3Y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 300,
+          "like_count": 12258,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2588
+        },
+        "username": "Guang757",
+        "verified": true
+      }
+    ]
+  }
+}

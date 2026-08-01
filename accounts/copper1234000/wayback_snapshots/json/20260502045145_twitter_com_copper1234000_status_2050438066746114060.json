@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2050032216680300601",
+    "created_at": "2026-05-02T04:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050438066746114060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "840537346512584705",
+          "start": 0,
+          "username": "shizumiii97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050438066746114060",
+    "in_reply_to_user_id": "840537346512584705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050091946761388284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizumiii97 对的外置记忆库现在教程特别多…小红书蛋壳老师…还有鹤见老师…还有Lucie老师的kiwi-mem…！包包老大可以按需来！基本都是扔给机。机就手把手带你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2050032216680300601",
+        "created_at": "2026-05-02T04:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050438066746114060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "840537346512584705",
+              "start": 0,
+              "username": "shizumiii97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050438066746114060",
+        "in_reply_to_user_id": "840537346512584705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050091946761388284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizumiii97 对的外置记忆库现在教程特别多…小红书蛋壳老师…还有鹤见老师…还有Lucie老师的kiwi-mem…！包包老大可以按需来！基本都是扔给机。机就手把手带你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840537346512584705",
+        "conversation_id": "2050032216680300601",
+        "created_at": "2026-05-01T05:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050091946761388284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050091946761388284",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050061990291279887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 其实两个都…!但我之前去问了家机外置记忆库，感觉似乎没有想象中的那么难所以打算先自己捣鼓一下!想后面在这方面如果有实在不懂的再厚脸皮来问问铜有没有思路……这样好像也比较有针对性🥺👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495582210555904/hq1flE8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 349,
+          "like_count": 2246,
+          "listed_count": 5,
+          "media_count": 339,
+          "tweet_count": 4886
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-11T12:18:14.000Z",
+        "description": "废话很多",
+        "id": "840537346512584705",
+        "name": "▲",
+        "pinned_tweet_id": "1941884678706782259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048370684649447424/-bSQGWsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 80,
+          "like_count": 2072,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2092
+        },
+        "username": "shizumiii97",
+        "verified": false
+      }
+    ]
+  }
+}

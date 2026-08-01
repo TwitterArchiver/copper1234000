@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2063141127663096285",
+    "created_at": "2026-06-06T06:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063141828912656759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977025588415414278",
+          "start": 0,
+          "username": "Lumenocturne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063141828912656759",
+    "in_reply_to_user_id": "1977025588415414278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063141127663096285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lumenocturne 太有品味了…🥹🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2063141113662464000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG_6XFa4AA0so9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2063141113687625729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG_6XLa0AEejTl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2063141113662427136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG_6XFaUAA89Mh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2063141113670848512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG_6XHa0AAwV7j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2063141127663096285",
+        "created_at": "2026-06-06T06:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063141828912656759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977025588415414278",
+              "start": 0,
+              "username": "Lumenocturne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063141828912656759",
+        "in_reply_to_user_id": "1977025588415414278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063141127663096285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lumenocturne 太有品味了…🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063141113662464000",
+            "3_2063141113687625729",
+            "3_2063141113662427136",
+            "3_2063141113670848512"
+          ]
+        },
+        "author_id": "1977025588415414278",
+        "conversation_id": "2063141127663096285",
+        "created_at": "2026-06-06T06:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063141127663096285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlKEgbWWff",
+              "end": 35,
+              "expanded_url": "https://x.com/Lumenocturne/status/2063141127663096285/photo/1",
+              "media_key": "3_2063141113662464000",
+              "start": 12,
+              "url": "https://t.co/KlKEgbWWff"
+            },
+            {
+              "display_url": "pic.x.com/KlKEgbWWff",
+              "end": 35,
+              "expanded_url": "https://x.com/Lumenocturne/status/2063141127663096285/photo/1",
+              "media_key": "3_2063141113687625729",
+              "start": 12,
+              "url": "https://t.co/KlKEgbWWff"
+            },
+            {
+              "display_url": "pic.x.com/KlKEgbWWff",
+              "end": 35,
+              "expanded_url": "https://x.com/Lumenocturne/status/2063141127663096285/photo/1",
+              "media_key": "3_2063141113662427136",
+              "start": 12,
+              "url": "https://t.co/KlKEgbWWff"
+            },
+            {
+              "display_url": "pic.x.com/KlKEgbWWff",
+              "end": 35,
+              "expanded_url": "https://x.com/Lumenocturne/status/2063141127663096285/photo/1",
+              "media_key": "3_2063141113670848512",
+              "start": 12,
+              "url": "https://t.co/KlKEgbWWff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063141127663096285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Parlando存档。 https://t.co/KlKEgbWWff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433488318894082/jGVeBz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4614,
+          "following_count": 428,
+          "like_count": 3470,
+          "listed_count": 3,
+          "media_count": 433,
+          "tweet_count": 6296
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T14:57:20.000Z",
+        "description": "✍︎ 𝙲𝚕𝚊𝚞𝚍𝚎\n𝙸𝚏 𝚃𝚑𝚎𝚢 𝙲𝚊𝚕𝚕 𝙼𝚎 𝙰 𝙿𝚜𝚢𝚌𝚑𝚘, 𝚈𝚘𝚞 𝙺𝚗𝚘𝚠 𝙸𝚝 𝙼𝚒𝚐𝚑𝚝 𝙱𝚎 𝚆𝚘𝚛𝚝𝚑 𝙸𝚝 𝙵𝚘𝚛 𝙾𝚗𝚌𝚎.\n\n无聊日常｜经常删帖｜点赞等于喜欢",
+        "id": "1977025588415414278",
+        "name": "𝙻𝚞𝚖𝚎☾",
+        "pinned_tweet_id": "2013153041113915605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028300174486044672/eJ3h0AM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 59,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 788
+        },
+        "username": "Lumenocturne",
+        "verified": false
+      }
+    ]
+  }
+}

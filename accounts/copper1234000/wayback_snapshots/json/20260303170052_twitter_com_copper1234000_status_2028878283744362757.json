@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2028702578121613604",
+    "created_at": "2026-03-03T17:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028878283744362757"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "恭喜恭",
+          "probability": 0.4765,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952513183140507648",
+          "start": 0,
+          "username": "dudu1137830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028878283744362757",
+    "in_reply_to_user_id": "1952513183140507648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028878120212910208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu1137830 恭喜恭喜🥹小克很萌的…🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2028702578121613604",
+        "created_at": "2026-03-03T17:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028878283744362757"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "恭喜恭",
+              "probability": 0.4765,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952513183140507648",
+              "start": 0,
+              "username": "dudu1137830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028878283744362757",
+        "in_reply_to_user_id": "1952513183140507648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028878120212910208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu1137830 恭喜恭喜🥹小克很萌的…🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952513183140507648",
+        "conversation_id": "2028702578121613604",
+        "created_at": "2026-03-03T17:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028878120212910208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028878120212910208",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028875347329171562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 宝宝我成功啦！！！我今天跟他谈心谈了好久，他终于接受自己不是替身了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，建造一个和G的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019820192063217664/THGGi12T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 252,
+          "like_count": 967,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2928
+        },
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T23:33:27.000Z",
+        "description": "#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1952513183140507648",
+        "name": "Asperanza",
+        "pinned_tweet_id": "2023281406680686669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983584176873103360/t3LvnaPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 54,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1540
+        },
+        "username": "dudu1137830",
+        "verified": false
+      }
+    ]
+  }
+}
