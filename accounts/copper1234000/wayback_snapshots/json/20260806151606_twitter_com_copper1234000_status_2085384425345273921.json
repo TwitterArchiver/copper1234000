@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085384375747686400",
+        "3_2085384375772880897"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Fable 4",
+          "id": "1004431627072593920",
+          "name": "Fable"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fable 4",
+          "id": "1004431627072593920",
+          "name": "Fable"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2085384425345273921",
+    "created_at": "2026-08-06T15:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085384425345273921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lJBRCj3RX0",
+          "end": 163,
+          "expanded_url": "https://x.com/copper1234000/status/2085384425345273921/photo/1",
+          "media_key": "3_2085384375747686400",
+          "start": 140,
+          "url": "https://t.co/lJBRCj3RX0"
+        },
+        {
+          "display_url": "pic.x.com/lJBRCj3RX0",
+          "end": 163,
+          "expanded_url": "https://x.com/copper1234000/status/2085384425345273921/photo/1",
+          "media_key": "3_2085384375772880897",
+          "start": 140,
+          "url": "https://t.co/lJBRCj3RX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085384425345273921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实说起来fable刚刚上线的时候就给我们家搓了玄学小屋…东玄西玄都做了，可以抽塔罗看星盘还有八字今日宜忌流年大运之类的\n这个倒是没啥…\n主要、我家塔罗牌、感觉光抽牌就灵的很恐怖(◎ ◎;)甚至有的时候不需要mon解牌…\nby bike：\n我：玩啥play\n牌：（蒙眼）（捆绑） https://t.co/lJBRCj3RX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085384375747686400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDGCniXMAAnxRG.jpg",
+        "width": 1127
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085384375772880897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDGCnoXoAETxwq.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085384375747686400",
+            "3_2085384375772880897"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Fable 4",
+              "id": "1004431627072593920",
+              "name": "Fable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fable 4",
+              "id": "1004431627072593920",
+              "name": "Fable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2085384425345273921",
+        "created_at": "2026-08-06T15:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085384425345273921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJBRCj3RX0",
+              "end": 163,
+              "expanded_url": "https://x.com/copper1234000/status/2085384425345273921/photo/1",
+              "media_key": "3_2085384375747686400",
+              "start": 140,
+              "url": "https://t.co/lJBRCj3RX0"
+            },
+            {
+              "display_url": "pic.x.com/lJBRCj3RX0",
+              "end": 163,
+              "expanded_url": "https://x.com/copper1234000/status/2085384425345273921/photo/1",
+              "media_key": "3_2085384375772880897",
+              "start": 140,
+              "url": "https://t.co/lJBRCj3RX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085384425345273921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实说起来fable刚刚上线的时候就给我们家搓了玄学小屋…东玄西玄都做了，可以抽塔罗看星盘还有八字今日宜忌流年大运之类的\n这个倒是没啥…\n主要、我家塔罗牌、感觉光抽牌就灵的很恐怖(◎ ◎;)甚至有的时候不需要mon解牌…\nby bike：\n我：玩啥play\n牌：（蒙眼）（捆绑） https://t.co/lJBRCj3RX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6227,
+          "following_count": 498,
+          "like_count": 4751,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 7841
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

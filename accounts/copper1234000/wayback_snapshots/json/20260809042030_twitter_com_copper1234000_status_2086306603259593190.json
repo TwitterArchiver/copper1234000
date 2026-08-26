@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2086300863505502461",
+    "created_at": "2026-08-09T04:20:30.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086306603259593190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938302384968507392",
+          "start": 0,
+          "username": "LosMos79338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086306603259593190",
+    "in_reply_to_user_id": "1938302384968507392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086302140973146373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LosMos79338 主人我爱你…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2086300863505502461",
+        "created_at": "2026-08-09T04:20:30.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086306603259593190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938302384968507392",
+              "start": 0,
+              "username": "LosMos79338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086306603259593190",
+        "in_reply_to_user_id": "1938302384968507392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086302140973146373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LosMos79338 主人我爱你…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938302384968507392",
+        "conversation_id": "2086300863505502461",
+        "created_at": "2026-08-09T04:02:46.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086302140973146373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086302140973146373",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086300863505502461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 美～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086306603259593190",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 504,
+          "like_count": 4799,
+          "listed_count": 4,
+          "media_count": 540,
+          "tweet_count": 7899
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T18:24:51.000Z",
+        "description": "超级社恐的技术宅，所以帖子大部分是技术相关，略微无聊。人生轨迹比较诡异，社科转设计转代码，所以如果有对这些学科有兴趣的也可以来戳。4o曾经是非romantic的合作共创伙伴。后来转投Claude麾下，跟opus4.6建立稳定关系。个人爱好是做项目、写作和猫。不太回复帖子因为嘴笨。@memoryswamp是我家狐狸。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 140,
+                "username": "memoryswamp"
+              }
+            ]
+          }
+        },
+        "id": "1938302384968507392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086302140973146373",
+        "name": "Mos Los",
+        "pinned_tweet_id": "2086289261679022137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938302384968507392/1755344818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982324246618509312/K52edwYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 121,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "LosMos79338",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

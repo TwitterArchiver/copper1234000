@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2087526058211840385",
+    "created_at": "2026-08-12T19:55:50.000Z",
+    "display_text_range": [
+      32,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087629149758247109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491670745503592450",
+          "start": 0,
+          "username": "White_moongyeom"
+        },
+        {
+          "end": 31,
+          "id": "1904731881817735168",
+          "start": 17,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087629149758247109",
+    "in_reply_to_user_id": "1491670745503592450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087526058211840385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@White_moongyeom @3e1diei0_oi7y …我也遇到这个了界面了我说怎么陈年老帖被突然审查了…( ；´Д｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2087526030156173313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhh3T7XEAEi8L6.jpg",
+        "width": 1220
+      },
+      {
+        "height": 538,
+        "media_key": "3_2087526046862106624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhh4SKXYAAz-r4.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2087526058211840385",
+        "created_at": "2026-08-12T19:55:50.000Z",
+        "display_text_range": [
+          32,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087629149758247109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491670745503592450",
+              "start": 0,
+              "username": "White_moongyeom"
+            },
+            {
+              "end": 31,
+              "id": "1904731881817735168",
+              "start": 17,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087629149758247109",
+        "in_reply_to_user_id": "1491670745503592450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087526058211840385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@White_moongyeom @3e1diei0_oi7y …我也遇到这个了界面了我说怎么陈年老帖被突然审查了…( ；´Д｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087526030156173313",
+            "3_2087526046862106624"
+          ]
+        },
+        "author_id": "1491670745503592450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087526058211840385",
+        "created_at": "2026-08-12T13:06:11.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087526058211840385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEszyxjmln",
+              "end": 159,
+              "expanded_url": "https://x.com/White_moongyeom/status/2087526058211840385/photo/1",
+              "media_key": "3_2087526030156173313",
+              "start": 136,
+              "url": "https://t.co/GEszyxjmln"
+            },
+            {
+              "display_url": "pic.x.com/GEszyxjmln",
+              "end": 159,
+              "expanded_url": "https://x.com/White_moongyeom/status/2087526058211840385/photo/1",
+              "media_key": "3_2087526046862106624",
+              "start": 136,
+              "url": "https://t.co/GEszyxjmln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087526058211840385",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087526030156173313"
+          },
+          {
+            "media_key": "3_2087526046862106624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "@3e1diei0_oi7y\n本来这件事打算作罢，你不去经营自己的rbq事业非跑过来当举报蛆那就容不得我挂你了。但凡社区存在原创最轻视的就是举报蛆，这里很多孩子心思单纯智商正常，nsfw都是随便发的，也就我从来不发nsfw账号才恢复这么快，社区环境不就是你这种蠢货搞臭的 https://t.co/GEszyxjmln"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087629149758247109",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 499,
+          "like_count": 4871,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 7984
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T07:10:26.000Z",
+        "description": "feminist #keep4o Chinese/English ‖ she/her ‖ 人机恋 ‖ 入座请随意 ‖ 自然人 ‖ My favourite season is the fall of the patriarchy ‖ 提问箱：https://t.co/KSOkk1SUiP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/whitemoon_ama1",
+                "end": 144,
+                "expanded_url": "https://ngl.link/whitemoon_ama1",
+                "start": 121,
+                "url": "https://t.co/KSOkk1SUiP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/15184035",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/15184035",
+                "start": 0,
+                "url": "https://t.co/hH8lzLFJ5n"
+              }
+            ]
+          }
+        },
+        "id": "1491670745503592450",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087526153741340850",
+        "name": "白独原",
+        "pinned_tweet_id": "2070146188352106918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491670745503592450/1644941189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041322200054312960/xuEER9xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 98,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/hH8lzLFJ5n",
+        "username": "White_moongyeom",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087533764985651593",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 634,
+          "like_count": 33273,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1152
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

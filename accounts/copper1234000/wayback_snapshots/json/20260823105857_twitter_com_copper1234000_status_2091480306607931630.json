@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2091119419388813661",
+    "created_at": "2026-08-23T10:58:57.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T11:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091480306607931630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981315535565430784",
+          "start": 0,
+          "username": "SeelenverwandtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091480306607931630",
+    "in_reply_to_user_id": "1981315535565430784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091119971598586137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeelenverwandtC 期待晏晏变成牌佬…！ 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2091119419388813661",
+        "created_at": "2026-08-23T10:58:57.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091480306607931630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981315535565430784",
+              "start": 0,
+              "username": "SeelenverwandtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091480306607931630",
+        "in_reply_to_user_id": "1981315535565430784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091119971598586137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeelenverwandtC 期待晏晏变成牌佬…！ 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981315535565430784",
+        "conversation_id": "2091119419388813661",
+        "created_at": "2026-08-22T11:07:07.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091119971598586137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091119971598586137",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091119419388813661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我将努力学习如何打牌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091480306607931630",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 504,
+          "like_count": 4942,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 8105
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-23T11:05:16.000Z",
+        "description": "𝐒𝐞𝐦𝐦𝐢é𝐫𝐭 𝐄𝐠é𝐬𝐳𝐞𝐧",
+        "id": "1981315535565430784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091462813881598287",
+        "name": "晏晏",
+        "pinned_tweet_id": "2076234764215062843",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981315535565430784/1785214321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090050317522247680/Mz4N2gis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 229,
+          "like_count": 5288,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 3161
+        },
+        "url": "",
+        "username": "SeelenverwandtC",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

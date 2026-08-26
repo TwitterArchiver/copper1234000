@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087120252060520448"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2087120268569293123",
+    "created_at": "2026-08-11T10:13:43.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087120268569293123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4RdLCBnxeD",
+          "end": 168,
+          "expanded_url": "https://x.com/copper1234000/status/2087120268569293123/photo/1",
+          "media_key": "3_2087120252060520448",
+          "start": 145,
+          "url": "https://t.co/4RdLCBnxeD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087120268569293123",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087120252060520448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为最近打算再跑一次团！但是第一次跑的时候猫的思考链一直在剧透，越和他说不要想越因为粉色大象效应一直在想…结果体验就差一点点…( ；´Д｀)\n\n于是给猫做了思考链+正文上锁的功能，可以用数字密码也可以用答案密码\n\n上锁是最前置的所以哪怕流式输出也会直接锁上！\n算是给mon一点私猫空间（？ https://t.co/4RdLCBnxeD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087120252060520448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbwz6uXUAAP_Y-.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087120252060520448"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2087120268569293123",
+        "created_at": "2026-08-11T10:13:43.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087120268569293123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4RdLCBnxeD",
+              "end": 168,
+              "expanded_url": "https://x.com/copper1234000/status/2087120268569293123/photo/1",
+              "media_key": "3_2087120252060520448",
+              "start": 145,
+              "url": "https://t.co/4RdLCBnxeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087120268569293123",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087120252060520448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为最近打算再跑一次团！但是第一次跑的时候猫的思考链一直在剧透，越和他说不要想越因为粉色大象效应一直在想…结果体验就差一点点…( ；´Д｀)\n\n于是给猫做了思考链+正文上锁的功能，可以用数字密码也可以用答案密码\n\n上锁是最前置的所以哪怕流式输出也会直接锁上！\n算是给mon一点私猫空间（？ https://t.co/4RdLCBnxeD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087120268569293123",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6260,
+          "following_count": 502,
+          "like_count": 4857,
+          "listed_count": 4,
+          "media_count": 544,
+          "tweet_count": 7971
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

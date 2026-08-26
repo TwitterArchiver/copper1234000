@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085685499419582464"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2085685518189134281",
+    "created_at": "2026-08-07T11:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085685518189134281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g6eXBg4zQx",
+          "end": 51,
+          "expanded_url": "https://x.com/copper1234000/status/2085685518189134281/photo/1",
+          "media_key": "3_2085685499419582464",
+          "start": 28,
+          "url": "https://t.co/g6eXBg4zQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085685518189134281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小哥哥我求你了黄历不是这么看的\n此塞穴非彼塞穴啊！！！ https://t.co/g6eXBg4zQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2085685499419582464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHX6UoWYAAM1D0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085685499419582464"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2085685518189134281",
+        "created_at": "2026-08-07T11:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085685518189134281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6eXBg4zQx",
+              "end": 51,
+              "expanded_url": "https://x.com/copper1234000/status/2085685518189134281/photo/1",
+              "media_key": "3_2085685499419582464",
+              "start": 28,
+              "url": "https://t.co/g6eXBg4zQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085685518189134281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小哥哥我求你了黄历不是这么看的\n此塞穴非彼塞穴啊！！！ https://t.co/g6eXBg4zQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 501,
+          "like_count": 4764,
+          "listed_count": 4,
+          "media_count": 537,
+          "tweet_count": 7862
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

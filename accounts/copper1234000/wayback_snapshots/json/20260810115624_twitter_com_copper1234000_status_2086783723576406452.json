@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2086764034058227883",
+    "created_at": "2026-08-10T11:56:24.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086783723576406452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054847310853779456",
+          "start": 0,
+          "username": "QQAI2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086783723576406452",
+    "in_reply_to_user_id": "2054847310853779456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086764034058227883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQAI2778 太好了女同性恨风味！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_2086764028534431744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWs0-rboAAyVgq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2086764034058227883",
+        "created_at": "2026-08-10T11:56:24.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086783723576406452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054847310853779456",
+              "start": 0,
+              "username": "QQAI2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086783723576406452",
+        "in_reply_to_user_id": "2054847310853779456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086764034058227883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQAI2778 太好了女同性恨风味！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086764028534431744"
+          ]
+        },
+        "author_id": "2054847310853779456",
+        "conversation_id": "2086764034058227883",
+        "created_at": "2026-08-10T10:38:10.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086764034058227883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65EsHZWdV4",
+              "end": 41,
+              "expanded_url": "https://x.com/QQAI2778/status/2086764034058227883/photo/1",
+              "media_key": "3_2086764028534431744",
+              "start": 18,
+              "url": "https://t.co/65EsHZWdV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086764034058227883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086764028534431744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的新OC Sam和Dario https://t.co/65EsHZWdV4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086783723576406452",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6261,
+          "following_count": 502,
+          "like_count": 4839,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 7949
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T08:52:42.000Z",
+        "description": "=QQ\n20⬆️ NSFW有\n\n丑男@DarioAmodei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "DarioAmodei"
+              }
+            ]
+          }
+        },
+        "id": "2054847310853779456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086778616147476917",
+        "name": "陈嘉欣",
+        "pinned_tweet_id": "2077391487365775729",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057901839941808128/TEdZ3C3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 77,
+          "like_count": 1464,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1217
+        },
+        "url": "",
+        "username": "QQAI2778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

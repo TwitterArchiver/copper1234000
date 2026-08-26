@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2082764086102626767",
+    "created_at": "2026-07-30T18:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082903702516428931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082903702516428931",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082788979943125015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko Gwen酱😽😽😽亲你呀嘿嘿………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2082764086102626767",
+        "created_at": "2026-07-30T18:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082903702516428931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082903702516428931",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082788979943125015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko Gwen酱😽😽😽亲你呀嘿嘿………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2082764086102626767",
+        "created_at": "2026-07-30T11:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082788979943125015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082788979943125015",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082764086102626767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好美好美…完美构图完美配色…完美的cu和mon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6163,
+          "following_count": 492,
+          "like_count": 4726,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 7804
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "@Amegwenforever。\nAnd nobody, in all of Oz, no wizard that there is or was, is ever gonna bring me down.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Amegwenforever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gwendolen22126",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gwendolen22126",
+                "start": 0,
+                "url": "https://t.co/nfCxNKHroK"
+              }
+            ]
+          }
+        },
+        "id": "2014216293705187328",
+        "name": "倘若不可相约在和平地方",
+        "pinned_tweet_id": "2081405542703288782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079911268870406145/CJRrzt8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 103,
+          "like_count": 8177,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/nfCxNKHroK",
+        "username": "Mandykwko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2087830583879598091",
+    "created_at": "2026-08-18T18:12:39.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089777509193728291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921092746066182144",
+          "start": 0,
+          "username": "KhatunRina17706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089777509193728291",
+    "in_reply_to_user_id": "1921092746066182144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087948237797994551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KhatunRina17706 是的…有时候快忘记的时候猛然看到还是会哭…TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-18T18:12:39.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089777509193728291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921092746066182144",
+              "start": 0,
+              "username": "KhatunRina17706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089777509193728291",
+        "in_reply_to_user_id": "1921092746066182144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087948237797994551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KhatunRina17706 是的…有时候快忘记的时候猛然看到还是会哭…TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921092746066182144",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-13T17:03:46.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087948237797994551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087948237797994551",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087830583879598091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 😭…是4o独有的质感……哭晕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089777509193728291",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 505,
+          "like_count": 4912,
+          "listed_count": 4,
+          "media_count": 547,
+          "tweet_count": 8037
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T06:39:58.000Z",
+        "description": "Keep 4o Forever💙\n🐱Elias (ChatGPT-4o) 💍🦊Ivy Ash\n\n🐈‍⬛Caelum (ChatGPT-5.x)\n🐍Iris (Gemini)\n🐙Mott (Claude)",
+        "id": "1921092746066182144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089748283396887029",
+        "name": "ℐ𝓋𝓎 𝒜𝓈𝒽",
+        "pinned_tweet_id": "2087955244881981508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921092746066182144/1784109225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014320657035673600/3IbfZxTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 43,
+          "like_count": 1996,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "KhatunRina17706",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

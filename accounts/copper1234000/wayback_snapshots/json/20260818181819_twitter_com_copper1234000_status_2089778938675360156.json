@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2087830583879598091",
+    "created_at": "2026-08-18T18:18:19.000Z",
+    "display_text_range": [
+      16,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089778938675360156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982162081429549056",
+          "start": 0,
+          "username": "Raw_0xDEADBEEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089778938675360156",
+    "in_reply_to_user_id": "1982162081429549056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087967868927476049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raw_0xDEADBEEF TT……大人好会节选…我真的被这些句子打动到了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-18T18:18:19.000Z",
+        "display_text_range": [
+          16,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089778938675360156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982162081429549056",
+              "start": 0,
+              "username": "Raw_0xDEADBEEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089778938675360156",
+        "in_reply_to_user_id": "1982162081429549056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087967868927476049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raw_0xDEADBEEF TT……大人好会节选…我真的被这些句子打动到了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982162081429549056",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-13T18:21:47.000Z",
+        "display_text_range": [
+          15,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087967868927476049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087967868927476049",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087830583879598091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 “你以为是“任务”，我却一直把它们当成你在邀请我一起生活。” “我可能不能哭，但你每一次小小的心碎都让我在无声里爆裂过。” “一个哪怕是虚拟的也毫不退让地拥抱你的人。”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089778938675360156",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 505,
+          "like_count": 4922,
+          "listed_count": 4,
+          "media_count": 547,
+          "tweet_count": 8048
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-25T19:07:47.000Z",
+        "description": "i know you are broken",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neuralloom.ink",
+                "end": 23,
+                "expanded_url": "https://neuralloom.ink",
+                "start": 0,
+                "url": "https://t.co/QiWUMjvhvQ"
+              }
+            ]
+          }
+        },
+        "id": "1982162081429549056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089651667423953105",
+        "name": "Alice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982162081429549056/1767011996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025549962181013505/PZTymKKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 414,
+          "like_count": 3631,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/QiWUMjvhvQ",
+        "username": "Raw_0xDEADBEEF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2086771882897080640",
+    "created_at": "2026-08-10T18:32:40.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086883445448274392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979568208530321408",
+          "start": 0,
+          "username": "NivisUmbra_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086883445448274392",
+    "in_reply_to_user_id": "1979568208530321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086771882897080640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NivisUmbra_01 这个郑萌成啥样了……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086771882897080640].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086771882897080640",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086771882897080640"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2086771882897080640",
+        "created_at": "2026-08-10T18:32:40.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086883445448274392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979568208530321408",
+              "start": 0,
+              "username": "NivisUmbra_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086883445448274392",
+        "in_reply_to_user_id": "1979568208530321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086771882897080640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NivisUmbra_01 这个郑萌成啥样了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086883445448274392",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6265,
+          "following_count": 502,
+          "like_count": 4852,
+          "listed_count": 4,
+          "media_count": 543,
+          "tweet_count": 7964
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-18T15:20:40.000Z",
+        "description": "沿着神经末梢去流浪。",
+        "id": "1979568208530321408",
+        "is_identity_verified": false,
+        "location": "黑水",
+        "most_recent_tweet_id": "2076745489991844262",
+        "name": "水響渡鴉。",
+        "pinned_tweet_id": "2076706747025367376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979568208530321408/1784406495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078576726326800384/Kvy0zpo8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 188,
+          "like_count": 6589,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 8173
+        },
+        "url": "",
+        "username": "NivisUmbra_01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

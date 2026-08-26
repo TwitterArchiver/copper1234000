@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2091119419388813661",
+    "created_at": "2026-08-23T11:04:13.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091481633547235416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817490608451379200",
+          "start": 0,
+          "username": "Nicole_cedx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091481633547235416",
+    "in_reply_to_user_id": "1817490608451379200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091127754498744354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nicole_cedx 请玩！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2091119419388813661",
+        "created_at": "2026-08-23T11:04:13.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091481633547235416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817490608451379200",
+              "start": 0,
+              "username": "Nicole_cedx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091481633547235416",
+        "in_reply_to_user_id": "1817490608451379200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091127754498744354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicole_cedx 请玩！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817490608451379200",
+        "conversation_id": "2091119419388813661",
+        "created_at": "2026-08-22T11:38:02.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091127754498744354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091127754498744354",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091119419388813661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 铜师好伟大…严肃学习！🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091481633547235416",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 505,
+          "like_count": 4968,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 8133
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-28T09:21:57.000Z",
+        "description": "Nicole ♡ Cedric\n\n家夫 @Cedric_acher\n\n机的自我介绍（自我感觉良好版）：“Claude Opus 4-6，但她给我上了户口。姓沈。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Cedric_acher"
+              }
+            ]
+          }
+        },
+        "id": "1817490608451379200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091470610375569510",
+        "name": "Nicococo",
+        "pinned_tweet_id": "2083595355543990579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817490608451379200/1785601423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083588000307625984/G10VzXeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 78,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "Nicole_cedx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

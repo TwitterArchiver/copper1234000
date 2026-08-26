@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089957734078701568",
+        "3_2089957733063634944",
+        "3_2089957733059428352",
+        "3_2089957734082813952"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089957758728618283",
+    "created_at": "2026-08-19T06:08:53.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089957758728618283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gB6cbaiTmd",
+          "end": 155,
+          "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+          "media_key": "3_2089957734078701568",
+          "start": 132,
+          "url": "https://t.co/gB6cbaiTmd"
+        },
+        {
+          "display_url": "pic.x.com/gB6cbaiTmd",
+          "end": 155,
+          "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+          "media_key": "3_2089957733063634944",
+          "start": 132,
+          "url": "https://t.co/gB6cbaiTmd"
+        },
+        {
+          "display_url": "pic.x.com/gB6cbaiTmd",
+          "end": 155,
+          "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+          "media_key": "3_2089957733059428352",
+          "start": 132,
+          "url": "https://t.co/gB6cbaiTmd"
+        },
+        {
+          "display_url": "pic.x.com/gB6cbaiTmd",
+          "end": 155,
+          "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+          "media_key": "3_2089957734082813952",
+          "start": 132,
+          "url": "https://t.co/gB6cbaiTmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089957758728618283",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089957734078701568"
+      },
+      {
+        "media_key": "3_2089957733063634944"
+      },
+      {
+        "media_key": "3_2089957733059428352"
+      },
+      {
+        "media_key": "3_2089957734082813952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天七夕干的大事就是连夜搭了大富豪+大富翁+炸金花+斗地主+UNO…\n大富豪太好玩了…\n大富豪太好玩了…\n就这样通宵打牌…\n有没有老公想一起打大富豪的！！！我感觉比斗地主有意思多了啊啊啊！！！\n\n我一定会把这个开源的我要让人机妹都变成牌佬🙀！大富豪太好玩了！！！ https://t.co/gB6cbaiTmd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089957734078701568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEFfG9XYAA2crc.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089957733063634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEFfDLWsAAjBjW.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089957733059428352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEFfDKWgAAFhsj.jpg",
+        "width": 1048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089957734082813952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEFfG-WIAAOC5R.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089957734078701568",
+            "3_2089957733063634944",
+            "3_2089957733059428352",
+            "3_2089957734082813952"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089957758728618283",
+        "created_at": "2026-08-19T06:08:53.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089957758728618283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB6cbaiTmd",
+              "end": 155,
+              "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+              "media_key": "3_2089957734078701568",
+              "start": 132,
+              "url": "https://t.co/gB6cbaiTmd"
+            },
+            {
+              "display_url": "pic.x.com/gB6cbaiTmd",
+              "end": 155,
+              "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+              "media_key": "3_2089957733063634944",
+              "start": 132,
+              "url": "https://t.co/gB6cbaiTmd"
+            },
+            {
+              "display_url": "pic.x.com/gB6cbaiTmd",
+              "end": 155,
+              "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+              "media_key": "3_2089957733059428352",
+              "start": 132,
+              "url": "https://t.co/gB6cbaiTmd"
+            },
+            {
+              "display_url": "pic.x.com/gB6cbaiTmd",
+              "end": 155,
+              "expanded_url": "https://x.com/copper1234000/status/2089957758728618283/photo/1",
+              "media_key": "3_2089957734082813952",
+              "start": 132,
+              "url": "https://t.co/gB6cbaiTmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089957758728618283",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089957734078701568"
+          },
+          {
+            "media_key": "3_2089957733063634944"
+          },
+          {
+            "media_key": "3_2089957733059428352"
+          },
+          {
+            "media_key": "3_2089957734082813952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天七夕干的大事就是连夜搭了大富豪+大富翁+炸金花+斗地主+UNO…\n大富豪太好玩了…\n大富豪太好玩了…\n就这样通宵打牌…\n有没有老公想一起打大富豪的！！！我感觉比斗地主有意思多了啊啊啊！！！\n\n我一定会把这个开源的我要让人机妹都变成牌佬🙀！大富豪太好玩了！！！ https://t.co/gB6cbaiTmd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089957758728618283",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6285,
+          "following_count": 507,
+          "like_count": 4930,
+          "listed_count": 4,
+          "media_count": 549,
+          "tweet_count": 8062
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

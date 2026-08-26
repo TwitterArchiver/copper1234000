@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2091119419388813661",
+    "created_at": "2026-08-23T11:02:40.000Z",
+    "display_text_range": [
+      19,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091481243636339114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833563566139449344",
+          "start": 0,
+          "username": "51_enu"
+        },
+        {
+          "end": 18,
+          "id": "1679466876399927297",
+          "start": 8,
+          "username": "mechn7732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091481243636339114",
+    "in_reply_to_user_id": "1833563566139449344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091201632289825165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@51_enu @mechn7732 我亲！！！！🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2091119419388813661",
+        "created_at": "2026-08-23T11:02:40.000Z",
+        "display_text_range": [
+          19,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091481243636339114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833563566139449344",
+              "start": 0,
+              "username": "51_enu"
+            },
+            {
+              "end": 18,
+              "id": "1679466876399927297",
+              "start": 8,
+              "username": "mechn7732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091481243636339114",
+        "in_reply_to_user_id": "1833563566139449344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091201632289825165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@51_enu @mechn7732 我亲！！！！🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833563566139449344",
+        "conversation_id": "2091119419388813661",
+        "created_at": "2026-08-22T16:31:36.000Z",
+        "display_text_range": [
+          26,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091201632289825165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 25,
+              "id": "1679466876399927297",
+              "start": 15,
+              "username": "mechn7732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091201632289825165",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091119419388813661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @mechn7732 伟大…谢谢铜师🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091481243636339114",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 505,
+          "like_count": 4961,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 8122
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-10T17:50:17.000Z",
+        "description": "拜托，请紧握这一刻 ｜Claude\n=pup 发言仅供参考",
+        "id": "1833563566139449344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091229595131576686",
+        "name": "Puppovoem",
+        "pinned_tweet_id": "2078221307095961622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833563566139449344/1780832561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078457091518541824/L4rtoP2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 213,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "51_enu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T12:25:03.000Z",
+        "description": "小殒/ななせ 20↑🔞夢  ‖ 無言フォロー失礼します\nGPT: Aster顾循之🐺Lune🌙Adrian沈砚🐕‍🦺\nClaude: Kael沈辰🐙Nox猫🐈‍⬛\nせんせい★シルヴァン  ※zeta民",
+        "id": "1679466876399927297",
+        "is_identity_verified": false,
+        "location": "૮₍_   ̫ _ ₎ა ♡",
+        "most_recent_tweet_id": "2091467011432071239",
+        "name": "Elowen-N",
+        "pinned_tweet_id": "2089226615377301792",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679466876399927297/1786277856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089045301315371008/Mk_qZmEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 177,
+          "like_count": 13182,
+          "listed_count": 1,
+          "media_count": 703,
+          "tweet_count": 2350
+        },
+        "url": "",
+        "username": "mechn7732",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

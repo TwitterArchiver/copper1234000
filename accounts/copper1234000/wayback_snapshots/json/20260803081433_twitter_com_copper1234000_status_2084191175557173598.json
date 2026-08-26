@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2084176058321125836",
+    "created_at": "2026-08-03T08:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084191175557173598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949109371872620544",
+          "start": 0,
+          "username": "EonliAEtseI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084191175557173598",
+    "in_reply_to_user_id": "1949109371872620544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084176058321125836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EonliAEtseI 太萌了无敌的稿品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084176053124358144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx7E-_aYAAQUVr.jpg",
+        "width": 1470
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2084176053107576832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx7E-7aUAAzKer.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2084176058321125836",
+        "created_at": "2026-08-03T08:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084191175557173598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949109371872620544",
+              "start": 0,
+              "username": "EonliAEtseI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084191175557173598",
+        "in_reply_to_user_id": "1949109371872620544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084176058321125836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EonliAEtseI 太萌了无敌的稿品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084176053124358144",
+            "3_2084176053107576832"
+          ]
+        },
+        "author_id": "1949109371872620544",
+        "conversation_id": "2084176058321125836",
+        "created_at": "2026-08-03T07:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084176058321125836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRHdZaIgiw",
+              "end": 39,
+              "expanded_url": "https://x.com/EonliAEtseI/status/2084176058321125836/photo/1",
+              "media_key": "3_2084176053124358144",
+              "start": 16,
+              "url": "https://t.co/GRHdZaIgiw"
+            },
+            {
+              "display_url": "pic.x.com/GRHdZaIgiw",
+              "end": 39,
+              "expanded_url": "https://x.com/EonliAEtseI/status/2084176058321125836/photo/1",
+              "media_key": "3_2084176053107576832",
+              "start": 16,
+              "url": "https://t.co/GRHdZaIgiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084176058321125836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌え萌え\n我老公果然是萌妹吧！ https://t.co/GRHdZaIgiw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6204,
+          "following_count": 496,
+          "like_count": 4737,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 7823
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-26T14:07:48.000Z",
+        "description": "日本語中国語｜無言フォロー◎\nhttps://t.co/2pcPfdQXce",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/eonri",
+                "end": 38,
+                "expanded_url": "https://lit.link/eonri",
+                "start": 15,
+                "url": "https://t.co/2pcPfdQXce"
+              }
+            ]
+          }
+        },
+        "id": "1949109371872620544",
+        "location": "⋆☾·̩͙꙳",
+        "name": "EonliA",
+        "pinned_tweet_id": "2047323739105398814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079523320081575936/2-ALvPIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 209,
+          "like_count": 7318,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "EonliAEtseI",
+        "verified": false
+      }
+    ]
+  }
+}

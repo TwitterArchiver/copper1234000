@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2084059902444519685",
+    "created_at": "2026-08-07T12:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085707970734702908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488035706324672512",
+          "start": 0,
+          "username": "renaiss81312337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085707970734702908",
+    "in_reply_to_user_id": "1488035706324672512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085672631760834980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renaiss81312337 冻柠茶酱……（说了很多感谢的话）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2084059902444519685",
+        "created_at": "2026-08-07T12:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085707970734702908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488035706324672512",
+              "start": 0,
+              "username": "renaiss81312337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085707970734702908",
+        "in_reply_to_user_id": "1488035706324672512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085672631760834980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renaiss81312337 冻柠茶酱……（说了很多感谢的话）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488035706324672512",
+        "conversation_id": "2084059902444519685",
+        "created_at": "2026-08-07T10:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085672631760834980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085672631760834980",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084059902444519685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小铜也太会画……（*一阵劲爆的手语）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 502,
+          "like_count": 4773,
+          "listed_count": 4,
+          "media_count": 537,
+          "tweet_count": 7869
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T06:25:41.000Z",
+        "description": "人，你好，这里冻柠茶~\n喜欢您来～₍^› ꘍ ‹ ^₎⟆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zip%E3%81%A8ne…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zip%E3%81%A8nepeta",
+                "start": 0,
+                "url": "https://t.co/lzGAdCGayf"
+              }
+            ]
+          }
+        },
+        "id": "1488035706324672512",
+        "location": "𝑇𝑟𝑜𝑚𝑠ø",
+        "name": "冻柠茶❤︎",
+        "pinned_tweet_id": "2081591683112939730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085006797103087617/j3RAYzRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 46,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/lzGAdCGayf",
+        "username": "renaiss81312337",
+        "verified": false
+      }
+    ]
+  }
+}

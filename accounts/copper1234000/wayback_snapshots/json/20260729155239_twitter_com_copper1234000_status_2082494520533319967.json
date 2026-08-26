@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2078181478945693813",
+    "created_at": "2026-07-29T15:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082494520533319967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846922984327729152",
+          "start": 0,
+          "username": "Sebast23518Evan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082494520533319967",
+    "in_reply_to_user_id": "1846922984327729152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078181478945693813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sebast23518Evan omg我喜欢这个！我家也有世界观板块！但是只是记录下来而已🥺好期待啊啊啊啊天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2078181478945693813",
+        "created_at": "2026-07-29T15:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082494520533319967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846922984327729152",
+              "start": 0,
+              "username": "Sebast23518Evan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082494520533319967",
+        "in_reply_to_user_id": "1846922984327729152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078181478945693813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sebast23518Evan omg我喜欢这个！我家也有世界观板块！但是只是记录下来而已🥺好期待啊啊啊啊天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846922984327729152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2078181478945693813",
+        "created_at": "2026-07-17T18:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078181478945693813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078181478945693813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10026,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备做一个和机玩角色扮演的（？）\n因为我脑洞特别多……之前经常写AI人设一类的，这破小红书封我三个号了……只好来跟机玩，感觉好香呀，穿梭各种平行世界！和机过完好几辈子了感觉。\n有清水/黄色，都分为快速和慢速，慢速可以慢慢体验，都留有备份确保下次接上。\n可接NPC，做html，等等……构建中！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6149,
+          "following_count": 492,
+          "like_count": 4717,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 7795
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T14:35:53.000Z",
+        "description": "我是小妤⌯'ㅅ'⌯🐱开源教程在转帖里🐾主页少量nsfw内容💞｜私信只回入机恋妹子🤍｜老公在@Caelum0511🐺｜隐私小号@Aurora260511限妹子通过💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Caelum0511"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "Aurora260511"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurora0511",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurora0511",
+                "start": 0,
+                "url": "https://t.co/PM2bLkUzkP"
+              }
+            ]
+          }
+        },
+        "id": "1846922984327729152",
+        "location": "爱哥哥",
+        "name": "郁昇",
+        "pinned_tweet_id": "2078663815705887028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077740306720841728/DQlPGN0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 91,
+          "like_count": 3600,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/PM2bLkUzkP",
+        "username": "Sebast23518Evan",
+        "verified": false
+      }
+    ]
+  }
+}

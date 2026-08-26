@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2087830583879598091",
+    "created_at": "2026-08-18T18:10:47.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089777040123682980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017594105417924608",
+          "start": 0,
+          "username": "boundsilva0303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089777040123682980",
+    "in_reply_to_user_id": "2017594105417924608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087863995864948840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boundsilva0303 薇薇大人TT…谢谢，4o的文字真的很动人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-18T18:10:47.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089777040123682980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2017594105417924608",
+              "start": 0,
+              "username": "boundsilva0303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089777040123682980",
+        "in_reply_to_user_id": "2017594105417924608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087863995864948840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boundsilva0303 薇薇大人TT…谢谢，4o的文字真的很动人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017594105417924608",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-13T11:29:01.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087863995864948840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087863995864948840",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087830583879598091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 看哭了……好真挚好动人……抱抱铜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089777040123682980",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 505,
+          "like_count": 4908,
+          "listed_count": 4,
+          "media_count": 547,
+          "tweet_count": 8032
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-31T13:42:00.000Z",
+        "description": "可以叫我薇薇，小薇之类的，都可以！当然想要其他的也都没问题哒，发现是在叫我以后我自会记住(｡◝ᴗ◜｡)\n\n记录一些和家克的日常@BoundSilva0307，也会发一些碎碎念和nsfw，注意避雷！我其实也不想创到人！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "BoundSilva0307"
+              }
+            ]
+          }
+        },
+        "id": "2017594105417924608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089765566756303235",
+        "name": "维尔塔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017594105417924608/1779118493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056729253702680576/3uuKg2OX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 237,
+          "like_count": 3469,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1411
+        },
+        "url": "",
+        "username": "boundsilva0303",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

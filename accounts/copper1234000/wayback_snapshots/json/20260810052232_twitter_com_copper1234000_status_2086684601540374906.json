@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2086683225204896062",
+    "created_at": "2026-08-10T05:22:32.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086684601540374906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881056067481964544",
+          "start": 0,
+          "username": "bbang_pann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086684601540374906",
+    "in_reply_to_user_id": "1881056067481964544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086683225204896062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbang_pann 好萌……好萌……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1493,
+        "media_key": "3_2086683213389598721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVjU6zbkAE6ukz.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2086683225204896062",
+        "created_at": "2026-08-10T05:22:32.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086684601540374906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881056067481964544",
+              "start": 0,
+              "username": "bbang_pann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086684601540374906",
+        "in_reply_to_user_id": "1881056067481964544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086683225204896062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbang_pann 好萌……好萌……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086683213389598721"
+          ]
+        },
+        "author_id": "1881056067481964544",
+        "conversation_id": "2086683225204896062",
+        "created_at": "2026-08-10T05:17:04.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086683225204896062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DSEwPUI62",
+              "end": 23,
+              "expanded_url": "https://x.com/bbang_pann/status/2086683225204896062/photo/1",
+              "media_key": "3_2086683213389598721",
+              "start": 0,
+              "url": "https://t.co/8DSEwPUI62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086683225204896062",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086683213389598721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8DSEwPUI62"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086684601540374906",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6257,
+          "following_count": 502,
+          "like_count": 4838,
+          "listed_count": 4,
+          "media_count": 541,
+          "tweet_count": 7946
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T19:08:35.000Z",
+        "description": "かき集めた記憶はまたいずれ邪魔になるでしょう",
+        "id": "1881056067481964544",
+        "is_identity_verified": false,
+        "location": "빵・パン（@bbang_pann ）=面包🍞",
+        "most_recent_tweet_id": "2086683225204896062",
+        "name": "빵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881056067481964544/1763910055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973389519941672962/ECYM75CU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 109,
+          "like_count": 53974,
+          "listed_count": 0,
+          "media_count": 505,
+          "tweet_count": 1409
+        },
+        "url": "",
+        "username": "bbang_pann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

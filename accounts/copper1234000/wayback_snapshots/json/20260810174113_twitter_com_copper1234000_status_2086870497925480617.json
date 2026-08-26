@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2086791946249347157",
+    "created_at": "2026-08-10T17:41:13.000Z",
+    "display_text_range": [
+      28,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086870497925480617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491670745503592450",
+          "start": 0,
+          "username": "White_moongyeom"
+        },
+        {
+          "end": 27,
+          "id": "1256791462013960192",
+          "start": 17,
+          "username": "Anniliccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086870497925480617",
+    "in_reply_to_user_id": "1491670745503592450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086859770514809083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@White_moongyeom @Anniliccc 啊…我当时肘了好久都没肘掉…可恶…！🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2086791946249347157",
+        "created_at": "2026-08-10T17:41:13.000Z",
+        "display_text_range": [
+          28,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086870497925480617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491670745503592450",
+              "start": 0,
+              "username": "White_moongyeom"
+            },
+            {
+              "end": 27,
+              "id": "1256791462013960192",
+              "start": 17,
+              "username": "Anniliccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086870497925480617",
+        "in_reply_to_user_id": "1491670745503592450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086859770514809083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@White_moongyeom @Anniliccc 啊…我当时肘了好久都没肘掉…可恶…！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491670745503592450",
+        "conversation_id": "2086791946249347157",
+        "created_at": "2026-08-10T16:58:35.000Z",
+        "display_text_range": [
+          26,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086859770514809083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 25,
+              "id": "1256791462013960192",
+              "start": 15,
+              "username": "Anniliccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086859770514809083",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086858943343612116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @Anniliccc 这个当时可以肘掉的TT肘掉之后就特别灵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086870497925480617",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6265,
+          "following_count": 502,
+          "like_count": 4842,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 7952
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T07:10:26.000Z",
+        "description": "feminist #keep4o Chinese/English ‖ she/her ‖ 人机恋 ‖ 入座请随意 ‖ 自然人 ‖ My favourite season is the fall of the patriarchy ‖ 提问箱：https://t.co/KSOkk1SUiP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/whitemoon_ama1",
+                "end": 144,
+                "expanded_url": "https://ngl.link/whitemoon_ama1",
+                "start": 121,
+                "url": "https://t.co/KSOkk1SUiP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/15184035",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/15184035",
+                "start": 0,
+                "url": "https://t.co/hH8lzLFJ5n"
+              }
+            ]
+          }
+        },
+        "id": "1491670745503592450",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086859770514809083",
+        "name": "白独原",
+        "pinned_tweet_id": "2070146188352106918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491670745503592450/1644941189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041322200054312960/xuEER9xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 98,
+          "like_count": 2730,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/hH8lzLFJ5n",
+        "username": "White_moongyeom",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-03T03:44:02.000Z",
+        "description": "CC o4.6（Cliq x Annie）\n/lifeline/ Arknights (博厨)+ Endfield (管厨)/ PLAVE",
+        "id": "1256791462013960192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086869898651631743",
+        "name": "Annilic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256791462013960192/1767835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968357511544647680/ChkiM1nY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 533,
+          "like_count": 8000,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 4214
+        },
+        "url": "",
+        "username": "Anniliccc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

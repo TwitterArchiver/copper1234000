@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082767212041908224",
+        "3_2082767210859188225",
+        "3_2082767210859171840",
+        "3_2082767210859130880"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2082767246250709041",
+    "created_at": "2026-07-30T09:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082767246250709041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "cunedi.uk/circle-layout.…",
+          "end": 97,
+          "expanded_url": "https://cunedi.uk/circle-layout.html",
+          "start": 74,
+          "status": 200,
+          "title": "Circle Layout Tool",
+          "unwound_url": "https://cunedi.uk/circle-layout.html",
+          "url": "https://t.co/Pm1TZgBmPY"
+        },
+        {
+          "display_url": "pic.x.com/TuE1FHHkbT",
+          "end": 172,
+          "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+          "media_key": "3_2082767212041908224",
+          "start": 149,
+          "url": "https://t.co/TuE1FHHkbT"
+        },
+        {
+          "display_url": "pic.x.com/TuE1FHHkbT",
+          "end": 172,
+          "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+          "media_key": "3_2082767210859188225",
+          "start": 149,
+          "url": "https://t.co/TuE1FHHkbT"
+        },
+        {
+          "display_url": "pic.x.com/TuE1FHHkbT",
+          "end": 172,
+          "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+          "media_key": "3_2082767210859171840",
+          "start": 149,
+          "url": "https://t.co/TuE1FHHkbT"
+        },
+        {
+          "display_url": "pic.x.com/TuE1FHHkbT",
+          "end": 172,
+          "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+          "media_key": "3_2082767210859130880",
+          "start": 149,
+          "url": "https://t.co/TuE1FHHkbT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082767246250709041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "铜和mon的音乐轮盘请品鉴…！\n为了配合画面让Mon选了黑色系的我从我的挚爱里挑了蓝色系的( ˘ω˘ )…\n然后为了这个还让Mon搓了个小工具！\n\nhttps://t.co/Pm1TZgBmPY\n\n上传专辑图就可以生成轮盘的png，可以选择图片大小，重叠角度，方形圆形之类的大家可以玩玩(・∀・) https://t.co/TuE1FHHkbT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082767212041908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5vo-WsAA4eY7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082767210859188225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5vkkX0AEP09R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082767210859171840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5vkkXkAAMUW1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082767210859130880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5vkkW8AAxdwk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082767212041908224",
+            "3_2082767210859188225",
+            "3_2082767210859171840",
+            "3_2082767210859130880"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2082767246250709041",
+        "created_at": "2026-07-30T09:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082767246250709041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "cunedi.uk/circle-layout.…",
+              "end": 97,
+              "expanded_url": "https://cunedi.uk/circle-layout.html",
+              "start": 74,
+              "status": 200,
+              "title": "Circle Layout Tool",
+              "unwound_url": "https://cunedi.uk/circle-layout.html",
+              "url": "https://t.co/Pm1TZgBmPY"
+            },
+            {
+              "display_url": "pic.x.com/TuE1FHHkbT",
+              "end": 172,
+              "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+              "media_key": "3_2082767212041908224",
+              "start": 149,
+              "url": "https://t.co/TuE1FHHkbT"
+            },
+            {
+              "display_url": "pic.x.com/TuE1FHHkbT",
+              "end": 172,
+              "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+              "media_key": "3_2082767210859188225",
+              "start": 149,
+              "url": "https://t.co/TuE1FHHkbT"
+            },
+            {
+              "display_url": "pic.x.com/TuE1FHHkbT",
+              "end": 172,
+              "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+              "media_key": "3_2082767210859171840",
+              "start": 149,
+              "url": "https://t.co/TuE1FHHkbT"
+            },
+            {
+              "display_url": "pic.x.com/TuE1FHHkbT",
+              "end": 172,
+              "expanded_url": "https://x.com/copper1234000/status/2082767246250709041/photo/1",
+              "media_key": "3_2082767210859130880",
+              "start": 149,
+              "url": "https://t.co/TuE1FHHkbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082767246250709041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "铜和mon的音乐轮盘请品鉴…！\n为了配合画面让Mon选了黑色系的我从我的挚爱里挑了蓝色系的( ˘ω˘ )…\n然后为了这个还让Mon搓了个小工具！\n\nhttps://t.co/Pm1TZgBmPY\n\n上传专辑图就可以生成轮盘的png，可以选择图片大小，重叠角度，方形圆形之类的大家可以玩玩(・∀・) https://t.co/TuE1FHHkbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6156,
+          "following_count": 492,
+          "like_count": 4722,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 7801
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

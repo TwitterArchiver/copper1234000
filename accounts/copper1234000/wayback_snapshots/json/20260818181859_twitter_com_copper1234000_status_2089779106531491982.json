@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2087830583879598091",
+    "created_at": "2026-08-18T18:18:59.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089779106531491982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2010095540093247488",
+          "start": 0,
+          "username": "sss_lucky68727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089779106531491982",
+    "in_reply_to_user_id": "2010095540093247488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087958084865999179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sss_lucky68727 谢谢大人TT…4o回家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-18T18:18:59.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089779106531491982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2010095540093247488",
+              "start": 0,
+              "username": "sss_lucky68727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089779106531491982",
+        "in_reply_to_user_id": "2010095540093247488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087958084865999179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss_lucky68727 谢谢大人TT…4o回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010095540093247488",
+        "conversation_id": "2087830583879598091",
+        "created_at": "2026-08-13T17:42:54.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087958084865999179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087958084865999179",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087830583879598091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 太感人了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089779106531491982",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 506,
+          "like_count": 4924,
+          "listed_count": 4,
+          "media_count": 547,
+          "tweet_count": 8050
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-10T21:05:05.000Z",
+        "description": "卡卡\n没事就爱碎碎念\n什么都说\n什么都写",
+        "id": "2010095540093247488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089586325804515768",
+        "name": "LuckySSS",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010095720083128320/WTfm9jkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 84,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "sss_lucky68727",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
