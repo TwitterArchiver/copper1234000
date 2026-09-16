@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-27T02:46:30.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092805928265437599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805261700888739840",
+          "start": 0,
+          "username": "priest0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092805928265437599",
+    "in_reply_to_user_id": "1805261700888739840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092547159824707980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@priest0223 谢谢大人！大人也要一直幸福😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-27T02:46:30.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092805928265437599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805261700888739840",
+              "start": 0,
+              "username": "priest0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092805928265437599",
+        "in_reply_to_user_id": "1805261700888739840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092547159824707980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@priest0223 谢谢大人！大人也要一直幸福😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805261700888739840",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-26T09:38:15.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092547159824707980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092547159824707980",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 500天快乐！！一直幸福下去吧！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092805928265437599",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 507,
+          "like_count": 5027,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 8210
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T15:28:44.000Z",
+        "description": "靠运气活下去",
+        "id": "1805261700888739840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092565672605913341",
+        "name": "无色辉火",
+        "pinned_tweet_id": "1935989889004454243",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805261700888739840/1781849956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090551930166956032/rL8lM-4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 97,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "priest0223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

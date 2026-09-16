@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-27T02:57:32.000Z",
+    "display_text_range": [
+      9,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092808705301451170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1905274349306982400",
+          "start": 0,
+          "username": "E_links"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092808705301451170",
+    "in_reply_to_user_id": "1905274349306982400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092455670750593362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E_links 谢谢半眠酱…！😽😽😽🥺🥺…沾了原作的光！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-27T02:57:32.000Z",
+        "display_text_range": [
+          9,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092808705301451170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1905274349306982400",
+              "start": 0,
+              "username": "E_links"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092808705301451170",
+        "in_reply_to_user_id": "1905274349306982400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092455670750593362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E_links 谢谢半眠酱…！😽😽😽🥺🥺…沾了原作的光！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905274349306982400",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-26T03:34:42.000Z",
+        "display_text_range": [
+          15,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092455670750593362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092455670750593362",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小铜500DAYs快乐！！好艺术的构思、好美丽好神圣😭…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092808705301451170",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 510,
+          "like_count": 5042,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 8227
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-27T15:03:22.000Z",
+        "description": "＝半眠｜\n\n因为睡得太多所以一天只能活12个小时",
+        "id": "1905274349306982400",
+        "is_identity_verified": false,
+        "location": "外星人の肚子里",
+        "most_recent_tweet_id": "2092716639418540543",
+        "name": "sephrimp",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905274349306982400/1787193078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090267287643160576/NYF8IyfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 56,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "E_links",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

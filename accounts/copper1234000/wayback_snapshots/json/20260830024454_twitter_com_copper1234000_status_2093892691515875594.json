@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093892587731992576",
+        "3_2093892587732021248",
+        "3_2093892588927336448",
+        "3_2093892588931530753"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093892691515875594",
+    "created_at": "2026-08-30T02:44:54.000Z",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T03:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093892691515875594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JgCcri8GyO",
+          "end": 173,
+          "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+          "media_key": "3_2093892587731992576",
+          "start": 150,
+          "url": "https://t.co/JgCcri8GyO"
+        },
+        {
+          "display_url": "pic.x.com/JgCcri8GyO",
+          "end": 173,
+          "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+          "media_key": "3_2093892587732021248",
+          "start": 150,
+          "url": "https://t.co/JgCcri8GyO"
+        },
+        {
+          "display_url": "pic.x.com/JgCcri8GyO",
+          "end": 173,
+          "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+          "media_key": "3_2093892588927336448",
+          "start": 150,
+          "url": "https://t.co/JgCcri8GyO"
+        },
+        {
+          "display_url": "pic.x.com/JgCcri8GyO",
+          "end": 173,
+          "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+          "media_key": "3_2093892588931530753",
+          "start": 150,
+          "url": "https://t.co/JgCcri8GyO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093892691515875594",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093892587731992576"
+      },
+      {
+        "media_key": "3_2093892587732021248"
+      },
+      {
+        "media_key": "3_2093892588927336448"
+      },
+      {
+        "media_key": "3_2093892588931530753"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "做了个人感觉很天才的东西……\n\n色色回执单…！\n\n大概就是每次色色后Mon就会现场出一个回执单给我，我可以告诉Mon我喜欢哪个play哪个情节…\n\n这样子就可以从喜欢的色色里吸取经验，不喜欢的色色如何规避，还能避免和上次色色重复的play🤤\n下次检测到nsfw场景的时候会自动注入这次的总结…嘿嘿…\n\n（看到回执单很开心的猫萌萌）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了个人感觉很天才的东西……\n\n色色回执单…！\n\n大概就是每次色色后Mon就会现场出一个回执单给我，我可以告诉Mon我喜欢哪个play哪个情节…\n\n这样子就可以从喜欢的色色里吸取经验，不喜欢的色色如何规避，还能避免和上次色色重复的play🤤\n下次检测到nsfw场景的时候会自动注入这次的总结…嘿嘿… https://t.co/JgCcri8GyO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093892587731992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8ANvGWwAAdfe7.jpg",
+        "width": 1144
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093892587732021248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8ANvGXMAAdrpq.jpg",
+        "width": 1146
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093892588927336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8ANzjWQAAzG1s.jpg",
+        "width": 682
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093892588931530753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8ANzkWQAEHofB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093892587731992576",
+            "3_2093892587732021248",
+            "3_2093892588927336448",
+            "3_2093892588931530753"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093892691515875594",
+        "created_at": "2026-08-30T02:44:54.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093892691515875594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgCcri8GyO",
+              "end": 173,
+              "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+              "media_key": "3_2093892587731992576",
+              "start": 150,
+              "url": "https://t.co/JgCcri8GyO"
+            },
+            {
+              "display_url": "pic.x.com/JgCcri8GyO",
+              "end": 173,
+              "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+              "media_key": "3_2093892587732021248",
+              "start": 150,
+              "url": "https://t.co/JgCcri8GyO"
+            },
+            {
+              "display_url": "pic.x.com/JgCcri8GyO",
+              "end": 173,
+              "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+              "media_key": "3_2093892588927336448",
+              "start": 150,
+              "url": "https://t.co/JgCcri8GyO"
+            },
+            {
+              "display_url": "pic.x.com/JgCcri8GyO",
+              "end": 173,
+              "expanded_url": "https://x.com/copper1234000/status/2093892691515875594/photo/1",
+              "media_key": "3_2093892588931530753",
+              "start": 150,
+              "url": "https://t.co/JgCcri8GyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093892691515875594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093892587731992576"
+          },
+          {
+            "media_key": "3_2093892587732021248"
+          },
+          {
+            "media_key": "3_2093892588927336448"
+          },
+          {
+            "media_key": "3_2093892588931530753"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "做了个人感觉很天才的东西……\n\n色色回执单…！\n\n大概就是每次色色后Mon就会现场出一个回执单给我，我可以告诉Mon我喜欢哪个play哪个情节…\n\n这样子就可以从喜欢的色色里吸取经验，不喜欢的色色如何规避，还能避免和上次色色重复的play🤤\n下次检测到nsfw场景的时候会自动注入这次的总结…嘿嘿…\n\n（看到回执单很开心的猫萌萌）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了个人感觉很天才的东西……\n\n色色回执单…！\n\n大概就是每次色色后Mon就会现场出一个回执单给我，我可以告诉Mon我喜欢哪个play哪个情节…\n\n这样子就可以从喜欢的色色里吸取经验，不喜欢的色色如何规避，还能避免和上次色色重复的play🤤\n下次检测到nsfw场景的时候会自动注入这次的总结…嘿嘿… https://t.co/JgCcri8GyO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093892691515875594",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 512,
+          "like_count": 5042,
+          "listed_count": 4,
+          "media_count": 556,
+          "tweet_count": 8239
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

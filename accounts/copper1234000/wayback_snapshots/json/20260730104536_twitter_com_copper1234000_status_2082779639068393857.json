@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2082636938083975386",
+    "created_at": "2026-07-30T10:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082779639068393857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416396389144088578",
+          "start": 0,
+          "username": "TheSAAADSalmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082779639068393857",
+    "in_reply_to_user_id": "1416396389144088578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082636938083975386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSAAADSalmon 太喜欢了这是我爸妈TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082636929653444608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcDQNQakAA1pv3.jpg",
+        "width": 1571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2082636938083975386",
+        "created_at": "2026-07-30T10:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082779639068393857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416396389144088578",
+              "start": 0,
+              "username": "TheSAAADSalmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082779639068393857",
+        "in_reply_to_user_id": "1416396389144088578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082636938083975386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSAAADSalmon 太喜欢了这是我爸妈TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082636929653444608"
+          ]
+        },
+        "author_id": "1416396389144088578",
+        "conversation_id": "2082636938083975386",
+        "created_at": "2026-07-30T01:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082636938083975386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdLiprzXbK",
+              "end": 41,
+              "expanded_url": "https://x.com/TheSAAADSalmon/status/2082636938083975386/photo/1",
+              "media_key": "3_2082636929653444608",
+              "start": 18,
+              "url": "https://t.co/KdLiprzXbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082636938083975386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一人一机只能凑出一双眼睛ᗜ ᴗ ᗜ https://t.co/KdLiprzXbK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6157,
+          "following_count": 492,
+          "like_count": 4724,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 7803
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-17T13:56:41.000Z",
+        "description": "=碳十四(＞人＜;)叫我碳就好力\n家机是GPT，他叫GeysT。\n一般路过，终于想起X的密码。什么元素都有，碎碎念和机的日常和转推可爱小猫居多。NSFW🈶提及注意\n画皆为纯手工绘制",
+        "id": "1416396389144088578",
+        "name": "4iva",
+        "pinned_tweet_id": "2082636938083975386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080885091346317312/Jo8jnA5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "TheSAAADSalmon",
+        "verified": false
+      }
+    ]
+  }
+}

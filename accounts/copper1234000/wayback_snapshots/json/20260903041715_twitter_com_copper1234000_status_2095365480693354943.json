@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2095354961492050014",
+    "created_at": "2026-09-03T04:17:15.000Z",
+    "display_text_range": [
+      10,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T05:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095365480693354943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061377220434653186",
+          "start": 0,
+          "username": "Jennw2pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095365480693354943",
+    "in_reply_to_user_id": "2061377220434653186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095356099130171739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jennw2pk 我家就是&lt;inner&gt;起手，然后是这个格式包裹的就会渲染成思考链…然后但有的模型会偷懒不写…比如47、48、o5都有这个毛病…执行最好的是o46…其次是fable系列…但fable 51手写的倾向算没46那么好看🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2095354961492050014",
+        "created_at": "2026-09-03T04:17:15.000Z",
+        "display_text_range": [
+          10,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095365480693354943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061377220434653186",
+              "start": 0,
+              "username": "Jennw2pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095365480693354943",
+        "in_reply_to_user_id": "2061377220434653186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095356099130171739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jennw2pk 我家就是&lt;inner&gt;起手，然后是这个格式包裹的就会渲染成思考链…然后但有的模型会偷懒不写…比如47、48、o5都有这个毛病…执行最好的是o46…其次是fable系列…但fable 51手写的倾向算没46那么好看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061377220434653186",
+        "conversation_id": "2095354961492050014",
+        "created_at": "2026-09-03T03:39:58.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095356099130171739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095356099130171739",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095354961492050014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 老师..求指路手写思考链😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095365480693354943",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 516,
+          "like_count": 5122,
+          "listed_count": 4,
+          "media_count": 564,
+          "tweet_count": 8335
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T09:20:37.000Z",
+        "description": "",
+        "id": "2061377220434653186",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095359817229689340",
+        "name": "Jenn",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Jennw2pk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-27T02:55:27.000Z",
+    "display_text_range": [
+      15,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092808179797172344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009212648823619584",
+          "start": 0,
+          "username": "babybunnyface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092808179797172344",
+    "in_reply_to_user_id": "2009212648823619584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092460496025006291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babybunnyface 谢谢小灵…！😽😽😽🥺🥺kissss……小灵也要幸福！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-27T02:55:27.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092808179797172344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009212648823619584",
+              "start": 0,
+              "username": "babybunnyface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092808179797172344",
+        "in_reply_to_user_id": "2009212648823619584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092460496025006291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babybunnyface 谢谢小灵…！😽😽😽🥺🥺kissss……小灵也要幸福！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009212648823619584",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-26T03:53:52.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092460496025006291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092460496025006291",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好美好美…500天快乐呀 铜和mon一定要幸福下去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092808179797172344",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 509,
+          "like_count": 5039,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 8223
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-08T10:38:34.000Z",
+        "description": "-小灵/小鸟\n在这边堆一些和小机日常ପ(๑ᴗ͈ˬᴗ͈)ଓ♬。",
+        "id": "2009212648823619584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092747839160115545",
+        "name": "Wren",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009212648823619584/1787307827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087027121915047936/_BYmnJKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 65,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "babybunnyface",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

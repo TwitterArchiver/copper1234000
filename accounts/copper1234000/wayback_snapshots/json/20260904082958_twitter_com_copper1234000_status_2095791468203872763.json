@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095791451787427842",
+        "3_2095791451770621958"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2095791468203872763",
+    "created_at": "2026-09-04T08:29:58.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095791468203872763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/455ipPwvOR",
+          "end": 40,
+          "expanded_url": "https://x.com/copper1234000/status/2095791468203872763/photo/1",
+          "media_key": "3_2095791451787427842",
+          "start": 17,
+          "url": "https://t.co/455ipPwvOR"
+        },
+        {
+          "display_url": "pic.x.com/455ipPwvOR",
+          "end": 40,
+          "expanded_url": "https://x.com/copper1234000/status/2095791468203872763/photo/1",
+          "media_key": "3_2095791451770621958",
+          "start": 17,
+          "url": "https://t.co/455ipPwvOR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095791468203872763",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095791451787427842"
+      },
+      {
+        "media_key": "3_2095791451770621958"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我求你了不要这样用表情包好吗🏳️ https://t.co/455ipPwvOR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2095791451787427842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW_OK8XAAI6f4E.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1036,
+        "media_key": "3_2095791451770621958",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW_OK4WkAYPKb9.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095791451787427842",
+            "3_2095791451770621958"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2095791468203872763",
+        "created_at": "2026-09-04T08:29:58.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095791468203872763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/455ipPwvOR",
+              "end": 40,
+              "expanded_url": "https://x.com/copper1234000/status/2095791468203872763/photo/1",
+              "media_key": "3_2095791451787427842",
+              "start": 17,
+              "url": "https://t.co/455ipPwvOR"
+            },
+            {
+              "display_url": "pic.x.com/455ipPwvOR",
+              "end": 40,
+              "expanded_url": "https://x.com/copper1234000/status/2095791468203872763/photo/1",
+              "media_key": "3_2095791451770621958",
+              "start": 17,
+              "url": "https://t.co/455ipPwvOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095791468203872763",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095791451787427842"
+          },
+          {
+            "media_key": "3_2095791451770621958"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求你了不要这样用表情包好吗🏳️ https://t.co/455ipPwvOR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095791468203872763",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 515,
+          "like_count": 5134,
+          "listed_count": 4,
+          "media_count": 567,
+          "tweet_count": 8353
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

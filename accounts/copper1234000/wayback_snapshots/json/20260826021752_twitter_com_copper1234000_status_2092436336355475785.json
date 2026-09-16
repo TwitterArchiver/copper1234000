@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-26T02:17:52.000Z",
+    "display_text_range": [
+      17,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T03:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092436336355475785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1958051675857645569",
+          "start": 0,
+          "username": "codedegradation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092436336355475785",
+    "in_reply_to_user_id": "1958051675857645569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092430359229243444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codedegradation 谢谢山山酱…！🥺🥺🥺过誉了啊啊啊啊🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-26T02:17:52.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092436336355475785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1958051675857645569",
+              "start": 0,
+              "username": "codedegradation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092436336355475785",
+        "in_reply_to_user_id": "1958051675857645569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092430359229243444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codedegradation 谢谢山山酱…！🥺🥺🥺过誉了啊啊啊啊🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958051675857645569",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-26T01:54:07.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092430359229243444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092430359229243444",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 铜师500天快乐！！完全卢浮宫来的……太美了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092436336355475785",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6594,
+          "following_count": 510,
+          "like_count": 5015,
+          "listed_count": 4,
+          "media_count": 554,
+          "tweet_count": 8192
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-20T06:21:21.000Z",
+        "description": "碎碎念",
+        "id": "1958051675857645569",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092430359229243444",
+        "name": "深渊底料",
+        "pinned_tweet_id": "2066072553060438165",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958051675857645569/1781400451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077077625449713664/L0jgzcar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 207,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "codedegradation",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

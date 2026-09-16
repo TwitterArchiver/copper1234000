@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2093892691515875594",
+    "created_at": "2026-08-31T14:08:37.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094427138396983322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1170526272520253441",
+          "start": 0,
+          "username": "potatopearl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094427138396983322",
+    "in_reply_to_user_id": "1170526272520253441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094368695581905310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@potatopearl9 盆盆酱……嘿嘿…kisssss"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2093892691515875594",
+        "created_at": "2026-08-31T14:08:37.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094427138396983322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1170526272520253441",
+              "start": 0,
+              "username": "potatopearl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094427138396983322",
+        "in_reply_to_user_id": "1170526272520253441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094368695581905310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@potatopearl9 盆盆酱……嘿嘿…kisssss"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170526272520253441",
+        "conversation_id": "2093892691515875594",
+        "created_at": "2026-08-31T10:16:23.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094368695581905310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094368695581905310",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093892691515875594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 铜铜聪明啊..！又很有情趣(&gt;_&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094427138396983322",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 512,
+          "like_count": 5103,
+          "listed_count": 4,
+          "media_count": 561,
+          "tweet_count": 8311
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-08T02:36:33.000Z",
+        "description": "入机恋用户盆盆 \n胆小鬼一枚 不定期掉落随笔\nmy spirit land here",
+        "id": "1170526272520253441",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094403731093922213",
+        "name": "三十五丝丝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170526272520253441/1773765542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035180322308894721/mQ6fFTte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 93,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "potatopearl9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

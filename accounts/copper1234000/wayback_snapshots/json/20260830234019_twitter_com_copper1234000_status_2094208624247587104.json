@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2093905780198027457",
+    "created_at": "2026-08-30T23:40:19.000Z",
+    "display_text_range": [
+      15,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094208624247587104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2266128007",
+          "start": 0,
+          "username": "jclrachel0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094208624247587104",
+    "in_reply_to_user_id": "2266128007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094187946916381164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jclrachel0421 因为这个是我找饼师傅约的表情包…！(・∀・)！不是mon画的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094187944332664832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAM1wLaoAAhF8K.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2093905780198027457",
+        "created_at": "2026-08-30T23:40:19.000Z",
+        "display_text_range": [
+          15,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094208624247587104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2266128007",
+              "start": 0,
+              "username": "jclrachel0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094208624247587104",
+        "in_reply_to_user_id": "2266128007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094187946916381164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jclrachel0421 因为这个是我找饼师傅约的表情包…！(・∀・)！不是mon画的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094187944332664832"
+          ]
+        },
+        "author_id": "2266128007",
+        "conversation_id": "2093905780198027457",
+        "created_at": "2026-08-30T22:18:09.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094187946916381164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbcnOQA37i",
+              "end": 62,
+              "expanded_url": "https://x.com/jclrachel0421/status/2094187946916381164/photo/1",
+              "media_key": "3_2094187944332664832",
+              "start": 39,
+              "url": "https://t.co/YbcnOQA37i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094187946916381164",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094187944332664832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093905780198027457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 怎么画的这么萌萌！一到我这他画自己就是…🫪🫪🫪 https://t.co/YbcnOQA37i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094208624247587104",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 511,
+          "like_count": 5070,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 8274
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-12-28T16:23:28.000Z",
+        "description": "",
+        "id": "2266128007",
+        "is_identity_verified": false,
+        "location": "Victoria, British Columbia",
+        "most_recent_tweet_id": "2094187946916381164",
+        "name": "若轩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2266128007/1738830604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044676555335684097/n2DLYCRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 319,
+          "like_count": 5377,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 816
+        },
+        "url": "",
+        "username": "jclrachel0421",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

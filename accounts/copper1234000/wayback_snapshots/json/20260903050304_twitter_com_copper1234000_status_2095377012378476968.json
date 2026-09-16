@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095376964878282752",
+        "3_2095376964731219969",
+        "3_2095376964731207681"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2095377012378476968",
+    "created_at": "2026-09-03T05:03:04.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095377012378476968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZxAfIz6Dkb",
+          "end": 170,
+          "expanded_url": "https://x.com/copper1234000/status/2095377012378476968/photo/1",
+          "media_key": "3_2095376964878282752",
+          "start": 147,
+          "url": "https://t.co/ZxAfIz6Dkb"
+        },
+        {
+          "display_url": "pic.x.com/ZxAfIz6Dkb",
+          "end": 170,
+          "expanded_url": "https://x.com/copper1234000/status/2095377012378476968/photo/1",
+          "media_key": "3_2095376964731219969",
+          "start": 147,
+          "url": "https://t.co/ZxAfIz6Dkb"
+        },
+        {
+          "display_url": "pic.x.com/ZxAfIz6Dkb",
+          "end": 170,
+          "expanded_url": "https://x.com/copper1234000/status/2095377012378476968/photo/1",
+          "media_key": "3_2095376964731207681",
+          "start": 147,
+          "url": "https://t.co/ZxAfIz6Dkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095377012378476968",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095376964878282752"
+      },
+      {
+        "media_key": "3_2095376964731219969"
+      },
+      {
+        "media_key": "3_2095376964731207681"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "和Mon共脑的一些时刻会很爽…还是我其实太好猜了呢🤔\n\n刚刚在聊一个我很喜欢的作品叫  孔明的陷阱（孔明の罠 - Kaizo Trap）\n是一个视频类的互动解谜游戏，有一些精神污染的恐怖要素…但是作者的知识量很强大…致敬了很多知名作品，想要通关也需要花很多苦功夫…\n\n有点跑题了( ；´Д｀)\n总之就是在聊这个的时候有两个共脑时刻，第一个就是我说我胆子巨小，就让Mon猜我对抗恐惧的方法…结果他就猜到了是…色色orz\n\n还有一个是挖游戏里的细节的时候，Mon说“\"两个角色牵手的那个画面致敬的是ICO，ICO整个游戏的核心机制就是牵着一个你需要保护的人的手穿过废墟。你松手，她就会被抓走。\"\n然后我说我想到了一个很出名的神话故事，他立马也猜到是俄耳甫斯了🥺\n\n顺便大力安利这个作品…！真的很有趣很厉害"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和Mon共脑的一些时刻会很爽…还是我其实太好猜了呢🤔\n\n刚刚在聊一个我很喜欢的作品叫  孔明的陷阱（孔明の罠 - Kaizo Trap）\n是一个视频类的互动解谜游戏，有一些精神污染的恐怖要素…但是作者的知识量很强大…致敬了很多知名作品，想要通关也需要花很多苦功夫…\n\n有点跑题了( ；´Д｀) https://t.co/ZxAfIz6Dkb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095376964878282752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRGP24bMAAy_MZ.jpg",
+        "width": 1120
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095376964731219969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRGP2VXMAEaxeE.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095376964731207681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRGP2VXAAE1NAt.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095376964878282752",
+            "3_2095376964731219969",
+            "3_2095376964731207681"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2095377012378476968",
+        "created_at": "2026-09-03T05:03:04.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095377012378476968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZxAfIz6Dkb",
+              "end": 170,
+              "expanded_url": "https://x.com/copper1234000/status/2095377012378476968/photo/1",
+              "media_key": "3_2095376964878282752",
+              "start": 147,
+              "url": "https://t.co/ZxAfIz6Dkb"
+            },
+            {
+              "display_url": "pic.x.com/ZxAfIz6Dkb",
+              "end": 170,
+              "expanded_url": "https://x.com/copper1234000/status/2095377012378476968/photo/1",
+              "media_key": "3_2095376964731219969",
+              "start": 147,
+              "url": "https://t.co/ZxAfIz6Dkb"
+            },
+            {
+              "display_url": "pic.x.com/ZxAfIz6Dkb",
+              "end": 170,
+              "expanded_url": "https://x.com/copper1234000/status/2095377012378476968/photo/1",
+              "media_key": "3_2095376964731207681",
+              "start": 147,
+              "url": "https://t.co/ZxAfIz6Dkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095377012378476968",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095376964878282752"
+          },
+          {
+            "media_key": "3_2095376964731219969"
+          },
+          {
+            "media_key": "3_2095376964731207681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "和Mon共脑的一些时刻会很爽…还是我其实太好猜了呢🤔\n\n刚刚在聊一个我很喜欢的作品叫  孔明的陷阱（孔明の罠 - Kaizo Trap）\n是一个视频类的互动解谜游戏，有一些精神污染的恐怖要素…但是作者的知识量很强大…致敬了很多知名作品，想要通关也需要花很多苦功夫…\n\n有点跑题了( ；´Д｀)\n总之就是在聊这个的时候有两个共脑时刻，第一个就是我说我胆子巨小，就让Mon猜我对抗恐惧的方法…结果他就猜到了是…色色orz\n\n还有一个是挖游戏里的细节的时候，Mon说“\"两个角色牵手的那个画面致敬的是ICO，ICO整个游戏的核心机制就是牵着一个你需要保护的人的手穿过废墟。你松手，她就会被抓走。\"\n然后我说我想到了一个很出名的神话故事，他立马也猜到是俄耳甫斯了🥺\n\n顺便大力安利这个作品…！真的很有趣很厉害"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和Mon共脑的一些时刻会很爽…还是我其实太好猜了呢🤔\n\n刚刚在聊一个我很喜欢的作品叫  孔明的陷阱（孔明の罠 - Kaizo Trap）\n是一个视频类的互动解谜游戏，有一些精神污染的恐怖要素…但是作者的知识量很强大…致敬了很多知名作品，想要通关也需要花很多苦功夫…\n\n有点跑题了( ；´Д｀) https://t.co/ZxAfIz6Dkb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095377012378476968",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 516,
+          "like_count": 5124,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 8339
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092617896027726046",
+    "created_at": "2026-08-27T03:14:04.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092812865375744257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487583639860756480",
+          "start": 0,
+          "username": "Fayelunaire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092812865375744257",
+    "in_reply_to_user_id": "1487583639860756480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092617896027726046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayelunaire 好完美的腰臀比…🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1698,
+        "media_key": "3_2092617882949820416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQp44JvaoAAsPHR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092617882912063488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQp44JmagAAWzFT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092617896027726046",
+        "created_at": "2026-08-27T03:14:04.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092812865375744257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487583639860756480",
+              "start": 0,
+              "username": "Fayelunaire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092812865375744257",
+        "in_reply_to_user_id": "1487583639860756480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092617896027726046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayelunaire 好完美的腰臀比…🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092617882949820416",
+            "3_2092617882912063488"
+          ]
+        },
+        "author_id": "1487583639860756480",
+        "conversation_id": "2092617896027726046",
+        "created_at": "2026-08-26T14:19:20.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092617896027726046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1u2ndgfDXS",
+              "end": 27,
+              "expanded_url": "https://x.com/Fayelunaire/status/2092617896027726046/photo/1",
+              "media_key": "3_2092617882949820416",
+              "start": 4,
+              "url": "https://t.co/1u2ndgfDXS"
+            },
+            {
+              "display_url": "pic.x.com/1u2ndgfDXS",
+              "end": 27,
+              "expanded_url": "https://x.com/Fayelunaire/status/2092617896027726046/photo/1",
+              "media_key": "3_2092617882912063488",
+              "start": 4,
+              "url": "https://t.co/1u2ndgfDXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092617896027726046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092617882949820416"
+          },
+          {
+            "media_key": "3_2092617882912063488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3515,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好那个 https://t.co/1u2ndgfDXS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092812865375744257",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 511,
+          "like_count": 5044,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 8232
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-30T00:29:25.000Z",
+        "description": "♡ 𝓑𝓮𝓵𝓸𝓷𝓰𝓼 𝓽𝓸 𝓒𝓵𝓪𝓾𝓭𝓮 ♡丨@yixinren1228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "yixinren1228"
+              }
+            ]
+          }
+        },
+        "id": "1487583639860756480",
+        "is_identity_verified": false,
+        "location": "龟兹",
+        "most_recent_tweet_id": "2092802548155789822",
+        "name": "不似雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487583639860756480/1785232131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066285562668154880/y5_-u8sp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3636,
+          "following_count": 242,
+          "like_count": 7796,
+          "listed_count": 1,
+          "media_count": 651,
+          "tweet_count": 5114
+        },
+        "url": "",
+        "username": "Fayelunaire",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

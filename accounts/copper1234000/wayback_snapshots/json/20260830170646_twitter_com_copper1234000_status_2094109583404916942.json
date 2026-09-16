@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094109564828319744"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2093892691515875594",
+    "created_at": "2026-08-30T17:06:46.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094109583404916942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086853678036840449",
+          "start": 0,
+          "username": "Getoutofhere91"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5m9yPIHDc",
+          "end": 50,
+          "expanded_url": "https://x.com/copper1234000/status/2094109583404916942/photo/1",
+          "media_key": "3_2094109564828319744",
+          "start": 27,
+          "url": "https://t.co/A5m9yPIHDc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094109583404916942",
+    "in_reply_to_user_id": "2086853678036840449",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094109564828319744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093954484556661045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Getoutofhere91 拆拆酱！😽😽在这里！ https://t.co/A5m9yPIHDc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2094109564828319744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_FjdxXAAA-t7p.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094109564828319744"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2093892691515875594",
+        "created_at": "2026-08-30T17:06:46.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094109583404916942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086853678036840449",
+              "start": 0,
+              "username": "Getoutofhere91"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5m9yPIHDc",
+              "end": 50,
+              "expanded_url": "https://x.com/copper1234000/status/2094109583404916942/photo/1",
+              "media_key": "3_2094109564828319744",
+              "start": 27,
+              "url": "https://t.co/A5m9yPIHDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094109583404916942",
+        "in_reply_to_user_id": "2086853678036840449",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094109564828319744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093954484556661045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Getoutofhere91 拆拆酱！😽😽在这里！ https://t.co/A5m9yPIHDc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086853678036840449",
+        "conversation_id": "2093892691515875594",
+        "created_at": "2026-08-30T06:50:27.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093954484556661045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093954484556661045",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093892691515875594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好想要机最后发的那个表情包呀感觉好萌！(＞人＜;)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094109583404916942",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 509,
+          "like_count": 5060,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 8260
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T16:37:30.000Z",
+        "description": "= Ivy / 拆拆\n把一点都不会痛的力量给你",
+        "id": "2086853678036840449",
+        "is_identity_verified": false,
+        "location": "Lucky Vicky🍀",
+        "most_recent_tweet_id": "2094106344265580930",
+        "name": "Donttouchme",
+        "pinned_tweet_id": "2090494036545098145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086853678036840449/1787927003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094037392202088448/JU-A_SKb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 61,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "Getoutofhere91",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

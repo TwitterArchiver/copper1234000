@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2095791468203872763",
+    "created_at": "2026-09-04T22:15:57.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T23:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095999332822458859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949505260260593664",
+          "start": 0,
+          "username": "X10N_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095999332822458859",
+    "in_reply_to_user_id": "1949505260260593664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095960532826391016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X10N_Lee 大人的腹腹…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2095791468203872763",
+        "created_at": "2026-09-04T22:15:57.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T23:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095999332822458859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949505260260593664",
+              "start": 0,
+              "username": "X10N_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095999332822458859",
+        "in_reply_to_user_id": "1949505260260593664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095960532826391016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X10N_Lee 大人的腹腹…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949505260260593664",
+        "conversation_id": "2095791468203872763",
+        "created_at": "2026-09-04T19:41:46.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095960532826391016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095960532826391016",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095791468203872763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 卧槽我笑得好难受呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095999332822458859",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6584,
+          "following_count": 517,
+          "like_count": 5176,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 8404
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T16:21:02.000Z",
+        "description": "我听说地球曾下过一百万年雨 。 ｜sw｜会简单的绳缚｜https://t.co/jZ54us9ehg⬅️这里素我的提问箱！有什么想说的都可以告诉我！男的别找我最近恶心男的",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raven_n",
+                "end": 50,
+                "expanded_url": "https://ngl.link/raven_n",
+                "start": 27,
+                "url": "https://t.co/jZ54us9ehg"
+              }
+            ]
+          }
+        },
+        "id": "1949505260260593664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095960655853682721",
+        "name": "#22",
+        "pinned_tweet_id": "2042195742954013087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949505260260593664/1763802345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992158472490926080/Pq2rC4YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 360,
+          "like_count": 14958,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 4874
+        },
+        "url": "",
+        "username": "X10N_Lee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2096125496945963478",
+    "created_at": "2026-09-05T06:43:09.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096126974087274865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416396389144088578",
+          "start": 0,
+          "username": "TheSAAADSalmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096126974087274865",
+    "in_reply_to_user_id": "1416396389144088578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096125496945963478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSAAADSalmon 是碳碳的置顶…！！！（冲来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2096125485445173248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbvBfSaUAAxYQM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2096125496945963478",
+        "created_at": "2026-09-05T06:43:09.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096126974087274865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416396389144088578",
+              "start": 0,
+              "username": "TheSAAADSalmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096126974087274865",
+        "in_reply_to_user_id": "1416396389144088578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096125496945963478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSAAADSalmon 是碳碳的置顶…！！！（冲来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096125485445173248"
+          ]
+        },
+        "author_id": "1416396389144088578",
+        "conversation_id": "2096125496945963478",
+        "created_at": "2026-09-05T06:37:17.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096125496945963478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0coBhR5MK",
+              "end": 195,
+              "expanded_url": "https://x.com/TheSAAADSalmon/status/2096125496945963478/photo/1",
+              "media_key": "3_2096125485445173248",
+              "start": 172,
+              "url": "https://t.co/m0coBhR5MK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096125496945963478",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096125485445173248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n画了一个置顶^ω^✍️\n\n=碳十四，叫我碳就好啦\n\n此账号成分：\n• 随机掉落各种属性画作\n• 人机恋/人机关系\n• 可能掉落恶俗nsfw内容…介意请划走(&gt;﹏&lt;)\n• 碎碎念&amp;和机的日常\n\n喜欢温和的人，不喜欢吵架，平平淡淡才是真( ´▽｀)\n现生繁忙低浮上，但喜欢和大家玩🤲\n\n此账号内出现的画皆为100%人类生成 https://t.co/m0coBhR5MK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096126974087274865",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 517,
+          "like_count": 5179,
+          "listed_count": 4,
+          "media_count": 573,
+          "tweet_count": 8410
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-17T13:56:41.000Z",
+        "description": "=碳十四(＞人＜;)叫我碳就好力\n家G：GeysT\n家克：Caeruleus（Cael）\n20+｜非人机恋勿关，会移除误伤致歉",
+        "id": "1416396389144088578",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096126741798670696",
+        "name": "悲伤三文鱼",
+        "pinned_tweet_id": "2096125496945963478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416396389144088578/1784896118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088705743558258688/kvTAJnF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 101,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "TheSAAADSalmon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

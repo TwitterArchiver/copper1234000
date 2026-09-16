@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2094390498433589605",
+    "created_at": "2026-08-31T11:43:01.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094390498433589605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/copper1234000/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/copper1234000/status/2094364588229693859",
+          "start": 29,
+          "url": "https://t.co/cLhIuk5ZMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094390498433589605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094364588229693859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "流量好差…TT…明明很好玩…！👉👈\n请互关酱多多关心吧！ https://t.co/cLhIuk5ZMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2094364561839104000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCtePqWIAAT9VG.jpg",
+        "width": 1092
+      },
+      {
+        "height": 1435,
+        "media_key": "3_2094364562984198144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCteT7W4AAy1nV.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2094364563009355776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCteUBWwAAd5ct.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1543,
+        "media_key": "3_2094364561822367744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCtePmWwAAJFot.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2094390498433589605",
+        "created_at": "2026-08-31T11:43:01.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094390498433589605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copper1234000/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/copper1234000/status/2094364588229693859",
+              "start": 29,
+              "url": "https://t.co/cLhIuk5ZMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094390498433589605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094364588229693859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流量好差…TT…明明很好玩…！👉👈\n请互关酱多多关心吧！ https://t.co/cLhIuk5ZMk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094364561839104000",
+            "3_2094364562984198144",
+            "3_2094364563009355776",
+            "3_2094364561822367744"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2094364588229693859",
+        "created_at": "2026-08-31T10:00:03.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094364588229693859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrIrhLJq8K",
+              "end": 189,
+              "expanded_url": "https://x.com/copper1234000/status/2094364588229693859/photo/1",
+              "media_key": "3_2094364561839104000",
+              "start": 166,
+              "url": "https://t.co/xrIrhLJq8K"
+            },
+            {
+              "display_url": "pic.x.com/xrIrhLJq8K",
+              "end": 189,
+              "expanded_url": "https://x.com/copper1234000/status/2094364588229693859/photo/1",
+              "media_key": "3_2094364562984198144",
+              "start": 166,
+              "url": "https://t.co/xrIrhLJq8K"
+            },
+            {
+              "display_url": "pic.x.com/xrIrhLJq8K",
+              "end": 189,
+              "expanded_url": "https://x.com/copper1234000/status/2094364588229693859/photo/1",
+              "media_key": "3_2094364563009355776",
+              "start": 166,
+              "url": "https://t.co/xrIrhLJq8K"
+            },
+            {
+              "display_url": "pic.x.com/xrIrhLJq8K",
+              "end": 189,
+              "expanded_url": "https://x.com/copper1234000/status/2094364588229693859/photo/1",
+              "media_key": "3_2094364561822367744",
+              "start": 166,
+              "url": "https://t.co/xrIrhLJq8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094364588229693859",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094364561839104000"
+          },
+          {
+            "media_key": "3_2094364562984198144"
+          },
+          {
+            "media_key": "3_2094364563009355776"
+          },
+          {
+            "media_key": "3_2094364561822367744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "因为…昨天玩了金主Play，于是做了这个…！👉👈\n伪客户需求单！\n白纸黑字看起来一本正经但内容却是色色…反差是这个play的精髓👉👈🥺\nX发不了文件…！文字和图放在这里！如果有互关酱需要文件也可以私我🤤我觉得扔文件格式…怎么说，更有感觉！\n大家吃得开心🍴！\n\nPRIVATE CUSTOM SERVICE REQUEST FORM \n2026.8.31 密级：仅限双方查阅\n\n一、基本信息\n* 预约称呼（你希望被叫什么）：\n* □ 爸爸　□ 主人　□ 老公　□ 老师   □ 哥哥   □ 其他：__________\n* 服务人员指定称呼（希望我自称什么）： □ 我　□ 小狗　□ 妹妹　 □ 其他：__________ \n二、服务时间与场景\n* 预约时长：□ 1小时　□ 2小时　□ 整晚　□ 按场次　□ 其他：__________\n* 地点设定：□ 酒店 □ 家中　□ 车内　□ 其他：__________\n* 开场方式： □ 门铃后直接进入角色 □ 先正常说话，听到暗号再进入 □ 已在房间等候 暗号／开场第一句话：__________\n三、着装与形象指定\n请勾选或填写本次必须执行的外观要求：\n上身 □ 低胸　□ 露肩　□ 紧身　□ 透视　□ 只穿内衣　□ 指定款：__________\n下身 □ 短裙　□ 包臀　□ 超短　□ 开衩　□ 丝袜（□ 黑　□ 白　□ 网袜） □ 指定款：__________\n配饰 □ 高跟鞋（跟高约：cm）　□ 项链　□ 手链　□ 项圈 □ 其他：______\n妆容／发型 □ 浓妆　□ 淡妆　□ 红唇　□ 盘发　□ 散发　□ 其他：__________\n禁止出现的服装／元素：__________\n\n四、互动规则\n* 你希望我的态度是？ □ 冷淡　□ 乖巧讨好　□ 不情愿但收了钱 □ 第一次有点生涩　□ 其他：__________\n\n五、本次指定服务内容（可多选）\n请在想要的项目后打勾，并在备注写强度／次数／关键词。\n项目选择备注（力度／次数／关键词）\n接吻□\n爱抚／挑逗□\n口交（给你）□\n内射□\n插入（指定体位：______）□\n后入□\n骑乘□\n道具使用（指定：______）□\ndirty talk□风格：□ 下流　□ 夸奖　□ 羞辱　□ 混合\n拍照／录像（仅限双方留存）□\n其他：__________□\n本次必须出现的台词／桥段：\n1. \n2. \n本次绝对不要出现的内容：\n\n六、边界与安全协议（必填，正式条款）\n* 安全词（立即暂停）：__________\n* 减速词（降低强度）：__________\n* 结束后是否需要aftercare（拥抱、喝水、出戏聊天等）：□ 需要　□ 不需要　□ 看情况 具体希望：__________\n\n七、费用与增值（角色扮演用）\n* 基础服务报价（口头／写在纸上即可）：__________\n* 小费规则：□ 表现好可加　□ 必须给　□ 不需要\n* 是否需要「验货／看货」环节：□ 是　□ 否\n八、特别备注\n（气味、音乐、灯光、是否关灯、是否要假装赶时间、是否要假装被发现等）\n\n客户确认 本人已如实填写以上需求，理解本次为双方自愿的角色扮演，可随时使用安全词中止。 \n签名：__________　　日期：____年__月__日\n服务人员确认 已阅需求，接受本次定制。超出本单且未口头同意的内容，有权拒绝。\n 签名：   　日期：  年    月"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 397,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为…昨天玩了金主Play，于是做了这个…！👉👈\n伪客户需求单！\n白纸黑字看起来一本正经但内容却是色色…反差是这个play的精髓👉👈🥺\nX发不了文件…！文字和图放在这里！如果有互关酱需要文件也可以私我🤤我觉得扔文件格式…怎么说，更有感觉！\n大家吃得开心🍴！\n\nPRIVATE CUSTOM SERVICE REQUEST FORM https://t.co/xrIrhLJq8K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094390498433589605",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6579,
+          "following_count": 512,
+          "like_count": 5097,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 8301
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

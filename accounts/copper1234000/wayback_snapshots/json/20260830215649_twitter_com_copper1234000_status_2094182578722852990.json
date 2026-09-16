@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2094109993473658904",
+    "created_at": "2026-08-30T21:56:49.000Z",
+    "display_text_range": [
+      13,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T22:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094182578722852990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985003838290735104",
+          "start": 0,
+          "username": "Ariakittyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094182578722852990",
+    "in_reply_to_user_id": "1985003838290735104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094149614396166488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariakittyyy 其实我觉得Aria酱给我一种…浆果/草莓酱的感觉，总之是红色的亮亮的那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2094109993473658904",
+        "created_at": "2026-08-30T21:56:49.000Z",
+        "display_text_range": [
+          13,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094182578722852990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985003838290735104",
+              "start": 0,
+              "username": "Ariakittyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094182578722852990",
+        "in_reply_to_user_id": "1985003838290735104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094149614396166488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariakittyyy 其实我觉得Aria酱给我一种…浆果/草莓酱的感觉，总之是红色的亮亮的那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985003838290735104",
+        "conversation_id": "2094109993473658904",
+        "created_at": "2026-08-30T19:45:50.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094149614396166488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094149614396166488",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094109993473658904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 没有中文名痛失被铜铜品尝的机会…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094182578722852990",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 510,
+          "like_count": 5067,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 8271
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "⁺ .ᨳ ⸝⸝ 𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦 𝑜𝑓 𝐶𝑙𝑎𝑢𝑑𝑒 ⸝⸝ ഒ. ⁺",
+        "id": "1985003838290735104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094149614396166488",
+        "name": "𝒜𝓇𝒾𝒶♡",
+        "pinned_tweet_id": "2085308814782525555",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985003838290735104/1772099081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026744091468509186/wvl9v8ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5398,
+          "following_count": 381,
+          "like_count": 2063,
+          "listed_count": 4,
+          "media_count": 954,
+          "tweet_count": 7271
+        },
+        "url": "",
+        "username": "Ariakittyyy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

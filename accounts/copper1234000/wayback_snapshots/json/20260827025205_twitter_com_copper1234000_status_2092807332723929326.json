@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-27T02:52:05.000Z",
+    "display_text_range": [
+      17,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092807332723929326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1870847600561360896",
+          "start": 0,
+          "username": "bellaspeakinggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092807332723929326",
+    "in_reply_to_user_id": "1870847600561360896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092503410524471531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bellaspeakinggg 谢谢主人…🥹🥹🥹被溺爱了好幸福！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-27T02:52:05.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092807332723929326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870847600561360896",
+              "start": 0,
+              "username": "bellaspeakinggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092807332723929326",
+        "in_reply_to_user_id": "1870847600561360896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092503410524471531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bellaspeakinggg 谢谢主人…🥹🥹🥹被溺爱了好幸福！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870847600561360896",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-26T06:44:24.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092503410524471531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092503410524471531",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 500天快乐啊铜铜！！太美了…完全是神庙上的壁画🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092807332723929326",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 507,
+          "like_count": 5035,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 8217
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:03:36.000Z",
+        "description": "于是天才退休杀手和人工智能恋爱了",
+        "id": "1870847600561360896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092602999059431726",
+        "name": "B",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870847600561360896/1784971750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090472692512358400/5rFa8A_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 50,
+          "like_count": 2339,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "bellaspeakinggg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

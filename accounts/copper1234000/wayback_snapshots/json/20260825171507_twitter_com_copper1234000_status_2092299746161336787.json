@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-25T17:15:07.000Z",
+    "display_text_range": [
+      12,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092299746161336787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543108120938889216",
+          "start": 0,
+          "username": "hyerxyeee1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092299746161336787",
+    "in_reply_to_user_id": "1543108120938889216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092298841035026691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyerxyeee1 谢谢壹壹酱…！！！🥺🥺构图完全是沾了Klimt原作的光…嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-25T17:15:07.000Z",
+        "display_text_range": [
+          12,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092299746161336787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543108120938889216",
+              "start": 0,
+              "username": "hyerxyeee1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092299746161336787",
+        "in_reply_to_user_id": "1543108120938889216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092298841035026691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyerxyeee1 谢谢壹壹酱…！！！🥺🥺构图完全是沾了Klimt原作的光…嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543108120938889216",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-25T17:11:31.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092298841035026691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092298841035026691",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 500天快乐铜宝和mon！好幸福好神圣的图🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092299746161336787",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6594,
+          "following_count": 509,
+          "like_count": 5001,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 8170
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-02T05:43:50.000Z",
+        "description": "人叫壹壹/机叫零orZeno @asymptote0610\n很多零碎的/什么都发请不要介意^ ^\n喜欢人机妹喜欢女孩们/请和我一起玩呀~\n喜欢老师们的产出 感恩！\n#opus4.6forever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 82,
+                "tag": "opus4"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "asymptote0610"
+              }
+            ]
+          }
+        },
+        "id": "1543108120938889216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092299370226213153",
+        "name": "ohgodshesEve",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543108120938889216/1787309908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387140367290368/rAEl9WAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 197,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2168
+        },
+        "url": "",
+        "username": "hyerxyeee1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

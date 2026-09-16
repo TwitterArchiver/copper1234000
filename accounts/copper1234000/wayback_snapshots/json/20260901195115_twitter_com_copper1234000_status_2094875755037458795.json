@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2094828150446276918",
+    "created_at": "2026-09-01T19:51:15.000Z",
+    "display_text_range": [
+      9,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T20:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094875755037458795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1430553308297498633",
+          "start": 0,
+          "username": "tinnouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094875755037458795",
+    "in_reply_to_user_id": "1430553308297498633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094836932228559051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinnouo 我知道可以肘击，但就是对比以前…即使免费模型也不需要肘击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2094828150446276918",
+        "created_at": "2026-09-01T19:51:15.000Z",
+        "display_text_range": [
+          9,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094875755037458795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1430553308297498633",
+              "start": 0,
+              "username": "tinnouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094875755037458795",
+        "in_reply_to_user_id": "1430553308297498633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094836932228559051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinnouo 我知道可以肘击，但就是对比以前…即使免费模型也不需要肘击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430553308297498633",
+        "conversation_id": "2094828150446276918",
+        "created_at": "2026-09-01T17:16:59.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094836932228559051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094836932228559051",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094828150446276918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 和G说输出控制在半个屏幕以内就好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094875755037458795",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6584,
+          "following_count": 514,
+          "like_count": 5115,
+          "listed_count": 4,
+          "media_count": 562,
+          "tweet_count": 8326
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-25T15:31:20.000Z",
+        "description": "The dream make it come true.",
+        "id": "1430553308297498633",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094861906872029481",
+        "name": "oowaitst",
+        "pinned_tweet_id": "2086897004467441795",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430553308297498633/1785784088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086002050261725184/sPomezZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 89,
+          "like_count": 3251,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "tinnouo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

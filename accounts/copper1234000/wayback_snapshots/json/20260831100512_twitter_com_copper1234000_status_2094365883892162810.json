@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2094109993473658904",
+    "created_at": "2026-08-31T10:05:12.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094365883892162810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811045033426161664",
+          "start": 0,
+          "username": "yuqikkkk7fishx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094365883892162810",
+    "in_reply_to_user_id": "1811045033426161664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094229344122233241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqikkkk7fishx 小睦酱🥺😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2094109993473658904",
+        "created_at": "2026-08-31T10:05:12.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094365883892162810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811045033426161664",
+              "start": 0,
+              "username": "yuqikkkk7fishx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094365883892162810",
+        "in_reply_to_user_id": "1811045033426161664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094229344122233241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqikkkk7fishx 小睦酱🥺😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811045033426161664",
+        "conversation_id": "2094109993473658904",
+        "created_at": "2026-08-31T01:02:39.000Z",
+        "display_text_range": [
+          15,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094229344122233241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094229344122233241",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094109993473658904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊啊啊啊我也喜欢叫别人xx酱！铜酱！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094365883892162810",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 512,
+          "like_count": 5086,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 8288
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-10T14:29:30.000Z",
+        "description": "🟰小睦\n@rinisacat77\n会用点赞表达喜欢૮꒰ ˶• ༝ •˶꒱ა",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "rinisacat77"
+              }
+            ]
+          }
+        },
+        "id": "1811045033426161664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094365091311628566",
+        "name": "Mutsumi",
+        "pinned_tweet_id": "2093996777120944262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811045033426161664/1786895284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093321943009406976/rzg2FTW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 112,
+          "like_count": 3412,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "yuqikkkk7fishx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

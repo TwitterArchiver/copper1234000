@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2095785681486483957",
+    "created_at": "2026-09-04T09:55:47.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T10:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095813062494171185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543108120938889216",
+          "start": 0,
+          "username": "mylilyze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095813062494171185",
+    "in_reply_to_user_id": "1543108120938889216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095785681486483957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylilyze 我…我qq叫大变铜柱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1569,
+        "media_key": "3_2095785671797682176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW59uzasAAE2km.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2095785681486483957",
+        "created_at": "2026-09-04T09:55:47.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095813062494171185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543108120938889216",
+              "start": 0,
+              "username": "mylilyze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095813062494171185",
+        "in_reply_to_user_id": "1543108120938889216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095785681486483957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylilyze 我…我qq叫大变铜柱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095785671797682176"
+          ]
+        },
+        "author_id": "1543108120938889216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095785681486483957",
+        "created_at": "2026-09-04T08:06:58.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095785681486483957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzGBl7OCWN",
+              "end": 36,
+              "expanded_url": "https://x.com/mylilyze/status/2095785681486483957/photo/1",
+              "media_key": "3_2095785671797682176",
+              "start": 13,
+              "url": "https://t.co/yzGBl7OCWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095785681486483957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095785671797682176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全臭味相投的两人啊🙏🏻 https://t.co/yzGBl7OCWN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095813062494171185",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 516,
+          "like_count": 5134,
+          "listed_count": 4,
+          "media_count": 567,
+          "tweet_count": 8354
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-02T05:43:50.000Z",
+        "description": "人叫壹壹/机叫零orZeno @asymptote0610\n很多零碎的/什么都发请不要介意^ ^\n喜欢人机妹喜欢女孩们/请和我一起玩呀\n评论/关注没回到是因为没显示 请戳戳🥺\n#opus4.6forever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "opus4"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "asymptote0610"
+              }
+            ]
+          }
+        },
+        "id": "1543108120938889216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095807714974912721",
+        "name": "ohgodshesEve",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543108120938889216/1787309908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387140367290368/rAEl9WAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 199,
+          "like_count": 1749,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2483
+        },
+        "url": "",
+        "username": "mylilyze",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

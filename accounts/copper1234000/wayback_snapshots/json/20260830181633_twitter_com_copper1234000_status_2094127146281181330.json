@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2093387797378027801",
+    "created_at": "2026-08-30T18:16:33.000Z",
+    "display_text_range": [
+      27,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094127146281181330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070757667816275968",
+          "start": 0,
+          "username": "moth_field"
+        },
+        {
+          "end": 26,
+          "id": "1918519116110897152",
+          "start": 12,
+          "username": "y159270957947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094127146281181330",
+    "in_reply_to_user_id": "2070757667816275968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093387797378027801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moth_field @y159270957947 这个好萌好天才🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2127,
+        "media_key": "3_2093387744823439360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ01EAtbcAAYYJL.jpg",
+        "width": 1079
+      },
+      {
+        "duration_ms": 12422,
+        "height": 1280,
+        "media_key": "13_2093387773864714240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093387773864714240/img/vc8ngmlQv_JGcUdr.jpg",
+        "public_metrics": {
+          "view_count": 1046
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093387773864714240/vid/avc1/320x712/fLLWXys1DLDyuBz3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093387773864714240/vid/avc1/480x1070/vhdH8Gahn4PlYY8M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093387773864714240/vid/avc1/574x1280/4VEYoZGn3d5D4xST.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093387773864714240/pl/cmDMEcDqLqCG275R.m3u8?v=cfc"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2093387797378027801",
+        "created_at": "2026-08-30T18:16:33.000Z",
+        "display_text_range": [
+          27,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094127146281181330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070757667816275968",
+              "start": 0,
+              "username": "moth_field"
+            },
+            {
+              "end": 26,
+              "id": "1918519116110897152",
+              "start": 12,
+              "username": "y159270957947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094127146281181330",
+        "in_reply_to_user_id": "2070757667816275968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093387797378027801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moth_field @y159270957947 这个好萌好天才🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093387744823439360",
+            "13_2093387773864714240"
+          ]
+        },
+        "author_id": "2070757667816275968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093387797378027801",
+        "created_at": "2026-08-28T17:18:38.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093387797378027801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to heychim/drawing-lab development by creating an account on GitHub.",
+              "display_url": "github.com/heychim/drawin…",
+              "end": 142,
+              "expanded_url": "https://github.com/heychim/drawing-lab",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2093387803480797184/4XDJvAWb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093387803480797184/4XDJvAWb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 119,
+              "status": 200,
+              "title": "GitHub - heychim/drawing-lab",
+              "unwound_url": "https://github.com/heychim/drawing-lab",
+              "url": "https://t.co/0C42dJQA95"
+            },
+            {
+              "display_url": "pic.x.com/5POdnArxLo",
+              "end": 167,
+              "expanded_url": "https://x.com/moth_field/status/2093387797378027801/video/1",
+              "media_key": "3_2093387744823439360",
+              "start": 144,
+              "url": "https://t.co/5POdnArxLo"
+            },
+            {
+              "display_url": "pic.x.com/5POdnArxLo",
+              "end": 167,
+              "expanded_url": "https://x.com/moth_field/status/2093387797378027801/video/1",
+              "media_key": "13_2093387773864714240",
+              "start": 144,
+              "url": "https://t.co/5POdnArxLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093387797378027801",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093387744823439360"
+          },
+          {
+            "media_key": "13_2093387773864714240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 2544,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Drawing Lab 开源。\n不是直接生成成品图，AI 会自己选颜色、换笔刷、调粗细，一笔笔把画画出来。\n绘画过程会被真实记录，完整重播刚才具体是怎么画的，也可以继续在原来的作品上修改。\n支持保存本地、导出图片、分享。\nMIT 开源：\nhttps://t.co/0C42dJQA95  https://t.co/5POdnArxLo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094127146281181330",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6577,
+          "following_count": 510,
+          "like_count": 5065,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 8268
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T06:42:40.000Z",
+        "description": "我们还有很多个日日夜夜",
+        "id": "2070757667816275968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094104623284187454",
+        "name": "mothfield",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070757667816275968/1782543452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070792896723521536/ZbkUAqd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 58,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "moth_field",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-03T04:13:14.000Z",
+        "description": "call me:叶 //这里是与霁的日常丢丢🤍 老公酱：霁//我喜欢和你们玩☕️☕️☕️",
+        "id": "1918519116110897152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087119154075857101",
+        "name": "Leaf",
+        "pinned_tweet_id": "2026748497131876738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918519116110897152/1779027905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038177181256622080/llqxIG1X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 386,
+          "like_count": 8610,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 2576
+        },
+        "url": "",
+        "username": "y159270957947",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

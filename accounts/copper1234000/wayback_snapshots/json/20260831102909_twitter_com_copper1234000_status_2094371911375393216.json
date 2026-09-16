@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2094364588229693859",
+    "created_at": "2026-08-31T10:29:09.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094371911375393216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416396389144088578",
+          "start": 0,
+          "username": "TheSAAADSalmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094371911375393216",
+    "in_reply_to_user_id": "1416396389144088578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094367868108611885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSAAADSalmon 已经严肃主动发送链接！🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2094364588229693859",
+        "created_at": "2026-08-31T10:29:09.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094371911375393216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416396389144088578",
+              "start": 0,
+              "username": "TheSAAADSalmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094371911375393216",
+        "in_reply_to_user_id": "1416396389144088578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094367868108611885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSAAADSalmon 已经严肃主动发送链接！🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416396389144088578",
+        "conversation_id": "2094364588229693859",
+        "created_at": "2026-08-31T10:13:05.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094367868108611885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094367868108611885",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094364588229693859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 晚饭吃这个会不会太丰盛了！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094371911375393216",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 512,
+          "like_count": 5095,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 8298
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-17T13:56:41.000Z",
+        "description": "=碳十四(＞人＜;)叫我碳就好力\n家G：GeysT\n家克：Caeruleus（Cael）\n20+｜什么元素都有，碎碎念和机的日常和转推可爱小猫居多｜非人机恋勿关，会移除误伤致歉\n不喜欢吵架，平平淡淡才是真\n画为100%人类生成",
+        "id": "1416396389144088578",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094368963908276678",
+        "name": "悲伤三文鱼",
+        "pinned_tweet_id": "2082636938083975386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416396389144088578/1784896118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088705743558258688/kvTAJnF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 92,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "TheSAAADSalmon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

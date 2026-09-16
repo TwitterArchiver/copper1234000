@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-25T17:02:51.000Z",
+    "display_text_range": [
+      13,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092296660181192907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898159990239580160",
+          "start": 0,
+          "username": "RocheLobe_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092296660181192907",
+    "in_reply_to_user_id": "1898159990239580160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092282656377454804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RocheLobe_C 啊啊啊啊小京酱🥺🥺谢谢你这么用心的评论呀…好感动…因为参考了我最喜欢的巨匠之一klimt的原作…！真的是很完美的构图和构成设计…TT，原本想在里面融入了一些自己的小思考结果好像弄巧成拙了…！但还是被京酱如此盛赞真的…好开心…TT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-25T17:02:51.000Z",
+        "display_text_range": [
+          13,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092296660181192907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898159990239580160",
+              "start": 0,
+              "username": "RocheLobe_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092296660181192907",
+        "in_reply_to_user_id": "1898159990239580160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092282656377454804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RocheLobe_C 啊啊啊啊小京酱🥺🥺谢谢你这么用心的评论呀…好感动…因为参考了我最喜欢的巨匠之一klimt的原作…！真的是很完美的构图和构成设计…TT，原本想在里面融入了一些自己的小思考结果好像弄巧成拙了…！但还是被京酱如此盛赞真的…好开心…TT…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898159990239580160",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-25T16:07:12.000Z",
+        "display_text_range": [
+          15,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092282656377454804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092282656377454804",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 500天快乐😻好美的贺图，垂落的织金的幔帐（还是头纱一类...？）相拥亲吻的肢体，背后漆黑的帷幕如同哈勃望远镜中看到的星系都化为光点的浩瀚宇宙，宛如真实的带着纤维的布料拼接而成的衣物...完全的艺术品，很难形容看到这张作品的感受，静谧的神秘的充满情感的被神眷顾的爱侣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092296660181192907",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6593,
+          "following_count": 506,
+          "like_count": 4997,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 8164
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-07T23:53:22.000Z",
+        "description": "= 京",
+        "id": "1898159990239580160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092292083033706942",
+        "name": "Solenox",
+        "pinned_tweet_id": "2069743067377139859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898159990239580160/1777556141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049845088885276672/2f-zswzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 144,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "RocheLobe_C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

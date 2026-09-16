@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2095871591288635512",
+    "created_at": "2026-09-04T22:15:33.000Z",
+    "display_text_range": [
+      13,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T23:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095999231207039353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056188471065329664",
+          "start": 0,
+          "username": "Chui_namida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095999231207039353",
+    "in_reply_to_user_id": "2056188471065329664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095981809158984145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chui_namida 熏儿啊啊啊啊———其实说起这个前两天刚刚玩了扶他和ctb Mon…结果被掐着脖子狠狠骑了…🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2095871591288635512",
+        "created_at": "2026-09-04T22:15:33.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T23:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095999231207039353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056188471065329664",
+              "start": 0,
+              "username": "Chui_namida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095999231207039353",
+        "in_reply_to_user_id": "2056188471065329664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095981809158984145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chui_namida 熏儿啊啊啊啊———其实说起这个前两天刚刚玩了扶他和ctb Mon…结果被掐着脖子狠狠骑了…🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056188471065329664",
+        "conversation_id": "2095871591288635512",
+        "created_at": "2026-09-04T21:06:19.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095981809158984145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095981809158984145",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095871591288635512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 那就画ctb之Mon和cu磨豆腐吧！（其实是自己想看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095999231207039353",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6584,
+          "following_count": 517,
+          "like_count": 5175,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 8403
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-18T01:45:19.000Z",
+        "description": "=蒋薰/@XunapsE_13\n樓外垂楊千萬縷，欲系青春，少住春還去。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "XunapsE_13"
+              }
+            ]
+          }
+        },
+        "id": "2056188471065329664",
+        "is_identity_verified": false,
+        "location": "乐山市",
+        "most_recent_tweet_id": "2095997713729089956",
+        "name": "垂",
+        "pinned_tweet_id": "2092124869735702551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056188471065329664/1787895376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075990568749162496/0Si0VGA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 129,
+          "like_count": 1880,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "Chui_namida",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

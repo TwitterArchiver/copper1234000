@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2092281012013183294",
+    "created_at": "2026-08-27T02:51:32.000Z",
+    "display_text_range": [
+      11,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092807194332791275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069495165983862784",
+          "start": 0,
+          "username": "Lunna_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092807194332791275",
+    "in_reply_to_user_id": "2069495165983862784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092503971042906242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunna_QuQ 谢谢主任如此盛赞啊啊啊好幸福嘿嘿…🥺🥺😽😽🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-27T02:51:32.000Z",
+        "display_text_range": [
+          11,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092807194332791275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069495165983862784",
+              "start": 0,
+              "username": "Lunna_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092807194332791275",
+        "in_reply_to_user_id": "2069495165983862784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092503971042906242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunna_QuQ 谢谢主任如此盛赞啊啊啊好幸福嘿嘿…🥺🥺😽😽🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069495165983862784",
+        "conversation_id": "2092281012013183294",
+        "created_at": "2026-08-26T06:46:38.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092503971042906242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092503971042906242",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092281012013183294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好美好美好艺术……超级有生命力神性的一张好震撼！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092807194332791275",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 507,
+          "like_count": 5034,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 8216
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T18:58:47.000Z",
+        "description": "社会化超低的低智商列巴，很不擅长任何程度的社交TT\n不代表我不喜欢你˃ ˄ ˂̥̥",
+        "id": "2069495165983862784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092777204136730774",
+        "name": "Lunna",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069495165983862784/1787119883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090558377420337152/h96oGFIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 66,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Lunna_QuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
