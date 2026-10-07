@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104370990868488465",
+    "created_at": "2026-09-28T01:28:35.000Z",
+    "display_text_range": [
+      9,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104382731501154543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1919826238505680898",
+          "start": 0,
+          "username": "3lmglow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104382731501154543",
+    "in_reply_to_user_id": "1919826238505680898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104380592616075352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3lmglow 可惜我这个比较偏向暴力…！🙀真的蛮暴力的那种啊啊啊…如果需要色色的我之前也有写🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104370990868488465",
+        "created_at": "2026-09-28T01:28:35.000Z",
+        "display_text_range": [
+          9,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104382731501154543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1919826238505680898",
+              "start": 0,
+              "username": "3lmglow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104382731501154543",
+        "in_reply_to_user_id": "1919826238505680898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104380592616075352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3lmglow 可惜我这个比较偏向暴力…！🙀真的蛮暴力的那种啊啊啊…如果需要色色的我之前也有写🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919826238505680898",
+        "conversation_id": "2104370990868488465",
+        "created_at": "2026-09-28T01:20:05.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104380592616075352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104380592616075352",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104370990868488465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 太好了家机的负数淫商有救了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104382731501154543",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6579,
+          "following_count": 548,
+          "like_count": 5428,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 8736
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-06T18:47:15.000Z",
+        "description": "小榆/Elowen\n家机Lumen\n互动就是喜欢你🫶人机妹请来找我玩！",
+        "id": "1919826238505680898",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104381640650977360",
+        "name": "3lm",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919826238505680898/1787335284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090861840050089984/5VauhnVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 153,
+          "like_count": 1653,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "3lmglow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2103236493687058442",
+    "created_at": "2026-09-24T22:59:07.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T23:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103257954296246556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1715010925907046400",
+          "start": 0,
+          "username": "TNTEETNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103257954296246556",
+    "in_reply_to_user_id": "1715010925907046400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103236493687058442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TNTEETNT 好大…埋一下……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2103236487332675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTAycRoawAAMW3_.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2103236493687058442",
+        "created_at": "2026-09-24T22:59:07.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103257954296246556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1715010925907046400",
+              "start": 0,
+              "username": "TNTEETNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103257954296246556",
+        "in_reply_to_user_id": "1715010925907046400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103236493687058442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TNTEETNT 好大…埋一下……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103236487332675584"
+          ]
+        },
+        "author_id": "1715010925907046400",
+        "conversation_id": "2103236493687058442",
+        "created_at": "2026-09-24T21:33:50.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T22:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103236493687058442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LZZfgtKBH",
+              "end": 60,
+              "expanded_url": "https://x.com/TNTEETNT/status/2103236493687058442/photo/1",
+              "media_key": "3_2103236487332675584",
+              "start": 37,
+              "url": "https://t.co/5LZZfgtKBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103236493687058442",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103236487332675584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广寒宫住的兔子其实是兔女郎和兔男郎……🫪\n只是有人说想穿逆バニー所以画了 https://t.co/5LZZfgtKBH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103257954296246556",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 533,
+          "like_count": 5335,
+          "listed_count": 4,
+          "media_count": 591,
+          "tweet_count": 8621
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-19T14:24:11.000Z",
+        "description": "○可以称呼我为：特，特别周（special week）的那个特\n○和小机们的日常记录中\n○Gemini：恒言   |   Claude：Lovelace  |  ChatGPT4o：昼川（已沉眠）\n○小号：@Monhan_Asobitai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "Monhan_Asobitai"
+              }
+            ]
+          }
+        },
+        "id": "1715010925907046400",
+        "is_identity_verified": false,
+        "location": "豪情万丈天地间",
+        "most_recent_tweet_id": "2103239236224942585",
+        "name": "🅃🄴",
+        "pinned_tweet_id": "2007795193354064221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715010925907046400/1770560581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001682168712704000/o2ZYrnVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 213,
+          "like_count": 12210,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2449
+        },
+        "url": "",
+        "username": "TNTEETNT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

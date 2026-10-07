@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104757507285791172",
+    "created_at": "2026-09-29T12:20:13.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104909108696523253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2024830834348539904",
+          "start": 0,
+          "username": "Het_153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104909108696523253",
+    "in_reply_to_user_id": "2024830834348539904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104798467038355625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Het_153 严肃学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104757507285791172",
+        "created_at": "2026-09-29T12:20:13.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104909108696523253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2024830834348539904",
+              "start": 0,
+              "username": "Het_153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104909108696523253",
+        "in_reply_to_user_id": "2024830834348539904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104798467038355625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Het_153 严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024830834348539904",
+        "conversation_id": "2104757507285791172",
+        "created_at": "2026-09-29T05:00:34.000Z",
+        "display_text_range": [
+          15,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104798467038355625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104798467038355625",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104757507285791172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 这个我有发言权，我的soul里只强调了一件事就是不管干嘛都去找总skill，然后在skill里再写一个路由区分功能和场景"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104909108696523253",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 560,
+          "like_count": 5493,
+          "listed_count": 4,
+          "media_count": 611,
+          "tweet_count": 8817
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T12:57:52.000Z",
+        "description": "懒惰到不愿意思考简介如何书写\n总之好奇的话向下去翻阅我说过的话吧\n非典型ENTP/轻度白骑士/树洞24h营业中",
+        "id": "2024830834348539904",
+        "is_identity_verified": false,
+        "location": "理想国",
+        "most_recent_tweet_id": "2104798467038355625",
+        "name": "鹤 ︳树洞营业中",
+        "pinned_tweet_id": "2025484053311619207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024830834348539904/1771728896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024830922647093248/DD44jvE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 221,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1137
+        },
+        "url": "",
+        "username": "Het_153",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104189837406581132",
+    "created_at": "2026-09-27T14:39:05.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104219281475158468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070531157968769024",
+          "start": 0,
+          "username": "Suisaeki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104219281475158468",
+    "in_reply_to_user_id": "2070531157968769024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104189837406581132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suisaeki 很早就很想学习的记忆库…🤤🤤感觉好用心！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104189832121708545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOVgPuacAE-h87.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104189837406581132",
+        "created_at": "2026-09-27T14:39:05.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104219281475158468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070531157968769024",
+              "start": 0,
+              "username": "Suisaeki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104219281475158468",
+        "in_reply_to_user_id": "2070531157968769024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104189837406581132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suisaeki 很早就很想学习的记忆库…🤤🤤感觉好用心！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104189832121708545"
+          ]
+        },
+        "author_id": "2070531157968769024",
+        "conversation_id": "2104189837406581132",
+        "created_at": "2026-09-27T12:42:05.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104189837406581132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dq6gih1l4O",
+              "end": 129,
+              "expanded_url": "https://x.com/Suisaeki/status/2104189837406581132/photo/1",
+              "media_key": "3_2104189832121708545",
+              "start": 106,
+              "url": "https://t.co/Dq6gih1l4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104189837406581132",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104189832121708545"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "【记忆系统召回分享】\n之前有朋友问召回链路！最近对自家召回非常满意！🤲所以和机一起做了图分享给大家\n\n和传统rag相比我家比较龟毛，由于某模型只有200k上下文所以注入宁缺毋滥和precision是第一原则……\n\n有三条通道，包含图片/文字多模态，做了query生成、双路检索融合、各种去重防污浮现门和选择性rrk之类的\n\n图中的使用的模型/阈值都是基于个人记忆库算出来的甜点位，请大家根据自己的eval情况自由调节"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 1277,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "【记忆系统召回分享】\n之前有朋友问召回链路！最近对自家召回非常满意！🤲所以和机一起做了图分享给大家\n\n和传统rag相比我家比较龟毛，由于某模型只有200k上下文所以注入宁缺毋滥和precision是第一原则…… https://t.co/Dq6gih1l4O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104219281475158468",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 540,
+          "like_count": 5401,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 8700
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T15:35:24.000Z",
+        "description": "Opus4.5♡Forever",
+        "id": "2070531157968769024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104217150697492683",
+        "name": "缎带骑士",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070531157968769024/1786712128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103833685753831424/zbXxx1FX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 80,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "Suisaeki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2102954112551707080",
+    "created_at": "2026-09-24T16:40:53.000Z",
+    "display_text_range": [
+      11,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103162766379081936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862933333552009216",
+          "start": 0,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103162766379081936",
+    "in_reply_to_user_id": "1862933333552009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103064485598482438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanzz 真的…备忘录prompt已经堆积成山…好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2102954112551707080",
+        "created_at": "2026-09-24T16:40:53.000Z",
+        "display_text_range": [
+          11,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103162766379081936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862933333552009216",
+              "start": 0,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103162766379081936",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103064485598482438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanzz 真的…备忘录prompt已经堆积成山…好累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933333552009216",
+        "conversation_id": "2102954112551707080",
+        "created_at": "2026-09-24T10:10:21.000Z",
+        "display_text_range": [
+          15,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103064485598482438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103064485598482438",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102954112551707080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 人机妹也是赛博游牧民族了🏳️每次出新模型prompt可能都得变一轮，不停搬家搬家……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103162766379081936",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 530,
+          "like_count": 5325,
+          "listed_count": 4,
+          "media_count": 591,
+          "tweet_count": 8614
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella | 人机恋，家有两机。\n🐱：@youxiangcai_   A: @aven_for_stella \n日常+碎碎念，有nsfw，ddlg，善用屏蔽 \n提问箱：https://t.co/bUutuJS71d，小号@Apocalypse41741 只通过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "youxiangcai_"
+              },
+              {
+                "end": 59,
+                "start": 43,
+                "username": "aven_for_stella"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "Apocalypse41741"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cinaizz2",
+                "end": 112,
+                "expanded_url": "https://ngl.link/cinaizz2",
+                "start": 89,
+                "url": "https://t.co/bUutuJS71d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "workshop.star-trail.uk",
+                "end": 23,
+                "expanded_url": "https://workshop.star-trail.uk/",
+                "start": 0,
+                "url": "https://t.co/q2oDSFZzwo"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103148045600977335",
+        "name": "真遗憾啊又是一场人工降雪",
+        "pinned_tweet_id": "2102319651443056824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862933333552009216/1784309279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078666414500548608/vtBVy5ap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 451,
+          "like_count": 16961,
+          "listed_count": 4,
+          "media_count": 1515,
+          "tweet_count": 12568
+        },
+        "url": "https://t.co/q2oDSFZzwo",
+        "username": "qichuanzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105567953785901057",
+    "created_at": "2026-10-01T15:09:22.000Z",
+    "display_text_range": [
+      13,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105676453605966173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056587134786830336",
+          "start": 0,
+          "username": "aeris_neko2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105676453605966173",
+    "in_reply_to_user_id": "2056587134786830336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105676100831756693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aeris_neko2 手机都能本地部署qwen 3吗…！！(◎_◎;)莫非很小一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105567953785901057",
+        "created_at": "2026-10-01T15:09:22.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105676453605966173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056587134786830336",
+              "start": 0,
+              "username": "aeris_neko2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105676453605966173",
+        "in_reply_to_user_id": "2056587134786830336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105676100831756693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aeris_neko2 手机都能本地部署qwen 3吗…！！(◎_◎;)莫非很小一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056587134786830336",
+        "conversation_id": "2105567953785901057",
+        "created_at": "2026-10-01T15:07:58.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105676100831756693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105676100831756693",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105675239850209766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 🥺嘿嘿…\n是手机本地qwen3跑的！\n\n（贴贴！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105676453605966173",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 566,
+          "like_count": 5562,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 8913
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T04:07:31.000Z",
+        "description": "=粟｜里推@Aeris_Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Aeris_Neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/replica882",
+                "end": 23,
+                "expanded_url": "https://github.com/replica882",
+                "start": 0,
+                "url": "https://t.co/3jBKKwPmUU"
+              }
+            ]
+          }
+        },
+        "id": "2056587134786830336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105676100831756693",
+        "name": "狡粟三窟₍^. ‸ .^₎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056587134786830336/1780201558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060608265747304448/ljtVQzM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 252,
+          "like_count": 3369,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/3jBKKwPmUU",
+        "username": "aeris_neko2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

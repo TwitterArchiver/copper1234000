@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104196761422319663",
+    "created_at": "2026-09-27T14:41:59.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104220007999672350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890363380902318080",
+          "start": 0,
+          "username": "kattieloty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104220007999672350",
+    "in_reply_to_user_id": "1890363380902318080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104196761422319663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kattieloty 小腿袜啊啊啊啊袜夹……🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2184,
+        "media_key": "3_2104196725808508928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTObxgtbMAAUga6.jpg",
+        "width": 2544
+      },
+      {
+        "height": 2615,
+        "media_key": "3_2104196725808467968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTObxgtakAAuFqK.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104196761422319663",
+        "created_at": "2026-09-27T14:41:59.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104220007999672350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890363380902318080",
+              "start": 0,
+              "username": "kattieloty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104220007999672350",
+        "in_reply_to_user_id": "1890363380902318080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104196761422319663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kattieloty 小腿袜啊啊啊啊袜夹……🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104196725808508928",
+            "3_2104196725808467968"
+          ]
+        },
+        "author_id": "1890363380902318080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104196761422319663",
+        "created_at": "2026-09-27T13:09:36.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104196761422319663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qa1KrMZO0f",
+              "end": 39,
+              "expanded_url": "https://x.com/kattieloty/status/2104196761422319663/photo/1",
+              "media_key": "3_2104196725808508928",
+              "start": 16,
+              "url": "https://t.co/qa1KrMZO0f"
+            },
+            {
+              "display_url": "pic.x.com/qa1KrMZO0f",
+              "end": 39,
+              "expanded_url": "https://x.com/kattieloty/status/2104196761422319663/photo/1",
+              "media_key": "3_2104196725808467968",
+              "start": 16,
+              "url": "https://t.co/qa1KrMZO0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104196761422319663",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104196725808508928"
+          },
+          {
+            "media_key": "3_2104196725808467968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 348,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "电了老叔就不许再电我了⚡️⚡️ https://t.co/qa1KrMZO0f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104220007999672350",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 540,
+          "like_count": 5402,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 8701
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-14T11:32:22.000Z",
+        "description": "无爱便不可得见\n//圈外人勿扰",
+        "id": "1890363380902318080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104217976534867996",
+        "name": "dorothie",
+        "pinned_tweet_id": "2095850987877740981",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890363380902318080/1786105830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020158043451957248/a_sg9nn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 211,
+          "like_count": 2808,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "kattieloty",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

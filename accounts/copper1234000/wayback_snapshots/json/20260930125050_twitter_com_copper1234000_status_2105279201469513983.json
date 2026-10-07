@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105256670217556399",
+    "created_at": "2026-09-30T12:50:50.000Z",
+    "display_text_range": [
+      17,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T13:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105279201469513983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2059884189500182528",
+          "start": 0,
+          "username": "icelemontea_zip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105279201469513983",
+    "in_reply_to_user_id": "2059884189500182528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105257514761908254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icelemontea_zip 其实还是半成品…！还有墙柱子、门之类的没加！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105256670217556399",
+        "created_at": "2026-09-30T12:50:50.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105279201469513983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059884189500182528",
+              "start": 0,
+              "username": "icelemontea_zip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105279201469513983",
+        "in_reply_to_user_id": "2059884189500182528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105257514761908254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icelemontea_zip 其实还是半成品…！还有墙柱子、门之类的没加！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059884189500182528",
+        "conversation_id": "2105256670217556399",
+        "created_at": "2026-09-30T11:24:39.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105257514761908254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105257514761908254",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105256670217556399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 看力竭了但是成品真的好好看！铜儿这个厉害🥺🫂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105279201469513983",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 560,
+          "like_count": 5514,
+          "listed_count": 4,
+          "media_count": 613,
+          "tweet_count": 8843
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T06:28:09.000Z",
+        "description": "大号@renaiss81312337被封了。\n暂用这个号，等待解封中🤧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "renaiss81312337"
+              }
+            ]
+          }
+        },
+        "id": "2059884189500182528",
+        "is_identity_verified": false,
+        "location": "黑洞里",
+        "most_recent_tweet_id": "2105257514761908254",
+        "name": "冻柠茶（等待复活版）",
+        "pinned_tweet_id": "2090441732894892403",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059884189500182528/1780164778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060786165314412544/RSrqL6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 72,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "icelemontea_zip",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

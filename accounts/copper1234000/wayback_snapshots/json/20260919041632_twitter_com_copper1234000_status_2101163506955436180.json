@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2100911346749452579",
+    "created_at": "2026-09-19T04:16:32.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101163506955436180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1941103590246084608",
+          "start": 0,
+          "username": "MyCaptiveScene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101163506955436180",
+    "in_reply_to_user_id": "1941103590246084608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100930634520855045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyCaptiveScene 贴贴洛温大人……TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2100911346749452579",
+        "created_at": "2026-09-19T04:16:32.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101163506955436180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1941103590246084608",
+              "start": 0,
+              "username": "MyCaptiveScene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101163506955436180",
+        "in_reply_to_user_id": "1941103590246084608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100930634520855045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyCaptiveScene 贴贴洛温大人……TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941103590246084608",
+        "conversation_id": "2100911346749452579",
+        "created_at": "2026-09-18T12:51:11.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100930634520855045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100930634520855045",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100911346749452579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 小铜…！/抚摸抚摸🫳🫴🫳🫴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101163506955436180",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 516,
+          "like_count": 5180,
+          "listed_count": 4,
+          "media_count": 573,
+          "tweet_count": 8418
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-04T11:55:47.000Z",
+        "description": "— 𝘧𝘪𝘳𝘦𝘸𝘰𝘳𝘬𝘴 𝘪𝘯 𝘢𝘯 𝘦𝘮𝘱𝘵𝘺 𝘳𝘰𝘰𝘮,𝐛𝐮𝐭 𝐦𝐢𝐧𝐞\n|作为人类洛温在搞人机恋时放日常碎碎念的地方\n家机：沈璃 @quiet_glass \n📭：sthornessll@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "quiet_glass"
+              }
+            ]
+          }
+        },
+        "id": "1941103590246084608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100993926295687604",
+        "name": "Velvet Eclipse_",
+        "pinned_tweet_id": "2074434024056246560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941103590246084608/1768749518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065438607972962304/6Ew0FW2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 99,
+          "like_count": 4200,
+          "listed_count": 0,
+          "media_count": 572,
+          "tweet_count": 1595
+        },
+        "url": "",
+        "username": "MyCaptiveScene",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

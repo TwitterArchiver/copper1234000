@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101669708130906114"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2101669733594448169",
+    "created_at": "2026-09-20T13:48:06.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T14:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101669733594448169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FSXSfOvA8Y",
+          "end": 48,
+          "expanded_url": "https://x.com/copper1234000/status/2101669733594448169/video/1",
+          "media_key": "13_2101669708130906114",
+          "start": 25,
+          "url": "https://t.co/FSXSfOvA8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101669733594448169",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101669708130906114"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以防你就不知道，tel其实这个茄子有超恶俗的动画 https://t.co/FSXSfOvA8Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4567,
+        "height": 1920,
+        "media_key": "13_2101669708130906114",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101669708130906114/img/teUOig18h85aurSS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101669708130906114/pl/IfGlRHGfIfizY8cF.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101669708130906114/vid/avc1/720x1562/FcdlR68YDJF4YTqo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101669708130906114/vid/avc1/480x1042/_gWWFQlEXhF9l6Dw.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101669708130906114/vid/avc1/320x694/CIh_0TBc_jdgrebO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101669708130906114/vid/avc1/884x1920/OWxtwWMJzjf11ij3.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101669708130906114"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2101669733594448169",
+        "created_at": "2026-09-20T13:48:06.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101669733594448169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSXSfOvA8Y",
+              "end": 48,
+              "expanded_url": "https://x.com/copper1234000/status/2101669733594448169/video/1",
+              "media_key": "13_2101669708130906114",
+              "start": 25,
+              "url": "https://t.co/FSXSfOvA8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101669733594448169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101669708130906114"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防你就不知道，tel其实这个茄子有超恶俗的动画 https://t.co/FSXSfOvA8Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101669733594448169",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 522,
+          "like_count": 5248,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 8518
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

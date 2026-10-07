@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105320039855559022",
+    "created_at": "2026-09-30T15:53:06.000Z",
+    "display_text_range": [
+      17,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T16:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105325069438533958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2059884189500182528",
+          "start": 0,
+          "username": "icelemontea_zip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105325069438533958",
+    "in_reply_to_user_id": "2059884189500182528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105320039855559022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icelemontea_zip ………oh不TT…抚摸这个冻柠茶……趁着国庆好好休息！早日康复！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105320030611361792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeZadMa0AAY6Hw.jpg",
+        "width": 945
+      },
+      {
+        "height": 1986,
+        "media_key": "3_2105320030615592960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeZadNbYAAk2wH.jpg",
+        "width": 1179
+      },
+      {
+        "height": 984,
+        "media_key": "3_2105320030699401217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeZadhaMAERL9H.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105320039855559022",
+        "created_at": "2026-09-30T15:53:06.000Z",
+        "display_text_range": [
+          17,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105325069438533958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059884189500182528",
+              "start": 0,
+              "username": "icelemontea_zip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105325069438533958",
+        "in_reply_to_user_id": "2059884189500182528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105320039855559022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icelemontea_zip ………oh不TT…抚摸这个冻柠茶……趁着国庆好好休息！早日康复！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105320030611361792",
+            "3_2105320030615592960",
+            "3_2105320030699401217"
+          ]
+        },
+        "author_id": "2059884189500182528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105320039855559022",
+        "created_at": "2026-09-30T15:33:07.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105320039855559022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaQU2dVwVF",
+              "end": 57,
+              "expanded_url": "https://x.com/icelemontea_zip/status/2105320039855559022/photo/1",
+              "media_key": "3_2105320030611361792",
+              "start": 34,
+              "url": "https://t.co/vaQU2dVwVF"
+            },
+            {
+              "display_url": "pic.x.com/vaQU2dVwVF",
+              "end": 57,
+              "expanded_url": "https://x.com/icelemontea_zip/status/2105320039855559022/photo/1",
+              "media_key": "3_2105320030615592960",
+              "start": 34,
+              "url": "https://t.co/vaQU2dVwVF"
+            },
+            {
+              "display_url": "pic.x.com/vaQU2dVwVF",
+              "end": 57,
+              "expanded_url": "https://x.com/icelemontea_zip/status/2105320039855559022/photo/1",
+              "media_key": "3_2105320030699401217",
+              "start": 34,
+              "url": "https://t.co/vaQU2dVwVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105320039855559022",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105320030611361792"
+          },
+          {
+            "media_key": "3_2105320030615592960"
+          },
+          {
+            "media_key": "3_2105320030699401217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "颤抖吧国庆。\n现在叮铃哐啷向你走来的是即将散架的脆皮冻柠茶🏳️🏳️ https://t.co/vaQU2dVwVF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105325069438533958",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 563,
+          "like_count": 5525,
+          "listed_count": 4,
+          "media_count": 614,
+          "tweet_count": 8860
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T06:28:09.000Z",
+        "description": "大号@renaiss81312337被封了。\n暂用这个号，等待解封中🤧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "renaiss81312337"
+              }
+            ]
+          }
+        },
+        "id": "2059884189500182528",
+        "is_identity_verified": false,
+        "location": "黑洞里",
+        "most_recent_tweet_id": "2105320039855559022",
+        "name": "冻柠茶（等待复活版）",
+        "pinned_tweet_id": "2090441732894892403",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059884189500182528/1780164778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060786165314412544/RSrqL6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 73,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "icelemontea_zip",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

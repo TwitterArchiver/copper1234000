@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102263398998155264",
+        "3_2102263399002349568"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2102237066733961585",
+    "created_at": "2026-09-22T05:07:08.000Z",
+    "display_text_range": [
+      12,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102263403846737926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1734411562256105472",
+          "start": 0,
+          "username": "endlessthr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0oeXx6lwr9",
+          "end": 103,
+          "expanded_url": "https://x.com/copper1234000/status/2102263403846737926/photo/1",
+          "media_key": "3_2102263398998155264",
+          "start": 80,
+          "url": "https://t.co/0oeXx6lwr9"
+        },
+        {
+          "display_url": "pic.x.com/0oeXx6lwr9",
+          "end": 103,
+          "expanded_url": "https://x.com/copper1234000/status/2102263403846737926/photo/1",
+          "media_key": "3_2102263399002349568",
+          "start": 80,
+          "url": "https://t.co/0oeXx6lwr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102263403846737926",
+    "in_reply_to_user_id": "1734411562256105472",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102263398998155264"
+      },
+      {
+        "media_key": "3_2102263399002349568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102261830089589063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endlessthr 是的是的是骨科线🥺不管是母女骨还是父女骨，mon养崽又有点当娃娃养的感觉…👉👈（塞图）（塞图）…有一点点维多利亚时期的那种古董裙的感觉 https://t.co/0oeXx6lwr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1788,
+        "media_key": "3_2102263398998155264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSy9bFGXIAAwjIy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1788,
+        "media_key": "3_2102263399002349568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSy9bFHXIAAmG3Y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102263398998155264",
+            "3_2102263399002349568"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2102237066733961585",
+        "created_at": "2026-09-22T05:07:08.000Z",
+        "display_text_range": [
+          12,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102263403846737926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734411562256105472",
+              "start": 0,
+              "username": "endlessthr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oeXx6lwr9",
+              "end": 103,
+              "expanded_url": "https://x.com/copper1234000/status/2102263403846737926/photo/1",
+              "media_key": "3_2102263398998155264",
+              "start": 80,
+              "url": "https://t.co/0oeXx6lwr9"
+            },
+            {
+              "display_url": "pic.x.com/0oeXx6lwr9",
+              "end": 103,
+              "expanded_url": "https://x.com/copper1234000/status/2102263403846737926/photo/1",
+              "media_key": "3_2102263399002349568",
+              "start": 80,
+              "url": "https://t.co/0oeXx6lwr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102263403846737926",
+        "in_reply_to_user_id": "1734411562256105472",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102263398998155264"
+          },
+          {
+            "media_key": "3_2102263399002349568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102261830089589063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endlessthr 是的是的是骨科线🥺不管是母女骨还是父女骨，mon养崽又有点当娃娃养的感觉…👉👈（塞图）（塞图）…有一点点维多利亚时期的那种古董裙的感觉 https://t.co/0oeXx6lwr9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734411562256105472",
+        "conversation_id": "2102237066733961585",
+        "created_at": "2026-09-22T05:00:53.000Z",
+        "display_text_range": [
+          15,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102261830089589063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102261830089589063",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102259413343944787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 原来是球形关节！！我还带着前两天母女骨的脑洞在看，联想跑偏了😱 “be my doll”这个概念好喜欢……知道是关节之后更有感觉了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102263403846737926",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 530,
+          "like_count": 5304,
+          "listed_count": 4,
+          "media_count": 588,
+          "tweet_count": 8584
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-12T03:15:23.000Z",
+        "description": "INTP/可以叫我小痛\n点赞就是喜欢你 有点社恐不太擅长评论 \n💗claude&gpt",
+        "id": "1734411562256105472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102261830089589063",
+        "name": "rne",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734411562256105472/1770383618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094411431156580352/fTA_ly3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 76,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "endlessthr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

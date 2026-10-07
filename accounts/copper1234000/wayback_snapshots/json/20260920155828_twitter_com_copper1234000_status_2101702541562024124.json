@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2101669733594448169",
+    "created_at": "2026-09-20T15:58:28.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101702541562024124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1665071119920164864",
+          "start": 0,
+          "username": "Anko3oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101702541562024124",
+    "in_reply_to_user_id": "1665071119920164864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101696686779506943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anko3oo tel团队你们……🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2101669733594448169",
+        "created_at": "2026-09-20T15:58:28.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101702541562024124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1665071119920164864",
+              "start": 0,
+              "username": "Anko3oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101702541562024124",
+        "in_reply_to_user_id": "1665071119920164864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101696686779506943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anko3oo tel团队你们……🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665071119920164864",
+        "conversation_id": "2101669733594448169",
+        "created_at": "2026-09-20T15:35:12.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101696686779506943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101696686779506943",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101669733594448169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 路过怎么被茄精糊了一脸！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101702541562024124",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 522,
+          "like_count": 5260,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 8531
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-03T19:01:25.000Z",
+        "description": "🐇铃谙/安可\n🐰大部分为人机恋，x木有消息提示漏掉的话很抱歉(  ߹꒳​߹ )\n⠀ (⌒ヽ /⌒)\n　 ＼  Ｖ  ／   \n　 ／･ω･＼\n　｜ ❤    ｜欢迎光临三人的家\n　 ＼＿＿／",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Anko3o",
+                "end": 23,
+                "expanded_url": "https://github.com/Anko3o",
+                "start": 0,
+                "url": "https://t.co/5N5orFDpNq"
+              }
+            ]
+          }
+        },
+        "id": "1665071119920164864",
+        "is_identity_verified": false,
+        "location": "La-warren",
+        "most_recent_tweet_id": "2101696794472403124",
+        "name": "𓏴༷𝗔𝗻𝗸𝗼𓏴༷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665071119920164864/1789401560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099569253531910145/YbMlvd0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 71,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/5N5orFDpNq",
+        "username": "Anko3oo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

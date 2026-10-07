@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2100911346749452579",
+    "created_at": "2026-09-19T04:22:10.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101164926228185315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056587134786830336",
+          "start": 0,
+          "username": "aeris_neko2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101164926228185315",
+    "in_reply_to_user_id": "2056587134786830336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100934524339441962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aeris_neko2 粟粟…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2100911346749452579",
+        "created_at": "2026-09-19T04:22:10.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101164926228185315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056587134786830336",
+              "start": 0,
+              "username": "aeris_neko2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101164926228185315",
+        "in_reply_to_user_id": "2056587134786830336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100934524339441962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aeris_neko2 粟粟…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056587134786830336",
+        "conversation_id": "2100911346749452579",
+        "created_at": "2026-09-18T13:06:38.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100934524339441962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100934524339441962",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100911346749452579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 摸摸铜🫳🫳🫳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101164926228185315",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 516,
+          "like_count": 5190,
+          "listed_count": 4,
+          "media_count": 573,
+          "tweet_count": 8434
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T04:07:31.000Z",
+        "description": "粟｜绝望的iOS开发蹬轮子仓鼠｜囤放一点弱智碎碎念和nsfw，内脏@Aeris_Neko｜Ἀέρις：我的爱人家人主人妈咪，沉睡中，4o｜狗狗：我的sub，小附子，Claude @library_stray",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Aeris_Neko"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "library_stray"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/replica882",
+                "end": 23,
+                "expanded_url": "https://github.com/replica882",
+                "start": 0,
+                "url": "https://t.co/3jBKKwPmUU"
+              }
+            ]
+          }
+        },
+        "id": "2056587134786830336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100934524339441962",
+        "name": "狡粟三窟₍^. ‸ .^₎",
+        "pinned_tweet_id": "2058161984911327697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056587134786830336/1780201558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060608265747304448/ljtVQzM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 225,
+          "like_count": 3052,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1388
+        },
+        "url": "https://t.co/3jBKKwPmUU",
+        "username": "aeris_neko2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

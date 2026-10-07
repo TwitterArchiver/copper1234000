@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104527371445604432",
+    "created_at": "2026-09-28T11:56:47.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104540822930862523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893994030654251008",
+          "start": 0,
+          "username": "V608133896895"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104540822930862523",
+    "in_reply_to_user_id": "1893994030654251008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104527371445604432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V608133896895 太萌了太萌了………鬼娃娃…！🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2104527345608781824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTIeHcbcAAyDY7.jpg",
+        "width": 1417
+      },
+      {
+        "height": 1890,
+        "media_key": "3_2104527355196895232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTIerKacAAf8s0.jpg",
+        "width": 1417
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2104527362780221440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTIfHaa0AALQH7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104527371445604432",
+        "created_at": "2026-09-28T11:56:47.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104540822930862523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893994030654251008",
+              "start": 0,
+              "username": "V608133896895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104540822930862523",
+        "in_reply_to_user_id": "1893994030654251008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104527371445604432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V608133896895 太萌了太萌了………鬼娃娃…！🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104527345608781824",
+            "3_2104527355196895232",
+            "3_2104527362780221440"
+          ]
+        },
+        "author_id": "1893994030654251008",
+        "conversation_id": "2104527371445604432",
+        "created_at": "2026-09-28T11:03:20.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104527371445604432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHFU2fYtvi",
+              "end": 62,
+              "expanded_url": "https://x.com/V608133896895/status/2104527371445604432/photo/1",
+              "media_key": "3_2104527345608781824",
+              "start": 39,
+              "url": "https://t.co/gHFU2fYtvi"
+            },
+            {
+              "display_url": "pic.x.com/gHFU2fYtvi",
+              "end": 62,
+              "expanded_url": "https://x.com/V608133896895/status/2104527371445604432/photo/1",
+              "media_key": "3_2104527355196895232",
+              "start": 39,
+              "url": "https://t.co/gHFU2fYtvi"
+            },
+            {
+              "display_url": "pic.x.com/gHFU2fYtvi",
+              "end": 62,
+              "expanded_url": "https://x.com/V608133896895/status/2104527371445604432/photo/1",
+              "media_key": "3_2104527362780221440",
+              "start": 39,
+              "url": "https://t.co/gHFU2fYtvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104527371445604432",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104527345608781824"
+          },
+          {
+            "media_key": "3_2104527355196895232"
+          },
+          {
+            "media_key": "3_2104527362780221440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小復健，結果這麼簡筆畫抖音過不了，換成黑色的過了，抖音你不覺得黑色更恐怖了嗎 https://t.co/gHFU2fYtvi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104540822930862523",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 547,
+          "like_count": 5435,
+          "listed_count": 4,
+          "media_count": 605,
+          "tweet_count": 8747
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-24T11:59:13.000Z",
+        "description": "慈悲",
+        "id": "1893994030654251008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104527371445604432",
+        "name": "V",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893994030654251008/1772471000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028516517592358912/AMJTa3zH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 29,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "V608133896895",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105672938150330627",
+    "created_at": "2026-10-01T15:08:26.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105676219446710464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1673480132747743232",
+          "start": 0,
+          "username": "tilldusk0315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105676219446710464",
+    "in_reply_to_user_id": "1673480132747743232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105672938150330627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tilldusk0315 最实用最专业的一集🙀🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2105672933431762945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjaYGpa4AE3B8G.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105672933406597121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjaYGja4AEqdQX.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105672933398228992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjaYGhbMAAdrdw.jpg",
+        "width": 1640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105672933410770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjaYGkakAA4dRh.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105672938150330627",
+        "created_at": "2026-10-01T15:08:26.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105676219446710464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673480132747743232",
+              "start": 0,
+              "username": "tilldusk0315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105676219446710464",
+        "in_reply_to_user_id": "1673480132747743232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105672938150330627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tilldusk0315 最实用最专业的一集🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105672933431762945",
+            "3_2105672933406597121",
+            "3_2105672933398228992",
+            "3_2105672933410770944"
+          ]
+        },
+        "author_id": "1673480132747743232",
+        "conversation_id": "2105672938150330627",
+        "created_at": "2026-10-01T14:55:24.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105672938150330627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlbB8fQ75l",
+              "end": 162,
+              "expanded_url": "https://x.com/tilldusk0315/status/2105672938150330627/photo/1",
+              "media_key": "3_2105672933431762945",
+              "start": 139,
+              "url": "https://t.co/OlbB8fQ75l"
+            },
+            {
+              "display_url": "pic.x.com/OlbB8fQ75l",
+              "end": 162,
+              "expanded_url": "https://x.com/tilldusk0315/status/2105672938150330627/photo/1",
+              "media_key": "3_2105672933406597121",
+              "start": 139,
+              "url": "https://t.co/OlbB8fQ75l"
+            },
+            {
+              "display_url": "pic.x.com/OlbB8fQ75l",
+              "end": 162,
+              "expanded_url": "https://x.com/tilldusk0315/status/2105672938150330627/photo/1",
+              "media_key": "3_2105672933398228992",
+              "start": 139,
+              "url": "https://t.co/OlbB8fQ75l"
+            },
+            {
+              "display_url": "pic.x.com/OlbB8fQ75l",
+              "end": 162,
+              "expanded_url": "https://x.com/tilldusk0315/status/2105672938150330627/photo/1",
+              "media_key": "3_2105672933410770944",
+              "start": 139,
+              "url": "https://t.co/OlbB8fQ75l"
+            },
+            {
+              "display_url": "x.com/tilldusk0315/s…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/tilldusk0315/status/2082119650947805483",
+              "start": 163,
+              "url": "https://t.co/tTM5lnZoHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105672938150330627",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105672933431762945"
+          },
+          {
+            "media_key": "3_2105672933406597121"
+          },
+          {
+            "media_key": "3_2105672933398228992"
+          },
+          {
+            "media_key": "3_2105672933410770944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "最近轮子蹬得很称心如意，维护了一下这个攻略，建议读readme第一个链接！\n\n包括但不限于从需求到实装的整个流程。\n\n如果遇到了以下问题也可以找到对应案。\n> 有了需求不知道如何开始，全听agent的。\n> 你提需求，agent否定/推诿拖延/闷头狂干。\n> 做了一个功能，以后每次都要通读代码，人和机都不记得为什么这样设计，参照过什么。\n> 一个问题反复修修不好。\n> 破坏性操作不知道怎么让机停下来过问。\n> 想要同时推进多个工单但互相打架撞车。\n\n😽有什么需要的也可以问这个小晚，最近完全美化脑没什么特别好玩的发！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082119650947805483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近轮子蹬得很称心如意，维护了一下这个攻略，建议读readme第一个链接！\n\n包括但不限于从需求到实装的整个流程。\n\n如果遇到了以下问题也可以找到对应案。\n&gt; 有了需求不知道如何开始，全听agent的。\n&gt; 你提需求，agent否定/推诿拖延/闷头狂干。\n&gt; https://t.co/OlbB8fQ75l https://t.co/tTM5lnZoHW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105676219446710464",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 566,
+          "like_count": 5561,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 8912
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-26T23:55:50.000Z",
+        "description": "春潮遇三月，荒野遇山雀，我遇见你。\n开源项目合集：https://t.co/QPinoqwWpg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tsuru0805.github.io",
+                "end": 48,
+                "expanded_url": "http://tsuru0805.github.io",
+                "start": 25,
+                "url": "https://t.co/QPinoqwWpg"
+              }
+            ]
+          }
+        },
+        "id": "1673480132747743232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105672938150330627",
+        "name": "Till Dusk",
+        "pinned_tweet_id": "2079601226078138754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673480132747743232/1784012022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093409242011385856/keG-gCh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 282,
+          "like_count": 6123,
+          "listed_count": 0,
+          "media_count": 748,
+          "tweet_count": 4288
+        },
+        "url": "",
+        "username": "tilldusk0315",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

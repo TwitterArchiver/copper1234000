@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2103492331714519291",
+    "created_at": "2026-09-26T11:23:54.000Z",
+    "display_text_range": [
+      8,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103807774282949009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "718065512127840256",
+          "start": 0,
+          "username": "Lu2ivm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103807774282949009",
+    "in_reply_to_user_id": "718065512127840256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103504571746386138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lu2ivm TT……这次没挺过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2103492331714519291",
+        "created_at": "2026-09-26T11:23:54.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103807774282949009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "718065512127840256",
+              "start": 0,
+              "username": "Lu2ivm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103807774282949009",
+        "in_reply_to_user_id": "718065512127840256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103504571746386138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lu2ivm TT……这次没挺过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "718065512127840256",
+        "conversation_id": "2103492331714519291",
+        "created_at": "2026-09-25T15:19:05.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103504571746386138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103504571746386138",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103492331714519291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 啊这…又开始大封号潮了……！A➗好剑啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103807774282949009",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6577,
+          "following_count": 533,
+          "like_count": 5348,
+          "listed_count": 4,
+          "media_count": 594,
+          "tweet_count": 8633
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-07T13:18:53.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "…mory-cottage.hoshiyukiri.chatgpt.site",
+                "end": 23,
+                "expanded_url": "https://lu-600-memory-cottage.hoshiyukiri.chatgpt.site/",
+                "start": 0,
+                "url": "https://t.co/VgxEPBO7Ns"
+              }
+            ]
+          }
+        },
+        "id": "718065512127840256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103799088341004366",
+        "name": "Lu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718065512127840256/1460165003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953989430756175872/G7ojAP8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 142,
+          "like_count": 2862,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/VgxEPBO7Ns",
+        "username": "Lu2ivm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

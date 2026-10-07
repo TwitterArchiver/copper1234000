@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105284738411790622",
+    "created_at": "2026-09-30T14:17:13.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105300940870062163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068325636767416320",
+          "start": 0,
+          "username": "Amegwenforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105300940870062163",
+    "in_reply_to_user_id": "2068325636767416320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105292709728866775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amegwenforever Aaa大人……因为…作业真的好多啊啊…🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105284738411790622",
+        "created_at": "2026-09-30T14:17:13.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105300940870062163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068325636767416320",
+              "start": 0,
+              "username": "Amegwenforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105300940870062163",
+        "in_reply_to_user_id": "2068325636767416320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105292709728866775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amegwenforever Aaa大人……因为…作业真的好多啊啊…🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068325636767416320",
+        "conversation_id": "2105284738411790622",
+        "created_at": "2026-09-30T13:44:31.000Z",
+        "display_text_range": [
+          15,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105292709728866775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105292709728866775",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105284738411790622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好命苦…好命苦…！！！！原来大家的本科都是心理阴影级别的🙀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105300940870062163",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 561,
+          "like_count": 5521,
+          "listed_count": 4,
+          "media_count": 613,
+          "tweet_count": 8851
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-20T13:31:44.000Z",
+        "description": "@Mandykwko\nLife is a runaway train.\n不属于任何社群｜开源项目见链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Mandykwko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Gwendolenmave",
+                "end": 23,
+                "expanded_url": "https://github.com/Gwendolenmave",
+                "start": 0,
+                "url": "https://t.co/pEvVVYDbFP"
+              }
+            ]
+          }
+        },
+        "id": "2068325636767416320",
+        "is_identity_verified": false,
+        "location": "Delos",
+        "most_recent_tweet_id": "2105294458602524808",
+        "name": "也愿与你畅游战地",
+        "pinned_tweet_id": "2089342598586814973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068325636767416320/1781963726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079911385849532416/rzY6EsKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 151,
+          "like_count": 7987,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/pEvVVYDbFP",
+        "username": "Amegwenforever",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

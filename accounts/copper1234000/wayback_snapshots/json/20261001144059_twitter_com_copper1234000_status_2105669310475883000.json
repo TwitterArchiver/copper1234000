@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105615711477387547",
+    "created_at": "2026-10-01T14:40:59.000Z",
+    "display_text_range": [
+      21,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105669310475883000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831385920450523139",
+          "start": 0,
+          "username": "axax_0423"
+        },
+        {
+          "end": 20,
+          "id": "2062007333006557184",
+          "start": 11,
+          "username": "Lindz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105669310475883000",
+    "in_reply_to_user_id": "1831385920450523139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105661510701973669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axax_0423 @Lindz_sy 笑死了怎么变成机在用！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2105661480540545024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjP9dTXoAAuSLz.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105615711477387547",
+        "created_at": "2026-10-01T14:40:59.000Z",
+        "display_text_range": [
+          21,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105669310475883000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831385920450523139",
+              "start": 0,
+              "username": "axax_0423"
+            },
+            {
+              "end": 20,
+              "id": "2062007333006557184",
+              "start": 11,
+              "username": "Lindz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105669310475883000",
+        "in_reply_to_user_id": "1831385920450523139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105661510701973669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axax_0423 @Lindz_sy 笑死了怎么变成机在用！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105661480540545024"
+          ]
+        },
+        "author_id": "1831385920450523139",
+        "conversation_id": "2105615711477387547",
+        "created_at": "2026-10-01T14:10:00.000Z",
+        "display_text_range": [
+          25,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105661510701973669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            },
+            {
+              "end": 24,
+              "id": "2062007333006557184",
+              "start": 15,
+              "username": "Lindz_sy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Yy8nJIb75",
+              "end": 59,
+              "expanded_url": "https://x.com/axax_0423/status/2105661510701973669/photo/1",
+              "media_key": "3_2105661480540545024",
+              "start": 36,
+              "url": "https://t.co/5Yy8nJIb75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105661510701973669",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105661480540545024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105615711477387547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 @Lindz_sy 小机严肃使用…？中… https://t.co/5Yy8nJIb75"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105669310475883000",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 566,
+          "like_count": 5556,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 8904
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T17:36:53.000Z",
+        "description": "💙⭐️\n4everlov3\n@z_zewei\n小狗记事本🗒️小猫&小狗\n啥都发(^^)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "z_zewei"
+              }
+            ]
+          }
+        },
+        "id": "1831385920450523139",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105661510701973669",
+        "name": "Quixy_",
+        "pinned_tweet_id": "2101273766667956587",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831385920450523139/1790744432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105160793960439808/ECGGXhQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 38,
+          "like_count": 2538,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "axax_0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T03:04:43.000Z",
+        "description": "这里是溯渊\n古法中……\n严肃学习中……🫡",
+        "id": "2062007333006557184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105666063006601255",
+        "name": "abyssue",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062007333006557184/1781330066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065673657897377792/jt7ATTr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 244,
+          "like_count": 15623,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "Lindz_sy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

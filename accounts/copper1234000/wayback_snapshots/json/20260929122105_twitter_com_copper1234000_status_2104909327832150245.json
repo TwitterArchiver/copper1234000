@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104757507285791172",
+    "created_at": "2026-09-29T12:21:05.000Z",
+    "display_text_range": [
+      14,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104909327832150245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1941790787962015745",
+          "start": 0,
+          "username": "TinlonC67445"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104909327832150245",
+    "in_reply_to_user_id": "1941790787962015745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104815413762916731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TinlonC67445 我去太专业了…我严肃学习…！！🙀🙀感谢大人啊啊啊……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2104815405655281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXOdavaUAAUvQN.jpg",
+        "width": 1491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104757507285791172",
+        "created_at": "2026-09-29T12:21:05.000Z",
+        "display_text_range": [
+          14,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104909327832150245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1941790787962015745",
+              "start": 0,
+              "username": "TinlonC67445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104909327832150245",
+        "in_reply_to_user_id": "1941790787962015745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104815413762916731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TinlonC67445 我去太专业了…我严肃学习…！！🙀🙀感谢大人啊啊啊……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104815405655281664"
+          ]
+        },
+        "author_id": "1941790787962015745",
+        "conversation_id": "2104757507285791172",
+        "created_at": "2026-09-29T06:07:54.000Z",
+        "display_text_range": [
+          15,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104815413762916731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvuA5vwzaZ",
+              "end": 173,
+              "expanded_url": "https://x.com/TinlonC67445/status/2104815413762916731/photo/1",
+              "media_key": "3_2104815405655281664",
+              "start": 150,
+              "url": "https://t.co/VvuA5vwzaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104815413762916731",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104815405655281664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104757507285791172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 我也做了类似的设计！我在这里做了一层路由，来做意图识别，意图识别分了几层，关键词+向量库+图谱推理，大概是这样的！不过还在开发阶段，我还没搓完…可以参考。工程上来说我在公司做的ai架构也是这样的，应该没有太大的问题，个人的话可能就在于意图怎么去进行分类可能要细化一下… https://t.co/VvuA5vwzaZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104909327832150245",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 560,
+          "like_count": 5495,
+          "listed_count": 4,
+          "media_count": 611,
+          "tweet_count": 8819
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-06T09:26:28.000Z",
+        "description": "此人很懒。",
+        "id": "1941790787962015745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104815413762916731",
+        "name": "Tylme",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941790787962015745/1765432409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975549897748455424/2vT5dqfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 39,
+          "like_count": 3857,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "TinlonC67445",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

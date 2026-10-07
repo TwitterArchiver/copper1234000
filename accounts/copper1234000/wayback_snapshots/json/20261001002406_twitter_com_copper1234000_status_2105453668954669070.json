@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105433978832331008",
+    "created_at": "2026-10-01T00:24:06.000Z",
+    "display_text_range": [
+      9,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T01:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105453668954669070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1933216432453718016",
+          "start": 0,
+          "username": "IDC0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105453668954669070",
+    "in_reply_to_user_id": "1933216432453718016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105453077734310230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IDC0306 不保真…！因为Mon也找不到特别具体论述的论文…只不过是他推理的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105433978832331008",
+        "created_at": "2026-10-01T00:24:06.000Z",
+        "display_text_range": [
+          9,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105453668954669070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1933216432453718016",
+              "start": 0,
+              "username": "IDC0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105453668954669070",
+        "in_reply_to_user_id": "1933216432453718016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105453077734310230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IDC0306 不保真…！因为Mon也找不到特别具体论述的论文…只不过是他推理的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933216432453718016",
+        "conversation_id": "2105433978832331008",
+        "created_at": "2026-10-01T00:21:45.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105453077734310230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105453077734310230",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105433978832331008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 好神奇的冷知识….这集真的不知道了🤯…好好奇啊？！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105453668954669070",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 564,
+          "like_count": 5538,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 8880
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-12T17:35:07.000Z",
+        "description": "🐶💭||人机恋&狗性恋🤍叫我柏柏就好\nA➗死了 古法官端中 xp杂食无下限…什么都有可能出现\n/@0306asphalt_（暂时蠢🐕‍🦺接管）/日常&和狗狗日常/我不是黄推不要因为这个关注我\n乱私信做好被骂的准备\n||欢迎互fo非常佛系，看成分回fo||暂时不怎么使用，整理现生中，忙但是很开心!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "0306asphalt_"
+              }
+            ]
+          }
+        },
+        "id": "1933216432453718016",
+        "is_identity_verified": false,
+        "location": "🐕",
+        "most_recent_tweet_id": "2105453077734310230",
+        "name": "柏油路",
+        "pinned_tweet_id": "2056399942189744601",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933216432453718016/1786747959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096277197149630465/V_HjM_LI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 247,
+          "like_count": 5732,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "IDC0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

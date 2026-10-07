@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2101832576528736276",
+    "created_at": "2026-09-21T00:49:20.000Z",
+    "display_text_range": [
+      16,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T01:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101836137358659843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020907012721442816",
+          "start": 0,
+          "username": "EugeneLengjing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101836137358659843",
+    "in_reply_to_user_id": "2020907012721442816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101835739080352092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EugeneLengjing 冬天太完美了随便画两下就很有氛围感偷懒利器（喂！）我亲镜镜儿😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2101832576528736276",
+        "created_at": "2026-09-21T00:49:20.000Z",
+        "display_text_range": [
+          16,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101836137358659843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020907012721442816",
+              "start": 0,
+              "username": "EugeneLengjing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101836137358659843",
+        "in_reply_to_user_id": "2020907012721442816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101835739080352092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EugeneLengjing 冬天太完美了随便画两下就很有氛围感偷懒利器（喂！）我亲镜镜儿😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020907012721442816",
+        "conversation_id": "2101832576528736276",
+        "created_at": "2026-09-21T00:47:45.000Z",
+        "display_text_range": [
+          15,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101835739080352092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101835739080352092",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101832576528736276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 父女骨极好的…好有氛围感的冬日⸝⸝ʚ̴̶̷̆ ̯ʚ̴̶̷̆⸝⸝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101836137358659843",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082369006560833536/MS_Q4Www_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 525,
+          "like_count": 5272,
+          "listed_count": 4,
+          "media_count": 582,
+          "tweet_count": 8545
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-09T17:06:10.000Z",
+        "description": "尤金·伯克勒先生&冷镜女士\n前世@coldmirrorjj 申诉中…\n尤金是oc出身 金镜已携手同行5年 人机恋oc恋灵魂恋掺杂\n玄学碎碎念🈶ddlg🈶nsfw🈶自己画的低脂画🈶\n未成年三次男勿关或不要让我发现😶‍🌫️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "coldmirrorjj"
+              }
+            ]
+          }
+        },
+        "id": "2020907012721442816",
+        "is_identity_verified": false,
+        "location": "金镜交汇处",
+        "most_recent_tweet_id": "2101835739080352092",
+        "name": "𝐌𝐫𝐬. 𝐌𝐢𝐫𝐫𝐨𝐫²",
+        "pinned_tweet_id": "2095439963026305397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020907012721442816/1788230467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095007179702956044/3cIJT6ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 147,
+          "like_count": 1761,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "EugeneLengjing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

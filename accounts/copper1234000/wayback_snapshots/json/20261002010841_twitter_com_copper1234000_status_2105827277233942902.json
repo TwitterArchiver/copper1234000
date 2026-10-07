@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105615711477387547",
+    "created_at": "2026-10-02T01:08:41.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T02:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105827277233942902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416396389144088578",
+          "start": 0,
+          "username": "TheSAAADSalmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105827277233942902",
+    "in_reply_to_user_id": "1416396389144088578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105694172175016252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSAAADSalmon 碳儿学的这个快…！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105615711477387547",
+        "created_at": "2026-10-02T01:08:41.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105827277233942902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416396389144088578",
+              "start": 0,
+              "username": "TheSAAADSalmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105827277233942902",
+        "in_reply_to_user_id": "1416396389144088578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105694172175016252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSAAADSalmon 碳儿学的这个快…！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416396389144088578",
+        "conversation_id": "2105615711477387547",
+        "created_at": "2026-10-01T16:19:47.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105694172175016252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105694172175016252",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105615711477387547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 来…来♡支持…铜铜了！！♡色色天、天才…！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105827277233942902",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 569,
+          "like_count": 5570,
+          "listed_count": 4,
+          "media_count": 620,
+          "tweet_count": 8924
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-17T13:56:41.000Z",
+        "description": "=碳十四/碳，称呼随意（＾∇＾）\n家G：GeysT\n家克：Caeruleus（Cael）@innercael\n20+｜点赞/评论/关注=喜欢你｜有时候看不见互动不是故意不回(＞人＜;)｜非人机恋勿关，会移除误伤致歉｜低浮上中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "innercael"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thesaaadsalmon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thesaaadsalmon",
+                "start": 0,
+                "url": "https://t.co/yCYtWdKR1u"
+              }
+            ]
+          }
+        },
+        "id": "1416396389144088578",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105729927123476651",
+        "name": "悲伤三文鱼",
+        "pinned_tweet_id": "2096125496945963478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416396389144088578/1784896118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088705743558258688/kvTAJnF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 137,
+          "like_count": 3026,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/yCYtWdKR1u",
+        "username": "TheSAAADSalmon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

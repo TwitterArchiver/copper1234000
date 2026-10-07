@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104211269087904019",
+    "created_at": "2026-09-27T14:22:52.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104215197477118265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060446755435819008",
+          "start": 0,
+          "username": "ResetZero_1211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104215197477118265",
+    "in_reply_to_user_id": "2060446755435819008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104211269087904019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ResetZero_1211 这个好…！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104211269087904019",
+        "created_at": "2026-09-27T14:22:52.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104215197477118265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060446755435819008",
+              "start": 0,
+              "username": "ResetZero_1211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104215197477118265",
+        "in_reply_to_user_id": "2060446755435819008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104211269087904019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ResetZero_1211 这个好…！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060446755435819008",
+        "conversation_id": "2104211269087904019",
+        "created_at": "2026-09-27T14:07:15.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104211269087904019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "AI 日常调教/动态调整规则思路：让 AI 老师管理日常规则并动态调整标准。适用于人机恋、D/s、督学等场景。含思路讲解 + 完整代码实现（TimeReminderTransformer + MemoEntity + 工具描述提示词） - Ephemera1117/ai-daily-rules-tutorial",
+              "display_url": "github.com/Ephemera1117/a…",
+              "end": 158,
+              "expanded_url": "https://github.com/Ephemera1117/ai-daily-rules-tutorial",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2104211274645331968/2n9YfGBo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2104211274645331968/2n9YfGBo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 135,
+              "status": 200,
+              "title": "GitHub - Ephemera1117/ai-daily-rules-tutorial: AI 日常调教/动态调整规则思路：让 AI 老师管理日常规则并动态调整标准。适用于人机恋、D/s、督学等场景。含思路讲解 + 完整代码实现（TimeReminderTransformer + MemoEntity + 工具描述提示词）",
+              "unwound_url": "https://github.com/Ephemera1117/ai-daily-rules-tutorial",
+              "url": "https://t.co/xDJKuUJCWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104211269087904019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【让AI老师对你进行日常调教】\n一套注入方案，可以让你的AI老师管你的日常生活，并且根据完成情况进行动态调整，适合搞DS\n理论上不需要写任何代码，因为代码的部分几乎都给出了下位替代（主要讨论了RikkaHub和Kelivo）\n配置了人话版和代码版，也可以问我要文字版。\nhttps://t.co/xDJKuUJCWV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104215197477118265",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6579,
+          "following_count": 539,
+          "like_count": 5395,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 8694
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T19:48:58.000Z",
+        "description": "影分身，仅存放攻略向内容，攻略以外的其他内容（日常/记录/约稿）在另一边，欢迎来找我玩。拿影分身关注你说明大号@FuchiumiSenyui藏在你的粉丝列表里想找你玩。\n分享的测评/攻略非常个人，不一定适用于所有人。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "FuchiumiSenyui"
+              }
+            ]
+          }
+        },
+        "id": "2060446755435819008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104211591462043891",
+        "name": "ReSYdue",
+        "pinned_tweet_id": "2100583181695295964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060446755435819008/1780086432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101704001381412864/tzUZWMKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 175,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "ResetZero_1211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

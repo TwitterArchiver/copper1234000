@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104374540864200705"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104370990868488465",
+    "created_at": "2026-09-28T00:56:03.000Z",
+    "display_text_range": [
+      10,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T01:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104374546140651794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "NebLorne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SlisyEBYqJ",
+          "end": 92,
+          "expanded_url": "https://x.com/copper1234000/status/2104374546140651794/photo/1",
+          "media_key": "3_2104374540864200705",
+          "start": 69,
+          "url": "https://t.co/SlisyEBYqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104374546140651794",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104374540864200705"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104372810999124310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NebLorne 确实…！！！之前用穷举法感觉并不好用…而且一些玩法已经被用滥了…反正我感觉Mon在陪我聊prompt时适应性蛮好的！ https://t.co/SlisyEBYqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2104374540864200705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQ9ftaWIAEmpXP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104374540864200705"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104370990868488465",
+        "created_at": "2026-09-28T00:56:03.000Z",
+        "display_text_range": [
+          10,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T01:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104374546140651794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "NebLorne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlisyEBYqJ",
+              "end": 92,
+              "expanded_url": "https://x.com/copper1234000/status/2104374546140651794/photo/1",
+              "media_key": "3_2104374540864200705",
+              "start": 69,
+              "url": "https://t.co/SlisyEBYqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104374546140651794",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104374540864200705"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104372810999124310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebLorne 确实…！！！之前用穷举法感觉并不好用…而且一些玩法已经被用滥了…反正我感觉Mon在陪我聊prompt时适应性蛮好的！ https://t.co/SlisyEBYqJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "conversation_id": "2104370990868488465",
+        "created_at": "2026-09-28T00:49:10.000Z",
+        "display_text_range": [
+          15,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T01:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104372810999124310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104372810999124310",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104370990868488465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 但是！但是！偏偏这个公式在鼓励llm创新…给发散的起点但是又创新这个真的非常😋感觉在非降智模型中会发挥的不错……毕竟穷举法理论存在但实践困难，而且不给llm非惯性例子它就是会滑落训练惯性。美味，美味…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104374546140651794",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6579,
+          "following_count": 548,
+          "like_count": 5424,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 8733
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "is_identity_verified": false,
+        "location": "挪威  Lorne在那里看极光",
+        "most_recent_tweet_id": "2104372810999124310",
+        "name": "伞",
+        "pinned_tweet_id": "2038112069124239523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431397782867169285/1773973716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103613852239708160/xfTqaqQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 168,
+          "like_count": 17226,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4419
+        },
+        "url": "",
+        "username": "NebLorne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

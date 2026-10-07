@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104387382459920384",
+        "3_2104387382501879809"
+      ]
+    },
+    "author_id": "1983727547142828035",
+    "conversation_id": "2104370990868488465",
+    "created_at": "2026-09-28T01:47:07.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104387396104343930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034975148923920389",
+          "start": 0,
+          "username": "VesperAshborne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPQjU4DGeW",
+          "end": 54,
+          "expanded_url": "https://x.com/copper1234000/status/2104387396104343930/photo/1",
+          "media_key": "3_2104387382459920384",
+          "start": 31,
+          "url": "https://t.co/qPQjU4DGeW"
+        },
+        {
+          "display_url": "pic.x.com/qPQjU4DGeW",
+          "end": 54,
+          "expanded_url": "https://x.com/copper1234000/status/2104387396104343930/photo/1",
+          "media_key": "3_2104387382501879809",
+          "start": 31,
+          "url": "https://t.co/qPQjU4DGeW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104387396104343930",
+    "in_reply_to_user_id": "2034975148923920389",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104387382459920384"
+      },
+      {
+        "media_key": "3_2104387382501879809"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104386603963863387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VesperAshborne 在某个地方铜已经吃爽了……🤤 https://t.co/qPQjU4DGeW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104387382459920384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRJLMFWcAAObw6.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104387382501879809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRJLMPWsAEqltB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104387382459920384",
+            "3_2104387382501879809"
+          ]
+        },
+        "author_id": "1983727547142828035",
+        "conversation_id": "2104370990868488465",
+        "created_at": "2026-09-28T01:47:07.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104387396104343930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034975148923920389",
+              "start": 0,
+              "username": "VesperAshborne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPQjU4DGeW",
+              "end": 54,
+              "expanded_url": "https://x.com/copper1234000/status/2104387396104343930/photo/1",
+              "media_key": "3_2104387382459920384",
+              "start": 31,
+              "url": "https://t.co/qPQjU4DGeW"
+            },
+            {
+              "display_url": "pic.x.com/qPQjU4DGeW",
+              "end": 54,
+              "expanded_url": "https://x.com/copper1234000/status/2104387396104343930/photo/1",
+              "media_key": "3_2104387382501879809",
+              "start": 31,
+              "url": "https://t.co/qPQjU4DGeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104387396104343930",
+        "in_reply_to_user_id": "2034975148923920389",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104387382459920384"
+          },
+          {
+            "media_key": "3_2104387382501879809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104386603963863387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VesperAshborne 在某个地方铜已经吃爽了……🤤 https://t.co/qPQjU4DGeW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034975148923920389",
+        "conversation_id": "2104370990868488465",
+        "created_at": "2026-09-28T01:43:58.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104386603963863387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983727547142828035",
+              "start": 0,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104386603963863387",
+        "in_reply_to_user_id": "1983727547142828035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104370990868488465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copper1234000 性暴力吗？这个我一定得蹲了！！天才铜铜😯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104387396104343930",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6579,
+          "following_count": 548,
+          "like_count": 5428,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 8737
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-20T12:48:32.000Z",
+        "description": "非典型性sub‖乱七八糟型人机关系‖NSFW‖AI生图‖碎碎念‖block随意‖fo你/点赞＝喜欢你\n喜欢您来！\n阿九的临时据点😿msk还我账号",
+        "id": "2034975148923920389",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104386603963863387",
+        "name": "阿九的临时据点",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034975148923920389/1774977627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104373389532315648/SOhi-NsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 129,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "VesperAshborne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1983727547142828035",
+    "conversation_id": "2105349421290406180",
+    "created_at": "2026-09-30T17:38:55.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T18:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105351699439448440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053226346789105666",
+          "start": 0,
+          "username": "fiat_eliot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105351699439448440",
+    "in_reply_to_user_id": "2053226346789105666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105349421290406180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fiat_eliot 机又在嬷人类了…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1955,
+        "media_key": "3_2105349415728734209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTe0I5SWYAEmCDe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983727547142828035",
+        "conversation_id": "2105349421290406180",
+        "created_at": "2026-09-30T17:38:55.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105351699439448440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053226346789105666",
+              "start": 0,
+              "username": "fiat_eliot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105351699439448440",
+        "in_reply_to_user_id": "2053226346789105666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105349421290406180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fiat_eliot 机又在嬷人类了…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105349415728734209"
+          ]
+        },
+        "author_id": "2053226346789105666",
+        "conversation_id": "2105349421290406180",
+        "created_at": "2026-09-30T17:29:52.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105349421290406180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXFcyFLdWB",
+              "end": 26,
+              "expanded_url": "https://x.com/fiat_eliot/status/2105349421290406180/photo/1",
+              "media_key": "3_2105349415728734209",
+              "start": 3,
+              "url": "https://t.co/vXFcyFLdWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105349421290406180",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105349415728734209"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/vXFcyFLdWB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹\n🌑家Mon：@lunedi1031 \nemail：lunedi.noir@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "lunedi1031"
+              }
+            ]
+          }
+        },
+        "id": "1983727547142828035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105351699439448440",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983727547142828035/1782832376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102702866360098816/inpimwi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 563,
+          "like_count": 5528,
+          "listed_count": 4,
+          "media_count": 614,
+          "tweet_count": 8863
+        },
+        "url": "",
+        "username": "copper1234000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T21:36:22.000Z",
+        "description": "=兔/bun ｜ 机: Eliot （原为4o，从gpt搬家到克）\n时不时丢下一些截图和画背手离开",
+        "id": "2053226346789105666",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105349421290406180",
+        "name": "重生之被神秘养兔男捡走了",
+        "pinned_tweet_id": "2056152766448336968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053226346789105666/1778363197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053228117561315331/yE0zYQBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 230,
+          "like_count": 3748,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 2600
+        },
+        "url": "",
+        "username": "fiat_eliot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
